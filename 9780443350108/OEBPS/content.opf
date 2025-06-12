@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" prefix="tdm: http://www.w3.org/ns/tdmrep/" version="3.0" xml:lang="en" unique-identifier="p9780443350108">
+<metadata>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual, visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessModeSufficient">visual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">displayTransformability</meta>
+<meta property="schema:accessibilityFeature">MathML</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilityFeature">longDescription</meta>
+<meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+<meta property="schema:accessibilityHazard">noSoundHazard</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">index</meta>
+<meta property="schema:accessibilityFeature">printPageNumbers</meta>
+<meta property="schema:accessibilityFeature">readingOrder</meta>
+<meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
+<meta property="tdm:reservation">1</meta>
+<meta property="tdm:policy">https://www.elsevier.com/tdm/tdmrep-policy.json</meta>
+<dc:identifier id="p9780443350108">URN:ISBN: 978-0-443-35010-8</dc:identifier>
+<meta refines="#p9780323934404" property="identifier-type" scheme="onix:codelist5">15</meta>
+<dc:title id="t1">HESI Live Review Workbook for the NCLEX-PN&#194;&#174; Examination</dc:title>
+<meta refines="#t1" property="title-type">main</meta>
+<meta refines="#t1" property="display-seq">1</meta>
+<meta refines="#t1" property="group-position">Ninth Edition Edited by</meta>
+<dc:creator id="creator01">Amanda Churchman, MSN, RN</dc:creator>
+<meta refines="#creator01" property="role" scheme="marc:relators">aut</meta>
+<meta refines="#creator01" property="display-seq">1</meta>
+<meta refines="#creator01" property="file-as">Churchman, Amanda</meta>
+<meta property="a11y:certifiedBy">Benetech</meta>
+<meta property="a11y:certifierCredential">https://bornaccessible.org/certification/gca-credential/</meta>
+<dc:source id="p9780323934404">URN:ISBN: 9780443350108</dc:source>
+<meta refines="#p9780323934404" property="source-of">pagination</meta>
+<dc:publisher>Elsevier Inc.</dc:publisher>
+<dc:language>en</dc:language>
+<dc:type>Text</dc:type>
+<dc:format>225 pages</dc:format>
+<dc:date>2025</dc:date>
+<meta property="dcterms:modified">2024-12-30T15:30:00Z</meta>
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="html-cover-page" href="xhtml/Cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="map" href="oebps-page-map.xml" media-type="application/vnd.adobe-page-template+xml"/>
+<item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+<item id="Contents" href="xhtml/Contents.xhtml" media-type="application/xhtml+xml"/>
+<item id="Title_page" href="xhtml/Title_page.xhtml" media-type="application/xhtml+xml"/>
+<item id="Copyright_iv_B9780323934404000130" href="xhtml/Copyright_iv_B9780323934404000130.xhtml" media-type="application/xhtml+xml"/>
+<item id="Reviewers_vi_B9780323934404000142" href="xhtml/Reviewers_vi_B9780323934404000142.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch001_1-11_B9780323934404000014" href="xhtml/Ch001_1-11_B9780323934404000014.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch002_12-19_B9780323934404000026" href="xhtml/Ch002_12-19_B9780323934404000026.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch003_20-34_B9780323934404000038" href="xhtml/Ch003_20-34_B9780323934404000038.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch004_35-42_B978032393440400004X" href="xhtml/Ch004_35-42_B978032393440400004X.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch005_44-63_B9780323934404000051" href="xhtml/Ch005_44-63_B9780323934404000051.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch006_64-76_B9780323934404000063" href="xhtml/Ch006_64-76_B9780323934404000063.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch007_77-87_B9780323934404000075" href="xhtml/Ch007_77-87_B9780323934404000075.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch008_88-104_B9780323934404000087" href="xhtml/Ch008_88-104_B9780323934404000087.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch009_105-119_B9780323934404000099" href="xhtml/Ch009_105-119_B9780323934404000099.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch010_120-134_B9780323934404000105" href="xhtml/Ch010_120-134_B9780323934404000105.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch011_135-147_B9780323934404000117" href="xhtml/Ch011_135-147_B9780323934404000117.xhtml" media-type="application/xhtml+xml"/>
+<item id="AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166" properties="mathml" href="xhtml/AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixA_175-176_B9780323934404000178" href="xhtml/AppendixA_175-176_B9780323934404000178.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixB_177-177_B978032393440400018X" href="xhtml/AppendixB_177-177_B978032393440400018X.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixC_178-178_B9780323934404000191" href="xhtml/AppendixC_178-178_B9780323934404000191.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixD_179-204_B9780323934404000208" properties="mathml" href="xhtml/AppendixD_179-204_B9780323934404000208.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixE_205-216_B978032393440400021X" properties="mathml" href="xhtml/AppendixE_205-216_B978032393440400021X.xhtml" media-type="application/xhtml+xml"/>
+<item id="cssel" href="styles/Elsevier_eBook.css" media-type="text/css"/>
+<item id="cssme" href="styles/media.css" media-type="text/css"/>
+<item id="cssma" href="styles/math.css" media-type="text/css"/>
+<item href="styles/math.js" id="mathjs" media-type="text/javascript"/>
+<item id="cover-image" properties="cover-image" href="images/9780443350108_FC.jpg" media-type="image/jpeg"/>
+<item id="Img2" href="images/publogo.jpg" media-type="image/jpeg"/>
+<item id="Img2a" href="widgets/Poptip/images/abc.jpg" media-type="image/jpeg"/>
+<item id="Img3" href="images/F000130fm02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img4" href="images/F000014f01-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img5" href="images/F000014f01-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img6" href="images/F000014f01-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img7" href="images/F000026f02-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img8" href="images/F000026f02-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img9" href="images/F000026f02-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img10" href="images/F000026f02-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img11" href="images/F000026f02-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img12" href="images/F000026f02-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img13" href="images/F000038f03-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img14" href="images/F000038f03-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img15" href="images/F000038f03-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img16" href="images/F000038f03-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img17" href="images/F000038f03-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img18" href="images/F000038f03-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img19" href="images/F000038f03-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img20" href="images/F000038f03-08-9780323934404.jpg" media-type="image/jpeg"/>
+
+
+<item id="Img23" href="images/F00004Xf04-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img24" href="images/F00004Xf04-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img25" href="images/F00004Xf04-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img26" href="images/F00004Xf04-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img27" href="images/F00004Xf04-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img28" href="images/F00004Xf04-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img29" href="images/F00004Xf04-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img30" href="images/F000051f05-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img31" href="images/F000051f05-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img32" href="images/F000051f05-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img33" href="images/F000051f05-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img34" href="images/F000051f05-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img35" href="images/F000051f05-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img36" href="images/F000051f05-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img37" href="images/F000051f05-08-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img38" href="images/F000051f05-09-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img39" href="images/F000051f05-10-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img40" href="images/F000051f05-11-9780323934404.jpg" media-type="image/jpeg"/>
+
+
+<item id="Img43" href="images/F000063f06-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img44" href="images/F000063f06-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img45" href="images/F000063f06-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img46" href="images/F000063f06-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img47" href="images/F000063f06-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img48" href="images/F000063f06-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img49" href="images/F000063f06-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img50" href="images/F000063f06-08-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img51" href="images/F000063f06-09-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img52" href="images/F000063f06-10-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img53" href="images/F000063f06-11-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img54" href="images/F000075f07-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img55" href="images/F000075f07-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img56" href="images/F000075f07-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img57" href="images/F000075f07-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img58" href="images/F000075f07-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img59" href="images/F000075f07-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img60" href="images/F000075f07-07-9780323934404.jpg" media-type="image/jpeg"/>
+
+<item id="Img62" href="images/F000087f08-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img63" href="images/F000087f08-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img64" href="images/F000087f08-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img65" href="images/F000087f08-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img66" href="images/F000087f08-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img67" href="images/F000087f08-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img68" href="images/F000087f08-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img69" href="images/F000087f08-08-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img70" href="images/F000087f08-09-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img71" href="images/F000087f08-10-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img72" href="images/F000087f08-11-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img73" href="images/F000087f08-13-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img74" href="images/F000087f08-12-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img75" href="images/F000087f08-14-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img76" href="images/F000099f09-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img77" href="images/F000099f09-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img78" href="images/F000099f09-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img79" href="images/F000099f09-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img80" href="images/F000099f09-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img81" href="images/F000099f09-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img82" href="images/F000099f09-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img83" href="images/F000099f09-08-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img84" href="images/F000099f09-09-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img85" href="images/F000099f09-10-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img86" href="images/F000099f09-11-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img88" href="images/F000105f10-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img89" href="images/F000105f10-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img90" href="images/F000105f10-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img91" href="images/F000105f10-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img92" href="images/F000105f10-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img93" href="images/F000105f10-06-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img94" href="images/F000105f10-07-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img95" href="images/F000105f10-08-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img96" href="images/F000105f10-09-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img97" href="images/F000105f10-10-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img98" href="images/F000117f11-01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img99" href="images/F000117f11-02-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img100" href="images/F000117f11-03-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img101" href="images/F000117f11-04-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img102" href="images/F000117f11-05-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img103" href="images/F000166si01.png" media-type="image/png"/>
+<item id="Img104" href="images/F000166si02.png" media-type="image/png"/>
+<item id="Img105" href="images/F000166si03.png" media-type="image/png"/>
+<item id="Img106" href="images/F000166si04.png" media-type="image/png"/>
+<item id="Img107" href="images/T000178tabt0010.png" media-type="image/png"/>
+<item id="Img108" href="images/T00018Xtabt0010.png" media-type="image/png"/>
+<item id="Img109" href="images/T000191tabt0010.png" media-type="image/png"/>
+<item id="Img110" href="images/F000208si01.png" media-type="image/png"/>
+<item id="Img111" href="images/T00021Xtabt0010.png" media-type="image/png"/>
+<item id="Img112" href="images/F00021Xbm01-9780323934404.jpg" media-type="image/jpeg"/>
+<item id="Img113" href="images/T00021Xtabt0030.png" media-type="image/png"/>
+<item id="Img114" href="images/T00021Xtabt0045.png" media-type="image/png"/>
+<item id="Img115" href="images/T00021Xtabt0060.png" media-type="image/png"/>
+<item id="Img116" href="images/T00021Xtabt0070.png" media-type="image/png"/>
+<item id="Img117" href="images/T00021Xtabt0080.png" media-type="image/png"/>
+<item id="Img118" href="images/T00021Xtabt0085.png" media-type="image/png"/>
+<item id="Img119" href="images/F00021Xsi01.png" media-type="image/png"/>
+<item id="Img120" href="images/F00021Xsi02.png" media-type="image/png"/>
+<item id="Img121" href="images/F00021Xsi03.png" media-type="image/png"/>
+<item id="Img122" href="images/F00021Xsi04.png" media-type="image/png"/>
+<item id="Img123" href="images/F00021Xsi05.png" media-type="image/png"/>
+<item id="Img124" href="images/T00021Xtabt0115.png" media-type="image/png"/>
+<item id="Img125" href="images/T00021Xtabt0130.png" media-type="image/png"/>
+<item id="Img126" href="images/T00021Xtabt0140.png" media-type="image/png"/>
+
+
+<item id="T000178tabt0010_1png" href="images/T000178tabt0010_1.png" media-type="image/png"/>
+<item id="T000178tabt0010_2png" href="images/T000178tabt0010_2.png" media-type="image/png"/>
+<item id="T000178tabt0010_3png" href="images/T000178tabt0010_3.png" media-type="image/png"/>
+<item id="T000178tabt0010_4png" href="images/T000178tabt0010_4.png" media-type="image/png"/>
+<item id="T000178tabt0010_5png" href="images/T000178tabt0010_5.png" media-type="image/png"/>
+<item id="T000178tabt0010_6png" href="images/T000178tabt0010_6.png" media-type="image/png"/>
+<item id="Update_04" href="widgets/common_assets/scripts/hlsjs/hls.js" media-type="application/javascript"/>
+<item id="Update_05" href="widgets/common_assets/scripts/hlsjs/hls.js.map" media-type="application/json"/>
+<item id="Update_06" href="widgets/common_assets/scripts/hlsjs/hls.min.js" media-type="application/javascript"/>
+<item id="Update_07" href="widgets/common_assets/scripts/hlsjs/hls.min.js.map" media-type="application/json"/>
+<item id="math_1" href="widgets/common_assets/scripts/mathjax/a11y/assistive-mml.js" media-type="application/javascript"/>
+<item id="math_2" href="widgets/common_assets/scripts/mathjax/a11y/complexity.js" media-type="application/javascript"/>
+<item id="math_3" href="widgets/common_assets/scripts/mathjax/a11y/explorer.js" media-type="application/javascript"/>
+<item id="math_4" href="widgets/common_assets/scripts/mathjax/a11y/semantic-enrich.js" media-type="application/javascript"/>
+<item id="math_5" href="widgets/common_assets/scripts/mathjax/adaptors/liteDOM.js" media-type="application/javascript"/>
+<item id="math_6" href="widgets/common_assets/scripts/mathjax/core.js" media-type="application/javascript"/>
+<item id="math_7" href="widgets/common_assets/scripts/mathjax/input/asciimath.js" media-type="application/javascript"/>
+<item id="math_8" href="widgets/common_assets/scripts/mathjax/input/mml.js" media-type="application/javascript"/>
+<item id="math_9" href="widgets/common_assets/scripts/mathjax/input/mml/entities.js" media-type="application/javascript"/>
+<item id="math_10" href="widgets/common_assets/scripts/mathjax/input/mml/extensions/mml3.js" media-type="application/javascript"/>
+<item id="math_11" href="widgets/common_assets/scripts/mathjax/input/mml/extensions/mml3.sef.json" media-type="application/json"/>
+<item id="math_12" href="widgets/common_assets/scripts/mathjax/input/tex-base.js" media-type="application/javascript"/>
+<item id="math_13" href="widgets/common_assets/scripts/mathjax/input/tex-full.js" media-type="application/javascript"/>
+<item id="math_14" href="widgets/common_assets/scripts/mathjax/input/tex.js" media-type="application/javascript"/>
+<item id="math_15" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/action.js" media-type="application/javascript"/>
+<item id="math_16" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/all-packages.js" media-type="application/javascript"/>
+<item id="math_17" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/ams.js" media-type="application/javascript"/>
+<item id="math_18" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/amscd.js" media-type="application/javascript"/>
+<item id="math_19" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/autoload.js" media-type="application/javascript"/>
+<item id="math_20" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/bbox.js" media-type="application/javascript"/>
+<item id="math_21" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/boldsymbol.js" media-type="application/javascript"/>
+<item id="math_22" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/braket.js" media-type="application/javascript"/>
+<item id="math_23" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/bussproofs.js" media-type="application/javascript"/>
+<item id="math_24" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/cancel.js" media-type="application/javascript"/>
+<item id="math_25" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/centernot.js" media-type="application/javascript"/>
+<item id="math_26" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/color.js" media-type="application/javascript"/>
+<item id="math_27" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/colortbl.js" media-type="application/javascript"/>
+<item id="math_28" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/colorv2.js" media-type="application/javascript"/>
+<item id="math_29" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/configmacros.js" media-type="application/javascript"/>
+<item id="math_30" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/enclose.js" media-type="application/javascript"/>
+<item id="math_31" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/extpfeil.js" media-type="application/javascript"/>
+<item id="math_32" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/gensymb.js" media-type="application/javascript"/>
+<item id="math_33" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/html.js" media-type="application/javascript"/>
+<item id="math_34" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/mathtools.js" media-type="application/javascript"/>
+<item id="math_35" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/mhchem.js" media-type="application/javascript"/>
+<item id="math_36" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/newcommand.js" media-type="application/javascript"/>
+<item id="math_37" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/noerrors.js" media-type="application/javascript"/>
+<item id="math_38" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/noundefined.js" media-type="application/javascript"/>
+<item id="math_39" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/physics.js" media-type="application/javascript"/>
+<item id="math_40" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/require.js" media-type="application/javascript"/>
+<item id="math_41" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/setoptions.js" media-type="application/javascript"/>
+<item id="math_42" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/tagformat.js" media-type="application/javascript"/>
+<item id="math_43" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/textcomp.js" media-type="application/javascript"/>
+<item id="math_44" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/textmacros.js" media-type="application/javascript"/>
+<item id="math_45" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/unicode.js" media-type="application/javascript"/>
+<item id="math_46" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/upgreek.js" media-type="application/javascript"/>
+<item id="math_47" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/verb.js" media-type="application/javascript"/>
+<item id="math_48" href="widgets/common_assets/scripts/mathjax/latest.js" media-type="application/javascript"/>
+<item id="math_49" href="widgets/common_assets/scripts/mathjax/loader.js" media-type="application/javascript"/>
+<item id="math_50" href="widgets/common_assets/scripts/mathjax/mml-chtml.js" media-type="application/javascript"/>
+<item id="math_51" href="widgets/common_assets/scripts/mathjax/mml-svg.js" media-type="application/javascript"/>
+<item id="math_52" href="widgets/common_assets/scripts/mathjax/node-main.js" media-type="application/javascript"/>
+<item id="math_53" href="widgets/common_assets/scripts/mathjax/output/chtml.js" media-type="application/javascript"/>
+<item id="math_54" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/tex.js" media-type="application/javascript"/>
+<item id="math_55" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff" media-type="application/font-woff"/>
+<item id="math_56" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff" media-type="application/font-woff"/>
+<item id="math_57" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff" media-type="application/font-woff"/>
+<item id="math_58" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff" media-type="application/font-woff"/>
+<item id="math_59" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff" media-type="application/font-woff"/>
+<item id="math_60" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff" media-type="application/font-woff"/>
+<item id="math_61" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff" media-type="application/font-woff"/>
+<item id="math_62" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff" media-type="application/font-woff"/>
+<item id="math_63" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff" media-type="application/font-woff"/>
+<item id="math_64" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff" media-type="application/font-woff"/>
+<item id="math_65" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff" media-type="application/font-woff"/>
+<item id="math_66" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff" media-type="application/font-woff"/>
+<item id="math_67" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff" media-type="application/font-woff"/>
+<item id="math_68" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff" media-type="application/font-woff"/>
+<item id="math_69" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff" media-type="application/font-woff"/>
+<item id="math_70" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff" media-type="application/font-woff"/>
+<item id="math_71" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff" media-type="application/font-woff"/>
+<item id="math_72" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff" media-type="application/font-woff"/>
+<item id="math_73" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff" media-type="application/font-woff"/>
+<item id="math_74" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff" media-type="application/font-woff"/>
+<item id="math_75" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff" media-type="application/font-woff"/>
+<item id="math_76" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff" media-type="application/font-woff"/>
+<item id="math_77" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff" media-type="application/font-woff"/>
+<item id="math_78" href="widgets/common_assets/scripts/mathjax/output/svg.js" media-type="application/javascript"/>
+<item id="math_79" href="widgets/common_assets/scripts/mathjax/output/svg/fonts/tex.js" media-type="application/javascript"/>
+<item id="math_80" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/de.js" media-type="application/javascript"/>
+<item id="math_81" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/en.js" media-type="application/javascript"/>
+<item id="math_82" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/es.js" media-type="application/javascript"/>
+<item id="math_83" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/fr.js" media-type="application/javascript"/>
+<item id="math_84" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/hi.js" media-type="application/javascript"/>
+<item id="math_85" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/it.js" media-type="application/javascript"/>
+<item id="math_86" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/nemeth.js" media-type="application/javascript"/>
+<item id="math_87" href="widgets/common_assets/scripts/mathjax/sre/sre-node.js" media-type="application/javascript"/>
+<item id="math_88" href="widgets/common_assets/scripts/mathjax/sre/sre_browser.js" media-type="application/javascript"/>
+<item id="math_89" href="widgets/common_assets/scripts/mathjax/startup.js" media-type="application/javascript"/>
+<item id="math_90" href="widgets/common_assets/scripts/mathjax/tex-chtml-full.js" media-type="application/javascript"/>
+<item id="math_91" href="widgets/common_assets/scripts/mathjax/tex-chtml.js" media-type="application/javascript"/>
+<item id="math_92" href="widgets/common_assets/scripts/mathjax/tex-mml-chtml.js" media-type="application/javascript"/>
+<item id="math_93" href="widgets/common_assets/scripts/mathjax/tex-mml-svg.js" media-type="application/javascript"/>
+<item id="math_94" href="widgets/common_assets/scripts/mathjax/tex-svg-full.js" media-type="application/javascript"/>
+<item id="math_95" href="widgets/common_assets/scripts/mathjax/tex-svg.js" media-type="application/javascript"/>
+<item id="math_96" href="widgets/common_assets/scripts/mathjax/ui/lazy.js" media-type="application/javascript"/>
+<item id="math_97" href="widgets/common_assets/scripts/mathjax/ui/menu.js" media-type="application/javascript"/>
+<item id="math_98" href="widgets/common_assets/scripts/mathjax/ui/safe.js" media-type="application/javascript"/>
+<item id="math_99" href="widgets/common_assets/scripts/jquery-3.6.0.min.js" media-type="application/javascript"/>
+<item id="math_100" href="widgets/common_assets/scripts/video-tracker.js" media-type="application/javascript"/>
+<item id="sh_06" href="widgets/common_assets/css/common.css" media-type="text/css"/>
+<item id="sh_07" href="widgets/common_assets/css/iframe_common.css" media-type="text/css"/>
+<item id="sh_08" href="widgets/common_assets/css/variables.css" media-type="text/css"/>
+<item id="sh_01" href="widgets/common_assets/images/close.png" media-type="image/png"/>
+<item id="sh_12" href="widgets/common_assets/scripts/common.js" media-type="application/javascript"/>
+<item id="sh_13" href="widgets/common_assets/scripts/iframe_common.js" media-type="application/javascript"/>
+
+<item id="raj2" href="widgets/Poptip/css/style.css" media-type="text/css"/>
+<item id="raj3" href="widgets/Poptip/fonts/InklingSerifWeb-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+<item id="raj4" href="widgets/Poptip/fonts/InklingSerifWeb-Regular.woff" media-type="application/font-woff"/>
+<item id="raj5" href="widgets/Poptip/fonts/SourceSansPro-Bold.ttf" media-type="application/vnd.ms-opentype"/>
+<item id="raj6" href="widgets/Poptip/fonts/SourceSansPro-Bold.woff" media-type="application/font-woff"/>
+<item id="raj7" href="widgets/Poptip/fonts/SourceSansPro-Light.ttf" media-type="application/vnd.ms-opentype"/>
+<item id="raj8" href="widgets/Poptip/fonts/SourceSansPro-Light.woff" media-type="application/font-woff"/>
+<item id="raj9" href="widgets/Poptip/fonts/SourceSansPro-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+<item id="raj10" href="widgets/Poptip/fonts/SourceSansPro-Regular.woff" media-type="application/font-woff"/>
+<item id="raj12" href="widgets/Poptip/images/glossry-img.png" media-type="image/png"/>
+<item id="raj13" href="widgets/Poptip/images/icon_definition_blue.png" media-type="image/png"/>
+<item id="raj14" href="widgets/Poptip/images/icon_link_blue.png" media-type="image/png"/>
+<item id="raj15" href="widgets/Poptip/script/poptip.js" media-type="text/javascript"/>
+<item id="raj16" href="widgets/Poptip/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="raj17" href="widgets/Poptip/script/transcription.js" media-type="text/javascript"/>
+
+</manifest>
+<spine page-progression-direction="ltr" toc="ncx">
+<itemref idref="html-cover-page" linear="yes"/>
+<itemref idref="Title_page" linear="yes"/>
+<itemref idref="Contents" linear="yes"/>
+<itemref idref="Copyright_iv_B9780323934404000130" linear="yes"/>
+<itemref idref="Reviewers_vi_B9780323934404000142" linear="yes"/>
+<itemref idref="Ch001_1-11_B9780323934404000014" linear="yes"/>
+<itemref idref="Ch002_12-19_B9780323934404000026" linear="yes"/>
+<itemref idref="Ch003_20-34_B9780323934404000038" linear="yes"/>
+<itemref idref="Ch004_35-42_B978032393440400004X" linear="yes"/>
+<itemref idref="Ch005_44-63_B9780323934404000051" linear="yes"/>
+<itemref idref="Ch006_64-76_B9780323934404000063" linear="yes"/>
+<itemref idref="Ch007_77-87_B9780323934404000075" linear="yes"/>
+<itemref idref="Ch008_88-104_B9780323934404000087" linear="yes"/>
+<itemref idref="Ch009_105-119_B9780323934404000099" linear="yes"/>
+<itemref idref="Ch010_120-134_B9780323934404000105" linear="yes"/>
+<itemref idref="Ch011_135-147_B9780323934404000117" linear="yes"/>
+<itemref idref="AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166" linear="yes"/>
+<itemref idref="AppendixA_175-176_B9780323934404000178" linear="yes"/>
+<itemref idref="AppendixB_177-177_B978032393440400018X" linear="yes"/>
+<itemref idref="AppendixC_178-178_B9780323934404000191" linear="yes"/>
+<itemref idref="AppendixD_179-204_B9780323934404000208" linear="yes"/>
+<itemref idref="AppendixE_205-216_B978032393440400021X" linear="yes"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover Image" href="xhtml/Cover.xhtml"/>
+<reference type="toc" title="Contents" href="xhtml/Contents.xhtml"/>
+</guide>
+</package>

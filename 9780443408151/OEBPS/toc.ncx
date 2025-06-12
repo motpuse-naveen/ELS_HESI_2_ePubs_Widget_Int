@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta name="dtb:uid" content="URN:ISBN: 978-0-443-40815-1"/>
+<meta name="dtb:depth" content="2"/>
+<meta name="dtb:totalPageCount" content="219"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+<text>Navigation</text>
+</docTitle>
+<navMap>
+<navPoint id="toc1" playOrder="1"><navLabel><text>Cover image</text></navLabel><content src="xhtml/Cover.xhtml#Cover"/></navPoint>
+<navPoint id="toc2" playOrder="2"><navLabel><text>Title page</text></navLabel><content src="xhtml/Title_page.xhtml"/></navPoint>
+<navPoint id="toc3" playOrder="3"><navLabel><text>Table of Contents</text></navLabel><content src="xhtml/Contents.xhtml"/></navPoint>
+<navPoint id="toc4" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="xhtml/Copyright_iv_B9780323934398000137.xhtml"/></navPoint>
+<navPoint id="toc5" playOrder="5"><navLabel><text>Reviewers</text></navLabel><content src="xhtml/Reviewers_v_B9780323934398000149.xhtml#Reviewers_v_B9780323934398000149titl"/></navPoint>
+<navPoint id="toc6" playOrder="6"><navLabel><text>1. Test-Taking Strategies and Study Guide</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#Ch001_1-9_B9780323934398000010titl"/>
+<navPoint id="toc7" playOrder="7"><navLabel><text>Goals of the Live Review Course</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0010"/></navPoint>
+<navPoint id="toc8" playOrder="8"><navLabel><text>NCLEX-RN Examination</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0015"/></navPoint>
+<navPoint id="toc9" playOrder="9"><navLabel><text>Organization of NCLEX-RN Test Plan</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0020"/></navPoint>
+<navPoint id="toc10" playOrder="10"><navLabel><text>Test Administration: Computerized Adaptive Testing</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0040"/></navPoint>
+<navPoint id="toc11" playOrder="11"><navLabel><text>About Knowledge Test Questions</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0045"/></navPoint>
+<navPoint id="toc12" playOrder="12"><navLabel><text>Next-Generation NCLEX Examination (NGN)&#8211;Style Question Types</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0050"/></navPoint>
+<navPoint id="toc13" playOrder="13"><navLabel><text>General Test-Taking Strategies</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0055"/></navPoint>
+<navPoint id="toc14" playOrder="14"><navLabel><text>Test-Taking Strategies for Your Toolbox</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0060"/></navPoint>
+<navPoint id="toc15" playOrder="15"><navLabel><text>More Test-Taking Strategies</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0065"/></navPoint>
+<navPoint id="toc16" playOrder="16"><navLabel><text>Teaching Points</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0070"/></navPoint>
+<navPoint id="toc17" playOrder="17"><navLabel><text>Clarification of Frequently Used Terms</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0075"/></navPoint>
+<navPoint id="toc18" playOrder="18"><navLabel><text>Keep Memorization to a Minimum</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0080"/></navPoint>
+<navPoint id="toc19" playOrder="19"><navLabel><text>Strategies for Success in Answering NCLEX-RN Questions</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0085"/></navPoint>
+<navPoint id="toc20" playOrder="20"><navLabel><text>Appropriate Knowledge</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0090"/></navPoint>
+<navPoint id="toc21" playOrder="21"><navLabel><text>Specific Areas of Content: Lab Values</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0095"/></navPoint>
+<navPoint id="toc22" playOrder="22"><navLabel><text>Complementary and Alternative Therapy</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0100"/></navPoint>
+<navPoint id="toc23" playOrder="23"><navLabel><text>Nutrition</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0105"/></navPoint>
+<navPoint id="toc24" playOrder="24"><navLabel><text>Medication Administration and Pharmacology Think: Safety, Safety, SAFETY</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0110"/></navPoint>
+<navPoint id="toc25" playOrder="25"><navLabel><text>Best Practices for Exam Success</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0115"/></navPoint>
+<navPoint id="toc26" playOrder="26"><navLabel><text>Develop a Study Plan</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0120"/></navPoint>
+<navPoint id="toc27" playOrder="27"><navLabel><text>Exam Success: Take Care of Yourself</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0125"/></navPoint>
+<navPoint id="toc28" playOrder="28"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0130"/></navPoint>
+<navPoint id="toc29" playOrder="29"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#st0135"/></navPoint></navPoint>
+<navPoint id="toc30" playOrder="30"><navLabel><text>2. Legal Aspects and Leadership Role of the Registered Nurse</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#Ch002_10-17_B9780323934398000022titl"/>
+<navPoint id="toc31" playOrder="31"><navLabel><text>Legal Systems</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0010"/></navPoint>
+<navPoint id="toc32" playOrder="32"><navLabel><text>Nursing Negligence and Malpractice</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0015"/></navPoint>
+<navPoint id="toc33" playOrder="33"><navLabel><text>Standards of Care</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0020"/></navPoint>
+<navPoint id="toc34" playOrder="34"><navLabel><text>Practice Issues</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0025"/></navPoint>
+<navPoint id="toc35" playOrder="35"><navLabel><text>Advance Directives (ADs) (Fig. 2.1)</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0030"/></navPoint>
+<navPoint id="toc36" playOrder="36"><navLabel><text>Abuse</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0035"/></navPoint>
+<navPoint id="toc37" playOrder="37"><navLabel><text>Restraints (Fig 2.3)</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0040"/></navPoint>
+<navPoint id="toc38" playOrder="38"><navLabel><text>Legal Aspects of Mental Health</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0045"/></navPoint>
+<navPoint id="toc39" playOrder="39"><navLabel><text>Confidential Health Care</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0050"/></navPoint>
+<navPoint id="toc40" playOrder="40"><navLabel><text>Informed Consent</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0055"/></navPoint>
+<navPoint id="toc41" playOrder="41"><navLabel><text>Good Samaritan Laws</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0060"/></navPoint>
+<navPoint id="toc42" playOrder="42"><navLabel><text>Communication Skills: Types of Leadership</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0065"/></navPoint>
+<navPoint id="toc43" playOrder="43"><navLabel><text>Delegation and Supervision Skills</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0070"/></navPoint>
+<navPoint id="toc44" playOrder="44"><navLabel><text>Effective Team Communication (Fig 2.5)</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0075"/></navPoint>
+<navPoint id="toc45" playOrder="45"><navLabel><text>S-BAR</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0080"/></navPoint>
+<navPoint id="toc46" playOrder="46"><navLabel><text>Culturally Sensitive Care (Fig 2.6)</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0085"/></navPoint>
+<navPoint id="toc47" playOrder="47"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0090"/></navPoint>
+<navPoint id="toc48" playOrder="48"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#st0095"/></navPoint></navPoint>
+<navPoint id="toc49" playOrder="49"><navLabel><text>3. Clinical Concepts and Mechanisms of Disease</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#Ch003_18-32_B9780323934398000034titl"/>
+<navPoint id="toc50" playOrder="50"><navLabel><text>Operative Care: Preoperative Care</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0010"/></navPoint>
+<navPoint id="toc51" playOrder="51"><navLabel><text>Postoperative Care (Fig. 3.1)</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0015"/></navPoint>
+<navPoint id="toc52" playOrder="52"><navLabel><text>Nursing and Collaborative Care</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0020"/></navPoint>
+<navPoint id="toc53" playOrder="53"><navLabel><text>Pain</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0025"/></navPoint>
+<navPoint id="toc54" playOrder="54"><navLabel><text>Fluids and Electrolytes</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0030"/></navPoint>
+<navPoint id="toc55" playOrder="55"><navLabel><text>Electrolyte Imbalances</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0035"/></navPoint>
+<navPoint id="toc56" playOrder="56"><navLabel><text>Acid Base</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0040"/></navPoint>
+<navPoint id="toc57" playOrder="57"><navLabel><text>Arterial Blood Gas Interpretation Practice</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0045"/></navPoint>
+<navPoint id="toc58" playOrder="58"><navLabel><text>Steps for Interpreting Arterial Blood Gas (ABG) Results</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0065"/></navPoint>
+<navPoint id="toc59" playOrder="59"><navLabel><text>Arterial Blood Gas Interpretation Practice</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0070"/></navPoint>
+<navPoint id="toc60" playOrder="60"><navLabel><text>Safety: Sentinel Events</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0075"/></navPoint>
+<navPoint id="toc61" playOrder="61"><navLabel><text>Safety: Falls (Fig. 3.7)</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0080"/></navPoint>
+<navPoint id="toc62" playOrder="62"><navLabel><text>High-Alert Medications</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0085"/></navPoint>
+<navPoint id="toc63" playOrder="63"><navLabel><text>Death and Grief</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0090"/></navPoint>
+<navPoint id="toc64" playOrder="64"><navLabel><text>Infection</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0095"/></navPoint>
+<navPoint id="toc65" playOrder="65"><navLabel><text>Human Immunodeficiency Virus (HIV)</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0100"/></navPoint>
+<navPoint id="toc66" playOrder="66"><navLabel><text>Cancer</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0105"/></navPoint>
+<navPoint id="toc67" playOrder="67"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0150"/></navPoint>
+<navPoint id="toc68" playOrder="68"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#st0155"/></navPoint></navPoint>
+<navPoint id="toc69" playOrder="69"><navLabel><text>4. Advanced Clinical Concepts and Disaster Management</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#Ch004_33-41_B9780323934398000046titl"/>
+<navPoint id="toc70" playOrder="70"><navLabel><text>Acute Conditions: Shock</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0010"/></navPoint>
+<navPoint id="toc71" playOrder="71"><navLabel><text>Continuum of Sepsis</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0015"/></navPoint>
+<navPoint id="toc72" playOrder="72"><navLabel><text>Sepsis</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0020"/></navPoint>
+<navPoint id="toc73" playOrder="73"><navLabel><text>Disseminated Intravascular Coagulation (DIC)</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0025"/></navPoint>
+<navPoint id="toc74" playOrder="74"><navLabel><text>Acute Respiratory Distress Syndrome (ARDS)</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0030"/></navPoint>
+<navPoint id="toc75" playOrder="75"><navLabel><text>Delirium</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0035"/></navPoint>
+<navPoint id="toc76" playOrder="76"><navLabel><text>Basic Life Support</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0040"/></navPoint>
+<navPoint id="toc77" playOrder="77"><navLabel><text>Cardiopulmonary Resuscitation and Choking Basics</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0045"/></navPoint>
+<navPoint id="toc78" playOrder="78"><navLabel><text>Disaster Management</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0060"/></navPoint>
+<navPoint id="toc79" playOrder="79"><navLabel><text>Bioterrorism</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0065"/></navPoint>
+<navPoint id="toc80" playOrder="80"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0070"/></navPoint>
+<navPoint id="toc81" playOrder="81"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#st0075"/></navPoint></navPoint>
+<navPoint id="toc82" playOrder="82"><navLabel><text>5. Oxygenation, Ventilation, Transportation, and Perfusion</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#Ch005_42-62_B9780323934398000058titl"/>
+<navPoint id="toc83" playOrder="83"><navLabel><text>Chest Tubes and Water or Dry Seal Management</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0010"/></navPoint>
+<navPoint id="toc84" playOrder="84"><navLabel><text>Pneumonia</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0030"/></navPoint>
+<navPoint id="toc85" playOrder="85"><navLabel><text>Chronic Airflow Limitation (CAL) (Fig. 5.3)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0035"/></navPoint>
+<navPoint id="toc86" playOrder="86"><navLabel><text>Drug Therapy for Asthma and COPD (Fig. 5.4)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0040"/></navPoint>
+<navPoint id="toc87" playOrder="87"><navLabel><text>COPD and Asthma Assessment and Collaborative Management</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0045"/></navPoint>
+<navPoint id="toc88" playOrder="88"><navLabel><text>Pulmonary Tuberculosis (TB)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0050"/></navPoint>
+<navPoint id="toc89" playOrder="89"><navLabel><text>Pulmonary Embolus</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0055"/></navPoint>
+<navPoint id="toc90" playOrder="90"><navLabel><text>Hematologic Problems: Anemia and Its Many Causes</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0060"/></navPoint>
+<navPoint id="toc91" playOrder="91"><navLabel><text>Anemia</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0065"/></navPoint>
+<navPoint id="toc92" playOrder="92"><navLabel><text>Blood Transfusions</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0070"/></navPoint>
+<navPoint id="toc93" playOrder="93"><navLabel><text>Hypertension (HTN)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0075"/></navPoint>
+<navPoint id="toc94" playOrder="94"><navLabel><text>Coronary Artery Disease (CAD)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0080"/></navPoint>
+<navPoint id="toc95" playOrder="95"><navLabel><text>Cholesterol-Lowering Drugs</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0090"/></navPoint>
+<navPoint id="toc96" playOrder="96"><navLabel><text>Nutritional Management</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0095"/></navPoint>
+<navPoint id="toc97" playOrder="97"><navLabel><text>Acute Coronary Syndrome (ACS): Angina</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0100"/></navPoint>
+<navPoint id="toc98" playOrder="98"><navLabel><text>Acute Coronary Syndrome: Acute Myocardial Infarction (MI)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0105"/></navPoint>
+<navPoint id="toc99" playOrder="99"><navLabel><text>Heart Failure</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0110"/></navPoint>
+<navPoint id="toc100" playOrder="100"><navLabel><text>Dysrhythmias: Interpretation and Management</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0115"/></navPoint>
+<navPoint id="toc101" playOrder="101"><navLabel><text>Electrocardiogram (ECG) (Fig. 5.10)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0120"/></navPoint>
+<navPoint id="toc102" playOrder="102"><navLabel><text>Atrial Dysrhythmias</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0125"/></navPoint>
+<navPoint id="toc103" playOrder="103"><navLabel><text>Ventricular Dysrhythmias</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0130"/></navPoint>
+<navPoint id="toc104" playOrder="104"><navLabel><text>Antiarrhythmic Medications</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0135"/></navPoint>
+<navPoint id="toc105" playOrder="105"><navLabel><text>Inflammatory Heart Disease</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0140"/></navPoint>
+<navPoint id="toc106" playOrder="106"><navLabel><text>Valvular Heart Disease</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0145"/></navPoint>
+<navPoint id="toc107" playOrder="107"><navLabel><text>Vascular Disorders</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0150"/></navPoint>
+<navPoint id="toc108" playOrder="108"><navLabel><text>Abdominal Aortic Aneurysm</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0155"/></navPoint>
+<navPoint id="toc109" playOrder="109"><navLabel><text>Venous Thromboembolism (VTE)</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0160"/></navPoint>
+<navPoint id="toc110" playOrder="110"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0165"/></navPoint>
+<navPoint id="toc111" playOrder="111"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#st0170"/></navPoint></navPoint>
+<navPoint id="toc112" playOrder="112"><navLabel><text>6. Ingestion, Digestion, Absorption, and Elimination</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#Ch006_63-76_B978032393439800006Xtitl"/>
+<navPoint id="toc113" playOrder="113"><navLabel><text>Gastroesophageal Reflux Disease (GERD)</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0010"/></navPoint>
+<navPoint id="toc114" playOrder="114"><navLabel><text>Peptic Ulcer Disease</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0015"/></navPoint>
+<navPoint id="toc115" playOrder="115"><navLabel><text>Dumping Syndrome</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0020"/></navPoint>
+<navPoint id="toc116" playOrder="116"><navLabel><text>Celiac Disease</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0025"/></navPoint>
+<navPoint id="toc117" playOrder="117"><navLabel><text>Crohn&#8217;s Disease and Ulcerative Colitis</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0030"/></navPoint>
+<navPoint id="toc118" playOrder="118"><navLabel><text>Diverticular Diseases</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0035"/></navPoint>
+<navPoint id="toc119" playOrder="119"><navLabel><text>Intestinal Obstruction</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0040"/></navPoint>
+<navPoint id="toc120" playOrder="120"><navLabel><text>Cirrhosis</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0045"/></navPoint>
+<navPoint id="toc121" playOrder="121"><navLabel><text>Esophageal Varices</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0050"/></navPoint>
+<navPoint id="toc122" playOrder="122"><navLabel><text>Hepatitis</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0055"/></navPoint>
+<navPoint id="toc123" playOrder="123"><navLabel><text>Pancreatitis</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0060"/></navPoint>
+<navPoint id="toc124" playOrder="124"><navLabel><text>Cholecystitis and Cholelithiasis</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0065"/></navPoint>
+<navPoint id="toc125" playOrder="125"><navLabel><text>Urinary Tract Infections (Cystitis)</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0070"/></navPoint>
+<navPoint id="toc126" playOrder="126"><navLabel><text>Urinary Tract Obstruction</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0075"/></navPoint>
+<navPoint id="toc127" playOrder="127"><navLabel><text>Benign Prostatic Hyperplasia (BPH)</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0080"/></navPoint>
+<navPoint id="toc128" playOrder="128"><navLabel><text>Acute Kidney Injury</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0085"/></navPoint>
+<navPoint id="toc129" playOrder="129"><navLabel><text>Chronic Kidney Disease (CKD)</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0090"/></navPoint>
+<navPoint id="toc130" playOrder="130"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0095"/></navPoint>
+<navPoint id="toc131" playOrder="131"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#st0100"/></navPoint></navPoint>
+<navPoint id="toc132" playOrder="132"><navLabel><text>7. Regulatory, Reproductive, and Urinary</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#Ch007_77-88_B9780323934398000071titl"/>
+<navPoint id="toc133" playOrder="133"><navLabel><text>Obesity</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0010"/></navPoint>
+<navPoint id="toc134" playOrder="134"><navLabel><text>Prediabetes</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0015"/></navPoint>
+<navPoint id="toc135" playOrder="135"><navLabel><text>Diabetes Mellitus</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0020"/></navPoint>
+<navPoint id="toc136" playOrder="136"><navLabel><text>Thyroid Gland Feedback Loop</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0025"/></navPoint>
+<navPoint id="toc137" playOrder="137"><navLabel><text>Hyperthyroidism</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0030"/></navPoint>
+<navPoint id="toc138" playOrder="138"><navLabel><text>Hypothyroidism</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0035"/></navPoint>
+<navPoint id="toc139" playOrder="139"><navLabel><text>Addison Disease</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0040"/></navPoint>
+<navPoint id="toc140" playOrder="140"><navLabel><text>Cushing Syndrome</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0045"/></navPoint>
+<navPoint id="toc141" playOrder="141"><navLabel><text>Sexually Transmitted Infections (STIs)</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0050"/></navPoint>
+<navPoint id="toc142" playOrder="142"><navLabel><text>Benign Uterine Tumors (Fibroids)</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0055"/></navPoint>
+<navPoint id="toc143" playOrder="143"><navLabel><text>Pelvic Organ Prolapse (POP): Uterine Prolapse, Cystocele, and Rectocele (Fig. 7.6)</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0060"/></navPoint>
+<navPoint id="toc144" playOrder="144"><navLabel><text>Prostatitis (Fig. 7.7)</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0065"/></navPoint>
+<navPoint id="toc145" playOrder="145"><navLabel><text>Erectile Dysfunction (ED)</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0070"/></navPoint>
+<navPoint id="toc146" playOrder="146"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0075"/></navPoint>
+<navPoint id="toc147" playOrder="147"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#st0080"/></navPoint></navPoint>
+<navPoint id="toc148" playOrder="148"><navLabel><text>8. Movement, Coordination, and Sensory Input</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#Ch008_89-106_B9780323934398000083titl"/>
+<navPoint id="toc149" playOrder="149"><navLabel><text>Level of Consciousness</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0010"/></navPoint>
+<navPoint id="toc150" playOrder="150"><navLabel><text>Head Injury</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0015"/></navPoint>
+<navPoint id="toc151" playOrder="151"><navLabel><text>CSF Leakage</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0020"/></navPoint>
+<navPoint id="toc152" playOrder="152"><navLabel><text>Stroke/Cerebrovascular Accident (CVA)</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0025"/></navPoint>
+<navPoint id="toc153" playOrder="153"><navLabel><text>Parkinson&#8217;s Disease (see Appendix C)</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0030"/></navPoint>
+<navPoint id="toc154" playOrder="154"><navLabel><text>Guillain-Barr&#233; Syndrome</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0035"/></navPoint>
+<navPoint id="toc155" playOrder="155"><navLabel><text>Multiple Sclerosis</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0040"/></navPoint>
+<navPoint id="toc156" playOrder="156"><navLabel><text>Myasthenia Gravis</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0045"/></navPoint>
+<navPoint id="toc157" playOrder="157"><navLabel><text>Spinal Cord Injury</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0050"/></navPoint>
+<navPoint id="toc158" playOrder="158"><navLabel><text>Fractures (Fig. 8.7)</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0055"/></navPoint>
+<navPoint id="toc159" playOrder="159"><navLabel><text>Joint Replacement</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0060"/></navPoint>
+<navPoint id="toc160" playOrder="160"><navLabel><text>Amputation</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0065"/></navPoint>
+<navPoint id="toc161" playOrder="161"><navLabel><text>Osteoporosis</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0070"/></navPoint>
+<navPoint id="toc162" playOrder="162"><navLabel><text>Rheumatoid Arthritis</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0075"/></navPoint>
+<navPoint id="toc163" playOrder="163"><navLabel><text>Lupus Erythematosus</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0080"/></navPoint>
+<navPoint id="toc164" playOrder="164"><navLabel><text>Degenerative Joint Disease (Osteoarthritis) (Fig. 8.12)</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0095"/></navPoint>
+<navPoint id="toc165" playOrder="165"><navLabel><text>Glaucoma</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0100"/></navPoint>
+<navPoint id="toc166" playOrder="166"><navLabel><text>Cataracts</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0105"/></navPoint>
+<navPoint id="toc167" playOrder="167"><navLabel><text>Eye Trauma/Injury</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0110"/></navPoint>
+<navPoint id="toc168" playOrder="168"><navLabel><text>Hearing Loss</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0115"/></navPoint>
+<navPoint id="toc169" playOrder="169"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0120"/></navPoint>
+<navPoint id="toc170" playOrder="170"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#st0125"/></navPoint></navPoint>
+<navPoint id="toc171" playOrder="171"><navLabel><text>9. Pediatric Nursing</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#Ch009_107-122_B9780323934398000095titl"/>
+<navPoint id="toc172" playOrder="172"><navLabel><text>Growth and Development</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0010"/></navPoint>
+<navPoint id="toc173" playOrder="173"><navLabel><text>Normal Growth and Development</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0015"/></navPoint>
+<navPoint id="toc174" playOrder="174"><navLabel><text>Pain Assessment and Management</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0020"/></navPoint>
+<navPoint id="toc175" playOrder="175"><navLabel><text>Poisonings</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0025"/></navPoint>
+<navPoint id="toc176" playOrder="176"><navLabel><text>Immunizations</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0030"/></navPoint>
+<navPoint id="toc177" playOrder="177"><navLabel><text>Communicable Diseases</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0035"/></navPoint>
+<navPoint id="toc178" playOrder="178"><navLabel><text>Respiratory Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0040"/></navPoint>
+<navPoint id="toc179" playOrder="179"><navLabel><text>Cardiovascular Disorders: Congenital Heart Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0045"/></navPoint>
+<navPoint id="toc180" playOrder="180"><navLabel><text>Rheumatic Fever</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0050"/></navPoint>
+<navPoint id="toc181" playOrder="181"><navLabel><text>Kawasaki Disease</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0055"/></navPoint>
+<navPoint id="toc182" playOrder="182"><navLabel><text>Down Syndrome</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0060"/></navPoint>
+<navPoint id="toc183" playOrder="183"><navLabel><text>Cerebral Palsy (CP)</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0065"/></navPoint>
+<navPoint id="toc184" playOrder="184"><navLabel><text>Congenital Abnormalities of the Spine</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0070"/></navPoint>
+<navPoint id="toc185" playOrder="185"><navLabel><text>Hydrocephalus</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0070a"/></navPoint>
+<navPoint id="toc186" playOrder="186"><navLabel><text>Seizures/Epilepsy</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0075"/></navPoint>
+<navPoint id="toc187" playOrder="187"><navLabel><text>Bacterial Meningitis</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0080"/></navPoint>
+<navPoint id="toc188" playOrder="188"><navLabel><text>Reye Syndrome</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0085"/></navPoint>
+<navPoint id="toc189" playOrder="189"><navLabel><text>Muscular Dystrophy</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0090"/></navPoint>
+<navPoint id="toc190" playOrder="190"><navLabel><text>Renal Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0095"/></navPoint>
+<navPoint id="toc191" playOrder="191"><navLabel><text>Diarrhea</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0100"/></navPoint>
+<navPoint id="toc192" playOrder="192"><navLabel><text>Gastrointestinal Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0105"/></navPoint>
+<navPoint id="toc193" playOrder="193"><navLabel><text>Hematological Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0110"/></navPoint>
+<navPoint id="toc194" playOrder="194"><navLabel><text>Metabolic and Endocrine Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0115"/></navPoint>
+<navPoint id="toc195" playOrder="195"><navLabel><text>Skeletal Disorders</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0120"/></navPoint>
+<navPoint id="toc196" playOrder="196"><navLabel><text>Juvenile Idiopathic Arthritis (JIA)</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0125"/></navPoint>
+<navPoint id="toc197" playOrder="197"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0130"/></navPoint>
+<navPoint id="toc198" playOrder="198"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#st0135"/></navPoint></navPoint>
+<navPoint id="toc199" playOrder="199"><navLabel><text>10. Maternal-Newborn Nursing</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#Ch010_123-137_B9780323934398000101titl"/>
+<navPoint id="toc200" playOrder="200"><navLabel><text>Pregnancy</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0010"/></navPoint>
+<navPoint id="toc201" playOrder="201"><navLabel><text>Labor</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0015"/></navPoint>
+<navPoint id="toc202" playOrder="202"><navLabel><text>Postpartum Maternal Assessment Memory Tool: BUBBLE HA</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0020"/></navPoint>
+<navPoint id="toc203" playOrder="203"><navLabel><text>Teaching points for both parents (if present)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st025"/></navPoint>
+<navPoint id="toc204" playOrder="204"><navLabel><text>Complications of Childbearing</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0025"/></navPoint>
+<navPoint id="toc205" playOrder="205"><navLabel><text>Preeclampsia</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0030"/></navPoint>
+<navPoint id="toc206" playOrder="206"><navLabel><text>Gestational Diabetes</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0040"/></navPoint>
+<navPoint id="toc207" playOrder="207"><navLabel><text>Preterm Labor (PTL)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0045"/></navPoint>
+<navPoint id="toc208" playOrder="208"><navLabel><text>Spontaneous Abortion (Fig. 10.4)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0050"/></navPoint>
+<navPoint id="toc209" playOrder="209"><navLabel><text>Incompetent Cervix</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0055"/></navPoint>
+<navPoint id="toc210" playOrder="210"><navLabel><text>Ectopic Pregnancy (Fig. 10.5)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0060"/></navPoint>
+<navPoint id="toc211" playOrder="211"><navLabel><text>Abruptio Placentae and Placenta Previa (Fig. 10.6)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0065"/></navPoint>
+<navPoint id="toc212" playOrder="212"><navLabel><text>Disseminated Intravascular Coagulation (DIC)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0070"/></navPoint>
+<navPoint id="toc213" playOrder="213"><navLabel><text>Dystocia</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0075"/></navPoint>
+<navPoint id="toc214" playOrder="214"><navLabel><text>Postpartum Complications</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0080"/></navPoint>
+<navPoint id="toc215" playOrder="215"><navLabel><text>Newborn Parameters (Approximate for Full Term) (Fig. 10.7)</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0085"/></navPoint>
+<navPoint id="toc216" playOrder="216"><navLabel><text>Major Newborn Complications</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0090"/></navPoint>
+<navPoint id="toc217" playOrder="217"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0095"/></navPoint>
+<navPoint id="toc218" playOrder="218"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#st0100"/></navPoint></navPoint>
+<navPoint id="toc219" playOrder="219"><navLabel><text>11. Mental Health Nursing</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#Ch011_138-150_B9780323934398000113titl"/>
+<navPoint id="toc220" playOrder="220"><navLabel><text>Important Definitions</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0010"/></navPoint>
+<navPoint id="toc221" playOrder="221"><navLabel><text>Therapeutic Communication</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0015"/></navPoint>
+<navPoint id="toc222" playOrder="222"><navLabel><text>Coping and Defense Mechanisms</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0020"/></navPoint>
+<navPoint id="toc223" playOrder="223"><navLabel><text>Therapeutic Treatment Modalities</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0025"/></navPoint>
+<navPoint id="toc224" playOrder="224"><navLabel><text>Group Therapy</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0030"/></navPoint>
+<navPoint id="toc225" playOrder="225"><navLabel><text>Anxiety</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0035"/></navPoint>
+<navPoint id="toc226" playOrder="226"><navLabel><text>Somatic Symptom Disorder</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0040"/></navPoint>
+<navPoint id="toc227" playOrder="227"><navLabel><text>Crisis Intervention</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0045"/></navPoint>
+<navPoint id="toc228" playOrder="228"><navLabel><text>Trauma Stressor&#8211;Related Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0050"/></navPoint>
+<navPoint id="toc229" playOrder="229"><navLabel><text>Continuation of Stress and Anxiety</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0055"/></navPoint>
+<navPoint id="toc230" playOrder="230"><navLabel><text>Dissociative Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0060"/></navPoint>
+<navPoint id="toc231" playOrder="231"><navLabel><text>Personality Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0065"/></navPoint>
+<navPoint id="toc232" playOrder="232"><navLabel><text>Eating Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0070"/></navPoint>
+<navPoint id="toc233" playOrder="233"><navLabel><text>Depressive Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0075"/></navPoint>
+<navPoint id="toc234" playOrder="234"><navLabel><text>Suicide</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0080"/></navPoint>
+<navPoint id="toc235" playOrder="235"><navLabel><text>Bipolar Disorder</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0085"/></navPoint>
+<navPoint id="toc236" playOrder="236"><navLabel><text>Antidepressant Medications</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0090"/></navPoint>
+<navPoint id="toc237" playOrder="237"><navLabel><text>HIGH-ALERT Antidepressant Use</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0095"/></navPoint>
+<navPoint id="toc238" playOrder="238"><navLabel><text>Monoamine Oxidase Inhibitors (MAOIs)</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0100"/></navPoint>
+<navPoint id="toc239" playOrder="239"><navLabel><text>Schizophrenia Spectrum and Other Psychotic Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0105"/></navPoint>
+<navPoint id="toc240" playOrder="240"><navLabel><text>Antipsychotic Medications</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0110"/></navPoint>
+<navPoint id="toc241" playOrder="241"><navLabel><text>Neuroleptic Malignant Syndrome (NMS)</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0115"/></navPoint>
+<navPoint id="toc242" playOrder="242"><navLabel><text>Substance Abuse Disorders</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0120"/></navPoint>
+<navPoint id="toc243" playOrder="243"><navLabel><text>Opioid Abuse</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0125"/></navPoint>
+<navPoint id="toc244" playOrder="244"><navLabel><text>Alcohol Abuse</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0130"/></navPoint>
+<navPoint id="toc245" playOrder="245"><navLabel><text>Neurocognitive Disorders (NCDs): Autism Spectrum Disorder</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0135"/></navPoint>
+<navPoint id="toc246" playOrder="246"><navLabel><text>Attention-Deficit/Hyperactivity Disorder (ADHD)</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0140"/></navPoint>
+<navPoint id="toc247" playOrder="247"><navLabel><text>Neurocognitive Disorders (NCDs) (Not Classified as Mental Illness)</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0145"/></navPoint>
+<navPoint id="toc248" playOrder="248"><navLabel><text>Neurocognitive Disorders: Medications</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0150"/></navPoint>
+<navPoint id="toc249" playOrder="249"><navLabel><text>Test-Taking Strategy</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0155"/></navPoint>
+<navPoint id="toc250" playOrder="250"><navLabel><text>Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#st0160"/></navPoint></navPoint>
+<navPoint id="toc251" playOrder="251"><navLabel><text>Answer Key: Study Break Questions</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#tit0010l"/>
+<navPoint id="toc252" playOrder="252"><navLabel><text>Chapter 1</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0010"/></navPoint>
+<navPoint id="toc253" playOrder="253"><navLabel><text>Chapter 2</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0025"/></navPoint>
+<navPoint id="toc254" playOrder="254"><navLabel><text>Chapter 3</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0075"/></navPoint>
+<navPoint id="toc255" playOrder="255"><navLabel><text>Chapter 4</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0110"/></navPoint>
+<navPoint id="toc256" playOrder="256"><navLabel><text>Chapter 5</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0140"/></navPoint>
+<navPoint id="toc257" playOrder="257"><navLabel><text>Chapter 6</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0195"/></navPoint>
+<navPoint id="toc258" playOrder="258"><navLabel><text>Chapter 7</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0235"/></navPoint>
+<navPoint id="toc259" playOrder="259"><navLabel><text>Chapter 8</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0275"/></navPoint>
+<navPoint id="toc260" playOrder="260"><navLabel><text>Chapter 9</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0330"/></navPoint>
+<navPoint id="toc261" playOrder="261"><navLabel><text>Chapter 10</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0400"/></navPoint>
+<navPoint id="toc262" playOrder="262"><navLabel><text>Chapter 11</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#st0445"/></navPoint></navPoint>
+<navPoint id="toc263" playOrder="263"><navLabel><text>Appendix A. Normal Laboratory Values</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#AppendixA_170-171_B9780323934398000174titl"/></navPoint>
+<navPoint id="toc264" playOrder="264"><navLabel><text>Appendix B. Comparison of Three Types of Hepatitis</text></navLabel><content src="xhtml/AppendixB_172-173_B9780323934398000186.xhtml#AppendixB_172-173_B9780323934398000186titl"/></navPoint>
+<navPoint id="toc265" playOrder="265"><navLabel><text>Appendix C. Compare and Contrast: Parkinson&#8217;s Disease, Myasthenia Gravis, and Multiple Sclerosis</text></navLabel><content src="xhtml/AppendixC_173-174_B9780323934398000198.xhtml#AppendixC_173-174_B9780323934398000198titl"/></navPoint>
+<navPoint id="toc266" playOrder="266"><navLabel><text>Appendix D. Practice Questions for the NCLEX-RN&#174; Examination</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#AppendixD_174-198_B9780323934398000204titl"/>
+<navPoint id="toc267" playOrder="267"><navLabel><text>3 Management/Leadership</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0015"/></navPoint>
+<navPoint id="toc268" playOrder="268"><navLabel><text>4 Advanced Clinical Concepts</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0020"/></navPoint>
+<navPoint id="toc269" playOrder="269"><navLabel><text>5 Maternal/Newborn Nursing</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0025"/></navPoint>
+<navPoint id="toc270" playOrder="270"><navLabel><text>6 Medical-Surgical</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0030"/></navPoint>
+<navPoint id="toc271" playOrder="271"><navLabel><text>7 Psychiatric Nursing</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0035"/></navPoint>
+<navPoint id="toc272" playOrder="272"><navLabel><text>8 Leadership and Delegation</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0040"/></navPoint>
+<navPoint id="toc273" playOrder="273"><navLabel><text>3 Management/Leadership</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0045"/></navPoint>
+<navPoint id="toc274" playOrder="274"><navLabel><text>4 Advanced Clinical Concepts</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0050"/></navPoint>
+<navPoint id="toc275" playOrder="275"><navLabel><text>5 Maternal-Newborn Nursing</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0055"/></navPoint>
+<navPoint id="toc276" playOrder="276"><navLabel><text>6 Medical-Surgical</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0060"/></navPoint>
+<navPoint id="toc277" playOrder="277"><navLabel><text>7 Psychiatric Nursing</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0065"/></navPoint>
+<navPoint id="toc278" playOrder="278"><navLabel><text>8 Leadership and Delegation</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#st0070"/></navPoint></navPoint>
+<navPoint id="toc279" playOrder="279"><navLabel><text>Appendix E. Next Generation NCLEX&#174; RN Examination-Style Unfolding Case Studies</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#AppendixE_199-210_B9780323934398000216titl"/>
+<navPoint id="toc280" playOrder="280"><navLabel><text>Unfolding Case Study #1</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#st0010"/></navPoint>
+<navPoint id="toc281" playOrder="281"><navLabel><text>Unfolding Case Study #1</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#st0015"/></navPoint>
+<navPoint id="toc282" playOrder="282"><navLabel><text>Unfolding Case Study #2</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#st0025"/></navPoint>
+<navPoint id="toc283" playOrder="283"><navLabel><text>Unfolding Case Study #2</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#st0035"/></navPoint>
+<navPoint id="toc284" playOrder="284"><navLabel><text>Unfolding Case Study #3</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#st0040"/></navPoint></navPoint>
+</navMap>
+<pageList>
+<pageTarget type="front" value="i" id="toc285" playOrder="285"><navLabel><text>i</text></navLabel><content src="xhtml/Cover.xhtml#page_i"/>
+</pageTarget>
+<pageTarget type="front" value="ii" id="toc286" playOrder="286"><navLabel><text>ii</text></navLabel><content src="xhtml/Title_page.xhtml#page_ii"/>
+</pageTarget>
+<pageTarget type="front" value="iii" id="toc287" playOrder="287"><navLabel><text>iii</text></navLabel><content src="xhtml/Contents.xhtml#page_iii"/>
+</pageTarget>
+<pageTarget type="front" value="iv" id="toc288" playOrder="288"><navLabel><text>iv</text></navLabel><content src="xhtml/Copyright_iv_B9780323934398000137.xhtml#page_iv"/>
+</pageTarget>
+<pageTarget type="front" value="v" id="toc289" playOrder="289"><navLabel><text>v</text></navLabel><content src="xhtml/Reviewers_v_B9780323934398000149.xhtml#page_v"/>
+</pageTarget>
+<pageTarget type="front" value="vi" id="toc290" playOrder="290"><navLabel><text>vi</text></navLabel><content src="xhtml/Reviewers_v_B9780323934398000149.xhtml#page_vi"/>
+</pageTarget>
+<pageTarget type="normal" value="1" id="toc291" playOrder="291"><navLabel><text>1</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_1"/>
+</pageTarget>
+<pageTarget type="normal" value="2" id="toc292" playOrder="292"><navLabel><text>2</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_2"/>
+</pageTarget>
+<pageTarget type="normal" value="3" id="toc293" playOrder="293"><navLabel><text>3</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_3"/>
+</pageTarget>
+<pageTarget type="normal" value="4" id="toc294" playOrder="294"><navLabel><text>4</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_4"/>
+</pageTarget>
+<pageTarget type="normal" value="5" id="toc295" playOrder="295"><navLabel><text>5</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_5"/>
+</pageTarget>
+<pageTarget type="normal" value="6" id="toc296" playOrder="296"><navLabel><text>6</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_6"/>
+</pageTarget>
+<pageTarget type="normal" value="7" id="toc297" playOrder="297"><navLabel><text>7</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_7"/>
+</pageTarget>
+<pageTarget type="normal" value="8" id="toc298" playOrder="298"><navLabel><text>8</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_8"/>
+</pageTarget>
+<pageTarget type="normal" value="9" id="toc299" playOrder="299"><navLabel><text>9</text></navLabel><content src="xhtml/Ch001_1-9_B9780323934398000010.xhtml#page_9"/>
+</pageTarget>
+<pageTarget type="normal" value="10" id="toc300" playOrder="300"><navLabel><text>10</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_10"/>
+</pageTarget>
+<pageTarget type="normal" value="11" id="toc301" playOrder="301"><navLabel><text>11</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_11"/>
+</pageTarget>
+<pageTarget type="normal" value="12" id="toc302" playOrder="302"><navLabel><text>12</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_12"/>
+</pageTarget>
+<pageTarget type="normal" value="13" id="toc303" playOrder="303"><navLabel><text>13</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_13"/>
+</pageTarget>
+<pageTarget type="normal" value="14" id="toc304" playOrder="304"><navLabel><text>14</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_14"/>
+</pageTarget>
+<pageTarget type="normal" value="15" id="toc305" playOrder="305"><navLabel><text>15</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_15"/>
+</pageTarget>
+<pageTarget type="normal" value="16" id="toc306" playOrder="306"><navLabel><text>16</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_16"/>
+</pageTarget>
+<pageTarget type="normal" value="17" id="toc307" playOrder="307"><navLabel><text>17</text></navLabel><content src="xhtml/Ch002_10-17_B9780323934398000022.xhtml#page_17"/>
+</pageTarget>
+<pageTarget type="normal" value="18" id="toc308" playOrder="308"><navLabel><text>18</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_18"/>
+</pageTarget>
+<pageTarget type="normal" value="19" id="toc309" playOrder="309"><navLabel><text>19</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_19"/>
+</pageTarget>
+<pageTarget type="normal" value="20" id="toc310" playOrder="310"><navLabel><text>20</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_20"/>
+</pageTarget>
+<pageTarget type="normal" value="21" id="toc311" playOrder="311"><navLabel><text>21</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_21"/>
+</pageTarget>
+<pageTarget type="normal" value="22" id="toc312" playOrder="312"><navLabel><text>22</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_22"/>
+</pageTarget>
+<pageTarget type="normal" value="23" id="toc313" playOrder="313"><navLabel><text>23</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_23"/>
+</pageTarget>
+<pageTarget type="normal" value="24" id="toc314" playOrder="314"><navLabel><text>24</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_24"/>
+</pageTarget>
+<pageTarget type="normal" value="25" id="toc315" playOrder="315"><navLabel><text>25</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_25"/>
+</pageTarget>
+<pageTarget type="normal" value="26" id="toc316" playOrder="316"><navLabel><text>26</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_26"/>
+</pageTarget>
+<pageTarget type="normal" value="27" id="toc317" playOrder="317"><navLabel><text>27</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_27"/>
+</pageTarget>
+<pageTarget type="normal" value="28" id="toc318" playOrder="318"><navLabel><text>28</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_28"/>
+</pageTarget>
+<pageTarget type="normal" value="29" id="toc319" playOrder="319"><navLabel><text>29</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_29"/>
+</pageTarget>
+<pageTarget type="normal" value="30" id="toc320" playOrder="320"><navLabel><text>30</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_30"/>
+</pageTarget>
+<pageTarget type="normal" value="31" id="toc321" playOrder="321"><navLabel><text>31</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_31"/>
+</pageTarget>
+<pageTarget type="normal" value="32" id="toc322" playOrder="322"><navLabel><text>32</text></navLabel><content src="xhtml/Ch003_18-32_B9780323934398000034.xhtml#page_32"/>
+</pageTarget>
+<pageTarget type="normal" value="33" id="toc323" playOrder="323"><navLabel><text>33</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_33"/>
+</pageTarget>
+<pageTarget type="normal" value="34" id="toc324" playOrder="324"><navLabel><text>34</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_34"/>
+</pageTarget>
+<pageTarget type="normal" value="35" id="toc325" playOrder="325"><navLabel><text>35</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_35"/>
+</pageTarget>
+<pageTarget type="normal" value="36" id="toc326" playOrder="326"><navLabel><text>36</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_36"/>
+</pageTarget>
+<pageTarget type="normal" value="37" id="toc327" playOrder="327"><navLabel><text>37</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_37"/>
+</pageTarget>
+<pageTarget type="normal" value="38" id="toc328" playOrder="328"><navLabel><text>38</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_38"/>
+</pageTarget>
+<pageTarget type="normal" value="39" id="toc329" playOrder="329"><navLabel><text>39</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_39"/>
+</pageTarget>
+<pageTarget type="normal" value="40" id="toc330" playOrder="330"><navLabel><text>40</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_40"/>
+</pageTarget>
+<pageTarget type="normal" value="41" id="toc331" playOrder="331"><navLabel><text>41</text></navLabel><content src="xhtml/Ch004_33-41_B9780323934398000046.xhtml#page_41"/>
+</pageTarget>
+<pageTarget type="normal" value="42" id="toc332" playOrder="332"><navLabel><text>42</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_42"/>
+</pageTarget>
+<pageTarget type="normal" value="43" id="toc333" playOrder="333"><navLabel><text>43</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_43"/>
+</pageTarget>
+<pageTarget type="normal" value="44" id="toc334" playOrder="334"><navLabel><text>44</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_44"/>
+</pageTarget>
+<pageTarget type="normal" value="45" id="toc335" playOrder="335"><navLabel><text>45</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_45"/>
+</pageTarget>
+<pageTarget type="normal" value="46" id="toc336" playOrder="336"><navLabel><text>46</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_46"/>
+</pageTarget>
+<pageTarget type="normal" value="47" id="toc337" playOrder="337"><navLabel><text>47</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_47"/>
+</pageTarget>
+<pageTarget type="normal" value="48" id="toc338" playOrder="338"><navLabel><text>48</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_48"/>
+</pageTarget>
+<pageTarget type="normal" value="49" id="toc339" playOrder="339"><navLabel><text>49</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_49"/>
+</pageTarget>
+<pageTarget type="normal" value="50" id="toc340" playOrder="340"><navLabel><text>50</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_50"/>
+</pageTarget>
+<pageTarget type="normal" value="51" id="toc341" playOrder="341"><navLabel><text>51</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_51"/>
+</pageTarget>
+<pageTarget type="normal" value="52" id="toc342" playOrder="342"><navLabel><text>52</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_52"/>
+</pageTarget>
+<pageTarget type="normal" value="53" id="toc343" playOrder="343"><navLabel><text>53</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_53"/>
+</pageTarget>
+<pageTarget type="normal" value="54" id="toc344" playOrder="344"><navLabel><text>54</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_54"/>
+</pageTarget>
+<pageTarget type="normal" value="55" id="toc345" playOrder="345"><navLabel><text>55</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_55"/>
+</pageTarget>
+<pageTarget type="normal" value="56" id="toc346" playOrder="346"><navLabel><text>56</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_56"/>
+</pageTarget>
+<pageTarget type="normal" value="57" id="toc347" playOrder="347"><navLabel><text>57</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_57"/>
+</pageTarget>
+<pageTarget type="normal" value="58" id="toc348" playOrder="348"><navLabel><text>58</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_58"/>
+</pageTarget>
+<pageTarget type="normal" value="59" id="toc349" playOrder="349"><navLabel><text>59</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_59"/>
+</pageTarget>
+<pageTarget type="normal" value="60" id="toc350" playOrder="350"><navLabel><text>60</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_60"/>
+</pageTarget>
+<pageTarget type="normal" value="61" id="toc351" playOrder="351"><navLabel><text>61</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_61"/>
+</pageTarget>
+<pageTarget type="normal" value="62" id="toc352" playOrder="352"><navLabel><text>62</text></navLabel><content src="xhtml/Ch005_42-62_B9780323934398000058.xhtml#page_62"/>
+</pageTarget>
+<pageTarget type="normal" value="63" id="toc353" playOrder="353"><navLabel><text>63</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_63"/>
+</pageTarget>
+<pageTarget type="normal" value="64" id="toc354" playOrder="354"><navLabel><text>64</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_64"/>
+</pageTarget>
+<pageTarget type="normal" value="65" id="toc355" playOrder="355"><navLabel><text>65</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_65"/>
+</pageTarget>
+<pageTarget type="normal" value="66" id="toc356" playOrder="356"><navLabel><text>66</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_66"/>
+</pageTarget>
+<pageTarget type="normal" value="67" id="toc357" playOrder="357"><navLabel><text>67</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_67"/>
+</pageTarget>
+<pageTarget type="normal" value="68" id="toc358" playOrder="358"><navLabel><text>68</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_68"/>
+</pageTarget>
+<pageTarget type="normal" value="69" id="toc359" playOrder="359"><navLabel><text>69</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_69"/>
+</pageTarget>
+<pageTarget type="normal" value="70" id="toc360" playOrder="360"><navLabel><text>70</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_70"/>
+</pageTarget>
+<pageTarget type="normal" value="71" id="toc361" playOrder="361"><navLabel><text>71</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_71"/>
+</pageTarget>
+<pageTarget type="normal" value="72" id="toc362" playOrder="362"><navLabel><text>72</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_72"/>
+</pageTarget>
+<pageTarget type="normal" value="73" id="toc363" playOrder="363"><navLabel><text>73</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_73"/>
+</pageTarget>
+<pageTarget type="normal" value="74" id="toc364" playOrder="364"><navLabel><text>74</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_74"/>
+</pageTarget>
+<pageTarget type="normal" value="75" id="toc365" playOrder="365"><navLabel><text>75</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_75"/>
+</pageTarget>
+<pageTarget type="normal" value="76" id="toc366" playOrder="366"><navLabel><text>76</text></navLabel><content src="xhtml/Ch006_63-76_B978032393439800006X.xhtml#page_76"/>
+</pageTarget>
+<pageTarget type="normal" value="77" id="toc367" playOrder="367"><navLabel><text>77</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_77"/>
+</pageTarget>
+<pageTarget type="normal" value="78" id="toc368" playOrder="368"><navLabel><text>78</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_78"/>
+</pageTarget>
+<pageTarget type="normal" value="79" id="toc369" playOrder="369"><navLabel><text>79</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_79"/>
+</pageTarget>
+<pageTarget type="normal" value="80" id="toc370" playOrder="370"><navLabel><text>80</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_80"/>
+</pageTarget>
+<pageTarget type="normal" value="81" id="toc371" playOrder="371"><navLabel><text>81</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_81"/>
+</pageTarget>
+<pageTarget type="normal" value="82" id="toc372" playOrder="372"><navLabel><text>82</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_82"/>
+</pageTarget>
+<pageTarget type="normal" value="83" id="toc373" playOrder="373"><navLabel><text>83</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_83"/>
+</pageTarget>
+<pageTarget type="normal" value="84" id="toc374" playOrder="374"><navLabel><text>84</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_84"/>
+</pageTarget>
+<pageTarget type="normal" value="85" id="toc375" playOrder="375"><navLabel><text>85</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_85"/>
+</pageTarget>
+<pageTarget type="normal" value="86" id="toc376" playOrder="376"><navLabel><text>86</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_86"/>
+</pageTarget>
+<pageTarget type="normal" value="87" id="toc377" playOrder="377"><navLabel><text>87</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_87"/>
+</pageTarget>
+<pageTarget type="normal" value="88" id="toc378" playOrder="378"><navLabel><text>88</text></navLabel><content src="xhtml/Ch007_77-88_B9780323934398000071.xhtml#page_88"/>
+</pageTarget>
+<pageTarget type="normal" value="89" id="toc379" playOrder="379"><navLabel><text>89</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_89"/>
+</pageTarget>
+<pageTarget type="normal" value="90" id="toc380" playOrder="380"><navLabel><text>90</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_90"/>
+</pageTarget>
+<pageTarget type="normal" value="91" id="toc381" playOrder="381"><navLabel><text>91</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_91"/>
+</pageTarget>
+<pageTarget type="normal" value="92" id="toc382" playOrder="382"><navLabel><text>92</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_92"/>
+</pageTarget>
+<pageTarget type="normal" value="93" id="toc383" playOrder="383"><navLabel><text>93</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_93"/>
+</pageTarget>
+<pageTarget type="normal" value="94" id="toc384" playOrder="384"><navLabel><text>94</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_94"/>
+</pageTarget>
+<pageTarget type="normal" value="95" id="toc385" playOrder="385"><navLabel><text>95</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_95"/>
+</pageTarget>
+<pageTarget type="normal" value="96" id="toc386" playOrder="386"><navLabel><text>96</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_96"/>
+</pageTarget>
+<pageTarget type="normal" value="97" id="toc387" playOrder="387"><navLabel><text>97</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_97"/>
+</pageTarget>
+<pageTarget type="normal" value="98" id="toc388" playOrder="388"><navLabel><text>98</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_98"/>
+</pageTarget>
+<pageTarget type="normal" value="99" id="toc389" playOrder="389"><navLabel><text>99</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_99"/>
+</pageTarget>
+<pageTarget type="normal" value="100" id="toc390" playOrder="390"><navLabel><text>100</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_100"/>
+</pageTarget>
+<pageTarget type="normal" value="101" id="toc391" playOrder="391"><navLabel><text>101</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_101"/>
+</pageTarget>
+<pageTarget type="normal" value="102" id="toc392" playOrder="392"><navLabel><text>102</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_102"/>
+</pageTarget>
+<pageTarget type="normal" value="103" id="toc393" playOrder="393"><navLabel><text>103</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_103"/>
+</pageTarget>
+<pageTarget type="normal" value="104" id="toc394" playOrder="394"><navLabel><text>104</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_104"/>
+</pageTarget>
+<pageTarget type="normal" value="105" id="toc395" playOrder="395"><navLabel><text>105</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_105"/>
+</pageTarget>
+<pageTarget type="normal" value="106" id="toc396" playOrder="396"><navLabel><text>106</text></navLabel><content src="xhtml/Ch008_89-106_B9780323934398000083.xhtml#page_106"/>
+</pageTarget>
+<pageTarget type="normal" value="107" id="toc397" playOrder="397"><navLabel><text>107</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_107"/>
+</pageTarget>
+<pageTarget type="normal" value="108" id="toc398" playOrder="398"><navLabel><text>108</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_108"/>
+</pageTarget>
+<pageTarget type="normal" value="109" id="toc399" playOrder="399"><navLabel><text>109</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_109"/>
+</pageTarget>
+<pageTarget type="normal" value="110" id="toc400" playOrder="400"><navLabel><text>110</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_110"/>
+</pageTarget>
+<pageTarget type="normal" value="111" id="toc401" playOrder="401"><navLabel><text>111</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_111"/>
+</pageTarget>
+<pageTarget type="normal" value="112" id="toc402" playOrder="402"><navLabel><text>112</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_112"/>
+</pageTarget>
+<pageTarget type="normal" value="113" id="toc403" playOrder="403"><navLabel><text>113</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_113"/>
+</pageTarget>
+<pageTarget type="normal" value="114" id="toc404" playOrder="404"><navLabel><text>114</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_114"/>
+</pageTarget>
+<pageTarget type="normal" value="115" id="toc405" playOrder="405"><navLabel><text>115</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_115"/>
+</pageTarget>
+<pageTarget type="normal" value="116" id="toc406" playOrder="406"><navLabel><text>116</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_116"/>
+</pageTarget>
+<pageTarget type="normal" value="117" id="toc407" playOrder="407"><navLabel><text>117</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_117"/>
+</pageTarget>
+<pageTarget type="normal" value="118" id="toc408" playOrder="408"><navLabel><text>118</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_118"/>
+</pageTarget>
+<pageTarget type="normal" value="119" id="toc409" playOrder="409"><navLabel><text>119</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_119"/>
+</pageTarget>
+<pageTarget type="normal" value="120" id="toc410" playOrder="410"><navLabel><text>120</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_120"/>
+</pageTarget>
+<pageTarget type="normal" value="121" id="toc411" playOrder="411"><navLabel><text>121</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_121"/>
+</pageTarget>
+<pageTarget type="normal" value="122" id="toc412" playOrder="412"><navLabel><text>122</text></navLabel><content src="xhtml/Ch009_107-122_B9780323934398000095.xhtml#page_122"/>
+</pageTarget>
+<pageTarget type="normal" value="123" id="toc413" playOrder="413"><navLabel><text>123</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_123"/>
+</pageTarget>
+<pageTarget type="normal" value="124" id="toc414" playOrder="414"><navLabel><text>124</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_124"/>
+</pageTarget>
+<pageTarget type="normal" value="125" id="toc415" playOrder="415"><navLabel><text>125</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_125"/>
+</pageTarget>
+<pageTarget type="normal" value="126" id="toc416" playOrder="416"><navLabel><text>126</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_126"/>
+</pageTarget>
+<pageTarget type="normal" value="127" id="toc417" playOrder="417"><navLabel><text>127</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_127"/>
+</pageTarget>
+<pageTarget type="normal" value="128" id="toc418" playOrder="418"><navLabel><text>128</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_128"/>
+</pageTarget>
+<pageTarget type="normal" value="129" id="toc419" playOrder="419"><navLabel><text>129</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_129"/>
+</pageTarget>
+<pageTarget type="normal" value="130" id="toc420" playOrder="420"><navLabel><text>130</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_130"/>
+</pageTarget>
+<pageTarget type="normal" value="131" id="toc421" playOrder="421"><navLabel><text>131</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_131"/>
+</pageTarget>
+<pageTarget type="normal" value="132" id="toc422" playOrder="422"><navLabel><text>132</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_132"/>
+</pageTarget>
+<pageTarget type="normal" value="133" id="toc423" playOrder="423"><navLabel><text>133</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_133"/>
+</pageTarget>
+<pageTarget type="normal" value="134" id="toc424" playOrder="424"><navLabel><text>134</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_134"/>
+</pageTarget>
+<pageTarget type="normal" value="135" id="toc425" playOrder="425"><navLabel><text>135</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_135"/>
+</pageTarget>
+<pageTarget type="normal" value="136" id="toc426" playOrder="426"><navLabel><text>136</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_136"/>
+</pageTarget>
+<pageTarget type="normal" value="137" id="toc427" playOrder="427"><navLabel><text>137</text></navLabel><content src="xhtml/Ch010_123-137_B9780323934398000101.xhtml#page_137"/>
+</pageTarget>
+<pageTarget type="normal" value="138" id="toc428" playOrder="428"><navLabel><text>138</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_138"/>
+</pageTarget>
+<pageTarget type="normal" value="139" id="toc429" playOrder="429"><navLabel><text>139</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_139"/>
+</pageTarget>
+<pageTarget type="normal" value="140" id="toc430" playOrder="430"><navLabel><text>140</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_140"/>
+</pageTarget>
+<pageTarget type="normal" value="141" id="toc431" playOrder="431"><navLabel><text>141</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_141"/>
+</pageTarget>
+<pageTarget type="normal" value="142" id="toc432" playOrder="432"><navLabel><text>142</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_142"/>
+</pageTarget>
+<pageTarget type="normal" value="143" id="toc433" playOrder="433"><navLabel><text>143</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_143"/>
+</pageTarget>
+<pageTarget type="normal" value="144" id="toc434" playOrder="434"><navLabel><text>144</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_144"/>
+</pageTarget>
+<pageTarget type="normal" value="145" id="toc435" playOrder="435"><navLabel><text>145</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_145"/>
+</pageTarget>
+<pageTarget type="normal" value="146" id="toc436" playOrder="436"><navLabel><text>146</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_146"/>
+</pageTarget>
+<pageTarget type="normal" value="147" id="toc437" playOrder="437"><navLabel><text>147</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_147"/>
+</pageTarget>
+<pageTarget type="normal" value="148" id="toc438" playOrder="438"><navLabel><text>148</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_148"/>
+</pageTarget>
+<pageTarget type="normal" value="149" id="toc439" playOrder="439"><navLabel><text>149</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_149"/>
+</pageTarget>
+<pageTarget type="normal" value="150" id="toc440" playOrder="440"><navLabel><text>150</text></navLabel><content src="xhtml/Ch011_138-150_B9780323934398000113.xhtml#page_150"/>
+</pageTarget>
+<pageTarget type="normal" value="151" id="toc441" playOrder="441"><navLabel><text>151</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_151"/>
+</pageTarget>
+<pageTarget type="normal" value="152" id="toc442" playOrder="442"><navLabel><text>152</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_152"/>
+</pageTarget>
+<pageTarget type="normal" value="153" id="toc443" playOrder="443"><navLabel><text>153</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_153"/>
+</pageTarget>
+<pageTarget type="normal" value="154" id="toc444" playOrder="444"><navLabel><text>154</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_154"/>
+</pageTarget>
+<pageTarget type="normal" value="155" id="toc445" playOrder="445"><navLabel><text>155</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_155"/>
+</pageTarget>
+<pageTarget type="normal" value="156" id="toc446" playOrder="446"><navLabel><text>156</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_156"/>
+</pageTarget>
+<pageTarget type="normal" value="157" id="toc447" playOrder="447"><navLabel><text>157</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_157"/>
+</pageTarget>
+<pageTarget type="normal" value="158" id="toc448" playOrder="448"><navLabel><text>158</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_158"/>
+</pageTarget>
+<pageTarget type="normal" value="159" id="toc449" playOrder="449"><navLabel><text>159</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_159"/>
+</pageTarget>
+<pageTarget type="normal" value="160" id="toc450" playOrder="450"><navLabel><text>160</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_160"/>
+</pageTarget>
+<pageTarget type="normal" value="161" id="toc451" playOrder="451"><navLabel><text>161</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_161"/>
+</pageTarget>
+<pageTarget type="normal" value="162" id="toc452" playOrder="452"><navLabel><text>162</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_162"/>
+</pageTarget>
+<pageTarget type="normal" value="163" id="toc453" playOrder="453"><navLabel><text>163</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_163"/>
+</pageTarget>
+<pageTarget type="normal" value="164" id="toc454" playOrder="454"><navLabel><text>164</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_164"/>
+</pageTarget>
+<pageTarget type="normal" value="165" id="toc455" playOrder="455"><navLabel><text>165</text></navLabel><content src="xhtml/AnswerKeyStudyBreakQuestions_151-165_B9780323934398000162.xhtml#page_165"/>
+</pageTarget>
+<pageTarget type="normal" value="170" id="toc456" playOrder="456"><navLabel><text>170</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#page_170"/>
+</pageTarget>
+<pageTarget type="normal" value="166" id="toc457" playOrder="457"><navLabel><text>166</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#page_166"/>
+</pageTarget>
+<pageTarget type="normal" value="167" id="toc458" playOrder="458"><navLabel><text>167</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#page_167"/>
+</pageTarget>
+<pageTarget type="normal" value="168" id="toc459" playOrder="459"><navLabel><text>168</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#page_168"/>
+</pageTarget>
+<pageTarget type="normal" value="169" id="toc460" playOrder="460"><navLabel><text>169</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#page_169"/>
+</pageTarget>
+<pageTarget type="normal" value="171" id="toc461" playOrder="461"><navLabel><text>171</text></navLabel><content src="xhtml/AppendixA_170-171_B9780323934398000174.xhtml#page_171"/>
+</pageTarget>
+<pageTarget type="normal" value="172" id="toc462" playOrder="462"><navLabel><text>172</text></navLabel><content src="xhtml/AppendixB_172-173_B9780323934398000186.xhtml#page_172"/>
+</pageTarget>
+<pageTarget type="normal" value="173" id="toc463" playOrder="463"><navLabel><text>173</text></navLabel><content src="xhtml/AppendixB_172-173_B9780323934398000186.xhtml#page_173"/>
+</pageTarget>
+<pageTarget type="normal" value="174" id="toc464" playOrder="464"><navLabel><text>174</text></navLabel><content src="xhtml/AppendixC_173-174_B9780323934398000198.xhtml#page_174"/>
+</pageTarget>
+<pageTarget type="normal" value="175" id="toc465" playOrder="465"><navLabel><text>175</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_175"/>
+</pageTarget>
+<pageTarget type="normal" value="176" id="toc466" playOrder="466"><navLabel><text>176</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_176"/>
+</pageTarget>
+<pageTarget type="normal" value="177" id="toc467" playOrder="467"><navLabel><text>177</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_177"/>
+</pageTarget>
+<pageTarget type="normal" value="178" id="toc468" playOrder="468"><navLabel><text>178</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_178"/>
+</pageTarget>
+<pageTarget type="normal" value="179" id="toc469" playOrder="469"><navLabel><text>179</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_179"/>
+</pageTarget>
+<pageTarget type="normal" value="180" id="toc470" playOrder="470"><navLabel><text>180</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_180"/>
+</pageTarget>
+<pageTarget type="normal" value="181" id="toc471" playOrder="471"><navLabel><text>181</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_181"/>
+</pageTarget>
+<pageTarget type="normal" value="182" id="toc472" playOrder="472"><navLabel><text>182</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_182"/>
+</pageTarget>
+<pageTarget type="normal" value="183" id="toc473" playOrder="473"><navLabel><text>183</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_183"/>
+</pageTarget>
+<pageTarget type="normal" value="184" id="toc474" playOrder="474"><navLabel><text>184</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_184"/>
+</pageTarget>
+<pageTarget type="normal" value="185" id="toc475" playOrder="475"><navLabel><text>185</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_185"/>
+</pageTarget>
+<pageTarget type="normal" value="186" id="toc476" playOrder="476"><navLabel><text>186</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_186"/>
+</pageTarget>
+<pageTarget type="normal" value="187" id="toc477" playOrder="477"><navLabel><text>187</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_187"/>
+</pageTarget>
+<pageTarget type="normal" value="188" id="toc478" playOrder="478"><navLabel><text>188</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_188"/>
+</pageTarget>
+<pageTarget type="normal" value="189" id="toc479" playOrder="479"><navLabel><text>189</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_189"/>
+</pageTarget>
+<pageTarget type="normal" value="190" id="toc480" playOrder="480"><navLabel><text>190</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_190"/>
+</pageTarget>
+<pageTarget type="normal" value="191" id="toc481" playOrder="481"><navLabel><text>191</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_191"/>
+</pageTarget>
+<pageTarget type="normal" value="192" id="toc482" playOrder="482"><navLabel><text>192</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_192"/>
+</pageTarget>
+<pageTarget type="normal" value="193" id="toc483" playOrder="483"><navLabel><text>193</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_193"/>
+</pageTarget>
+<pageTarget type="normal" value="194" id="toc484" playOrder="484"><navLabel><text>194</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_194"/>
+</pageTarget>
+<pageTarget type="normal" value="195" id="toc485" playOrder="485"><navLabel><text>195</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_195"/>
+</pageTarget>
+<pageTarget type="normal" value="196" id="toc486" playOrder="486"><navLabel><text>196</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_196"/>
+</pageTarget>
+<pageTarget type="normal" value="197" id="toc487" playOrder="487"><navLabel><text>197</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_197"/>
+</pageTarget>
+<pageTarget type="normal" value="198" id="toc488" playOrder="488"><navLabel><text>198</text></navLabel><content src="xhtml/AppendixD_174-198_B9780323934398000204.xhtml#page_198"/>
+</pageTarget>
+<pageTarget type="normal" value="199" id="toc489" playOrder="489"><navLabel><text>199</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_199"/>
+</pageTarget>
+<pageTarget type="normal" value="200" id="toc490" playOrder="490"><navLabel><text>200</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_200"/>
+</pageTarget>
+<pageTarget type="normal" value="201" id="toc491" playOrder="491"><navLabel><text>201</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_201"/>
+</pageTarget>
+<pageTarget type="normal" value="202" id="toc492" playOrder="492"><navLabel><text>202</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_202"/>
+</pageTarget>
+<pageTarget type="normal" value="203" id="toc493" playOrder="493"><navLabel><text>203</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_203"/>
+</pageTarget>
+<pageTarget type="normal" value="204" id="toc494" playOrder="494"><navLabel><text>204</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_204"/>
+</pageTarget>
+<pageTarget type="normal" value="205" id="toc495" playOrder="495"><navLabel><text>205</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_205"/>
+</pageTarget>
+<pageTarget type="normal" value="206" id="toc496" playOrder="496"><navLabel><text>206</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_206"/>
+</pageTarget>
+<pageTarget type="normal" value="207" id="toc497" playOrder="497"><navLabel><text>207</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_207"/>
+</pageTarget>
+<pageTarget type="normal" value="208" id="toc498" playOrder="498"><navLabel><text>208</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_208"/>
+</pageTarget>
+<pageTarget type="normal" value="209" id="toc499" playOrder="499"><navLabel><text>209</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_209"/>
+</pageTarget>
+<pageTarget type="normal" value="210" id="toc500" playOrder="500"><navLabel><text>210</text></navLabel><content src="xhtml/AppendixE_199-210_B9780323934398000216.xhtml#page_210"/>
+</pageTarget>
+</pageList>
+</ncx>
