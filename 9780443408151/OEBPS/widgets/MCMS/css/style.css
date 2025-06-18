@@ -538,3 +538,7 @@ a.step.active:hover {
 .mar-left{
     margin-left: 1.5em;
 }
+
+.mcq .mcq_inner, .mcq .tab-content {
+    background-color: #FFF;
+}

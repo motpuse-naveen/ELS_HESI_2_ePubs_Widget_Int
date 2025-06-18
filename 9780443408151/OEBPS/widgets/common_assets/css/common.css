@@ -58,3 +58,10 @@ video::-webkit-media-controls-panel {
 .video-area .vidleg *{
     text-indent: unset !important;
 }
+
+iframe.mcq_frame{
+	width: 100%;
+}
+object.mcq_frame{
+	width: 100%;
+}
