@@ -6,7 +6,7 @@ var quiz = [
         option: [`Observe the client after meals for vomiting.`, `Obtain daily weight and vital signs.`, `Obtain serum potassium and calcium levels.`, `Provide a structured environment at mealtimes.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 2,
         ansText:`Rationale: Physiological assessment is most important. Due to laxatives or induced vomiting, hypokalemia and hypocalcemia can occur. Electrolyte imbalances can cause cardiac dysrhythmias and are therefore life threatening. Other interventions are important as well but not a priority.`, 
         state: `notAnswered`,
         userAnswered: [],

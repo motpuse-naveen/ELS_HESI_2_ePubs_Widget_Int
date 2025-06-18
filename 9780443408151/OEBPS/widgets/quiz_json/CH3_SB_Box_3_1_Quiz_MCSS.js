@@ -6,7 +6,7 @@ var quiz = [
         option: [`Elevate the head of the bed.`, `Administer naloxone 0.4 mg IV.`, `Assess breath sounds.`, `Check vital signs and pulse oximetry.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 1,
         ansText:`Rationale: The client’s respiratory rate is 6. The RN should administer naloxone 0.4 mg IV immediately. One of the side effects of hydromorphone is respiratory depression. The other nursing interventions need to be completed but are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],

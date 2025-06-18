@@ -6,7 +6,7 @@ var quiz = [
         option: [`An orange`, `A milkshake`, `Dried fruit and nuts`, `A gelatin dessert`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: 3,
         ansText:`Rationale: The normal potassium level for an adult is 3.5 to 5 mEq/L. Therefore, gelatin, which contains no potassium, could be offered. A potassium level of 6.4 mEq/L (hyperkalemia) is life threatening. Milk, oranges, and dried fruits and nuts are potassium-rich foods and should not be offered to the client.`, 
         state: `notAnswered`,
         userAnswered: [],

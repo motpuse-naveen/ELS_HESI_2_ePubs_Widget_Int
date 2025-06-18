@@ -6,7 +6,7 @@ var quiz = [
         option: [`Provide quiet, nonthreatening, and low-stimulus environment.`, `Pad the siderails and have suction at the bedside.`, `Administer PRN lorazepam (Ativan) as prescribed.`, `Determine the time and amount of the client’s last alcohol intake.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: 3,
         ansText:`Rationale: It is most important to determine the time and amount of the client’s last alcohol intake to determine the client’s risk for withdrawal (6–12 hours after the last drink, symptoms can start) or delirium tremens (about 48 hours after the last drink). The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
