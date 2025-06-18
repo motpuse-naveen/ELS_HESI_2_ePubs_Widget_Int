@@ -7,7 +7,7 @@ var quiz = [
         option: [` Disinterested`,` Concerned`,` Matter of fact`,` Empathetic`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         state: `notAnswered`,
         ansText:`Rationale: If the PN acts as matter of fact as possible, there is less likelihood that the client will use splitting to idealize or devalue the PN. The nurse should not present the information in a disinterested, concerned, or empathetic manner.`,
         userAnswered: [],

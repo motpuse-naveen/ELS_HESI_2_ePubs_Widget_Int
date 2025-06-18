@@ -9,7 +9,7 @@ var quiz = [
         ` “This is a minor problem that is easily controlled, and everything will be all right.”`,` As you and your baby are assessed, the plan of care will be shared and your questions addressed.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
         state: `notAnswered`,
         ansText:`Rationale: The PN should reassure the woman a commitment to keep her informed and answer any questions she has during the assessment. The registered nurse (RN) and PN should also encourage questions. The other responses are not therapeutic.`,
         userAnswered: [],

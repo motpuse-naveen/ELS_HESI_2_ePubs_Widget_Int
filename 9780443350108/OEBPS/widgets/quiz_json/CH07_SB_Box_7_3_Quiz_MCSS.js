@@ -8,7 +8,7 @@ var quiz = [
 		` 50% dextrose intravenous push `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         ansText:`Rationale: Addison crisis leads to high potassium levels; therefore, the PN would question an order for IV administration of 
 		potassium. Administration of dextrose fluids and solutions can help to maintain glucose levels during Addison crisis. Hydrocortisone must be administered immediately during Addison crisis.`, 
         state: `notAnswered`,

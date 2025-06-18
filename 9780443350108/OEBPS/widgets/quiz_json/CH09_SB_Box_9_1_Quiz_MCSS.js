@@ -20,7 +20,7 @@ var quiz = [
         option: [` Allergic reaction to antibiotics`,` Pain related to IV infiltration`,` Separation anxiety from mother`,` Hunger and thirst`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: 1,
          state: `notAnswered`,
         ansText:`Rationale: Alterations in an infant’s behavior, such as a 2-month-old crying inconsolably, may signify pain related to IV infiltration. The infant’s behavior is not related to allergies, separation anxiety, or hunger and thirst.`,
         userAnswered: [],

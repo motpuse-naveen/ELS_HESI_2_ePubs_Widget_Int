@@ -6,7 +6,7 @@ var quiz = [
         option: [` Increased blood pressure`,` Increased temperature`,` Increased serum glucose`,` Increased hematocrit `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [0],
+        answer: 0,
         state: `notAnswered`,
         ansText:`Rationale: Increased blood pressure is a sign of increased intracranial pressure (ICP), so this should be assessed first. The other findings are of lesser priority.`,
         userAnswered: [],

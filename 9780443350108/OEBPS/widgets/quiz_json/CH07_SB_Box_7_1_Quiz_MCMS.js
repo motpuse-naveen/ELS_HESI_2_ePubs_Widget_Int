@@ -10,7 +10,7 @@ var quiz = [
 		`HgbA1c changes from 9% to 6% (Ref. range = 5.7% to 6.4%).`,` Urine ketones change from 0 to 3 (Ref. range = 0). `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         ansText:`Rationale: Glycosylated hemoglobin (HgbA1c) that changes from 9% to 6% is the best indicator of long-term diabetic control.
 		Values less than 7% indicate firm diabetic control over the past 3 months. The other values do not indicate long-term diabetic control.`, 
         state: `notAnswered`,

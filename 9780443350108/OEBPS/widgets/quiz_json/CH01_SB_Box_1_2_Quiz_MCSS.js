@@ -8,7 +8,7 @@ var quiz = [
 		` Give a PRN dose of IV calcium per protocol.`, ` Administer the dose of oral phosphate.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
         ansText:`Rationale: The serum calcium level is elevated (normally 9.0–10.5 mg/dL or 2.25–2.62 mmol/L) in hyperparathyroidism, and the prescribed 
 		phosphate is used to lower calcium levels. Therefore, the dose of oral phosphate would be administered at this time. The other nursing interventions 
 		are not necessary for this client and do not address the elevated calcium level.`, 
@@ -26,7 +26,7 @@ var quiz = [
 		`Reassure the client that the surgeon will answer any questions before the anesthesia is administered.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         ansText:`Rationale: Informed consent must be obtained prior to performing any invasive procedure. The PN needs to notify the charge nurse that the client 
 		has questions concerning the procedure that must be addressed by the HCP. The consent form cannot be witnessed until all client questions have been 
 		clarified to obtain informed consent. It is not the PN’s responsibility to answer the questions. Reassuring the client that the surgeon will answer 

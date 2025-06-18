@@ -11,7 +11,7 @@ var quiz = [
 		of vital signs including temperature.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [0],
+        answer: 0,
         ansText:`Rationale: This client has a known cardiac history, whose symptoms align with cardiac problems. The client has increased work of 
 		breathing with a respiratory rate of 24. The priority in this client is to maximize perfusion to the myocardium. The licensed practical nurse
 		(PN) should ensure adequate oxygenation before implementing other interventions. `, 
@@ -28,7 +28,7 @@ var quiz = [
 		of IV fluids.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
         ansText:`Rationale: Nursing interventions to correct shock are focused on correcting decreased tissue perfusion and restoring cardiac output.
 		Increasing the IV fluid rate will help to expand blood volume, which will increase tissue perfusion and cardiac output.`, 
         state: `notAnswered`,

@@ -7,7 +7,7 @@ var quiz = [
 		`The other clients are upset when the client wanders at night.`, ` The client’s actions place the client at high risk for self-harm.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
         ansText:`Rationale: The client’s behavior places the client at high risk for self-harm. Restraints may be applied to protect the client from injury 
 		after all other measures to protect the client have been attempted. The health care provider (HCP) can prescribe restraints only once all other 
 		less-restrictive interventions have failed. Staffing issues are not legal indications for restraining a client. Wandering at night and other client 

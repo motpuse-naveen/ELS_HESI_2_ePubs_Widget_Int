@@ -7,7 +7,7 @@ var quiz = [
         ` Accompanies a client who has lupus erythematosus to sit outside in the sun during a break.`,` Helps a client with rheumatoid arthritis to the bathroom after the client takes celecoxib (Celebrex).`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         ansText:`Rationale:  Sunlight may trigger lupus and should be avoided. The PN needs to instruct both the client and the UAP. The other clients do not require immediate follow-up.`, 
         state: `notAnswered`,
         userAnswered: [],

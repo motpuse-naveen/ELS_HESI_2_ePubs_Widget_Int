@@ -9,7 +9,7 @@ var quiz = [
 		` Notify the HCP.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         ansText:`Rationale: Clay-colored stools streaked with fat in the presence of cholelithiasis is a normal finding and should be documented 
 		in the client’s medical record. The licensed practical nurse (PN) does not need to implement the other interventions.`,
         state: `notAnswered`,

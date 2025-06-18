@@ -7,7 +7,7 @@ var quiz = [
         ` Administer the eye drops correctly in the other eye to demonstrate the technique.`,` Discuss the importance of correct eye drop administration for persons with glaucoma.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: 1,
         ansText:`Rationale: Immediate feedback and re-teaching by reviewing the correct steps of the procedure is the best nursing action at this time. Teach the technique of punctal occlusion (placing pressure on the inner corner of the eye near the nose) immediately after eye drop instillation to prevent systemic absorption of the drug. The other answer choices do not indicate the best teaching strategies.`, 
         state: `notAnswered`,
         userAnswered: [],

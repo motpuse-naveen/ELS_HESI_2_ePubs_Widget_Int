@@ -10,7 +10,7 @@ var quiz = [
 		power of attorney for health care for the client.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: 1,
         ansText:`Rationale: This client is awake and alert and is capable of making decisions regarding health care procedures at this time. Therefore, the living 
 		will (LW) has not been activated, and all plans for care should be discussed with the client before intubation. An LW does not remove the client’s 
 		ability to make medical decisions, and all lifesaving procedures should still be explained to the client. The client should be asked if they have a 

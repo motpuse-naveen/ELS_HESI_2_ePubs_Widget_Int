@@ -7,7 +7,7 @@ var quiz = [
         ` Suggest that the client talk to the PN about her fears`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
         state: `notAnswered`,
         ansText:`Rationale: The PN can provide the client with a safe place to share her concerns and obtain support until she is ready to abandon denial as a defense mechanism. The other recommendations do not address the client’s concerns.`,
         userAnswered: [],

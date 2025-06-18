@@ -9,7 +9,7 @@ var quiz = [
         ` “I’ll notify the RN to come and examine her. This reaction is common as labor progresses between the first and second stage.”`,` “Early labor can be very frustrating. I’m sure she doesn’t mean to take it out on you.”`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         state: `notAnswered`,
         ansText:`Rationale: These symptoms are commonly seen as labor progresses toward the end of the active phase (formerly called transition). The PN should notify the RN of the symptoms so the RN can perform a vaginal examination to determine the phase of labor, cervical dilation, and station of the fetus.`,
         userAnswered: [],

@@ -7,7 +7,7 @@ var quiz = [
         ` Alcohol causes vasodilation and increased fluid overload for the fetus`,` Alcohol during pregnancy places the fetus at risk for fetal alcohol spectrum disorders `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
         state: `notAnswered`,
         ansText:`Rationale: Alcohol during pregnancy places the fetus at risk for fetal alcohol spectrum disorders. It is not advisable that women drink alcohol during pregnancy. The other options do not relate to the effects of alcohol on pregnancy.`,
         userAnswered: [],

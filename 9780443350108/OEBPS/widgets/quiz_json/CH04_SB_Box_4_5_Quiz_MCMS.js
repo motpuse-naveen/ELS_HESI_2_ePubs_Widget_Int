@@ -41,7 +41,7 @@ var quiz = [
 		`Give two breaths via bag-mask device.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [0],
+        answer: 0,
         ansText:`Rationale: First assess the client by checking for a carotid pulse before performing an intervention. If no pulse is present, then
 		the PN would follow basic cardiac life support guidelines. The other nursing interventions are not the priority. `,
         state: `notAnswered`,

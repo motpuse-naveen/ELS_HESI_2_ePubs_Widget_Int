@@ -8,7 +8,7 @@ var quiz = [
 		`Before giving a report, the PN performs rounds on assigned clients so that there is less likelihood of interruption during handoff.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: 2,
         ansText:`Rationale: The PN should not discuss or gossip about a problem with a fellow coworker during shift handoff. This incident should be
 		addressed with the UAP to ensure the incident does not happen again. It is inappropriate to discuss the incident in the shift report and 
 		undermine the competency of the UAP. The oncoming PN should be made aware of client concerns and what client teaching has been performed. 

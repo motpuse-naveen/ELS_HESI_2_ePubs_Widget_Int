@@ -25,7 +25,7 @@ var quiz = [
         option: [`Eats heavily seasoned foods`,` Uses NSAIDs daily.`,` Consumes 1 serving of alcohol every day.`,` Turns 25-years-old next month. `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: 1,
         ansText:`Rationale: A side effect of frequent use of nonsteroidal antiinflammatory drugs (NSAIDs) is gastric irritation and potential for 
 		ulceration. Eating heavily seasoned foods does not lead to ulceration. Excessive alcohol consumption can lead to PUD, but a glass of 
 		beer/wine a day will not. Peptic ulcers occur most frequently in individuals in their 50s and 60s, not young adults.`,

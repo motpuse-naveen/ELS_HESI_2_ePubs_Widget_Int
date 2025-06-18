@@ -7,7 +7,7 @@ var quiz = [
         option: [` Hypocalcemia`,`Hypernatremia`,` Low hemoglobin`,` Hypokalemia`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: 3,
          state: `notAnswered`,
         ansText:`Rationale: Furosemide and digoxin in combination can deplete potassium stores and place the client at risk for digoxin toxicity. This combination does
          not cause hypocalcemia, hypernatremia, or low hemoglobin.`,
@@ -22,7 +22,7 @@ var quiz = [
         option: [` Assess the current apical pulse rate.`,`Observe for the onset of diarrhea.`,` Complete an adverse occurrence report.`,` Determine the serum potassium level. `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [0],
+        answer: 0,
          state: `notAnswered`,
         ansText:`Rationale: The PN would first verify the infant’s current cardiac function by assessing the apical heart rate. The other nursing interventions are not a
          priority for this situation.`,
