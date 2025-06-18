@@ -25,7 +25,7 @@ const questions_data = {
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn><mo>&#xA0;</mo><mi>mg</mi></mrow><mrow><mn>4</mn><mo>&#xA0;</mo><mi>mg</mi><mo>&#x00D7;</mo><mn>1</mn></mrow></mfrac><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>0.25</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "false",
         }, 
         group2: {
@@ -48,7 +48,7 @@ const questions_data = {
             <p>3000 mL + 24h = 125 mL/h</p> <p>300 mL + 125 mL/h = 2.4h</p> <p>0.4 h × 60 minutes = 24 minutes</p> <p>9:00 + 2 h 24 min = 11:24 AM</p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "false",
         }, 
         group3: {
