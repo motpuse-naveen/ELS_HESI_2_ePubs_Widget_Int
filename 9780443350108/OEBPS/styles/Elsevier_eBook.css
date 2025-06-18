@@ -4937,6 +4937,11 @@ display: table-cell;
   margin-top: -0.8em;
 }
 
+iframe {
+	border:none;
+	width: 100%;
+}
+
 
 /********** RICE-22 (Forced margins to 0 for body) ***********/
 
