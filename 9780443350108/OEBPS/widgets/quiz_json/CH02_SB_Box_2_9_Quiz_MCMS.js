@@ -8,7 +8,7 @@ var quiz = [
 		`Clearing the alarm on the IV pump and restarting the pump`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1,2],
+        answer: [0,1],
         ansText:`Rationale: Transporting a client for a scheduled CT scan and bathing a client may be assigned to the UAP. All other assignments
 		must be assigned to a licensed nurse, as they involve nursing evaluation and decision making.`, 
         state: `notAnswered`,
@@ -26,7 +26,7 @@ var quiz = [
 		`Performing a straight catheterization on a client who had intermittent catheterization ordered`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2,3],
+        answer: [1,2],
         ansText:`Rationale: The UAPs may reposition the client with a stage 3 ulcer and document intake on a client with enteral feedings. 
 		All other assignments are not appropriate assignments for the UAP. Administering an injection of enoxaparin, changing IV tubing, and
 		performing a straight catheterization should be completed by a licensed nurse.`, 

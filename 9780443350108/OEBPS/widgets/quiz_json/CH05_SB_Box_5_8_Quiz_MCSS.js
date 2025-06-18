@@ -7,7 +7,7 @@ var quiz = [
 		`A client with stable angina who is awaiting discharge instructions`,`A client with heart failure who needs transporting for an echocardiogram`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: Pain is sometimes alleviated by leaning forward, but it requires further assessment because this also is symptomatic of
 		cardiac tamponade. Pain is to be expected with rib fractures. A client with stable angina who is awaiting discharge does not require immediate attention. 
 		A client with heart failure who needs transporting for an echocardiogram does not require immediate attention.`, 

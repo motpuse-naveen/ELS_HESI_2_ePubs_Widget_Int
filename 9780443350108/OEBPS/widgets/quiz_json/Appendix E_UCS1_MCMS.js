@@ -7,7 +7,7 @@ var quiz = [
             `Complains of dizziness and light-headed`,`Weight gain of 25 pounds (11.4 kg) over the last 2 months`,`Potassium level is 4.7 mmol/L (Ref. range = 3.5–5 mEq/L or 3.5–5 mmol/L)`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3, 4, 6, 7],
+        answer: [2,3,5,6],
         ansText:`Rationale: Hypertension is a risk factor for CAD. An elevated blood pressure (BP) increases cardiac workload which can cause ischemia to the heart 
         muscle in clients with significant atherosclerosis. Shortness of breath with exertion is another sign of increased heart workload and decreased cardiac muscle
         perfusion. Dizziness and light-headedness could result from decreased blood flow from narrowing of the arteries supplying oxygen to the brain. New onset or worsening

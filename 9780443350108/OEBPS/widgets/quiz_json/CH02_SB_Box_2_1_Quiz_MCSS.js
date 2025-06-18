@@ -9,7 +9,7 @@ var quiz = [
 		` Hospital protocol regarding the frequency of vital sign assessment every hour postoperatively`, ` The HCP’s order for changing the postoperative dressing`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: To delegate tasks to unlicensed assistive personnel (UAP), the licensed practical nurse (PN) must be knowledgeable regarding the
 		parameters of the state’s nurse practice acts. Delegation of an assessment that requires nursing judgment to a UAP is inappropriate. The other answer
 		options do not apply to this scenario.`, 
@@ -27,7 +27,7 @@ var quiz = [
 		  ` Submit an occurrence or variance report.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: Nurses should not discuss client information in public settings, as it violates the Health Insurance Portability and Accountability
 		Act of 1996 (HIPAA). This violates client privacy and confidentiality and should be stopped immediately. All other options should be completed, but
 		advising them to cease their communication should occur first.`, 

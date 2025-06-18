@@ -11,7 +11,7 @@ var quiz = [
         `Using an electric razor is advised when clients are prescribed anticoagulants to reduce the risk of bleeding.`,`It is not advised for the client to drive while taking opioids. Transportation should be provided to the facility.`,
          `The rehabilitation facility will receive the client's prescriptions before discharge. The facility is responsible for obtaining the needed medications for the client. This is usually not a responsibility of the family or client.`],
         optionStyleType: `st-decimal`,
-        answer: [2,3],
+        answer: [1,2],
         ansText:`Rationale: Taking opioids may lead to constipation. Adding whole grains such as oatmeal will add fiber to the diet and decrease the risk of constipation.,
         Using an electric razor is advised when clients are prescribed anticoagulants to reduce the risk of bleeding. `, 
         state: `notAnswered`,

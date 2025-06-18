@@ -8,7 +8,7 @@ var quiz = [
 		` Administer IM PRN morphine.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [ 2, 1, 3, 4],
+        answer: [ 1, 0, 2, 3],
         ansText:`Rationale: The PN should assist the client into supine position for repositioning and full lung expansion. After turning the 
 		client supine, elevate the HOB to help with breathing. Then the nurse should measure the client’s O2 saturation. Finally, the PN should administer IM morphine PRN. `,
         userAnswered: [],

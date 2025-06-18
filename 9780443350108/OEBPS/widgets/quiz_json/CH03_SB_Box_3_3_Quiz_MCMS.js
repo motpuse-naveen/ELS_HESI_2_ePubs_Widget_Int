@@ -8,7 +8,7 @@ var quiz = [
         option: [` Hyperthyroidism`, `Metabolic acidosis`,`Intestinal obstruction`, ` Nasogastric suction`,`Watery diarrhea`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3, 4, 5],
+        answer: [2,3, 4],
         ansText:`Rationale: Clients with intestinal obstruction, nasogastric suction, and diarrhea are at high risk for a potassium deficit.
 		Hyperthyroidism and metabolic acidosis do not put a client at high risk for potassium deficit. `, 
         state: `notAnswered`,

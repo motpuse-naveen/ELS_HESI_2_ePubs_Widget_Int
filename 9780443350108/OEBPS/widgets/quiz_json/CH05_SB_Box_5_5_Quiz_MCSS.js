@@ -8,7 +8,7 @@ var quiz = [
 		` Continue to monitor the site for signs of infection.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: The PN should stop the blood transfusion and notify the charge nurse, since the assessment findings indicate infiltration 
 		of the IV, and could result in tissue damage to the client. Continuing to monitor the site or just charting the assessment would also be detrimental 
 		to the client. Skin allergy assessment is not relevant for an infiltrated IV site.`,

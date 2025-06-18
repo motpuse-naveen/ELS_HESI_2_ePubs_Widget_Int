@@ -8,7 +8,7 @@ var quiz = [
 		`To track the effectiveness of the vaccine`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Viral load testing directly measures the actual amount of HIV viral RNA particles in the blood and is used to monitor
 		the effectiveness of treatment. CD4+ T cells are monitored to determine progression of the disease. The ELISA test confirms a diagnosis of
 		HIV. There is currently no vaccine for HIV.`,

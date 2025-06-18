@@ -9,7 +9,7 @@ var quiz = [
 		` Encourage postoperative leg exercises. `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: The client has experienced excessive bleeding, and the PN should monitor the client’s vital signs more closely 
 		(every hour). If signs of shock are present, the nurse would notify the charge nurse or HCP immediately. The other nursing interventions 
 		are not the priority and can be performed later.`, 

@@ -9,7 +9,7 @@ var quiz = [
         option: [` Vital signs`,`Lung sounds`,`Mental status`,`Skin temperature and moisture`,`Urine character`,`Loose stools`,` Pain`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3, 5, 6, 7],
+        answer: [2,3, 5, 6],
         ansText:`Rationale: The client’s new onset of mental confusion is of high concern and needs immediate evaluation. This, along with the
 		urine character and pain, could be indicative of a UTI, which could be very concerning in a client of this age. Loose stools can be caused 
 		by a UTI, but it can also cause dehydration, which would exacerbate the infection and is also very concerning for a client of this age. These

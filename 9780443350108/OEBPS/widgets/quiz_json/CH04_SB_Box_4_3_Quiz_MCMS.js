@@ -8,7 +8,7 @@ var quiz = [
 		`Assess for a carotid pulse.`,` Open airway and give two rescue breaths by bag-valve mask.`,` Move the client to a flat position in bed or on the floor.`,`Begin compressions.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2, 4, 1, 6, 7, 5, 3],
+        answer: [1, 3, 0, 5, 6, 4, 2],
         ansText:`Rationale: First determine the client’s level of responsiveness and breathing adequacy, and if a pulse is present. Then initiate a
 		call for help by activating the code team. Then move the client to the floor to begin high-quality chest compressions. You deliver 30 
 		compressions followed by 2 breaths. Once the defibrillator arrives, you will check the rhythm using the quick-look paddles. `, 

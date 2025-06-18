@@ -6,7 +6,7 @@ var quiz = [
         option: [` Reduce environmental stimuli.`,`Prevent direct sunlight from entering the room.`,`Maintain a warm room temperature.`,` Minimize exposure to visitors.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: The licensed practical nurse (PN) would maintain a warm room temperature for a client with hypothyroidism because 
 		falling thyroid levels cause myxedema crisis. Low body temperature/cold intolerance can be a clinical manifestation of myxedema. The 
 		other environmental adaptations are not necessary for this client.`, 
@@ -22,7 +22,7 @@ var quiz = [
         option: [` Hematoma formation`,`Harsh, vibratory sounds on inspiration`,`Tingling of lips, hands, and toes`,`Positive Chvostek sign`,`Sensation of fullness at the incision site`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2,3,4],
+        answer: [1,2,3],
         ansText:`Rationale: Removal of the parathyroid during a thyroidectomy can lead to a decrease in serum calcium. Harsh, vibratory sounds on 
 		inspiration; tingling of lips, hands, toes; and a positive Chvostek sign are symptoms of low calcium. The other symptoms do not indicate 
 		removal of the parathyroid gland.`, 

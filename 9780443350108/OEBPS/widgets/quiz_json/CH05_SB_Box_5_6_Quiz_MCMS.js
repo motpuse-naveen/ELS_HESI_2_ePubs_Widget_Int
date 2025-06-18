@@ -9,7 +9,7 @@ var quiz = [
 		` Atrial fibrillation`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3,4],
+        answer: [2,3],
         ansText:`Rationale: Ventricular fibrillation and pulseless ventricular tachycardia are life-threatening rhythms that require defibrillation. Stable ventricular tachycardia can be treated with medication or cardioversion. The other rhythms do not require defibrillation. `, 
         state: `notAnswered`,
         userAnswered: [],

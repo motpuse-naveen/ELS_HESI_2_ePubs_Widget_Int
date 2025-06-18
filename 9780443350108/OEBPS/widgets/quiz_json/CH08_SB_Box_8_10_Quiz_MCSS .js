@@ -6,7 +6,7 @@ var quiz = [
         option: [` Maintain constant eye contact.`,` Stand on the side unaffected by glaucoma.`,` Speak in a normal pitch of voice.`,` Keep the environment dimly lit.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: The PN should speak at a normal pitch, being sure to enunciate words. The other interventions will not help the PN communicate effectively with this client.`, 
         state: `notAnswered`,
         userAnswered: [],

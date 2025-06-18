@@ -7,7 +7,7 @@ var quiz = [
 		` Inquire about bacillus Calmette-Guérin (BCG) vaccine history. `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [2],
         ansText:`Rationale: The highest priority is assessing for a history of BCG vaccine because administering a PPD to a client who has received 
 		the vaccine will be positive and result in a reaction at the site. Those clients require a chest x-ray and avoid PPD screening for at least 10 years
 		after administration. The other options are appropriate but not the highest priority.`,

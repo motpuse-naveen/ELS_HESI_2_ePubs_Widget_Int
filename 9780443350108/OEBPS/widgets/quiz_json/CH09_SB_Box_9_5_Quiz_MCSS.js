@@ -7,7 +7,7 @@ var quiz = [
         ` “My child will take the bronchodilator first, then the corticosteroid.”`,` “My child will need to rinse out their mouth after using the bronchodilator.”`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
          state: `notAnswered`,
         ansText:`Rationale: A bronchodilator (albuterol) is used to open up and relax constricted airways, making it easier to breathe. After the airways have been
         opened up and are more relaxed, the corticosteroid can penetrate the lungs more effectively. The parent statement indicates an understanding of the teaching.

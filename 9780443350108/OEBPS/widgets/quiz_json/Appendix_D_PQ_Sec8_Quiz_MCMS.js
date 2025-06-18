@@ -11,7 +11,7 @@ var quiz = [
         `Feed a female client her first meal after she experienced a stroke.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1,2,3],
+        answer: [0,1,2],
         ansText:`Rationale: <p> <strong>Transport a client to the radiology department for a CT scan.</strong>transport a stable client.</p>
         <p><strong>Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.</strong>
          Bathing clients is a hygiene task that can be dele­gated to the UAP.</p>
@@ -33,7 +33,7 @@ var quiz = [
         `Obtaining the fingerstick blood glucose level before each meal and at bedtime.`,`Reminding the client to dry their toes carefully after a shower.`,`Talking to the client about foods that raise the blood glucose level.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1,3,4],
+        answer: [0,2,3],
         ansText:`Rationale: The UAP can collect and report data such as vital signs, height and weight, and capillary blood sugar results (3); perform hygiene tasks (4); and carry out clerical duties (1). Clients who need education or reinforcement of education require intervention by the PN. `, 
         state: `notAnswered`,
         userAnswered: [],
@@ -54,7 +54,7 @@ var quiz = [
             `Clients may recap needles, but HCPs may not to reduce the risk of needlestick injury.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: Glargine and lispro must not be mixed with any other insulin.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -76,7 +76,7 @@ var quiz = [
             `This client is stable.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: `, 
         state: `notAnswered`,
         userAnswered: [],
@@ -92,7 +92,7 @@ var quiz = [
        `Bring defibrillator/crash cart to bedside.`,`Document the incident.` ],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [ 2, 1, 3, 4, 5],
+        answer: [ 1,0,2,3,4],
         ansText:`Rationale: The PN needs to first assess the client before calling the rapid response team. Also, if the client is truly in ventricular tachycardia, it needs to be determined if it is pulseless v-tach or if the client has a pulse and blood pressure. If there is a pulse, the second action would be to call the rapid response team so that additional help is available. Then, the client needs to have oxygen to maximize oxygenation of the circulating blood. The defibrillator needs to be brought to the bedside to be used for cardioversion. The final activity is to document the findings.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -113,7 +113,7 @@ var quiz = [
             `Severe lithium toxicity occurs at 2.0 mEq/L; the PN should notify the HCP immediately.`
          ],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [3],
         ansText:`Rationale: Severe lithium toxicity occurs at 2.0 mEq/L; the PN should notify the HCP immediately.`,
          
         state: `notAnswered`,
@@ -138,7 +138,7 @@ var quiz = [
             `Assessing the client receiving palliative care is important; however, managing the client with PONV is the priority.`
     ],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: Postoperative nausea and vomiting (PONV) are among the most common reactions after surgery. PONV can stress and irritate abdominal and GI 
         wounds, increase intracranial pressure in clients who had head and neck surgery, elevate intraocular pressure in clients who had eye surgery, and increase the
          risk of aspiration. Obtaining a prescription for relieving PONV will decrease these risks.`, 
@@ -162,7 +162,7 @@ var quiz = [
             `Drooling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [3],
         ansText:`Rationale: Drooling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -184,7 +184,7 @@ var quiz = [
             `This client needs education, but this is not a priority.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: A sign of a potential complication of eclampsia is epigastric pain, which may be indicative of liver damage and HELLP (hemolysis, elevated liver enzymes, low platelet count) syndrome, a medical emergency.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -208,7 +208,7 @@ var quiz = [
             `Symmetrical burns are indicative of physical abuse.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Bald patches typically are symmetrical and are indicative of physical abuse.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -233,7 +233,7 @@ var quiz = [
          may not be a medical emergency.`,
         `When a chest tube is connected to wall suction, tidaling may stop. The PN should disconnect the tube, not reconnect it, to observe for tidaling.`],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: Normal fluctuation of the water, called tidaling, reflects the intrapleural pressure during inspiration and expiration. If no tidaling is observed (rising with inspiration and falling with expiration in a spontaneously breathing client), the drainage system may be blocked. An absence of fluctuation may mean that the lung has fully healed (which is unlikely at 48 hours), or it can mean that there is an obstruction in the chest tube. A simple step is to ensure that there are no kinks that would occlude the chest tube and prevent lung drainage and expansion.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -255,7 +255,7 @@ var quiz = [
             `This may be an appropriate action after assessment of the client’s clinical status.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: If a monitor alarm sounds, the PN should first assess the client’s clinical status to see whether the problem is an actual dysrhythmia or a monitoring system malfunction.
 `, 
         state: `notAnswered`,
@@ -275,7 +275,7 @@ var quiz = [
          ],
         optionFeedback: [ ],
         optionStyleType: `st-decimal`,
-        answer: [2,4],
+        answer: [1,3],
         ansText:`Rationale: <P><strong>Carefully remove the bio-occlusive dressing.</strong>Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
         <p><strong>Place the client in the Trendelenburg position.</strong>The procedure for removing the catheter safely is (1) place the client in the Trendelenburg position, (2) have the client take a deep breath and hold it, and (3) gently withdraw the catheter while applying direct pressure with sterile gauze. Holding the breath creates positive pressure in the intrathoracic space, and the Trendelenburg position minimizes the risk of air entering the catheter.</p>
         <p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong>The catheter tip may or may not be sent to the lab, depending on the protocol of the facility.</p>
@@ -301,7 +301,7 @@ var quiz = [
             `Preparing the client for a stress test requires specialized information and would be best to assign it to the PN who usually works on the cardiovascular unit.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: This would require similar care to a client who had just had lower extremity orthopedic surgery and would be the safest assignment for this PN.s `, 
         state: `notAnswered`,
         userAnswered: [],
@@ -320,7 +320,7 @@ var quiz = [
          ],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2,4,5],
+        answer: [1,3,4],
         ansText:`Rationale:<p><strong> Place the client in isolation.</strong>This task can be safely assigned to the UAP.</p>
         <p><strong> Complete a dressing change.</strong> This task is within the scope of practice for the PN.</p>
         <p><strong> Assess and document the wound.</strong>Initial assessment of a wound should be completed by the PN.</p>
@@ -347,7 +347,7 @@ var quiz = [
             `Clients on a nitroprusside drip need frequent vital signs and close monitoring. This client should remain in the step-down unit.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale:  This client could be safely taken care of in a medical-surgical unit.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -364,7 +364,7 @@ var quiz = [
          ],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1,2,3],
+        answer: [0,1,2],
         ansText:`Rationale: The PN needs to ensure that others do not give the wrong medication, so the tablets of chlorpropamide need to be removed and returned to the
          pharmacy (1). The pharmacy needs to be made aware of the error (2) and an incident (also called an occurrence) report completed (3) to help prevent the error
          in the future. The other options (4 and 5) are not needed at this time.`, 
@@ -388,7 +388,7 @@ var quiz = [
             `Although face-to-face communication is often valuable, this does not ensure that all key information is communicated.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: Using the SBAR format ensures that all key information is given and is the best way to communicate.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -403,7 +403,7 @@ var quiz = [
             ` Have the client empty his or her bladder.`,` Assemble needed equipment.`,` Administer oral pain medication.` ],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1, 5, 3, 2, 4],
+        answer: [0, 4, 2, 1, 3],
         ansText:`Rationale: <p>Before a procedure can be completed, it is essential to have an informed consent (1).</p>
          <p>Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5).</p>
        <p> The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3).</p>
@@ -425,7 +425,7 @@ var quiz = [
             `This would be needed if the antibiotic is weight based but is not usually a priority.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: Studies have shown that the sooner antibiotics are started, the better the outcomes. Current requirements include antibiotic administration within 2 hours of diagnosis. This is the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -447,7 +447,7 @@ var quiz = [
             `Although the child needs to be comforted, the injuries are not life-threatening, and this client can wait for treatment.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: The flail chest causes the heart to become unstable and is life-threatening. This client needs to be seen immediately.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -471,7 +471,7 @@ var quiz = [
 
         ],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale:  The client may be experiencing a stroke and requires immediate assessment and interventions. If interventions are initiated quickly, the complications may be mitigated.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -493,7 +493,7 @@ var quiz = [
 
         ],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: This is a sign of compartment syndrome. This client needs to be assessed first.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -513,7 +513,7 @@ var quiz = [
         ],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2,3],
+        answer: [1,2],
         ansText:`Rationale: <P><strong> Allow the client to take medications independently.</strong>With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
             <p><strong>Ensure that all medications have been swallowed before leaving the client’s room.</strong> To ensure that medications are not being hoarded or kept to be taken at a later time, the PN needs to watch the client swallow his or her medications.</p>
             <p><strong> Request that oral pain medications be changed from tablet to oral suspension.</strong> Liquid forms of medications are harder to save to be taken later so are often used for clients with a history of substance abuse.</p>
@@ -539,7 +539,7 @@ var quiz = [
             `This client does need to be seen but is not in imminent danger.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: This client is at risk of hurting herself or her children. She needs to be seen first.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -560,7 +560,7 @@ var quiz = [
             `Sleeping with the baby increases the risk for injury and SIDS for infants and needs to be corrected by the PN.`
         ],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [3],
         ansText:`Rationale: Sleeping with the baby increases the risk for injury and SIDS for infants and needs to be corrected by the PN.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -578,7 +578,7 @@ var quiz = [
          ],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1,4],
+        answer: [0,3],
         ansText:`Rationale: <P> <strong>Start the IV in the treatment room, not the child’s room.<strong>The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
             <p><strong>Apply a lidocaine-based cream for a few minutes before starting the IV.</strong>To be effective, the cream needs to be applied for about 1 hour before the IV is started.</p>
             <p><strong> Ask the parents to leave the room while performing the procedure.</strong> Having parents present can help the child cope with this procedure.</p>

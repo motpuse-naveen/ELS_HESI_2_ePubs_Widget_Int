@@ -7,7 +7,7 @@ var quiz = [
         ` “We will schedule a physical therapist evaluation.” `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
          state: `notAnswered`,
         ansText:`Rationale: Children with CF are at an increased risk of developing infection. Handwashing is the number-one prevention against transmission of microbes. This parent statement indicates an understanding of the teaching. The other options do not reflect an understanding of the teaching`,
         userAnswered: [],

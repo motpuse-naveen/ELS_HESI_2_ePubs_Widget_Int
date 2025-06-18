@@ -8,7 +8,7 @@ var quiz = [
         option: [` HR of 83 beats/min`,`BP of 104/64 mm Hg`,`Respiratory rate of 27 breaths/min`,`SpO2 92% of 2 L/min O2 via nasal cannula`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: This respiratory rate is high, especially for a client on oxygen, and requires thorough assessment. This finding 
 		should be reported to the registered nurse (RN). The other findings do not require immediate nursing attention.`, 
         state: `notAnswered`,
@@ -24,7 +24,7 @@ var quiz = [
         option: [` Administer acetaminophen 1000 mg.`,` Draw two sets of blood cultures.`,`Administer the ordered IV antibiotics.`,`Draw serum lactate and glucose levels.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: The highest priority would be to draw two sets of blood cultures for this client with suspected sepsis. The pathogen 
 		needs to be identified to initiate treatment. The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
@@ -41,7 +41,7 @@ var quiz = [
 		PTT, CBC, and fibrinogen.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: The client is in shock and showing signs of disseminated intravascular coagulation (DIC). The client requires immediate
 		attention from the health care provider (HCP). The other nursing interventions are not the priority. `, 
         state: `notAnswered`,

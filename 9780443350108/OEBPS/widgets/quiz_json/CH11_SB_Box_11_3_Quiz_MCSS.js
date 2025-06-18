@@ -8,7 +8,7 @@ var quiz = [
         ` Terminate the meeting and evaluate the situation`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         state: `notAnswered`,
         ansText:`Rationale: The group is in the initial phase, so the PN should restate the purpose and goal of the support group. During the middle phase, the PN should solicit problems from the group after trust has been established. During the working middle phase, problem solving is initiated. The PN should not avoid the comments but clarify the focus for group interaction.`,
         userAnswered: [],

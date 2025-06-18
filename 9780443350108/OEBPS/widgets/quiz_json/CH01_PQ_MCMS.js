@@ -8,7 +8,7 @@ var quiz = [
 		`Assist client in finding a resource for providing adequate nutrition.`,`Refer client to a dietician responsible for clients diagnosed with diabetes.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Assisting the client in finding resources to provide adequate nutrition is most appropriate and most helpful to the client. 
 		The other nursing interventions are not the most beneficial in addressing the client’s stated concern.`,
         userAnswered: [],
@@ -25,7 +25,7 @@ var quiz = [
 		injection techniques.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3]
+        answer: [2],
         ansText:`Rationale: Reinforcing teaching and observing the client directly will allow the PN to determine if mastery of the skill has been obtained 
 		and provide an opportunity to affirm the skill. The other nursing interventions are not the most beneficial to determine client understanding of discharge 
 		teaching.`,
@@ -42,7 +42,7 @@ var quiz = [
 		` Symptomatic of a urinary tract infection`,` Normal pregnancy changes in carbohydrate metabolism`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4]
+        answer: [3],
         ansText:`Rationale: A missed meal often causes presence of ketones in the urine. It indicates inadequate carbohydrate intake. The ketones do not indicate
 		gestational diabetes, preeclampsia, or urinary tract infection.`,
         userAnswered: [],
@@ -57,7 +57,7 @@ var quiz = [
 		` Psychological addiction to heroin`,` Probability of meconium aspiration`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4]
+        answer: [3],
         ansText:`Rationale: There is a very high probability of meconium aspiration in the infant of a mother addicted to heroin. Efforts to preserve airway 
 		and breathing are the highest priority. The other answer options are lower priority.`,
         userAnswered: [],
@@ -73,7 +73,7 @@ var quiz = [
 		` Parent asks the child to help with dusting the room.`,` Parent says, “Don’t do that. It’s wrong.”`,`Parent asks the child, “Would you like a bedtime story?”`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [ 1, 2, 3, 5]
+        answer: [ 0, 1, 3, 4],
         ansText:`Rationale: A child who maintains eye contact with the parent, treats animals with kindness, helps with household chores, and is open to hearing a bedtime
 		story from the parent is a child raised by a parent with positive parenting skills. These actions demonstrate autonomy. A parent who tells a child they
 		are wrong is not exhibiting positive parenting skills.`,
@@ -90,7 +90,7 @@ var quiz = [
 		` Notify the registered nurse (RN) immediately.`,`Administer a dose of calcium gluconate.`,` Give oxytocin 10 mg IM per protocol.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [ 2, 3]
+        answer: [1, 2],
         ansText:`Rationale: The PN should pull the emergency call light for assistance and notify the RN immediately when a client is having a seizure.
 		Nothing should be placed in the client’s mouth. Calcium gluconate reverses magnesium toxicity and does not need to be administered. The client does
 		not need to be given oxytocin.`,
@@ -106,7 +106,7 @@ var quiz = [
 		` Apply a lidocaine-based cream just before inserting the IV catheter.`,`Ask the parents to leave the room while performing the procedure.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [ 2]
+        answer: [ 1],
         ansText:`Rationale: The child’s room is a safe zone, and painful treatments should not be performed in the child’s room. Guided imagery may be too 
 		advanced for a child of this age. Lidocaine-based creams work more effectively when left on for a longer period of time, preferably 30 to 60 minutes.
 		Asking the parents to leave is inappropriate and can increase the child’s anxiety.`,
@@ -123,7 +123,7 @@ var quiz = [
 		` Keep the crib free of stuffed animals and crib pads.`,`Sleeping with the baby can alert the mother to changes.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4]
+        answer: [3],
         ansText:`Rationale: Sleeping with the baby increases the risk of injury and SIDS in infants. The other answer options should be implemented to
 		decrease the risk of SIDS.`,
         userAnswered: [],

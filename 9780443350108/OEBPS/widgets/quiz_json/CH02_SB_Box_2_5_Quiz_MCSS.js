@@ -9,7 +9,7 @@ var quiz = [
 		`“Have you been instructed in postoperative activities and restrictions?”`, `“Have you received any preoperative pain medication?”`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [2],
         ansText:`Rationale: Asking the client or knowing if the client has received pain medication before signing and witnessing the surgical consent form
 		is essential. Pain medications can alter a client’s ability to think clearly and make medical decisions. Consent should be obtained and the signature 
 		witnessed, if possible, before pain medications are administered. The other questions are components of the preoperative checklist and should be reviewed 

@@ -11,7 +11,7 @@ var quiz = [
 		` Annual mammograms are not needed if biannual clinical breast examinations and weekly BSEs are done.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: The client should continue annual Pap smears (most likely in this case, the cervix was not removed), mammogram, 
 		clinical breast examinations, and monthly breast self examinations. The other recommendations are optional.`, 
         state: `notAnswered`,
@@ -27,7 +27,7 @@ var quiz = [
 				`Reinforce teaching the client Kegel exercises to perform daily.`,` Instruct the client to resume HRT.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1],
+        answer: [0],
         ansText:`Rationale: Lack of estrogen results in vaginal dryness, causing discomfort. Use of a vaginal cream or lubrication will help ease 
 		the client’s discomfort. The other nursing interventions are not necessary for this client situation.`, 
         state: `notAnswered`,

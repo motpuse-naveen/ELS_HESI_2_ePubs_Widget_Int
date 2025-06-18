@@ -9,7 +9,7 @@ var quiz = [
 		`Sodium (serum) 155 mEq/L (155 mmol/L) (Ref. range = 136–145 mEq/L or mmol/L)`,` Metabolic alkalosis`,` Weight gain `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [ 1, 2, 5],
+        answer: [ 0, 1, 4],
         ansText:`Rationale: A urine output of 390 mL in 24 hours is a low output. A high potassium level and weight gain are indicative of the 
 		oliguric phase of acute kidney injury. Serum sodium of 155 mEq/L (155 mmol/L) and metabolic alkalosis are not expected in this client.`,
         state: `notAnswered`,

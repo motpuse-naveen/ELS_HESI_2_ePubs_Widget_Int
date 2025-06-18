@@ -8,7 +8,7 @@ var quiz = [
 		up to five 8-oz. glasses per day.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Assessing the normal bowel pattern in a client with possible constipation provides the information to determine an appropriate 
 		response to the client’s concern. Note that two interventions (1 and 4) are similar and can be eliminated. Nursing interventions to correct the constipation 
 		should be performed before notifying the charge nurse and requesting medical intervention.`, 
@@ -25,7 +25,7 @@ var quiz = [
         option: [`Call the HCP.`, `Obtain a bedside pulse oximeter.`, `Raise the head of the bed further.`, `Assess the client’s vital signs.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Remember to address ABCs first. The objective is to assist the client in using the accessory muscles of breathing.
 		Raising the head of the bed further will keep the spine straight, decrease pressure on the diaphragm, and help open the chest to assist in easier
 		breathing. This intervention addresses breathing, which would be the priority. Although the licensed practical nurse (PN) might call the HCP, obtain 

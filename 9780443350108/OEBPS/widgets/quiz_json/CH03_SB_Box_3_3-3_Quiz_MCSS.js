@@ -8,7 +8,7 @@ var quiz = [
 		` Serum potassium level:2.8 mmol/L (2.8 mEq/L).` ,`Hematocrit: 45%.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: The serum potassium level is severely low. Normal potassium level is between 3.5–5 mEq/L (3.5–5 mmol/L). 
 		This electrolyte imbalance can lead to deadly dysrhythmias and must be resolved before starting an operative procedure. 
 		This requires immediate contact of the registered nurse (RN) or health care provider (HCP). The other labs are within normal limits 

@@ -6,7 +6,7 @@ var quiz = [
         option: [` Restrain the client to protect against injury.`,` Flex the neck to ensure stabilization.`,` Use a tongue blade to open the airway.`,` Turn the client on their side to aid ventilation. `],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [3],
         ansText:`Rationale: Turning the client on their side helps aid ventilation and protect from injury during a seizure. The other nursing interventions are not recommended for this client.`,
          state: `notAnswered`,
         userAnswered: [],
@@ -20,7 +20,7 @@ var quiz = [
         option: [` Dry mouth`,` Easily bruising`,` Sore throat`,`Gingival hyperplasia`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [2],
+        answer: [1],
         ansText:`Rationale: Phenytoin can cause liver issues that manifest as easily bruising, loss of appetite, or dark urine. The PN would monitor the client taking 
         phenytoin for safety and advise the client to report symptoms to the HCP immediately. Dry mouth and sore throat do not need to be reported to the HCP. The client should report gingival hyperplasia to the HCP, but this is not a priority.`,
         state: `notAnswered`,

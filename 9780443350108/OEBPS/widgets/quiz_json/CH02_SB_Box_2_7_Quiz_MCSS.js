@@ -7,7 +7,7 @@ var quiz = [
 		`Taking vital signs for an older client with left humeral and left tibial fractures`, `Replacing a client’s pressure ulcer dressing soiled by incontinence`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Measuring vital signs on the uninjured arm of an elder client does not require the expertise of the PN to be performed. The other 
 		actions are beyond the scope of practice for a UAP and should be completed by the PN. Furthermore, medications should never be left at a client’s bedside
 		as stated in option 2.`, 
@@ -23,7 +23,7 @@ var quiz = [
         option: [`Maintain a 24-hour urine collection.`, ` Wean a client from a mechanical ventilator.`, ` Perform sterile wound irrigation.`, ` Obtain scheduled vital signs.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [3],
+        answer: [2],
         ansText:`Rationale: Performing a sterile wound irrigation is within the scope of practice for the PN and is an appropriate assignment for the charge
 		nurse to make. Maintaining a 24-hour urine collection can be performed by one of the UAPs, and the other can gather the scheduled vital signs. 
 		A registered nurse (RN) should be responsible for weaning a client from a mechanical ventilator.`, 
@@ -39,7 +39,7 @@ var quiz = [
 		`A client has an allergic reaction to a prescribed medication.`, `A client received medication prescribed for another client.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [4],
+        answer: [3],
         ansText:`Rationale: Variance or incident reports are used for unusual circumstances that require investigation by the facility to prevent 
 		further occurrences. A client who receives medication that was prescribed to another client is an example of a medication variance and 
 		requires reporting using the facility’s incident reporting procedure. This incident should be recorded and investigated to ensure that the 
