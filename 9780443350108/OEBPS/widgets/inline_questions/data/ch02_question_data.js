@@ -29,7 +29,7 @@ const questions_data = {
                 incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
           },
     },

@@ -26,7 +26,7 @@ const questions_data = {
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>50</mn><mo>&#xA0;</mo><mfrac><mi>mcg</mi><mi>day</mi></mfrac></mrow><mrow><mn>2</mn><mo>&#xA0;</mo><mi>doses</mi></mrow></mfrac><mo>=</mo><mn>25</mn><mo>&#xA0;</mo><mfrac><mi>mcg</mi><mi>dose</mi></mfrac></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "false",
         }
     },
