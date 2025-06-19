@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` Pain level of 2/10 on a 0–10 scale after SL NTG`,` Apical pulse is bounding`,`BP: 154/92 mmHg`,`Shortness of breath with exertion`,` SpO2 96% on room air`,
             `Complains of dizziness and light-headed`,`Weight gain of 25 pounds (11.4 kg) over the last 2 months`,`Potassium level is 4.7 mmol/L (Ref. range = 3.5–5 mEq/L or 3.5–5 mmol/L)`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2,3,5,6],
         ansText:`Rationale: Hypertension is a risk factor for CAD. An elevated blood pressure (BP) increases cardiac workload which can cause ischemia to the heart 

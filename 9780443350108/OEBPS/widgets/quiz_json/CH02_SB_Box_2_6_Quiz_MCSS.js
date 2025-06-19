@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`Confront the other staff members involved in the change of unit policy.`, `Call a unit meeting to review the reasons the change was made.`,
 		`Develop a written unit policy for the expression of complaints.`, `Encourage the UAP to be accountable for their behavior.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: The licensed practical nurse should encourage the UAP to be accountable for their behavior. Displacing blame on other staff is not

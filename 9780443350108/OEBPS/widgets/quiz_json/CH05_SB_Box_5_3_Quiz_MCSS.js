@@ -3,9 +3,9 @@ var quiz = [
         q: `A client with pneumonia has impending respiratory failure. Which set of ABG values demonstrates acute respiratory failure?`,
         q2: ``,
         q3: [],
-        option: [` pH 7.30, PCO2 52, PO2 56, HCO3 26`,` pH 7.35, PCO2 44, PO2 86, HCO3 28`,` pH 7.45, PCO2 62, PO2 66, HCO3 31`,
+        option: [`pH 7.30, PCO2 52, PO2 56, HCO3 26`,` pH 7.35, PCO2 44, PO2 86, HCO3 28`,` pH 7.45, PCO2 62, PO2 66, HCO3 31`,
 		` pH 7.30, PCO2 39, PO2 88, HCO3 22`],
-        optionFeedback: [``],
+        //optionFeedback: [],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`Rationale: The findings for option 1 reflect respiratory acidosis, indicating respiratory failure. The pH is low, which indicates 

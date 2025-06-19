@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Increased blood pressure`,` Increased temperature`,` Increased serum glucose`,` Increased hematocrit `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         state: `notAnswered`,

@@ -21,7 +21,7 @@ const questions_data = {
                 clozePlacement:"inline",//newline
               },
             ],
-            correctFeedback: `<p>All of your answers are correct.<p><p><strong>Rationale</strong></p>
+            correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale</strong></p>
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn><mo>&#xA0;</mo><mi>mg</mi></mrow><mrow><mn>4</mn><mo>&#xA0;</mo><mi>mg</mi><mo>&#x00D7;</mo><mn>1</mn></mrow></mfrac><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>0.25</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
@@ -35,8 +35,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A picture of chromosomes in the nucleus of a cell is a/an #cloze1# .</p>
-                <p>The health care provider (HCP) prescribes 3000 mL of 5% dextrose (D5W) to run over a 24-hour period. The drop factor is 10 gtt/mL. There are 300 mL remaining at 09:00. What time would the PN anticipate the next bag of D5W solution to be hung? Round to the nearest half hour. (Fill in the blank.)</p>
+                clozeHtml:`<p>The health care provider (HCP) prescribes 3000 mL of 5% dextrose (D5W) to run over a 24-hour period. The drop factor is 10 gtt/mL. There are 300 mL remaining at 09:00. What time would the PN anticipate the next bag of D5W solution to be hung? Round to the nearest half hour. (Fill in the blank.)</p>
                 <p>The next bag of D5W solution will be hung at #cloze1#.</p>`,
                 clozes:{
                   cloze1:{correctValue: "The next bag of D5W solution will be hung at 11:30", clozelabel:"fill in the blank"},
@@ -44,7 +43,7 @@ const questions_data = {
                 clozePlacement:"inline",//newline
               },
             ],
-            correctFeedback: `<p>All of your answers are correct.<p><p><strong>Rationale</strong></p>
+            correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale</strong></p>
             <p>3000 mL + 24h = 125 mL/h</p> <p>300 mL + 125 mL/h = 2.4h</p> <p>0.4 h × 60 minutes = 24 minutes</p> <p>9:00 + 2 h 24 min = 11:24 AM</p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,

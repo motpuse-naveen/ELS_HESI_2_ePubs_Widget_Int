@@ -118,7 +118,7 @@ var quiz = [
         q: `A female adolescent is admitted to the mental health unit for anorexia nervosa. In collaborating in planning care, which is the PN’s highest priority?`,
         q2: ``,
         q3: [],
-        option: [` Teach the client the importance of self-expression.`,`Supervise the client’s activities during the day.`,`Include the client in daily group therapy.` 
+        option: [` Teach the client the importance of self-expression.`,`Supervise the client’s activities during the day.`,`Include the client in daily group therapy.`,
         `Facilitate social interactions with others.` ],
         optionFeedback: [`Self-expression of feelings is important, but reestablishing normal eating habits and physiological integrity is the priority intervention.`,
         `The PN should monitor and supervise the client’s activities to prevent binging, purging, or avoiding meals.`,

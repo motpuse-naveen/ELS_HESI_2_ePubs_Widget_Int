@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`Platelet count: 151,000/mm3 (151 × 109/L).`, ` WBC (white blood cell) count: 8500/mm3 (8.5 × 109/L).`,
 		` Serum potassium level:2.8 mmol/L (2.8 mEq/L).` ,`Hematocrit: 45%.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: The serum potassium level is severely low. Normal potassium level is between 3.5–5 mEq/L (3.5–5 mmol/L). 

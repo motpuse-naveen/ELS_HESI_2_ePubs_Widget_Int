@@ -29,7 +29,8 @@ body {
     overflow-y: auto;
     width: 100%;
     margin: auto;
-    padding: 30px 25px 70px !important;
+    padding: 15px 25px 70px !important;
+    margin-top: 15px;
     box-sizing: border-box;
 	position:relative;
 }

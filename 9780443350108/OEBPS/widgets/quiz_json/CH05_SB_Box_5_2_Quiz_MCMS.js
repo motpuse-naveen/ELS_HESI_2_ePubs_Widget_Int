@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`Elevate the HOB.`,` Assist the client into the supine position.`,` Measure the client’s O2 saturation.`,
 		` Administer IM PRN morphine.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [ 1, 0, 2, 3],
         ansText:`Rationale: The PN should assist the client into supine position for repositioning and full lung expansion. After turning the 

@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`Review the client’s chart for skin allergies.`,` Chart assessment findings immediately.`,` Stop the blood transfusion and notify the charge nurse immediately.`,
 		` Continue to monitor the site for signs of infection.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2],
         ansText:`Rationale: The PN should stop the blood transfusion and notify the charge nurse, since the assessment findings indicate infiltration 

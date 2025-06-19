@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` “We will discourage our child from playing outdoors.”`,` “We will use pancreatic enzymes only if needed.”`,`We will thoroughly wash our child’s hands after toileting.”`,
         ` “We will schedule a physical therapist evaluation.” `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
          state: `notAnswered`,

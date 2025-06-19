@@ -7,7 +7,7 @@ var quiz = [
         option: [` Excess of gastric acid or a decrease in the natural ability of the GI mucosa to protect itself from acid and pepsin`,
 		`Invasion of the stomach and/or duodenum by H. pylori`,`Viral infections, allergies to certain foods, immunologic factors, and psychosomatic factors`,
 		`Taking certain drugs, including corticosteroids`,`Having allergies to foods that contain gluten `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1,3],
         ansText:`Rationale: Excess gastric acid production, decreased ability of the gastrointestinal (GI) mucosa to protect itself from acid and 
@@ -23,9 +23,9 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Eats heavily seasoned foods`,` Uses NSAIDs daily.`,` Consumes 1 serving of alcohol every day.`,` Turns 25-years-old next month. `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 1,
+        answer: [1],
         ansText:`Rationale: A side effect of frequent use of nonsteroidal antiinflammatory drugs (NSAIDs) is gastric irritation and potential for 
 		ulceration. Eating heavily seasoned foods does not lead to ulceration. Excessive alcohol consumption can lead to PUD, but a glass of 
 		beer/wine a day will not. Peptic ulcers occur most frequently in individuals in their 50s and 60s, not young adults.`,

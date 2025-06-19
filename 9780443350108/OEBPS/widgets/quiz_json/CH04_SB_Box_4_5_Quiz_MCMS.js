@@ -6,7 +6,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Airborne`,`Contact`,`Vector`,`Droplet`,` Standard`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0, 1, 4],
         ansText:`Rationale: Since this client has yet to be decontaminated, HCPs would observe airborne, contact, and standard precautions. Anthrax 
@@ -23,7 +23,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Airborne`,`Contact`,`Vector`,`Droplet`,` Standard`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0, 1, 3, 4],
         ansText:`Rationale: A combination of airborne, contact, droplet, and standard precautions is recommended in cases of smallpox exposure.
@@ -39,9 +39,9 @@ var quiz = [
         q3: [],
         option: [`Check for a carotid pulse.`,` Defibrillate the client with 360 joules of energy.`,`Administer an IV saline bolus.`,
 		`Give two breaths via bag-mask device.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 0,
+        answer: [0],
         ansText:`Rationale: First assess the client by checking for a carotid pulse before performing an intervention. If no pulse is present, then
 		the PN would follow basic cardiac life support guidelines. The other nursing interventions are not the priority. `,
         state: `notAnswered`,
@@ -54,7 +54,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Gingival bleeding`,`Alterations in mental status`,`Unexplained bruising`,`Hematuria`,` Gangrenous toes`,` Increased fibrinogen`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1, 3],
         ansText:`Rationale:  Alterations in mental status and hematuria would indicate early signs of organ ischemia of the brain and kidneys

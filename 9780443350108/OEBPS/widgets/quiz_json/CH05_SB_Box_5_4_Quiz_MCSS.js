@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` Prepare 0.1 mL solution for tuberculin syringe.`,` Assess the skin condition on the forearm.`,`Reinforce teaching with the client about the possibility of positive findings.`,
 		` Inquire about bacillus Calmette-Guérin (BCG) vaccine history. `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: The highest priority is assessing for a history of BCG vaccine because administering a PPD to a client who has received 

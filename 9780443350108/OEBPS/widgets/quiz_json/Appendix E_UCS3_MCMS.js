@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`Unsuccessful airway clearance`,`Nutrition: intake less than body requirements`,`Inappropriate family coping`,`Sedentary lifestyle`,`Decreased gas exchange`,
         `Risk for injury`,`Diminished comfort`,`Risk for infection`,`Powerlessness`,`Constipation`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1,4,6,8,9],
         ansText:`Rationale: Unsuccessful airway clearance: Persons with CF have increased mucus production. Excessive mucus and retained secretions are difficult to clear from the airway and are a chronic complication associated with this disorder.,

@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Establish a daily routine and schedule`,` Encourage involvement in structured activities`,` Discuss strategies to coordinate care`,` Stress the importance of self-nurturing`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         state: `notAnswered`,

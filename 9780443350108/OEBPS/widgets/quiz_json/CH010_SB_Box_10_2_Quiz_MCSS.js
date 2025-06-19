@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [` “In active labor, it is quite common for women to react this way. It’s nothing you did.”`,` “I don’t know what you did, but stop, because she is quite sensitive right now.”`,
         ` “I’ll notify the RN to come and examine her. This reaction is common as labor progresses between the first and second stage.”`,` “Early labor can be very frustrating. I’m sure she doesn’t mean to take it out on you.”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         state: `notAnswered`,

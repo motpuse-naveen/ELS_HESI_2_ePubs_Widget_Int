@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [`“I will meet with the nursing supervisor to discuss our plan for routine meetings.”`,` “Let’s not plan to meet; however, we may inadvertently see each other here.”`,
         ` “It’s not appropriate for me to discuss therapy with you when I’m off duty.”`,` “A social relationship with a former client is not appropriate.”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

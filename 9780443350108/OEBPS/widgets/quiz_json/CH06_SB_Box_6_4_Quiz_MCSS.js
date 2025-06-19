@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`  Auscultate for diminished bowel sounds.`,`2. Send a stool specimen to the laboratory.`,` Document the assessment in the chart.`,
 		` Notify the HCP.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Clay-colored stools streaked with fat in the presence of cholelithiasis is a normal finding and should be documented 

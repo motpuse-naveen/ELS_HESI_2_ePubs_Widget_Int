@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [`Checking blood glucose hourly for a client with a continuous insulin drip`, `Giving PO medications left at the bedside for the client to take after eating`,
 		`Taking vital signs for an older client with left humeral and left tibial fractures`, `Replacing a client’s pressure ulcer dressing soiled by incontinence`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Measuring vital signs on the uninjured arm of an elder client does not require the expertise of the PN to be performed. The other 
@@ -21,7 +21,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Maintain a 24-hour urine collection.`, ` Wean a client from a mechanical ventilator.`, ` Perform sterile wound irrigation.`, ` Obtain scheduled vital signs.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Performing a sterile wound irrigation is within the scope of practice for the PN and is an appropriate assignment for the charge
@@ -37,7 +37,7 @@ var quiz = [
         q3: [],
         option: [`A client refuses to take prescribed medication.`, `A client’s status improves before completion of the course of medication.`, 
 		`A client has an allergic reaction to a prescribed medication.`, `A client received medication prescribed for another client.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: Variance or incident reports are used for unusual circumstances that require investigation by the facility to prevent 

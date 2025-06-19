@@ -385,6 +385,8 @@ function addActiveClass(el) {
 }
 // check the current option is true or not .
 function check(answer, selectOption) {
+    answer.sort((a, b) => a - b);
+    selectOption.sort((a, b) => a - b);
     for (var i = 0; i < answer.length; i++) {
         if (answer[i] == selectOption[i]) {
         }

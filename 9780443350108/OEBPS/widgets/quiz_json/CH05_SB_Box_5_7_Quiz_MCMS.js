@@ -5,7 +5,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Respiratory rate of 25 breaths/min`,`Orthopnea`,`S3 heart sound`,`Dry, nonproductive cough`,`Heart rate of 69 and irregular`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1, 2],
         ansText:`Rationale: Pulmonary edema or ADHF is caused by an abnormal accumulation of fluid in the lung, in both the interstitial and

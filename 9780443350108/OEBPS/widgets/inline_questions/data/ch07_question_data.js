@@ -28,7 +28,7 @@ const questions_data = {
                     dropdown2:{values:["BNP", "Midstream U/A", "Blood cultures x2", "Urea breath test"],correctValue: "Midstream U/A",dropdownlabel:"Select anticipated order", useCommonOptions:"false"},
                     dropdown3:{values:["Ketorolac", "Ceftriaxone", "Desmopressin", "Nitrofurantoin"],correctValue: "Ketorolac",dropdownlabel:"Select anticipated order", useCommonOptions:"false"},
                   },
-                  dropdownPlacement:"inline",//newline
+                  dropdownPlacement:"",//newline
                   correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> The scenario indicates this client may be experiencing a kidney stone. CT of abdomen is the most accurate radiological procedure to diagnose renal calculi. A midstream U/A can also be effective for diagnosing urinary complications. Ketorolac can decrease pain and relax the ureter to facilitate stone passage. The other orders are not indicated for this client at this time.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
                   incorrectFeedback: `Your answer is incorrect.`

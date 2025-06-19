@@ -9,7 +9,7 @@ var quiz = [
         q3: [],
         option: [` Apply 4 L of oxygen as ordered.`,`Encourage fluids.`,`Administer the prescribed opioid for pain control.`,` Obtain a complete set
 		of vital signs including temperature.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`Rationale: This client has a known cardiac history, whose symptoms align with cardiac problems. The client has increased work of 
@@ -26,7 +26,7 @@ var quiz = [
         q3: [],
         option: [`Increase the rate of O2 flow.`,` Obtain arterial blood gas results.`,` Insert an indwelling urinary catheter.`,`Increase the rate 
 		of IV fluids.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: Nursing interventions to correct shock are focused on correcting decreased tissue perfusion and restoring cardiac output.
