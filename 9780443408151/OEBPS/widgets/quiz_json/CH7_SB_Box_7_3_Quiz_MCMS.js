@@ -6,7 +6,7 @@ var quiz = [
         option: [`Reduce environmental stimuli.`, `Prevent direct sunlight from entering the room.`, `Maintain a warm room temperature.`, `Minimize exposure to visitors.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 2,
+        answer: [2],
         ansText:`Rationale: The RN would maintain a warm room temperature for a client with hypothyroidism because falling thyroid levels causes myxedema crisis. Low body temperature/cold intolerance can be a clinical manifestation of myxedema. The other environmental adaptations are not necessary for this client.`, 
         state: `notAnswered`,
         userAnswered: [],

@@ -19,7 +19,7 @@ var quiz = [
         option: [`A client with a head injury who has a Glasgow coma scale of 6`, `A client who developed autonomic dysreflexia after a T6 spinal cord injury`, `A client with multiple sclerosis who needs the first dose of interferon`, `A client diagnosed with Guillain-Barré syndrome.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 2,
+        answer: [2],
         ansText:`Rationale: A client with multiple sclerosis who needs the first dose of interferon can be assigned to a graduate nurse who is orienting to the neurological unit. The other clients need more thorough assessment by an experienced nurse.`, 
         state: `notAnswered`,
         userAnswered: [],

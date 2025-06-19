@@ -20,7 +20,7 @@ var quiz = [
         option: [`Return the client to surgery`, `Prepare for insertion of a larger chest tube`, `Increase the water-seal suction pressure`, `Continue to monitor the insertion site`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 3,
+        answer: [3],
         ansText:`Rationale: Small amounts of subcutaneous emphysema (crackling sensation) after thoracic surgery are common and will be absorbed, causing no problem. The RN should continue to monitor the insertion site for worsening that includes swelling of the neck and chest. Other actions are not indicated at this time.`, 
         state: `notAnswered`,
         userAnswered: [],

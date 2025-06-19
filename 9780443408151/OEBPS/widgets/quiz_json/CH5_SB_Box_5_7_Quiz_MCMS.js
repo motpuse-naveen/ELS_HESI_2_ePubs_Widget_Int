@@ -45,7 +45,7 @@ var quiz = [
         option: [`Check for a carotid pulse`, `Begin chest compressions`, `Administer epinephrine 1:10,000 IV`, `Initiate bag-valve mask ventilations`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 0,
+        answer: [0],
         ansText:`Rationale: Per basic cardiopulmonary life support (BCLS) guidelines, when a person is found to be unconscious, the first step the RN would take is to assess for responsiveness and checking for a carotid pulse. This action is the highest priority at this time. Then the RN would proceed with the subsequent steps in the BCLS guidelines.`, 
         state: `notAnswered`,
         userAnswered: [],

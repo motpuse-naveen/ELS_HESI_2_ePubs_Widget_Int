@@ -6,7 +6,7 @@ var quiz = [
         option: [`An older client who has thick, dark red drainage in a urinary catheter 1 day after a transurethral prostatic resection`, `A middle-aged client admitted with a diagnosis of acute renal failure secondary to a reaction to IV pyelogram dye`, `An older client who has end-stage renal disease and complains of nausea after receiving digoxin`, `A middle-aged client who receives hemodialysis and has been prescribed epoetin alfa subcutaneous daily`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 3,
+        answer: [3],
         ansText:`Rationale: The middle-aged client who receives hemodialysis and has been prescribed epoetin alfa subcutaneous daily can be assigned to the practical nurse (PN). This injection can be administered by the PN. All other clients listed require more advanced assessment by the registered nurse (RN).`, 
         state: `notAnswered`,
         userAnswered: [],

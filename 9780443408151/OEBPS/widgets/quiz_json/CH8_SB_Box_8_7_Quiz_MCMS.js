@@ -6,7 +6,7 @@ var quiz = [
         option: [`Osteoporosis`, `Obesity`, `Anorexia`, `Breast cancer`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 0,
+        answer: [0],
         ansText:`Rationale: The RN would prepare a teaching plan for this client who is at high risk for osteoporosis due to her postmenopausal status and a low BMI, indicating she is underweight relative to height. The other information is not priority information that the RN needs to share.`, 
         state: `notAnswered`,
         userAnswered: [],
