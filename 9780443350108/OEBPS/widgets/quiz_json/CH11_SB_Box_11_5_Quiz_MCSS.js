@@ -5,7 +5,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Disinterested`,` Concerned`,` Matter of fact`,` Empathetic`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         state: `notAnswered`,

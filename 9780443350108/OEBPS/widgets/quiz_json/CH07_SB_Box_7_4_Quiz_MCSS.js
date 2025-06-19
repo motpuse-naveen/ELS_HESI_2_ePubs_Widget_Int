@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`The client diagnosed with hyperthyroidism who is exhibiting exophthalmos.`,`The client diagnosed with type 1 diabetes who has an inflamed foot ulcer`,
 		`The client with Cushing syndrome exhibiting moon face.`,` The client with Addison disease showing tremors and diaphoresis.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: The client with Addison disease showing tremors and diaphoresis needs to be assessed first. These can be signs of 
@@ -20,9 +20,9 @@ var quiz = [
 		further teaching is necessary?`,
         q2: ``,
         q3: [],
-        option: [` “I can take aspirin if I need it for pain.”`,`“I need to take medication at the same time daily.”`,` “I need to check for bruising on my skin.”`
+        option: [`“I can take aspirin if I need it for pain.”`,`“I need to take medication at the same time daily.”`,`“I need to check for bruising on my skin.”`,
 		` “If I gain 5 lb. (2.27 kg) in a week, I will call the HCP.”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`Rationale: Clients prescribed prednisone need to be aware that using aspirin with steroids can cause bleeding. Clients are expected 

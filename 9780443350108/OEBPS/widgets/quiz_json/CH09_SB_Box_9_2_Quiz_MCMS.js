@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`DTaP`,` Hep B`,` Hep C`,` HiB`,` IPV`,` PCV`,` RV`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0, 1, 3, 4, 5, 6],
          state: `notAnswered`,

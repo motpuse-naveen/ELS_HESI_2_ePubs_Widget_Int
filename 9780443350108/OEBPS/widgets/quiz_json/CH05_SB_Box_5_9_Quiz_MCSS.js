@@ -7,7 +7,7 @@ var quiz = [
 		`The client receiving IV aminoglycosides per CVC who complains of nausea and has a trough level below therapeutic levels`,`The client with a chest tube that drained 150 mL in the last hour`,
 		`The client receiving chemotherapy whose temperature is 98.9 °F (37.2 °C) and who has a white blood cell (WBC) count of 2500/mm3 (2.5 x 109/L) 
 		(Ref. range: 5–10 × 109/L)`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: The HCP should be notified immediately if the chest tube drainage is >70 mL/hr. The first client does not require 

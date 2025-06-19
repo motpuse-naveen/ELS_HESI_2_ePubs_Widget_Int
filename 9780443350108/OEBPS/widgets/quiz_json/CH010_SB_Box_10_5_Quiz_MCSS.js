@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` The placenta receives decreased maternal blood flow during pregnancy because of vascular constriction`,` In response to maternal hyperglycemia, the fetus secretes insulin, causing weight gain and growth`,
         ` Infants of diabetic mothers are postmature, which allows the fetus extra time to grow`,` Rapid fetal growth contributes to congenital anomalies, which are more common in infants of diabetic mothers`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         state: `notAnswered`,

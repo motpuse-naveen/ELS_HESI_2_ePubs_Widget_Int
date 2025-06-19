@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [` IV D5NS at 300 mL/h for 3 hours`,` Hydrocortisone sodium succinate 100 mg IV push`,` Potassium 20 mEq in 100 mL saline IV over 60 minutes`,
 		` 50% dextrose intravenous push `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Addison crisis leads to high potassium levels; therefore, the PN would question an order for IV administration of 

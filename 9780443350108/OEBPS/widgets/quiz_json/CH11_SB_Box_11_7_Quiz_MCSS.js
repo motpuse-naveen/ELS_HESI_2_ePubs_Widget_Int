@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Withhold the dose until after breakfast`,` Give the client the prescribed dose`,`Obtain a prescription to increase the dose`,` Withhold the dose and notify the HCP`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

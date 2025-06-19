@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` Tell the client’s family to consult the health care provider (HCP)`,` Ask the client to restate what the HCP told her`,` Encourage the client to inform her family about the results`,
         ` Suggest that the client talk to the PN about her fears`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

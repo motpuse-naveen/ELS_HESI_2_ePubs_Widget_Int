@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`Provide iron-rich foods on each dietary tray.`,`Monitor the client’s vital signs every hour.`,` Encourage fluids every 2 hours.`,
 		` Encourage postoperative leg exercises. `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: The client has experienced excessive bleeding, and the PN should monitor the client’s vital signs more closely 

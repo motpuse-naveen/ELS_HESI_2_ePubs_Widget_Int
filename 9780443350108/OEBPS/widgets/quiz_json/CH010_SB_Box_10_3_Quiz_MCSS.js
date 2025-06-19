@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [` Demonstrate how to diaper the baby correctly`,` Observe the client diapering the baby while offering praise and hints`,` Call the social worker for long-term follow-up`,
        ` Reassure the client that she knows how to take care of her baby `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         state: `notAnswered`,

@@ -44,7 +44,7 @@ const questions_data = {
                   dropdowns:{
                     dropdown1:{values:["Respiratory acidosis", "Respiratory alkalosis", "Metabolic acidosis", "Metabolic alkalosis"],correctValue: "Respiratory alkalosis",dropdownlabel:"Select an option", useCommonOptions:"false"},
                     dropdown2:{values:["increased", "decreased", "normal"],correctValue: "decreased",dropdownlabel:"Select an option", useCommonOptions:"false"},
-                    dropdown1:{values:["PaCO₂", "HCO₃", "PaO₂", "SaO₂"],correctValue: "PaCO₂",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                    dropdown3:{values:["PaCO₂", "HCO₃", "PaO₂", "SaO₂"],correctValue: "PaCO₂",dropdownlabel:"Select an option", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline
                   correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> PaCO₂ levels below 35 mmHg indicate respiratory alkalosis. Normal levels of PaCO2 are 35-45 mmHg. This ABG shows that the client is hyperventilating and blowing off too much CO2 leading to an alkalotic state. This is also evident with the previous assessment findings documenting a RR of 24 breaths per minute.</p>`,
@@ -104,7 +104,7 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "1140",dropdownlabel:"Select an heparin dosage", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> <p>#1: 80 units x 76 kg = 6080 units</p><p>#1: 18 units x 76 kg = 1368 units</p><p>#1: 20 units x 76 kg = 1520 units</p><p>#1: 17 units x 76 kg = 1292 units</p><p>#1: 15 units x 76 kg = 1140 units</p>`,
+                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 units x 76 kg = 6080 units</p><p>#1: 18 units x 76 kg = 1368 units</p><p>#1: 20 units x 76 kg = 1520 units</p><p>#1: 17 units x 76 kg = 1292 units</p><p>#1: 15 units x 76 kg = 1140 units</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
                   incorrectFeedback: `Your answer is incorrect.`
               }

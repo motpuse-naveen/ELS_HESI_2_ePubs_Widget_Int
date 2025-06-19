@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`Activate the code team and obtain defibrillator.`,` Assess for responsiveness.`,` Assess the cardiac rhythm using the quick-look paddles.`,
 		`Assess for a carotid pulse.`,` Open airway and give two rescue breaths by bag-valve mask.`,` Move the client to a flat position in bed or on the floor.`,`Begin compressions.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1, 3, 0, 5, 6, 4, 2],
         ansText:`Rationale: First determine the client’s level of responsiveness and breathing adequacy, and if a pulse is present. Then initiate a

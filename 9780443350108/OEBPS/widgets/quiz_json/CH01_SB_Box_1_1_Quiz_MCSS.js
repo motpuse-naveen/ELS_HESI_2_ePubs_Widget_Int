@@ -6,7 +6,7 @@ var quiz = [
         option: [`Instruct the UAP to offer the client a glass of warm prune juice at mealtimes.`, `Ask the charge nurse to request a prescription for a stool 
 		softener.`, `Assess client’s medical record to determine his normal bowel pattern.`, `Instruct a family member to offer the client fluids, 
 		up to five 8-oz. glasses per day.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Assessing the normal bowel pattern in a client with possible constipation provides the information to determine an appropriate 
@@ -23,7 +23,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Call the HCP.`, `Obtain a bedside pulse oximeter.`, `Raise the head of the bed further.`, `Assess the client’s vital signs.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Remember to address ABCs first. The objective is to assist the client in using the accessory muscles of breathing.

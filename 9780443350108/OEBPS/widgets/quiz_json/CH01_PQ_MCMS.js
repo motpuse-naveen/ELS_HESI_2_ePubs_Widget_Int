@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`Provide an educational film about the value of nutrition in pregnancy.`, `Inform the mother how inadequate nutrition affects the infant’s health.`,
 		`Assist client in finding a resource for providing adequate nutrition.`,`Refer client to a dietician responsible for clients diagnosed with diabetes.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Assisting the client in finding resources to provide adequate nutrition is most appropriate and most helpful to the client. 
@@ -23,7 +23,7 @@ var quiz = [
         option: [` View the client reading the information booklet on diabetes.`, `Have the PN demonstrate the steps of insulin injection.`, 
 		` Reinforce teaching and observe the client’s self-injection technique.`, `Provide the client with free access to an online interactive program on 
 		injection techniques.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Reinforcing teaching and observing the client directly will allow the PN to determine if mastery of the skill has been obtained 
@@ -40,7 +40,7 @@ var quiz = [
         q3: [],
         option: [` Early-onset gestational diabetes`, `An indication for a potential preeclampsia condition`, 
 		` Symptomatic of a urinary tract infection`,` Normal pregnancy changes in carbohydrate metabolism`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: A missed meal often causes presence of ketones in the urine. It indicates inadequate carbohydrate intake. The ketones do not indicate
@@ -55,7 +55,7 @@ var quiz = [
         q3: [],
         option: [`Hyperbilirubinemia`, `Postmaturity of the infant`, 
 		` Psychological addiction to heroin`,` Probability of meconium aspiration`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: There is a very high probability of meconium aspiration in the infant of a mother addicted to heroin. Efforts to preserve airway 
@@ -71,7 +71,7 @@ var quiz = [
         q3: [],
         option: [`Child maintains eye contact with the parent.`, `Child is shown how to pet the dog nicely.`, 
 		` Parent asks the child to help with dusting the room.`,` Parent says, “Don’t do that. It’s wrong.”`,`Parent asks the child, “Would you like a bedtime story?”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [ 0, 1, 3, 4],
         ansText:`Rationale: A child who maintains eye contact with the parent, treats animals with kindness, helps with household chores, and is open to hearing a bedtime
@@ -88,7 +88,7 @@ var quiz = [
         q3: [],
         option: [`Place something soft in the client’s mouth to protect the tongue from being bitten.`, `Pull the emergency call light.`, 
 		` Notify the registered nurse (RN) immediately.`,`Administer a dose of calcium gluconate.`,` Give oxytocin 10 mg IM per protocol.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1, 2],
         ansText:`Rationale: The PN should pull the emergency call light for assistance and notify the RN immediately when a client is having a seizure.
@@ -104,7 +104,7 @@ var quiz = [
         q3: [],
         option: [`Encourage the child to use guided imagery to cope.`, ` Place the client in the treatment room, not the child’s room.`, 
 		` Apply a lidocaine-based cream just before inserting the IV catheter.`,`Ask the parents to leave the room while performing the procedure.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: The child’s room is a safe zone, and painful treatments should not be performed in the child’s room. Guided imagery may be too 
@@ -121,7 +121,7 @@ var quiz = [
         q3: [],
         option: [` Always place infants on their backs to sleep.`, `  Room sharing has been shown to decrease SIDS.`, 
 		` Keep the crib free of stuffed animals and crib pads.`,`Sleeping with the baby can alert the mother to changes.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: Sleeping with the baby increases the risk of injury and SIDS in infants. The other answer options should be implemented to

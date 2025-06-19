@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Apical rate 90 beats/min`,` Blood pressure 96/50`,` Frequent swallowing`,` Nasal congestion `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
          state: `notAnswered`,

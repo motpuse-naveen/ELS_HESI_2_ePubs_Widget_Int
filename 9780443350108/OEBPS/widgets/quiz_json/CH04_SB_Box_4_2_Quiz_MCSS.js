@@ -6,7 +6,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` HR of 83 beats/min`,`BP of 104/64 mm Hg`,`Respiratory rate of 27 breaths/min`,`SpO2 92% of 2 L/min O2 via nasal cannula`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: This respiratory rate is high, especially for a client on oxygen, and requires thorough assessment. This finding 
@@ -22,7 +22,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Administer acetaminophen 1000 mg.`,` Draw two sets of blood cultures.`,`Administer the ordered IV antibiotics.`,`Draw serum lactate and glucose levels.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: The highest priority would be to draw two sets of blood cultures for this client with suspected sepsis. The pathogen 
@@ -39,7 +39,7 @@ var quiz = [
         q3: [],
         option: [` Assess the client’s temperature.`,`Notify the charge nurse and HCP.`,` Clean the blood from the incision site.`,`Draw labs for PT,
 		PTT, CBC, and fibrinogen.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: The client is in shock and showing signs of disseminated intravascular coagulation (DIC). The client requires immediate

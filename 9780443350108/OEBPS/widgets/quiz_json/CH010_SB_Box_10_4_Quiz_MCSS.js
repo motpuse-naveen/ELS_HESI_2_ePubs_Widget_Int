@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`“You have the best doctor on the staff, so don’t worry about a thing.”`,` “Your anxiety is contributing to your condition and may be the reason for your admission.”`,
         ` “This is a minor problem that is easily controlled, and everything will be all right.”`,` As you and your baby are assessed, the plan of care will be shared and your questions addressed.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

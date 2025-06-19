@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Elevated serum potassium`,`Increase in serum calcium`,`Low hemoglobin`,`Reduction in serum sodium`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`Rationale: For a client with end-stage renal disease who is undergoing hemodialysis, the PN should verify laboratory values that 
@@ -22,7 +22,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`  Dyspnea`,` Nocturia`,`Confusion`,`Stomatitis`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: Changes in urine frequency, amount, and nocturia are early symptoms of renal insufficiency. Dyspnea and confusion are

@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [` Pain`,` Capillary refill`,` Urine ketones`,` Weight`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: Obtaining the client’s weight informs the PN about fluid balance. This is the most important nursing assessment after discharge for the client with nephrotic syndrome. Pain, capillary refill, and urine ketones are not the most important symptoms to assess.`,

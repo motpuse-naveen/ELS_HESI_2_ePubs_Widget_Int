@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`The parameters of the state’s or province’s nurse practice act`, `The need to complete the hospital’s adverse occurrence report`, 
 		` Hospital protocol regarding the frequency of vital sign assessment every hour postoperatively`, ` The HCP’s order for changing the postoperative dressing`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`Rationale: To delegate tasks to unlicensed assistive personnel (UAP), the licensed practical nurse (PN) must be knowledgeable regarding the
@@ -25,7 +25,7 @@ var quiz = [
         q3: [],
         option: [`Monitor the nurses closely for further occurrences.`, `Advise them to cease their communication.`, `Inform the nurse manager of the conversation.`, 
 		  ` Submit an occurrence or variance report.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: Nurses should not discuss client information in public settings, as it violates the Health Insurance Portability and Accountability

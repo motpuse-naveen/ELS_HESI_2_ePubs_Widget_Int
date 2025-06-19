@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [`The restraint was ordered by the HCP.`, `There is not enough staff to keep the client safe all the time.`,
 		`The other clients are upset when the client wanders at night.`, ` The client’s actions place the client at high risk for self-harm.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: The client’s behavior places the client at high risk for self-harm. Restraints may be applied to protect the client from injury 

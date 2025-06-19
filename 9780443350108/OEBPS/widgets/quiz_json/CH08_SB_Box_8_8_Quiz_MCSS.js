@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [`Positions a client who is 12 hours post–above-the-knee amputation (AKA) with the residual limb elevated.`,` Assists a client with ambulation while the client uses a cane on the unaffected side.`,
         ` Accompanies a client who has lupus erythematosus to sit outside in the sun during a break.`,` Helps a client with rheumatoid arthritis to the bathroom after the client takes celecoxib (Celebrex).`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale:  Sunlight may trigger lupus and should be avoided. The PN needs to instruct both the client and the UAP. The other clients do not require immediate follow-up.`, 

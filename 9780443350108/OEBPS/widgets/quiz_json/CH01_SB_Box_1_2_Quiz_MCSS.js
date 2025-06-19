@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`Place a call to the HCP.`, `Review the client’s serum parathyroid hormone level.`, 
 		` Give a PRN dose of IV calcium per protocol.`, ` Administer the dose of oral phosphate.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`Rationale: The serum calcium level is elevated (normally 9.0–10.5 mg/dL or 2.25–2.62 mmol/L) in hyperparathyroidism, and the prescribed 
@@ -24,7 +24,7 @@ var quiz = [
         q3: [],
         option: [`Witness the client’s signature on the consent form.`, `Answer the client’s questions about the surgery.`, `Inform the charge nurse that the client has questions about the surgery.`, 
 		`Reassure the client that the surgeon will answer any questions before the anesthesia is administered.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Informed consent must be obtained prior to performing any invasive procedure. The PN needs to notify the charge nurse that the client 

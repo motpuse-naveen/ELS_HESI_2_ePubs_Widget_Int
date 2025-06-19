@@ -53,23 +53,23 @@
 <item id="Title_page" href="xhtml/Title_page.xhtml" media-type="application/xhtml+xml"/>
 <item id="Copyright_iv_B9780323934404000130" href="xhtml/Copyright_iv_B9780323934404000130.xhtml" media-type="application/xhtml+xml"/>
 <item id="Reviewers_vi_B9780323934404000142" href="xhtml/Reviewers_vi_B9780323934404000142.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch001_1-11_B9780323934404000014" href="xhtml/Ch001_1-11_B9780323934404000014.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch002_12-19_B9780323934404000026" href="xhtml/Ch002_12-19_B9780323934404000026.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch003_20-34_B9780323934404000038" href="xhtml/Ch003_20-34_B9780323934404000038.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch004_35-42_B978032393440400004X" href="xhtml/Ch004_35-42_B978032393440400004X.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch005_44-63_B9780323934404000051" href="xhtml/Ch005_44-63_B9780323934404000051.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch006_64-76_B9780323934404000063" href="xhtml/Ch006_64-76_B9780323934404000063.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch007_77-87_B9780323934404000075" href="xhtml/Ch007_77-87_B9780323934404000075.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch008_88-104_B9780323934404000087" href="xhtml/Ch008_88-104_B9780323934404000087.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch009_105-119_B9780323934404000099" href="xhtml/Ch009_105-119_B9780323934404000099.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch010_120-134_B9780323934404000105" href="xhtml/Ch010_120-134_B9780323934404000105.xhtml" media-type="application/xhtml+xml"/>
-<item id="Ch011_135-147_B9780323934404000117" href="xhtml/Ch011_135-147_B9780323934404000117.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ch001_1-11_B9780323934404000014" href="xhtml/Ch001_1-11_B9780323934404000014.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch002_12-19_B9780323934404000026" href="xhtml/Ch002_12-19_B9780323934404000026.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch003_20-34_B9780323934404000038" href="xhtml/Ch003_20-34_B9780323934404000038.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch004_35-42_B978032393440400004X" href="xhtml/Ch004_35-42_B978032393440400004X.xhtml"  media-type="application/xhtml+xml"/>
+<item id="Ch005_44-63_B9780323934404000051" href="xhtml/Ch005_44-63_B9780323934404000051.xhtml"  media-type="application/xhtml+xml"/>
+<item id="Ch006_64-76_B9780323934404000063" href="xhtml/Ch006_64-76_B9780323934404000063.xhtml"  media-type="application/xhtml+xml"/>
+<item id="Ch007_77-87_B9780323934404000075" href="xhtml/Ch007_77-87_B9780323934404000075.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch008_88-104_B9780323934404000087" href="xhtml/Ch008_88-104_B9780323934404000087.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch009_105-119_B9780323934404000099" href="xhtml/Ch009_105-119_B9780323934404000099.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch010_120-134_B9780323934404000105" href="xhtml/Ch010_120-134_B9780323934404000105.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch011_135-147_B9780323934404000117" href="xhtml/Ch011_135-147_B9780323934404000117.xhtml"  media-type="application/xhtml+xml"/>
 <item id="AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166" properties="mathml" href="xhtml/AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166.xhtml" media-type="application/xhtml+xml"/>
-<item id="AppendixA_175-176_B9780323934404000178" href="xhtml/AppendixA_175-176_B9780323934404000178.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixA_175-176_B9780323934404000178" href="xhtml/AppendixA_175-176_B9780323934404000178.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="AppendixB_177-177_B978032393440400018X" href="xhtml/AppendixB_177-177_B978032393440400018X.xhtml" media-type="application/xhtml+xml"/>
 <item id="AppendixC_178-178_B9780323934404000191" href="xhtml/AppendixC_178-178_B9780323934404000191.xhtml" media-type="application/xhtml+xml"/>
-<item id="AppendixD_179-204_B9780323934404000208" properties="mathml" href="xhtml/AppendixD_179-204_B9780323934404000208.xhtml" media-type="application/xhtml+xml"/>
-<item id="AppendixE_205-216_B978032393440400021X" properties="mathml" href="xhtml/AppendixE_205-216_B978032393440400021X.xhtml" media-type="application/xhtml+xml"/>
+<item id="AppendixD_179-204_B9780323934404000208" href="xhtml/AppendixD_179-204_B9780323934404000208.xhtml" properties="mathml" media-type="application/xhtml+xml"/>
+<item id="AppendixE_205-216_B978032393440400021X" href="xhtml/AppendixE_205-216_B978032393440400021X.xhtml" properties="mathml scripted" media-type="application/xhtml+xml"/>
 <item id="cssel" href="styles/Elsevier_eBook.css" media-type="text/css"/>
 <item id="cssme" href="styles/media.css" media-type="text/css"/>
 <item id="cssma" href="styles/math.css" media-type="text/css"/>
@@ -335,6 +335,276 @@
 <item id="raj16" href="widgets/Poptip/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
 <item id="raj17" href="widgets/Poptip/script/transcription.js" media-type="text/javascript"/>
 
+
+<!--Inline Question Common Files-->
+<item id="iq1" href="widgets/inline_questions/libs/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="iq2" href="widgets/inline_questions/libs/jQuery.print.js" media-type="text/javascript"/>
+<item id="iq3" href="widgets/inline_questions/libs/video.min.js" media-type="text/javascript"/>
+<item id="iq4" href="widgets/inline_questions/question_handlers.js" media-type="text/javascript"/>
+<item id="iq5" href="widgets/inline_questions/question_renderer.js" media-type="text/javascript"/>
+<item id="iq6" href="widgets/inline_questions/libs/video-js.css" media-type="text/css"/>
+<item id="iq7" href="widgets/inline_questions/questions.css" media-type="text/css"/>
+<item id="iq8" href="widgets/inline_questions/audio.css" media-type="text/css"/>
+<item id="iq9" href="widgets/inline_questions/images/correct.png" media-type="image/png"/>
+<item id="iq10" href="widgets/inline_questions/images/incorrect.png" media-type="image/png"/>
+<item id="iq11" href="widgets/inline_questions/fonts/FiraSans-Light.otf" media-type="font/otf"/>
+<item id="iq12" href="widgets/inline_questions/fonts/FiraSans-ExtraBold.otf" media-type="font/otf"/>
+<item id="iq13" href="widgets/inline_questions/fonts/FiraSans-Bold.otf" media-type="font/otf"/>
+<item id="iq14" href="widgets/inline_questions/fonts/FiraSans-Regular.otf" media-type="font/otf"/>
+<item id="iq15" href="widgets/inline_questions/images/minus.svg" media-type="image/svg+xml"/>
+<item id="iq16" href="widgets/inline_questions/images/plus.svg" media-type="image/svg+xml"/>
+<item id="iq17" href="widgets/inline_questions/images/image_zoom.svg" media-type="image/svg+xml"/>
+<item id="iq18" href="widgets/inline_questions/images/check-feedback.svg" media-type="image/svg+xml"/>
+<item id="iq19" href="widgets/inline_questions/images/x-feedback.svg" media-type="image/svg+xml"/>
+<item id="iq20" href="widgets/inline_questions/images/tick-green.svg" media-type="image/svg+xml"/>
+<item id="iq21" href="widgets/inline_questions/images/x-red.svg" media-type="image/svg+xml"/>
+
+<!--MCMS Common files-->
+<item id="mcms_common_1" href="widgets/MCMS/css/style.css" media-type="text/css"/>
+<item id="mcms_common_2" href="widgets/MCMS/images/assessment_check_large.png" media-type="image/png"/>
+<item id="mcms_common_3" href="widgets/MCMS/images/assessment_check_white.png" media-type="image/png"/>
+<item id="mcms_common_4" href="widgets/MCMS/images/check_normal.png" media-type="image/png"/>
+<item id="mcms_common_5" href="widgets/MCMS/images/false.png" media-type="image/png"/>
+<item id="mcms_common_6" href="widgets/MCMS/images/false_red.png" media-type="image/png"/>
+<item id="mcms_common_7" href="widgets/MCMS/images/figure_arrow_mask_left.png" media-type="image/png"/>
+<item id="mcms_common_8" href="widgets/MCMS/images/figure_arrow_mask_right.png" media-type="image/png"/>
+<item id="mcms_common_9" href="widgets/MCMS/images/left-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_10" href="widgets/MCMS/images/left-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_11" href="widgets/MCMS/images/left-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_12" href="widgets/MCMS/images/right-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_13" href="widgets/MCMS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_14" href="widgets/MCMS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_15" href="widgets/MCMS/images/x.png" media-type="image/png"/>
+<item id="mcms_common_16" href="widgets/MCMS/js/QUIZMCMS.js" media-type="text/javascript"/>
+<item id="mcms_common_17" href="widgets/MCMS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="mcms_common_18" href="widgets/MCMS/script/main.js" media-type="text/javascript"/>
+
+<!--MCSS Common Files-->
+<item id="mcss_common_1" href="widgets/MCSS/css/style.css" media-type="text/css"/>
+<item id="mcss_common_2" href="widgets/MCSS/images/assessment_check_large.png" media-type="image/png"/>
+<item id="mcss_common_3" href="widgets/MCSS/images/assessment_check_white.png" media-type="image/png"/>
+<item id="mcss_common_4" href="widgets/MCSS/images/check_normal.png" media-type="image/png"/>
+<item id="mcss_common_5" href="widgets/MCSS/images/false.png" media-type="image/png"/>
+<item id="mcss_common_6" href="widgets/MCSS/images/false_red.png" media-type="image/png"/>
+<item id="mcss_common_7" href="widgets/MCSS/images/figure_arrow_mask_left.png" media-type="image/png"/>
+<item id="mcss_common_8" href="widgets/MCSS/images/figure_arrow_mask_right.png" media-type="image/png"/>
+<item id="mcss_common_9" href="widgets/MCSS/images/left-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_10" href="widgets/MCSS/images/left-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_11" href="widgets/MCSS/images/left-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_12" href="widgets/MCSS/images/right-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_13" href="widgets/MCSS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_14" href="widgets/MCSS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_15" href="widgets/MCSS/images/x.png" media-type="image/png"/>
+<item id="mcss_common_16" href="widgets/MCSS/script/main.js" media-type="text/javascript"/>
+<item id="mcss_common_17" href="widgets/MCSS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="mcss_common_18" href="widgets/MCSS/js/ch02_ass.js" media-type="application/javascript"/>
+
+<!--Inline Question Data Files-->
+<item id="iqdata1" href="widgets/inline_questions/data/ch01_question_data.js" media-type="text/javascript"/>
+<item id="iqdata2" href="widgets/inline_questions/data/ch02_question_data.js" media-type="text/javascript"/>
+<item id="iqdata3" href="widgets/inline_questions/data/ch03_question_data.js" media-type="text/javascript"/>
+<item id="iqdata4" href="widgets/inline_questions/data/ch07_question_data.js" media-type="text/javascript"/>
+<item id="iqdata5" href="widgets/inline_questions/data/ch08_question_data.js" media-type="text/javascript"/>
+<item id="iqdata6" href="widgets/inline_questions/data/ch09_question_data.js" media-type="text/javascript"/>
+<item id="iqdata7" href="widgets/inline_questions/data/ch10_question_data.js" media-type="text/javascript"/>
+<item id="iqdata8" href="widgets/inline_questions/data/Appendix_A_question_data.js" media-type="text/javascript"/>
+<item id="iqdata9" href="widgets/inline_questions/data/Appendix_E_question_data.js" media-type="text/javascript"/>
+<!--Quiz(MCSS/MCMS) Data Files-->
+<item id="CH01_PQ_MCMS" href="widgets/quiz_json/CH01_PQ_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_E_UCS1_MCMS" href="widgets/quiz_json/Appendix_E_UCS1_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_E_UCS2_MCMS" href="widgets/quiz_json/Appendix_E_UCS2_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_E_UCS3_MCMS" href="widgets/quiz_json/Appendix_E_UCS3_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_D_PQ_Sec3_Quiz_MCSS" href="widgets/quiz_json/Appendix_D_PQ_Sec3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="Appendix_D_PQ_Sec4_Quiz_MCMS" href="widgets/quiz_json/Appendix_D_PQ_Sec4_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_D_PQ_Sec5_Quiz_MCMS" href="widgets/quiz_json/Appendix_D_PQ_Sec5_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_D_PQ_Sec6_Quiz_MCMS" href="widgets/quiz_json/Appendix_D_PQ_Sec6_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="Appendix_D_PQ_Sec7_Quiz_MCSS" href="widgets/quiz_json/Appendix_D_PQ_Sec7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="Appendix_D_PQ_Sec8_Quiz_MCMS" href="widgets/quiz_json/Appendix_D_PQ_Sec8_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH01_SB_Box_1_1_Quiz_MCSS" href="widgets/quiz_json/CH01_SB_Box_1_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH01_SB_Box_1_2_Quiz_MCSS" href="widgets/quiz_json/CH01_SB_Box_1_2_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_1_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_2_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_2_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_3_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_4_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_5_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_6_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_7_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_8_Quiz_MCSS" href="widgets/quiz_json/CH02_SB_Box_2_8_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH02_SB_Box_2_9_Quiz_MCMS" href="widgets/quiz_json/CH02_SB_Box_2_9_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH03_SB_Box_3_1_Quiz_MCSS" href="widgets/quiz_json/CH03_SB_Box_3_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH03_SB_Box_3_3_Quiz_MCMS" href="widgets/quiz_json/CH03_SB_Box_3_3_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH03_SB_Box_3_3-3_Quiz_MCSS" href="widgets/quiz_json/CH03_SB_Box_3_3-3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH03_SB_Box_3_4_Quiz_MCSS" href="widgets/quiz_json/CH03_SB_Box_3_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH03_SB_Box_3_5_Quiz_MCMS" href="widgets/quiz_json/CH03_SB_Box_3_5_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH04_NGN_MCMS" href="widgets/quiz_json/CH04_NGN_MCMS.js" media-type="text/javascript"/>
+<item id="CH04_SB_Box_4_1_Quiz_MCSS" href="widgets/quiz_json/CH04_SB_Box_4_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH04_SB_Box_4_2_Quiz_MCSS" href="widgets/quiz_json/CH04_SB_Box_4_2_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH04_SB_Box_4_3_Quiz_MCMS" href="widgets/quiz_json/CH04_SB_Box_4_3_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH04_SB_Box_4_4_Quiz_MCSS" href="widgets/quiz_json/CH04_SB_Box_4_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH04_SB_Box_4_5_Quiz_MCMS" href="widgets/quiz_json/CH04_SB_Box_4_5_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_1_Quiz_MCMS" href="widgets/quiz_json/CH05_SB_Box_5_1_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_2_Quiz_MCMS" href="widgets/quiz_json/CH05_SB_Box_5_2_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_3_Quiz_MCSS" href="widgets/quiz_json/CH05_SB_Box_5_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_4_Quiz_MCSS" href="widgets/quiz_json/CH05_SB_Box_5_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_5_Quiz_MCSS" href="widgets/quiz_json/CH05_SB_Box_5_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_6_Quiz_MCMS" href="widgets/quiz_json/CH05_SB_Box_5_6_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_7_Quiz_MCMS" href="widgets/quiz_json/CH05_SB_Box_5_7_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_8_Quiz_MCSS" href="widgets/quiz_json/CH05_SB_Box_5_8_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH05_SB_Box_5_9_Quiz_MCSS" href="widgets/quiz_json/CH05_SB_Box_5_9_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH06_NGN_MCMS" href="widgets/quiz_json/CH06_NGN_MCMS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_1_Quiz_MCMS" href="widgets/quiz_json/CH06_SB_Box_6_1_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_2_Quiz_MCMS" href="widgets/quiz_json/CH06_SB_Box_6_2_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_3_Quiz_MCSS" href="widgets/quiz_json/CH06_SB_Box_6_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_4_Quiz_MCSS" href="widgets/quiz_json/CH06_SB_Box_6_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_5_Quiz_MCMS" href="widgets/quiz_json/CH06_SB_Box_6_5_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_6_Quiz_MCSS" href="widgets/quiz_json/CH06_SB_Box_6_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH06_SB_Box_6_7_Quiz_MCSS" href="widgets/quiz_json/CH06_SB_Box_6_7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH07_SB_Box_7_1_Quiz_MCMS" href="widgets/quiz_json/CH07_SB_Box_7_1_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH07_SB_Box_7_2_Quiz_MCMS" href="widgets/quiz_json/CH07_SB_Box_7_2_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH07_SB_Box_7_3_Quiz_MCSS" href="widgets/quiz_json/CH07_SB_Box_7_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH07_SB_Box_7_4_Quiz_MCSS" href="widgets/quiz_json/CH07_SB_Box_7_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH07_SB_Box_7_5_Quiz_MCSS" href="widgets/quiz_json/CH07_SB_Box_7_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH07_SB_Box_7_6_Quiz_MCSS" href="widgets/quiz_json/CH07_SB_Box_7_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_1_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_2_Quiz_MCMS" href="widgets/quiz_json/CH08_SB_Box_8_2_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_3_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_4_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_5_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_6_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_7_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_8_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_8_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_9_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_9_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_10_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_10_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_1_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_2_Quiz_MCMS" href="widgets/quiz_json/CH09_SB_Box_9_2_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_3_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_4_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_5_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_6_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_7_1_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_7_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_7_3_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_7_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_8_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_8_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_9_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_9_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_10_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_10_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_11_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_11_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_12_Quiz_MCMS" href="widgets/quiz_json/CH09_SB_Box_9_12_Quiz_MCMS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_13_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_13_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_1_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_2_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_2_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_3_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_4_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_5_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_6_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_7_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH010_SB_Box_10_8_Quiz_MCSS" href="widgets/quiz_json/CH010_SB_Box_10_8_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_1_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_2_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_2_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_3_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_3_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_4_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_4_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_5_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_5_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_6_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_6_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_7_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_8_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_8_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH11_SB_Box_11_9_Quiz_MCSS" href="widgets/quiz_json/CH11_SB_Box_11_9_Quiz_MCSS.js" media-type="text/javascript"/>
+<!--Quiz(/MCMS) XHTML Files-->
+<item id="MCMS1" href="widgets/MCMS/xhtml/CH01_PQ_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS2" href="widgets/MCMS/xhtml/Appendix_E_UCS1_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS3" href="widgets/MCMS/xhtml/Appendix_E_UCS2_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS4" href="widgets/MCMS/xhtml/Appendix_E_UCS3_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS5" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec4_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS6" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS7" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec6_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS8" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec8_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS9" href="widgets/MCMS/xhtml/CH02_SB_Box_2_9_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS10" href="widgets/MCMS/xhtml/CH03_SB_Box_3_3_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS11" href="widgets/MCMS/xhtml/CH03_SB_Box_3_5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS12" href="widgets/MCMS/xhtml/CH04_NGN_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS13" href="widgets/MCMS/xhtml/CH04_SB_Box_4_3_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS14" href="widgets/MCMS/xhtml/CH04_SB_Box_4_5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS15" href="widgets/MCMS/xhtml/CH05_SB_Box_5_1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS16" href="widgets/MCMS/xhtml/CH05_SB_Box_5_2_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS17" href="widgets/MCMS/xhtml/CH05_SB_Box_5_6_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS18" href="widgets/MCMS/xhtml/CH05_SB_Box_5_7_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS19" href="widgets/MCMS/xhtml/CH06_NGN_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS20" href="widgets/MCMS/xhtml/CH06_SB_Box_6_1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS21" href="widgets/MCMS/xhtml/CH06_SB_Box_6_2_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS22" href="widgets/MCMS/xhtml/CH06_SB_Box_6_5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS23" href="widgets/MCMS/xhtml/CH07_SB_Box_7_1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS24" href="widgets/MCMS/xhtml/CH07_SB_Box_7_2_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS25" href="widgets/MCMS/xhtml/CH08_SB_Box_8_2_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS26" href="widgets/MCMS/xhtml/CH09_SB_Box_9_2_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCMS27" href="widgets/MCMS/xhtml/CH09_SB_Box_9_12_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<!--Quiz(/MCSS) XHTML Files-->
+<item id="MCSS1" href="widgets/MCSS/xhtml/CH02_SB_Box_2_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS2" href="widgets/MCSS/xhtml/Appendix_D_PQ_Sec3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS3" href="widgets/MCSS/xhtml/Appendix_D_PQ_Sec7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS4" href="widgets/MCSS/xhtml/CH01_SB_Box_1_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS5" href="widgets/MCSS/xhtml/CH01_SB_Box_1_2_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS6" href="widgets/MCSS/xhtml/CH02_SB_Box_2_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS7" href="widgets/MCSS/xhtml/CH02_SB_Box_2_2_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS8" href="widgets/MCSS/xhtml/CH02_SB_Box_2_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS9" href="widgets/MCSS/xhtml/CH02_SB_Box_2_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS10" href="widgets/MCSS/xhtml/CH02_SB_Box_2_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS11" href="widgets/MCSS/xhtml/CH02_SB_Box_2_7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS12" href="widgets/MCSS/xhtml/CH02_SB_Box_2_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS13" href="widgets/MCSS/xhtml/CH03_SB_Box_3_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS14" href="widgets/MCSS/xhtml/CH03_SB_Box_3_3-3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS15" href="widgets/MCSS/xhtml/CH03_SB_Box_3_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS16" href="widgets/MCSS/xhtml/CH04_SB_Box_4_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS17" href="widgets/MCSS/xhtml/CH04_SB_Box_4_2_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS18" href="widgets/MCSS/xhtml/CH04_SB_Box_4_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS19" href="widgets/MCSS/xhtml/CH05_SB_Box_5_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS20" href="widgets/MCSS/xhtml/CH05_SB_Box_5_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS21" href="widgets/MCSS/xhtml/CH05_SB_Box_5_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS22" href="widgets/MCSS/xhtml/CH05_SB_Box_5_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS23" href="widgets/MCSS/xhtml/CH05_SB_Box_5_9_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS24" href="widgets/MCSS/xhtml/CH06_SB_Box_6_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS25" href="widgets/MCSS/xhtml/CH06_SB_Box_6_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS26" href="widgets/MCSS/xhtml/CH06_SB_Box_6_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS27" href="widgets/MCSS/xhtml/CH06_SB_Box_6_7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS28" href="widgets/MCSS/xhtml/CH07_SB_Box_7_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS29" href="widgets/MCSS/xhtml/CH07_SB_Box_7_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS30" href="widgets/MCSS/xhtml/CH07_SB_Box_7_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS31" href="widgets/MCSS/xhtml/CH07_SB_Box_7_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS32" href="widgets/MCSS/xhtml/CH08_SB_Box_8_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS33" href="widgets/MCSS/xhtml/CH08_SB_Box_8_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS34" href="widgets/MCSS/xhtml/CH08_SB_Box_8_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS35" href="widgets/MCSS/xhtml/CH08_SB_Box_8_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS36" href="widgets/MCSS/xhtml/CH08_SB_Box_8_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS37" href="widgets/MCSS/xhtml/CH08_SB_Box_8_7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS38" href="widgets/MCSS/xhtml/CH08_SB_Box_8_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS39" href="widgets/MCSS/xhtml/CH08_SB_Box_8_9_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS40" href="widgets/MCSS/xhtml/CH08_SB_Box_8_10_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS41" href="widgets/MCSS/xhtml/CH09_SB_Box_9_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS42" href="widgets/MCSS/xhtml/CH09_SB_Box_9_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS43" href="widgets/MCSS/xhtml/CH09_SB_Box_9_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS44" href="widgets/MCSS/xhtml/CH09_SB_Box_9_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS45" href="widgets/MCSS/xhtml/CH09_SB_Box_9_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS46" href="widgets/MCSS/xhtml/CH09_SB_Box_9_7_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS47" href="widgets/MCSS/xhtml/CH09_SB_Box_9_7_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS48" href="widgets/MCSS/xhtml/CH09_SB_Box_9_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS49" href="widgets/MCSS/xhtml/CH09_SB_Box_9_9_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS50" href="widgets/MCSS/xhtml/CH09_SB_Box_9_10_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS51" href="widgets/MCSS/xhtml/CH09_SB_Box_9_11_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS52" href="widgets/MCSS/xhtml/CH09_SB_Box_9_13_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS53" href="widgets/MCSS/xhtml/CH010_SB_Box_10_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS54" href="widgets/MCSS/xhtml/CH010_SB_Box_10_2_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS55" href="widgets/MCSS/xhtml/CH010_SB_Box_10_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS56" href="widgets/MCSS/xhtml/CH010_SB_Box_10_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS57" href="widgets/MCSS/xhtml/CH010_SB_Box_10_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS58" href="widgets/MCSS/xhtml/CH010_SB_Box_10_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS59" href="widgets/MCSS/xhtml/CH010_SB_Box_10_7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS60" href="widgets/MCSS/xhtml/CH010_SB_Box_10_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS61" href="widgets/MCSS/xhtml/CH11_SB_Box_11_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS62" href="widgets/MCSS/xhtml/CH11_SB_Box_11_2_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS63" href="widgets/MCSS/xhtml/CH11_SB_Box_11_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS64" href="widgets/MCSS/xhtml/CH11_SB_Box_11_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS65" href="widgets/MCSS/xhtml/CH11_SB_Box_11_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS66" href="widgets/MCSS/xhtml/CH11_SB_Box_11_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS67" href="widgets/MCSS/xhtml/CH11_SB_Box_11_7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS68" href="widgets/MCSS/xhtml/CH11_SB_Box_11_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS69" href="widgets/MCSS/xhtml/CH11_SB_Box_11_9_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+
 </manifest>
 <spine page-progression-direction="ltr" toc="ncx">
 <itemref idref="html-cover-page" linear="yes"/>
@@ -359,6 +629,102 @@
 <itemref idref="AppendixC_178-178_B9780323934404000191" linear="yes"/>
 <itemref idref="AppendixD_179-204_B9780323934404000208" linear="yes"/>
 <itemref idref="AppendixE_205-216_B978032393440400021X" linear="yes"/>
+<itemref idref="MCMS1" linear="no"/>
+<itemref idref="MCMS2" linear="no"/>
+<itemref idref="MCMS3" linear="no"/>
+<itemref idref="MCMS4" linear="no"/>
+<itemref idref="MCMS5" linear="no"/>
+<itemref idref="MCMS6" linear="no"/>
+<itemref idref="MCMS7" linear="no"/>
+<itemref idref="MCMS8" linear="no"/>
+<itemref idref="MCMS9" linear="no"/>
+<itemref idref="MCMS10" linear="no"/>
+<itemref idref="MCMS11" linear="no"/>
+<itemref idref="MCMS12" linear="no"/>
+<itemref idref="MCMS13" linear="no"/>
+<itemref idref="MCMS14" linear="no"/>
+<itemref idref="MCMS15" linear="no"/>
+<itemref idref="MCMS16" linear="no"/>
+<itemref idref="MCMS17" linear="no"/>
+<itemref idref="MCMS18" linear="no"/>
+<itemref idref="MCMS19" linear="no"/>
+<itemref idref="MCMS20" linear="no"/>
+<itemref idref="MCMS21" linear="no"/>
+<itemref idref="MCMS22" linear="no"/>
+<itemref idref="MCMS23" linear="no"/>
+<itemref idref="MCMS24" linear="no"/>
+<itemref idref="MCMS25" linear="no"/>
+<itemref idref="MCMS26" linear="no"/>
+<itemref idref="MCMS27" linear="no"/>
+<itemref idref="MCSS1" linear="no"/>
+<itemref idref="MCSS2" linear="no"/>
+<itemref idref="MCSS3" linear="no"/>
+<itemref idref="MCSS4" linear="no"/>
+<itemref idref="MCSS5" linear="no"/>
+<itemref idref="MCSS6" linear="no"/>
+<itemref idref="MCSS7" linear="no"/>
+<itemref idref="MCSS8" linear="no"/>
+<itemref idref="MCSS9" linear="no"/>
+<itemref idref="MCSS10" linear="no"/>
+<itemref idref="MCSS11" linear="no"/>
+<itemref idref="MCSS12" linear="no"/>
+<itemref idref="MCSS13" linear="no"/>
+<itemref idref="MCSS14" linear="no"/>
+<itemref idref="MCSS15" linear="no"/>
+<itemref idref="MCSS16" linear="no"/>
+<itemref idref="MCSS17" linear="no"/>
+<itemref idref="MCSS18" linear="no"/>
+<itemref idref="MCSS19" linear="no"/>
+<itemref idref="MCSS20" linear="no"/>
+<itemref idref="MCSS21" linear="no"/>
+<itemref idref="MCSS22" linear="no"/>
+<itemref idref="MCSS23" linear="no"/>
+<itemref idref="MCSS24" linear="no"/>
+<itemref idref="MCSS25" linear="no"/>
+<itemref idref="MCSS26" linear="no"/>
+<itemref idref="MCSS27" linear="no"/>
+<itemref idref="MCSS28" linear="no"/>
+<itemref idref="MCSS29" linear="no"/>
+<itemref idref="MCSS30" linear="no"/>
+<itemref idref="MCSS31" linear="no"/>
+<itemref idref="MCSS32" linear="no"/>
+<itemref idref="MCSS33" linear="no"/>
+<itemref idref="MCSS34" linear="no"/>
+<itemref idref="MCSS35" linear="no"/>
+<itemref idref="MCSS36" linear="no"/>
+<itemref idref="MCSS37" linear="no"/>
+<itemref idref="MCSS38" linear="no"/>
+<itemref idref="MCSS39" linear="no"/>
+<itemref idref="MCSS40" linear="no"/>
+<itemref idref="MCSS41" linear="no"/>
+<itemref idref="MCSS42" linear="no"/>
+<itemref idref="MCSS43" linear="no"/>
+<itemref idref="MCSS44" linear="no"/>
+<itemref idref="MCSS45" linear="no"/>
+<itemref idref="MCSS46" linear="no"/>
+<itemref idref="MCSS47" linear="no"/>
+<itemref idref="MCSS48" linear="no"/>
+<itemref idref="MCSS49" linear="no"/>
+<itemref idref="MCSS50" linear="no"/>
+<itemref idref="MCSS51" linear="no"/>
+<itemref idref="MCSS52" linear="no"/>
+<itemref idref="MCSS53" linear="no"/>
+<itemref idref="MCSS54" linear="no"/>
+<itemref idref="MCSS55" linear="no"/>
+<itemref idref="MCSS56" linear="no"/>
+<itemref idref="MCSS57" linear="no"/>
+<itemref idref="MCSS58" linear="no"/>
+<itemref idref="MCSS59" linear="no"/>
+<itemref idref="MCSS60" linear="no"/>
+<itemref idref="MCSS61" linear="no"/>
+<itemref idref="MCSS62" linear="no"/>
+<itemref idref="MCSS63" linear="no"/>
+<itemref idref="MCSS64" linear="no"/>
+<itemref idref="MCSS65" linear="no"/>
+<itemref idref="MCSS66" linear="no"/>
+<itemref idref="MCSS67" linear="no"/>
+<itemref idref="MCSS68" linear="no"/>
+<itemref idref="MCSS69" linear="no"/>
 </spine>
 <guide>
 <reference type="cover" title="Cover Image" href="xhtml/Cover.xhtml"/>

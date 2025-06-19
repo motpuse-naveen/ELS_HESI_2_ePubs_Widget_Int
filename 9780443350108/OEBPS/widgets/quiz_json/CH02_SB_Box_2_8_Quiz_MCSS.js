@@ -6,7 +6,7 @@ var quiz = [
         option: [`The PN states to the PN coming on duty, “The client is anxious about complications after surgery. Review the information provided about how to use an incentive spirometer.”`,
 		` The PN refers to the electronic medical record (EMR) to review the client’s medication administration record.`, `During rounds, the PN talks about the problem the UAP created by not performing a fingerstick blood glucose test on the client.`,
 		`Before giving a report, the PN performs rounds on assigned clients so that there is less likelihood of interruption during handoff.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: The PN should not discuss or gossip about a problem with a fellow coworker during shift handoff. This incident should be

@@ -21,7 +21,7 @@ const questions_data = {
                 clozePlacement:"inline",//newline
               },
             ],
-            correctFeedback: `<p>Your answers is correct.<p><p><strong>Rationale</strong></p>
+            correctFeedback: `<p>Your answers is correct.</p><p><strong>Rationale</strong></p>
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>5</mn><mo>&#xA0;</mo><mfrac><mi>mcg</mi><mi>kg</mi></mfrac><mo>&#x00D7;</mo><mn>10</mn><mo>&#xA0;</mo><mi>kg</mi><mo>=</mo><mn>50</mn><mo>&#xA0;</mo><mi>mcg</mi></mrow></math></p>
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>50</mn><mo>&#xA0;</mo><mfrac><mi>mcg</mi><mi>day</mi></mfrac></mrow><mrow><mn>2</mn><mo>&#xA0;</mo><mi>doses</mi></mrow></mfrac><mo>=</mo><mn>25</mn><mo>&#xA0;</mo><mfrac><mi>mcg</mi><mi>dose</mi></mfrac></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,

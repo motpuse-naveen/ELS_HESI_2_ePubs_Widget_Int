@@ -6,7 +6,7 @@ var quiz = [
         q3: [],
         option: [`. Reiterate the purpose of the support group sessions`,` Ask the group to identify various stressful problems`,` Ask members to share stress-reducing strategies`,
         ` Terminate the meeting and evaluate the situation`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         state: `notAnswered`,

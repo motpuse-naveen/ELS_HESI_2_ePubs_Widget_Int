@@ -8,7 +8,7 @@ var quiz = [
         option: [` The LW removes the obligation to the client in any medical decision-making.`, ` The client is awake and alert, which makes the LW irrelevant and nonbinding.`, 
 		`  Lifesaving measures do not have to be explained to the client because of the signed LW.`, ` The family should be contacted to determine who has durable
 		power of attorney for health care for the client.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: This client is awake and alert and is capable of making decisions regarding health care procedures at this time. Therefore, the living 

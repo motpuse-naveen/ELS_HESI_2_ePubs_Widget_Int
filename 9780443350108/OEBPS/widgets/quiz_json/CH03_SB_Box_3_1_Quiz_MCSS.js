@@ -8,7 +8,7 @@ var quiz = [
         q3: [],
         option: [`Elevate the head of the bed and turn the client to side.`, `Assist with the administration of naloxone 0.4 mg IV.`, 
 		` Assess breath sounds and neurological status.`, ` Check vital signs and pulse oximetry.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`Rationale: The client’s respiratory rate is 6. The PN should assist with the administration of naloxone 0.4 mg IV immediately.

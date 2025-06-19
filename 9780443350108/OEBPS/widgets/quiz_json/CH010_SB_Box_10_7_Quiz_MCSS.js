@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` Place the infant’s head in the “sniff” position and give oxygen via face mask`,` Perform a bedside glucose test and feed the infant glucose water as needed`,
         `Assess the heart rate and perform chest compressions if rate is below 60 beats/min`,` Dry the infant and place under a radiant warmer or skin-to-skin with the mother `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

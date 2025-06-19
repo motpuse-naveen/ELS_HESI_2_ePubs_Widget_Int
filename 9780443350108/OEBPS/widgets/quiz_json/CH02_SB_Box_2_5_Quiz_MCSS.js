@@ -7,7 +7,7 @@ var quiz = [
         q3: [],
         option: [`“When did the surgeon explain the procedure to you?”`, `“Is any member of your family going to be here during your surgery?”`,
 		`“Have you been instructed in postoperative activities and restrictions?”`, `“Have you received any preoperative pain medication?”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`Rationale: Asking the client or knowing if the client has received pain medication before signing and witnessing the surgical consent form

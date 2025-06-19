@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [`Alcohol causes vasoconstriction and decreases placental perfusion`,` Alcohol decreases the lecithin to sphingomyelin (L:S) ratio, contributing to lung immaturity`,
         ` Alcohol causes vasodilation and increased fluid overload for the fetus`,` Alcohol during pregnancy places the fetus at risk for fetal alcohol spectrum disorders `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

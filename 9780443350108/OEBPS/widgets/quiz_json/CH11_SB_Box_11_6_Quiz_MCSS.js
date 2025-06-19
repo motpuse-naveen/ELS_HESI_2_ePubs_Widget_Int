@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Observe the client after meals for vomiting`,`Obtain daily weight and vital signs`,` Obtain serum potassium and calcium levels`,` Provide a structured environment at mealtimes`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
         state: `notAnswered`,

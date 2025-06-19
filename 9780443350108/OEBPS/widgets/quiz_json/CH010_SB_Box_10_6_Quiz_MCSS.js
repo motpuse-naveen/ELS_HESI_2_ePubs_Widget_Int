@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [`Ask the client if she would like to talk about losing her baby`,` Place cold cabbage leaves on the client’s breasts to decrease breast engorgement`,
         ` Send a referral to the grief counselor for at-home follow-up`, ` Review the client’s Rh and Coombs status, and notify the RN supervisor for Rhogam to be administered, if indicated. `],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,

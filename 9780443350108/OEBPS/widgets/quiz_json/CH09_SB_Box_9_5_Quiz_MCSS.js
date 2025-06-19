@@ -5,7 +5,7 @@ var quiz = [
         q3: [],
         option: [` “My child knows on which refrigerator shelf the inhalers are kept.”`,` “My child only needs to use inhalers when the peak flow numbers are in the red.”`,
         ` “My child will take the bronchodilator first, then the corticosteroid.”`,` “My child will need to rinse out their mouth after using the bronchodilator.”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
          state: `notAnswered`,
