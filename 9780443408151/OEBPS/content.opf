@@ -335,6 +335,69 @@
 <item id="raj16" href="widgets/Poptip/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
 <item id="raj17" href="widgets/Poptip/script/transcription.js" media-type="text/javascript"/>
 
+
+<!--Inline Question Common Files-->
+<item id="iq1" href="widgets/inline_questions/libs/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="iq2" href="widgets/inline_questions/libs/jQuery.print.js" media-type="text/javascript"/>
+<item id="iq3" href="widgets/inline_questions/libs/video.min.js" media-type="text/javascript"/>
+<item id="iq4" href="widgets/inline_questions/question_handlers.js" media-type="text/javascript"/>
+<item id="iq5" href="widgets/inline_questions/question_renderer.js" media-type="text/javascript"/>
+<item id="iq6" href="widgets/inline_questions/libs/video-js.css" media-type="text/css"/>
+<item id="iq7" href="widgets/inline_questions/questions.css" media-type="text/css"/>
+<item id="iq8" href="widgets/inline_questions/audio.css" media-type="text/css"/>
+<item id="iq9" href="widgets/inline_questions/images/correct.png" media-type="image/png"/>
+<item id="iq10" href="widgets/inline_questions/images/incorrect.png" media-type="image/png"/>
+<item id="iq11" href="widgets/inline_questions/fonts/FiraSans-Light.otf" media-type="font/otf"/>
+<item id="iq12" href="widgets/inline_questions/fonts/FiraSans-ExtraBold.otf" media-type="font/otf"/>
+<item id="iq13" href="widgets/inline_questions/fonts/FiraSans-Bold.otf" media-type="font/otf"/>
+<item id="iq14" href="widgets/inline_questions/fonts/FiraSans-Regular.otf" media-type="font/otf"/>
+<item id="iq15" href="widgets/inline_questions/images/minus.svg" media-type="image/svg+xml"/>
+<item id="iq16" href="widgets/inline_questions/images/plus.svg" media-type="image/svg+xml"/>
+<item id="iq17" href="widgets/inline_questions/images/image_zoom.svg" media-type="image/svg+xml"/>
+<item id="iq18" href="widgets/inline_questions/images/check-feedback.svg" media-type="image/svg+xml"/>
+<item id="iq19" href="widgets/inline_questions/images/x-feedback.svg" media-type="image/svg+xml"/>
+<item id="iq20" href="widgets/inline_questions/images/tick-green.svg" media-type="image/svg+xml"/>
+<item id="iq21" href="widgets/inline_questions/images/x-red.svg" media-type="image/svg+xml"/>
+
+<!--MCMS Common files-->
+<item id="mcms_common_1" href="widgets/MCMS/css/style.css" media-type="text/css"/>
+<item id="mcms_common_2" href="widgets/MCMS/images/assessment_check_large.png" media-type="image/png"/>
+<item id="mcms_common_3" href="widgets/MCMS/images/assessment_check_white.png" media-type="image/png"/>
+<item id="mcms_common_4" href="widgets/MCMS/images/check_normal.png" media-type="image/png"/>
+<item id="mcms_common_5" href="widgets/MCMS/images/false.png" media-type="image/png"/>
+<item id="mcms_common_6" href="widgets/MCMS/images/false_red.png" media-type="image/png"/>
+<item id="mcms_common_7" href="widgets/MCMS/images/figure_arrow_mask_left.png" media-type="image/png"/>
+<item id="mcms_common_8" href="widgets/MCMS/images/figure_arrow_mask_right.png" media-type="image/png"/>
+<item id="mcms_common_9" href="widgets/MCMS/images/left-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_10" href="widgets/MCMS/images/left-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_11" href="widgets/MCMS/images/left-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_12" href="widgets/MCMS/images/right-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_13" href="widgets/MCMS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_14" href="widgets/MCMS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcms_common_15" href="widgets/MCMS/images/x.png" media-type="image/png"/>
+<item id="mcms_common_16" href="widgets/MCMS/js/QUIZMCMS.js" media-type="text/javascript"/>
+<item id="mcms_common_17" href="widgets/MCMS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="mcms_common_18" href="widgets/MCMS/script/main.js" media-type="text/javascript"/>
+
+<!--MCSS Common Files-->
+<item id="mcss_common_1" href="widgets/MCSS/css/style.css" media-type="text/css"/>
+<item id="mcss_common_2" href="widgets/MCSS/images/assessment_check_large.png" media-type="image/png"/>
+<item id="mcss_common_3" href="widgets/MCSS/images/assessment_check_white.png" media-type="image/png"/>
+<item id="mcss_common_4" href="widgets/MCSS/images/check_normal.png" media-type="image/png"/>
+<item id="mcss_common_5" href="widgets/MCSS/images/false.png" media-type="image/png"/>
+<item id="mcss_common_6" href="widgets/MCSS/images/false_red.png" media-type="image/png"/>
+<item id="mcss_common_7" href="widgets/MCSS/images/figure_arrow_mask_left.png" media-type="image/png"/>
+<item id="mcss_common_8" href="widgets/MCSS/images/figure_arrow_mask_right.png" media-type="image/png"/>
+<item id="mcss_common_9" href="widgets/MCSS/images/left-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_10" href="widgets/MCSS/images/left-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_11" href="widgets/MCSS/images/left-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_12" href="widgets/MCSS/images/right-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_13" href="widgets/MCSS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_14" href="widgets/MCSS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="mcss_common_15" href="widgets/MCSS/images/x.png" media-type="image/png"/>
+<item id="mcss_common_16" href="widgets/MCSS/script/main.js" media-type="text/javascript"/>
+<item id="mcss_common_17" href="widgets/MCSS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="mcss_common_18" href="widgets/MCSS/js/ch02_ass.js" media-type="application/javascript"/>
 </manifest>
 <spine page-progression-direction="ltr" toc="ncx">
 <itemref idref="html-cover-page" linear="yes"/>

@@ -938,7 +938,9 @@ figure.fig-auto img {
 .dropdown-html{
 padding-bottom: 1rem;
 }
-
+.dropdown-html .tb{
+  text-indent: 0em;
+  }
 /* Image zoom */
 .lightbox {
   display: none;
@@ -1041,6 +1043,11 @@ padding-bottom: 1rem;
 
 iframe.frame_mcq{
   width: 100%;
+}
+
+ol.inlineques li{
+  text-indent: 0;
+  margin-left: 0;
 }
 
 @media print {

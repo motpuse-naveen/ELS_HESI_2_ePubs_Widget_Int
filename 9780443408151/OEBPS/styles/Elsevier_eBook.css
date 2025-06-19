@@ -4942,6 +4942,17 @@ iframe {
 	border:none;
 	width: 100%;
 }
+iframe.mcq_frame{
+	width: 100%;
+}
+object.mcq_frame{
+	width: 100%;
+}
+
+ol.dispnum{
+	list-style-type:decimal;
+}
+
 
 /********** RICE-22 (Forced margins to 0 for body) ***********/
 
