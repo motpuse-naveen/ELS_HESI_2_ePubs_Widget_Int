@@ -16,7 +16,7 @@ const questions_data = {
               { 
                 headerImage:{},
                 dropdownHtml:`<p id="p1820" class="b1textfl"><strong>Scenario:</strong> The RN is caring for a client admitted with heart failure. The home medication list is obtained.</p>
-                <p id="p1825" class="b1text">The medication #dropdown1# is contraindicated for clients with a history of heart failure and can worsen symptoms such as #dropdown2#.</p>`,
+                <p id="p1825">The medication #dropdown1# is contraindicated for clients with a history of heart failure and can worsen symptoms such as #dropdown2#.</p>`,
                 dropdowns:{
                   dropdown1:{values:["Furosemide 40 mg PO daily","Potassium chloride 20 mEq PO daily","Pioglitazone 45 mg PO daily","Enalapril 5 mg PO BID"],correctValue: "Pioglitazone 45 mg PO daily",dropdownlabel:"Select the home medication", useCommonOptions:"false"},
                   dropdown2:{values:["Exertional fatigue","Hypotension", "Hyperglycemia", "Unusual bleeding"],correctValue: "Exertional fatigue",dropdownlabel:"Select the symptoms", useCommonOptions:"false"}
@@ -27,7 +27,7 @@ const questions_data = {
                 incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
           },
     },

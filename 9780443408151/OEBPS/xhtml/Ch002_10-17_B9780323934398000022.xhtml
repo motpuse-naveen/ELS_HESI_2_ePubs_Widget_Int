@@ -7,6 +7,16 @@
 <link rel="stylesheet" type="text/css" href="../styles/Elsevier_eBook.css"/>
 <link rel="stylesheet" type="text/css" href="../styles/math.css"/>
 <link rel="stylesheet" media="only screen" type="text/css" href="../styles/media.css"/>
+
+
+<script type="text/javascript" src='../widgets/inline_questions/libs/jquery-3.6.0.min.js'></script>
+<script type="text/javascript" src="../widgets/inline_questions/libs/jQuery.print.js"></script>
+<link rel="stylesheet" type="text/css" href="../widgets/inline_questions/questions.css" media="all">
+</link>
+<script type="text/javascript" src='../widgets/inline_questions/data/ch02_question_data.js'></script>
+<script type="text/javascript" src='../widgets/inline_questions/question_handlers.js'></script>
+<script type="text/javascript" src='../widgets/inline_questions/question_renderer.js'></script>
+
 </head>
 <body><section role="doc-chapter" epub:type="chapter" id="c0002">
 <a id="Ch002_10-17_B9780323934398000022"/><div id="page_10" aria-label="Page 10" epub:type="pagebreak" role="doc-pagebreak"/><div id="CN"><a id="Ch002_10-17_B9780323934398000022titl"/>2</div><h1 class="chaptitle" epub:type="title" id="tit0010">Legal Aspects and Leadership Role of the Registered Nurse</h1><section><a id="s0010"/><h2 class="h1hd" id="st0010">Legal Systems</h2><p id="p0010" class="textfl"><a id="P10"/><a id="li0010"/></p><div><ul><li class="bulllist" id="u0010">&#8226;&#160;<a id="p0015"/>Civil law is concerned with the protection of the client&#8217;s private rights.</li><li class="bulllist" id="u0015">&#8226;&#160;<a id="p0020"/>Criminal law deals with the rights of individuals and society as defined by legislative laws.</li></ul></div></section><section><a id="s0015"/><h2 class="h1hd" id="st0015">Nursing Negligence and Malpractice</h2><a id="p0025"/><a id="li0015"/><div><ul><li class="bulllist" id="u0020">&#8226;&#160;<a id="p0030"/><strong>Nursing Negligence</strong><a id="li0020"/><ul><li class="unnumlist1" id="u0025"><a id="p0035"/>&#8212; Failure to exercise the proper degree of care required by the circumstances that a reasonable, prudent person would exercise under the same or similar circumstances to avoid harming others <em>(careless act)</em>.</li></ul></li><li class="bulllist" id="u0030">&#8226;&#160;<a id="p0040"/><strong>Nursing Malpractice</strong><a id="li0025"/><ul><li class="unnumlist1" id="u0035"><a id="p0045"/>&#8212; Failure to use the degree of care that a reasonable, prudent nurse would use under the same or similar circumstance <em>(professional negligence)</em>.</li></ul></li><li class="bulllist" id="u0040">&#8226;&#160;<a id="p0050"/><strong>Malpractice is found when</strong>:<a id="li0030"/><ul><li class="unnumlist1" id="u0045"><a id="p0055"/>&#8212; The nurse owed a duty to the client.</li><li class="unnumlist1" id="u0050"><a id="p0060"/>&#8212; The nurse did not carry out that duty or breached that duty.</li><li class="unnumlist1" id="u0055"><a id="p0065"/>&#8212; The client was injured.</li><li class="unnumlist1" id="u0060"><a id="p0070"/>&#8212; The nurse&#8217;s failure to carry out that duty caused the client&#8217;s injury.</li></ul></li></ul></div></section><section><a id="s0020"/><h2 class="h1hd" id="st0020">Standards of Care</h2><a id="p0075"/><a id="li0035"/><div><ul><li class="bulllist" id="u0065">&#8226;&#160;<a id="p0080"/>Nurses are required to follow standards of care, which originate in nurse practice acts; state and federal law (US) and provincial, territorial, and federal laws (Canada); accreditation recommendations; the guidelines of professional organizations; and the written policy and procedures of the health care agency.</li><li class="bulllist" id="u0070">&#8226;&#160;<a id="p0085"/>Nurses are responsible for performing procedures correctly and exercising professional judgment when implementing health care providers&#8217; (HCP) orders.</li><li class="bulllist" id="u0075">&#8226;&#160;<a id="p0090"/>Nurses retain the accountability and responsibility for delegated care/tasks.</li></ul></div><section/><aside aria-labelledby="b0010" epub:type="sidebar"><div class="boxg1" id="b0010"><p class="b1num">Study Break</p>
@@ -145,8 +155,13 @@
 <p id="p1185" class="textfl">Do not second-guess yourself and do not change your answers. Your first answer is usually the correct one if you have taken the time to break down and understand the question. Read each answer option carefully and chose the best option based on your gut instinct.<span id="page_17" aria-label="Page 17" epub:type="pagebreak" role="doc-pagebreak"/></p></section><section><a id="s0095"/><h2 class="h1hd" id="st0095">Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</h2>
 <a id="p1190"/><section/><aside aria-labelledby="b0055" epub:type="sidebar">
 <div class="boxg1" id="b0055">
+    <div id="group1_printable" class="printable_group">
 <p class="b1title"><a id="sp0085"/>Drop-Down Cloze</p>
 <p id="p1195" class="b1textfl"><strong>Scenario:</strong> A hospice nurse is admitting a new client to the company&#8217;s services. The client is a 68-year-old divorcee with three grown daughters who was diagnosed with small cell lung carcinoma over 1 year ago. The client underwent chemotherapy and radiation, but treatment was unsuccessful. The hospice nurse is discussing end-of-life plans with the client and the family. The client wishes to make decisions for care so that the family will not have to when the time comes.</p>
+
+    <div id="group1_placeholder" class="question-group"></div>
+    
+<!--
 <p id="p1200" class="b1text"><strong>Question:</strong> Complete the following sentence by choosing from the options.</p>
 <p id="p1205" class="b1text">The nurse would advise the client complete a(n) ______(1)__________ to officially document all wishes for end-of-life care to be implemented once the client is no longer able to make decisions. The client will also be advised to appoint a(n) _______(2)_________ to carry out the client&#8217;s medical wishes.</p>
 <div class="pageavoid" id="t0010">
@@ -173,6 +188,9 @@
 <p id="p1210" class="b1text">Answer: 1 = Advance directive, 2 = Health care proxy</p>
 <p id="p1215" class="b1text"><em>Rationale 1: An advance directive is a legal document that details a client&#8217;s wishes for health care to be instated if/when said client becomes incapacitated or unable to make decisions independently. Death with dignity consent is used for physician-assisted suicides in states where this is allowed. Informed consent is required before all invasive procedures but does not pertain to this situation. A last will and testament discusses how a client&#8217;s possessions will be dispersed but does not address medical issues</em>.</p>
 <p id="p1220" class="b1text"><em>Rationale 2: A health care proxy is the appropriate term for the individual who is appointed by a client to make health care decisions for the client if/when the client becomes unable to make decisions for themselves. The proxy should have a detailed understanding of the client&#8217;s wishes for end-of-life care and should be willing to see that those plans are carried out accordingly. This person is only entitled to make health care decisions and is not involved in financial decisions or estate planning. An attorney-in-fact is a person who assumes responsibility for making financial, legal, and business matter decisions for the client and is another term for someone with general power of attorney. An estate planner helps in designating who will handle a client&#8217;s assets and responsibilities after death</em>.</p>
-</div></aside></section></section>
+-->
+</div>
+</div>
+</aside></section></section>
 </body>
 </html>

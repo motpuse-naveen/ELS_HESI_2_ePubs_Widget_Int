@@ -21,11 +21,11 @@ const questions_data = {
                 clozePlacement:"inline",//newline
               },
             ],
-            correctFeedback: `<p>All of your answers are correct.<p><p><strong>Rationale</strong></p>
+            correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale</strong></p>
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn><mo>&#xA0;</mo><mi>mg</mi></mrow><mrow><mn>4</mn><mo>&#xA0;</mo><mi>mg</mi><mo>&#x00D7;</mo><mn>1</mn></mrow></mfrac><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>0.25</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "false",
         }, 
         group2: {
@@ -35,20 +35,19 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A client is receiving an infusion of dobutamine hydrochloride. The order reads: Infuse dobutamine IV at 5 mcg/kg/min available in 500 mg in 250 mL D5W. The client weighs 65 kg. Calculate the flow rate in mL/hr.</p>
-                <p> #closze1# mL/hr</p>`,
+                clozeHtml:`<p><strong>A client has an order for hydromorphone intravenous (IV) push 1 mg every 3 hours. The drug is available as 4 mg/mL per vial. The RN administers #cloze1# mL of hydromorphone for one dose. (Fill in the blank.)</strong></p>`,
                 clozes:{
                   cloze1:{correctValue: "9.75", clozelabel:"fill in the blank"},
                 },
                 clozePlacement:"inline",//newline
               },
             ],
-            correctFeedback: `<p>Your answers is correct.<p><p><strong>Rationale</strong></p>
+            correctFeedback: `<p>Your answers is correct.</p><p><strong>Rationale</strong></p>
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>500</mn><mo>&#xA0;</mo><mi>mg</mi><mo>=</mo><mn>500000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>250</mn><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>2000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>1</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p> 
             <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>(</mo><mn>5</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>&#x00D7;</mo><mn>65</mn><mo>&#xA0;</mo><mi>kg</mi><mo>&#x00D7;</mo><mn>60</mn><mo>&#xA0;</mo><mi>min</mi><mo>)</mo><mo>/</mo><mn>2000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>1</mn><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>9.75</mn><mo>&#xA0;</mo><mi>mL</mi><mo>/</mo><mi>hr</mi></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "false",
         }, 
         group3: {

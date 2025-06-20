@@ -7,6 +7,15 @@
 <link rel="stylesheet" type="text/css" href="../styles/Elsevier_eBook.css"/>
 <link rel="stylesheet" type="text/css" href="../styles/math.css"/>
 <link rel="stylesheet" media="only screen" type="text/css" href="../styles/media.css"/>
+
+<script type="text/javascript" src='../widgets/inline_questions/libs/jquery-3.6.0.min.js'></script>
+<script type="text/javascript" src="../widgets/inline_questions/libs/jQuery.print.js"></script>
+<link rel="stylesheet" type="text/css" href="../widgets/inline_questions/questions.css" media="all">
+</link>
+<script type="text/javascript" src='../widgets/inline_questions/data/ch01_question_data.js'></script>
+<script type="text/javascript" src='../widgets/inline_questions/question_handlers.js'></script>
+<script type="text/javascript" src='../widgets/inline_questions/question_renderer.js'></script>
+
 </head>
 <body><section role="doc-chapter" epub:type="chapter" id="c0001">
 <a id="Ch001_1-9_B9780323934398000010"/><div id="page_1" aria-label="Page 1" epub:type="pagebreak" role="doc-pagebreak"/><div id="CN"><a id="Ch001_1-9_B9780323934398000010titl"/>1</div><h1 class="chaptitle" epub:type="title" id="tit0010">Test-Taking Strategies and Study Guide</h1><section><a id="s0010"/><h2 class="h1hd" id="st0010">Goals of the Live Review Course</h2><p id="p0035" class="textfl"><a id="P1"/><a id="li0015"/></p><div><ul><li class="bulllist" id="u0035">&#8226;&#160;<a id="p0040"/>Strengthen test-taking skills.</li><li class="bulllist" id="u0040">&#8226;&#160;<a id="p0045"/>Provide practice answering NCLEX-style questions.</li><li class="bulllist" id="u0045">&#8226;&#160;<a id="p0050"/>Incorporate recommended strategies to manage test anxiety.</li><li class="bulllist" id="u0050">&#8226;&#160;<a id="p0055"/>Formulate a study plan using tools such as the <em>HESI Live Review Workbook for the NCLEX-RN Exam</em>.</li><li class="bulllist" id="u0055">&#8226;&#160;<a id="p0060"/>Review basic curriculum content.</li></ul></div></section><section><a id="s0015"/><h2 class="h1hd" id="st0015">NCLEX-RN Examination</h2><a id="p0065"/><a id="li0020"/><div><ul><li class="bulllist" id="u0060">&#8226;&#160;<a id="p0070"/>The test covers essential nursing knowledge (based on entry-level nursing that reflects current nursing practice).</li><li class="bulllist" id="u0065">&#8226;&#160;<a id="p0075"/>The test plan is revised every 3 years after a practice analysis with entry-level nurses is conducted. (New test plan was implemented April 2023.)</li><li class="bulllist" id="u0070">&#8226;&#160;<a id="p0080"/>Information about the detailed test plan, including descriptions of content categories and related content for each category, can be found at <a href="http://www.ncsbn.org">www.ncsbn.org</a>. The National Council of State Boards of Nursing (NCSBN) website also presents information for students, FAQs, and examples of alternate format test questions.</li></ul>
@@ -59,32 +68,38 @@
 <p id="p1505" class="textfl"><strong>A word of advice:</strong> <em>do not</em> expect to achieve the maximum benefits of this review tool by &#8220;cramming&#8221; a few days before the examination. <em>It does not work!</em> Instead, organize planned study sessions in an environment that you find relaxing, free of stress, and supportive of the learning process well in advance of taking your NCLEX.<span id="page_9" aria-label="Page 9" epub:type="pagebreak" role="doc-pagebreak"/></p></section><section><a id="s0135"/><h2 class="h1hd" id="st0135">Next Generation NCLEX&#174; Examination (NGN)&#8211;Style Question</h2>
 <p id="p1510" class="textfl"><strong><em>(Refer to the previous information regarding the different types of NGN questions. In each chapter of this review, we will give an example of each type of question so you can become familiar with this new NCLEX format.)</em></strong></p><section/><aside aria-labelledby="b0020" epub:type="sidebar">
 <div class="boxg1" id="b0020">
-<p class="b1title"><a id="sp0040"/>Drag and Drop Rationale</p>
-<p id="p1515" class="b1textfl"><strong>Scenario:</strong> The RN is caring for a client admitted with heart failure. The home medication list is obtained.</p>
-<p id="p1520" class="b1text">The medication ______(1)_______ is contraindicated for clients with a history of heart failure and can worsen symptoms such as _________(2)__________.</p>
-<div class="pageavoid" id="t0010">
-<table class="tbody" id="TABC000010t0010">
-<thead>
-<tr><th scope="col" class="tcolhd1">Home Medication List (Option #1)</th><th scope="col" class="tcolhd1">Symptoms (Option #2)</th></tr>
-</thead>
-<tbody>
-<tr>
-<td class="tb">Furosemide 40&#160;mg PO Daily</td>
-<td class="tb">Exertional fatigue</td></tr>
-<tr>
-<td class="tb">Potassium chloride 20 mEq PO Daily</td>
-<td class="tb">Hypotension</td></tr>
-<tr>
-<td class="tb">Pioglitazone 45&#160;mg PO Daily</td>
-<td class="tb">Hyperglycemia</td></tr>
-<tr>
-<td class="tb">Enalapril 5&#160;mg PO BID</td>
-<td class="tb">Unusual bleeding</td></tr>
-</tbody>
-</table>
+        <div id="group1_printable" class="printable_group">
+        <p class="b1title"><a id="sp0040"/>Drag and Drop Rationale</p>
+        <div id="group1_placeholder" class="question-group"></div>
+        <!--
+        <p id="p1515" class="b1textfl"><strong>Scenario:</strong> The RN is caring for a client admitted with heart failure. The home medication list is obtained.</p>
+        <p id="p1520" class="b1text">The medication ______(1)_______ is contraindicated for clients with a history of heart failure and can worsen symptoms such as _________(2)__________.</p>
+        <div class="pageavoid" id="t0010">
+                <table class="tbody" id="TABC000010t0010">
+                <thead>
+                <tr><th scope="col" class="tcolhd1">Home Medication List (Option #1)</th><th scope="col" class="tcolhd1">Symptoms (Option #2)</th></tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td class="tb">Furosemide 40&#160;mg PO Daily</td>
+                <td class="tb">Exertional fatigue</td></tr>
+                <tr>
+                <td class="tb">Potassium chloride 20 mEq PO Daily</td>
+                <td class="tb">Hypotension</td></tr>
+                <tr>
+                <td class="tb">Pioglitazone 45&#160;mg PO Daily</td>
+                <td class="tb">Hyperglycemia</td></tr>
+                <tr>
+                <td class="tb">Enalapril 5&#160;mg PO BID</td>
+                <td class="tb">Unusual bleeding</td></tr>
+                </tbody>
+                </table>
+        </div>
+        <p id="p1525" class="b1text">Answer: #1 = Pioglitazone, #2 = exertional fatigue.</p>
+        <p id="p1530" class="b1text"><em>Rationale: Pioglitazone is a medication used to treat type 2 diabetes and has been known to cause or worsen heart failure. This medication is contraindicated in clients who have heart failure and can lead to worsening symptoms such as exertional fatigue; swelling of the hands, legs, and feet; hypertension; and shortness of breath</em>.</p>
+        -->
 </div>
-<p id="p1525" class="b1text">Answer: #1 = Pioglitazone, #2 = exertional fatigue.</p>
-<p id="p1530" class="b1text"><em>Rationale: Pioglitazone is a medication used to treat type 2 diabetes and has been known to cause or worsen heart failure. This medication is contraindicated in clients who have heart failure and can lead to worsening symptoms such as exertional fatigue; swelling of the hands, legs, and feet; hypertension; and shortness of breath</em>.</p>
-</div></aside></section></section>
+</div>
+</aside></section></section>
 </body>
 </html>

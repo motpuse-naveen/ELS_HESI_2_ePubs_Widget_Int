@@ -398,6 +398,20 @@
 <item id="mcss_common_16" href="widgets/MCSS/script/main.js" media-type="text/javascript"/>
 <item id="mcss_common_17" href="widgets/MCSS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
 <item id="mcss_common_18" href="widgets/MCSS/js/ch02_ass.js" media-type="application/javascript"/>
+
+<!--Inline Question Data Files-->
+<item id="iqdata1" href="widgets/inline_questions/data/ch01_question_data.js" media-type="text/javascript"/>
+<item id="iqdata2" href="widgets/inline_questions/data/ch02_question_data.js" media-type="text/javascript"/>
+<item id="iqdata3" href="widgets/inline_questions/data/ch03_question_data.js" media-type="text/javascript"/>
+<item id="iqdata4" href="widgets/inline_questions/data/ch07_question_data.js" media-type="text/javascript"/>
+<item id="iqdata5" href="widgets/inline_questions/data/ch08_question_data.js" media-type="text/javascript"/>
+<item id="iqdata6" href="widgets/inline_questions/data/ch09_question_data.js" media-type="text/javascript"/>
+<item id="iqdata7" href="widgets/inline_questions/data/ch10_question_data.js" media-type="text/javascript"/>
+<item id="iqdata8" href="widgets/inline_questions/data/Appendix_A_question_data.js" media-type="text/javascript"/>
+<item id="iqdata9" href="widgets/inline_questions/data/Appendix_B_question_data.js" media-type="text/javascript"/>
+<item id="iqdata9" href="widgets/inline_questions/data/Appendix_C_question_data.js" media-type="text/javascript"/>
+<item id="iqdata9" href="widgets/inline_questions/data/Appendix_E_question_data.js" media-type="text/javascript"/>
+
 </manifest>
 <spine page-progression-direction="ltr" toc="ncx">
 <itemref idref="html-cover-page" linear="yes"/>

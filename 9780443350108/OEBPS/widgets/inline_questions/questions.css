@@ -1044,7 +1044,7 @@ padding-bottom: 1rem;
 iframe.frame_mcq{
   width: 100%;
 }
-
+ul.inlineques li,
 ol.inlineques li{
   text-indent: 0;
   margin-left: 0;

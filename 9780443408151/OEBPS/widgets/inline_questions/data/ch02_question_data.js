@@ -15,8 +15,8 @@ const questions_data = {
             items: [
               { 
                 headerImage:{},
-                dropdownHtml:`<p id="p1235" class="b1text"><strong>Question:</strong> Complete the following sentence by choosing from the options.</p>
-                <p id="p1240" class="b1text">The nurse would advise the client complete a(n) #dropdown1 # to officially document all wishes for end-of-life care to be implemented once the client is no longer able to make decisions. The client will also be advised to appoint a(n) #dropdown2# to carry out the client’s medical wishes.</p>`,
+                dropdownHtml:`<p id="p1235"><strong>Question:</strong> Complete the following sentence by choosing from the options.</p>
+                <p id="p1240">The nurse would advise the client complete a(n) #dropdown1# to officially document all wishes for end-of-life care to be implemented once the client is no longer able to make decisions. The client will also be advised to appoint a(n) #dropdown2# to carry out the client’s medical wishes.</p>`,
                 dropdowns:{
                   dropdown1:{values:["Death with dignity consent", "Informed consent", "Last will and testament", "Advance directive"],correctValue: "Advance directive",dropdownlabel:"Select the option", useCommonOptions:"false"},
                   dropdown2:{values:["Attorney-in-fact", "Power of attorney", "Health care proxy", "Estate planner"],correctValue: "Health care proxy",dropdownlabel:"Select the option", useCommonOptions:"false"}
@@ -29,7 +29,7 @@ const questions_data = {
                 incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
           },
     },

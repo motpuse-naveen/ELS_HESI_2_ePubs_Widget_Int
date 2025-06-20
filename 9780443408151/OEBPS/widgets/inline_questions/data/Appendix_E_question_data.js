@@ -28,7 +28,7 @@ const questions_data = {
                   incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
         },
         group2: {
@@ -52,7 +52,7 @@ const questions_data = {
                   incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
         },
         group3: {
@@ -75,7 +75,7 @@ const questions_data = {
                   incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
         },
         group4: {
@@ -109,7 +109,7 @@ const questions_data = {
                   incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
         },
         group5: {
@@ -142,7 +142,7 @@ const questions_data = {
                   incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
         },
         group6: {
@@ -165,7 +165,7 @@ const questions_data = {
                   incorrectFeedback: `Your answer is incorrect.`
               }
             ],
-            optionStyleType: "st-none",
+            optionStyleType: "",
             itemSeperator: "true",
         },
         group7: {
