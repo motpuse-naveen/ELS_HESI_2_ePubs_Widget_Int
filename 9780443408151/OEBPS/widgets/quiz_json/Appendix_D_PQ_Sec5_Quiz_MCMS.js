@@ -16,7 +16,7 @@ var quiz = [
         q: `A client at 39 weeks’ gestation plans to have an epidural block when labor is established. Which intervention(s) would the RN implement to prevent side effects? (Select all that apply.)`,
         q2: ``,
         q3: [],
-        option: [`Teach about the procedure and effects of the epidural.`, `Place the client in a chair next to the bed.`, `Administer a bolus of 500 mL of normal saline solution.`, ``, `Monitor the fetal heart rate and contractions continuously.`],
+        option: [`Teach about the procedure and effects of the epidural.`, `Place the client in a chair next to the bed.`, `Administer a bolus of 500 mL of normal saline solution.`, `Monitor the fetal heart rate and contractions continuously.`,`Assist the client to empty her bladder every 2 hours.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2,4],

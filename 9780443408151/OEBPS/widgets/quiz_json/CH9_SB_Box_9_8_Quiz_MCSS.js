@@ -3,7 +3,7 @@ var quiz = [
         q: `The RN is caring for a hospitalized 16-year-old client with Down syndrome who has a mental age of 5. Which priority nursing action would be included in this client’s plan of care to reduce anxiety?`,
         q2: ``,
         q3: [],
-        option: [`Monitoring for hearing loss`, `Monitoring I&O`, `Providing a dependable routine`, `Providing small puzzles`],
+        option: [`Monitoring for hearing loss`, `Monitoring I&amp;O`, `Providing a dependable routine`, `Providing small puzzles`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
