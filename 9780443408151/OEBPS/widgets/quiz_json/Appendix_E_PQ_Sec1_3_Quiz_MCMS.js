@@ -1,7 +1,7 @@
 var quiz = [
  
      {
-        q: `Which of the following nursing diagnoses would the RN include in the client’s plan of care?`,
+        q: `Question #3 (Multiple Response—Select All that Apply): Which of the following nursing diagnoses would the RN include in the client’s plan of care?`,
         q2: ``,
         q3: [],
         option: [`Unsuccessful airway clearance`, `Nutrition: intake less than body requirements`, `Inappropriate family coping`, `Sedentary lifestyle`, `Decreased gas exchange`, `Risk for injury`, `Diminished comfort`, `Risk for infection`, `Powerlessness`, `Constipation`],
