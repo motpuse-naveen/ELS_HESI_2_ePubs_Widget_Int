@@ -19,8 +19,8 @@ const questions_data = {
                   <p>The RN identifies this rhythm as #dropdown1#. The RN places the client on continuous telemetry.</p>
                   <p>The RN would recognize the priority client problem is #dropdown2# associated with this rhythm.</p>`,
                   dropdowns:{
-                    dropdown1:{values:["Atrial flutter", "Supraventricular tachycardia", "Atrial fibrillation", "Complete heart block"],correctValue: "Atrial Fibrillation",dropdownlabel:"Select an option", useCommonOptions:"false"},
-                    dropdown2:{values:["High blood pressure", "Risk for stroke", "Need for health teaching", "Decreased clotting"],correctValue: "Risk for Stroke",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                    dropdown1:{values:["Atrial flutter", "Supraventricular tachycardia", "Atrial fibrillation", "Complete heart block"],correctValue: "Atrial fibrillation",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                    dropdown2:{values:["High blood pressure", "Risk for stroke", "Need for health teaching", "Decreased clotting"],correctValue: "Risk for stroke",dropdownlabel:"Select an option", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline
                   correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> Risk for stroke is the priority client problem when experiencing atrial fibrillation. Clients have an increased likelihood of developing a clot within the atria due to incomplete emptying of blood from the heart chambers. If the clot leaves the atria, it can travel through the circulatory system to the brain and cause a stroke. Treatment for atrial fibrillation is most likely to cause low blood pressure, not high. The client will require health teaching, but this is not the priority nursing problem. Atrial fibrillation causes increased risk of clotting, not decreased.</p>`,
@@ -30,6 +30,29 @@ const questions_data = {
             ],
             optionStyleType: "",
             itemSeperator: "true",
+        },
+        group8: {
+          id: "group8",
+          type: "dropdown",
+          placeholder_id: "group8_placeholder",
+          commonDropdownOptions:[],
+          items: [
+              {
+                headerImage:{},
+                dropdownHtml:`<p><strong>Question #6 (Drag &amp; Drop Rationale):</strong> Drag the options to complete the sentence.</p>
+                <p>The nurse validates that teaching is effective when the client states: Cigarette smoking causes peripheral #dropdown1# which leads to increased peripheral vascular resistance and #dropdown2# peripheral tissue and organ perfusion.</p>`,
+                dropdowns:{
+                  dropdown1:{values:["Vasoconstriction", "Vasodilation", "Hypoxia", "Hypercapnia"],correctValue: "Vasoconstriction",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                  dropdown2:{values:["Decreased", "Increased", "Unaffected"],correctValue: "Decreased",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                },
+                dropdownPlacement:"inline",//newline
+                correctFeedback: `<p>All of your answer are correct.</p>`,
+                partialFeedback: `You have one or more incorrect answers.`,
+                incorrectFeedback: `Your answer is incorrect.`
+            }
+          ],
+          optionStyleType: "",
+          itemSeperator: "true",
         },
         group2: {
             id: "group2",
@@ -55,6 +78,7 @@ const questions_data = {
             optionStyleType: "",
             itemSeperator: "true",
         },
+        /*
         group3: {
             id: "group3",
             type: "dropdown",
@@ -181,5 +205,6 @@ const questions_data = {
           optionStyleType: "st-decimal",
           itemSeperator: "true",
         },
+        */
     },
 };

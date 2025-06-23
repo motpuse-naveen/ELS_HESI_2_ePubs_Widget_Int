@@ -12,7 +12,7 @@ const questions_data = {
         placeholder_id: "group1_placeholder",
         items: [
           {
-              title: `<p><strong>Notes</strong></p>`,
+              title: `<strong>Notes</strong>`,
               feedback: ``,
           }
         ],

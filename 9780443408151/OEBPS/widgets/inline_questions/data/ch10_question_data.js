@@ -15,11 +15,7 @@ const questions_data = {
             items: [
                 {
                   headerImage:{},
-                  dropdownHtml:`<table>
-                    <tr><td>#dropdown1#</td><td></td><td>#dropdown2#</td></tr>
-                    <tr><td></td><td>#dropdown3#</td><td></td></tr>
-                    <tr><td>#dropdown4#</td><td></td><td>#dropdown5#</td></tr>
-                    </table>`,
+                  dropdownHtml:`<table><tr><td class="td_ddl att"><div class="lbl_ddl">Action to Take</div>#dropdown1#</td><td class="empty1"></td><td></td><td class="empty1"></td><td class="td_ddl ptm"><div class="lbl_ddl">Parameters to Monitor</div>#dropdown2#</td></tr><tr><td></td><td class="empty_cell"><div class="big-greater-than"></div></td><td class="td_ddl cc"><div class="lbl_ddl">Client Condition</div>#dropdown3#</td><td class="empty_cell"><div class="big-less-than"></div></td><td></td></tr><tr><td class="td_ddl att"><div class="lbl_ddl">Action to Take</div>#dropdown4#</td><td class="empty1"></td><td></td><td class="empty1"></td><td class="td_ddl ptm"><div class="lbl_ddl">Parameters to Monitor</div>#dropdown5#</td></tr></table>`,
                   dropdowns:{
                     dropdown1:{values:["Apply fetal monitors", "Perform manual vaginal exam", "Apply suprapubic pressure", "Prepare for cesarean delivery","Place in right lateral position"],correctValue: "Apply fetal monitors",dropdownlabel:"Select Actions to Take", useCommonOptions:"false"},
                     dropdown2:{values:["FHR variability", "Amount of bleeding, clots", "Late decelerations", "Biophysical profile", "Uterine atony"],correctValue: "Amount of bleeding, clots",dropdownlabel:"Select Parameters to Monitor", useCommonOptions:"false"},
