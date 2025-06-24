@@ -78,7 +78,6 @@ const questions_data = {
             optionStyleType: "",
             itemSeperator: "true",
         },
-        /*
         group3: {
             id: "group3",
             type: "dropdown",
@@ -102,6 +101,7 @@ const questions_data = {
             optionStyleType: "",
             itemSeperator: "true",
         },
+        
         group4: {
             id: "group4",
             type: "dropdown",
@@ -128,7 +128,7 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "1140",dropdownlabel:"Select an heparin dosage", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> <p>#1: 80 units x 76 kg = 6080 units/hr</p><p>#1: 18 units x 76 kg = 1368 units/hr</p><p>#1: 20 units x 76 kg = 1520 units/hr</p><p>#1: 17 units x 76 kg = 1292 units/hr</p><p>#1: 15 units x 76 kg = 1140 units/hr</p>`,
+                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 units x 76 kg = 6080 units/hr</p><p>#1: 18 units x 76 kg = 1368 units/hr</p><p>#1: 20 units x 76 kg = 1520 units/hr</p><p>#1: 17 units x 76 kg = 1292 units/hr</p><p>#1: 15 units x 76 kg = 1140 units/hr</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
                   incorrectFeedback: `Your answer is incorrect.`
               }
@@ -136,6 +136,7 @@ const questions_data = {
             optionStyleType: "",
             itemSeperator: "true",
         },
+        
         group5: {
             id: "group5",
             type: "dropdown",
@@ -198,13 +199,12 @@ const questions_data = {
           placeholder_id: "group7_placeholder",
           items: [
             {
-                title: `<p><strong>Notes</strong></p>`,
+                title: `<strong>Notes</strong>`,
                 feedback: ``,
             }
           ],
           optionStyleType: "st-decimal",
           itemSeperator: "true",
-        },
-        */
+        }
     },
 };
