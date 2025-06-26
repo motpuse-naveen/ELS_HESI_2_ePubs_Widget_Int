@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The client’s behavior places the client at high risk for self- harm. Restraints may be applied to protect the client from injury after all other measures to protect the client have been attempted. The health care provider (HCP) can prescribe restraints only once all other less restrictive interventions have failed. Staffing issues are not legal indications for restraining a client. Wandering at night and other client concerns are also not reasons for applying restraints.`, 
+        ansText:`<strong>Rationale:</strong> The client’s behavior places the client at high risk for self- harm. Restraints may be applied to protect the client from injury after all other measures to protect the client have been attempted. The health care provider (HCP) can prescribe restraints only once all other less restrictive interventions have failed. Staffing issues are not legal indications for restraining a client. Wandering at night and other client concerns are also not reasons for applying restraints.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

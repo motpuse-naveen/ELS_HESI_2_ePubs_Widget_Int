@@ -72,12 +72,10 @@ body {
 }
 
 body {
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
+  /*width: 100%;*/
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: Arial, Helvetica, sans-serif, FiraSans-Regular;
+  /*font-family: Arial, Helvetica, sans-serif, FiraSans-Regular;*/
 }
 hr.seperator {
   border: 0;
@@ -144,6 +142,8 @@ button.disabled {
 }
 .question-group {
   margin-bottom: 3rem;
+  background-color: #FFFFFF;
+  padding: 0.5rem 1rem;
 }
 .question-main .groupWrapper {
   padding: 0px 30px;

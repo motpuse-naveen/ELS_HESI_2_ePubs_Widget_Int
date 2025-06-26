@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The client with end-stage renal disease going through hemodialysis should not experience hyperkalemia. The RN should verify with the laboratory the values that reflect an elevated serum potassium. It is normal for calcium levels to increase during hemodialysis. Anemia is a normal finding in hemodialysis as phosphate is removed. A drop in serum sodium is normal in hemodialysis.`, 
+        ansText:`<strong>Rationale:</strong> The client with end-stage renal disease going through hemodialysis should not experience hyperkalemia. The RN should verify with the laboratory the values that reflect an elevated serum potassium. It is normal for calcium levels to increase during hemodialysis. Anemia is a normal finding in hemodialysis as phosphate is removed. A drop in serum sodium is normal in hemodialysis.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Changes in urine frequency, amount, and nocturia are early symptoms of renal insufficiency. Dyspnea and confusion are late signs of renal dysfunction. Stomatitis is not a symptom of renal insufficiency.`, 
+        ansText:`<strong>Rationale:</strong> Changes in urine frequency, amount, and nocturia are early symptoms of renal insufficiency. Dyspnea and confusion are late signs of renal dysfunction. Stomatitis is not a symptom of renal insufficiency.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

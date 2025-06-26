@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: A client with a complaint of sudden onset of substernal discomfort must be assessed immediately by the RN. All other interventions listed are inappropriate for this client.`, 
+        ansText:`<strong>Rationale:</strong> A client with a complaint of sudden onset of substernal discomfort must be assessed immediately by the RN. All other interventions listed are inappropriate for this client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,20 +20,20 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2,4,1,0,3],
-        ansText:`Rationale: For emergency care of the client with chest pain, it is important to quickly gather vital signs, provide O2, administer nitroglycerin, notify the rapid response team, and finally, document.`, 
+        ansText:`<strong>Rationale:</strong> For emergency care of the client with chest pain, it is important to quickly gather vital signs, provide O2, administer nitroglycerin, notify the rapid response team, and finally, document.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`
     },
     {
-        q: `For which dysrhythmia would the RN implement defibrillation? (Select all that apply.)`,
+        q: `For which dysrhythmia would the RN implement defibrillation?`,
         q2: ``,
         q3: [],
         option: [`Asystole`, `Pulseless electrical activity`, `Ventricular fibrillation`, `Pulseless ventricular tachycardia`, `Ventricular tachycardia`, `Atrial fibrillation`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2,3],
-        ansText:`Rationale: Ventricular fibrillation and pulseless ventricular tachycardia are life-threatening rhythms that require defibrillation. Stable ventricular tachycardia can be treated with medication or cardioversion. The other rhythms do not require defibrillation.`, 
+        ansText:`<strong>Rationale:</strong> Ventricular fibrillation and pulseless ventricular tachycardia are life-threatening rhythms that require defibrillation. Stable ventricular tachycardia can be treated with medication or cardioversion. The other rhythms do not require defibrillation.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`
@@ -46,7 +46,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: Per basic cardiopulmonary life support (BCLS) guidelines, when a person is found to be unconscious, the first step the RN would take is to assess for responsiveness and checking for a carotid pulse. This action is the highest priority at this time. Then the RN would proceed with the subsequent steps in the BCLS guidelines.`, 
+        ansText:`<strong>Rationale:</strong> Per basic cardiopulmonary life support (BCLS) guidelines, when a person is found to be unconscious, the first step the RN would take is to assess for responsiveness and checking for a carotid pulse. This action is the highest priority at this time. Then the RN would proceed with the subsequent steps in the BCLS guidelines.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

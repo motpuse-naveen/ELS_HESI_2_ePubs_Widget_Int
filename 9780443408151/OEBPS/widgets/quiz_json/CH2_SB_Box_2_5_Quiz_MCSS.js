@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: Asking the client or knowing if the client has received pain medication prior to signing and witnessing the surgical consent form is essential. Pain medications can alter a client’s ability to think clearly and make medical decisions. Consent should be obtained, and the signature witnessed, if possible, before pain medications are administered. The other questions are components of the preoperative checklist and should be reviewed with the client and family prior to the procedure.`, 
+        ansText:`<strong>Rationale:</strong> Asking the client or knowing if the client has received pain medication prior to signing and witnessing the surgical consent form is essential. Pain medications can alter a client’s ability to think clearly and make medical decisions. Consent should be obtained, and the signature witnessed, if possible, before pain medications are administered. The other questions are components of the preoperative checklist and should be reviewed with the client and family prior to the procedure.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

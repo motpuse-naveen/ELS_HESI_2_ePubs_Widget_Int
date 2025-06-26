@@ -8,7 +8,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2],
-        ansText:`Rationale: <p><strong>“Swelling and redness in my right leg is to be expected and I should elevate it when this occurs.”</strong> This is not an appropriate action. This finding could indicate a deep vein thrombosis is present. The client should notify the nurse immediately.</p>
+        ansText:`<strong>Rationale:</strong> <p><strong>“Swelling and redness in my right leg is to be expected and I should elevate it when this occurs.”</strong> This is not an appropriate action. This finding could indicate a deep vein thrombosis is present. The client should notify the nurse immediately.</p>
 <p><strong>“My pain meds may cause me to be constipated so I should eat oatmeal every day for breakfast.”</strong> Taking opioids may lead to constipation. Adding whole grains such as oatmeal will add fiber to the diet and decrease the risk of constipation.</p>
 <p><strong>“I should use an electric razor as long as I am taking the blood thinners.”</strong> Using an electric razor is advised when clients are prescribed anticoagulants to reduce the risk of bleeding.</p>
 <p><strong>“I will be able to drive myself to the rehab center.”</strong> It is not advised for the client to drive while taking opioids. Transportation should be provided to the facility.</p>

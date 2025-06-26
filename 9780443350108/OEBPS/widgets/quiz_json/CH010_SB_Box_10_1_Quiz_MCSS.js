@@ -1,15 +1,15 @@
 var quiz = [
 	
 	{
-        q: ` A client who is at 36 weeks’ gestation is placed in the lithotomy position. She suddenly complains of dyspnea, light-headedness, and shows marked pallor. Which action would the licensed practical nurse (PN) take first?`,
+        q: `A client who is at 36 weeks’ gestation is placed in the lithotomy position. She suddenly complains of dyspnea, light-headedness, and shows marked pallor. Which action would the licensed practical nurse (PN) take first?`,
         q2: ``,
         q3: [],
-        option: [`Turn the client to a lateral position`,` Place the client in Trendelenburg position`,` Obtain vital signs and pulse oximetry reading`,` Initiate distraction techniques `],
+        option: [`Turn the client to a lateral position`,`Place the client in Trendelenburg position`,`Obtain vital signs and pulse oximetry reading`,`Initiate distraction techniques `],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
         state: `notAnswered`,
-        ansText:`Rationale: Supine hypotension occurs when the gravid uterus compresses the vena cava. Turning the client to a lateral position will displace the uterus, allowing adequate blood to return to the heart, increasing cardiac output, and subsequently improving placental and renal perfusion. The other nursing interventions are not the priority.`,
+        ansText:`<strong>Rationale:</strong> Supine hypotension occurs when the gravid uterus compresses the vena cava. Turning the client to a lateral position will displace the uterus, allowing adequate blood to return to the heart, increasing cardiac output, and subsequently improving placental and renal perfusion. The other nursing interventions are not the priority.`,
         userAnswered: [],
         type:`MCSS`
     } ,
@@ -23,7 +23,7 @@ var quiz = [
         optionStyleType: `st-decimal`,
         answer: 2,
         state: `notAnswered`,
-        ansText:`Rationale: GTPAL for this client would be recorded as 4-1-2-0-4. This occurrence will be her fourth pregnancy, with one full-term delivery, two preterm deliveries (the pregnancy with twins is counted as only one delivery), zero abortions, and four living children. The other notations are incorrect.`,
+        ansText:`<strong>Rationale:</strong> GTPAL for this client would be recorded as 4-1-2-0-4. This occurrence will be her fourth pregnancy, with one full-term delivery, two preterm deliveries (the pregnancy with twins is counted as only one delivery), zero abortions, and four living children. The other notations are incorrect.`,
         userAnswered: [],
         type:`MCSS`
     } 

@@ -2,7 +2,7 @@ var quiz = [
 
 	
 	{
-        q: ` Which of the following nursing diagnoses would the PN anticipate will be included in the client’s plan of care?`,
+        q: `Which of the following nursing diagnoses would the PN anticipate will be included in the client’s plan of care?`,
         q2: ``,
         q3: [],
         option: [`Unsuccessful airway clearance`,`Nutrition: intake less than body requirements`,`Inappropriate family coping`,`Sedentary lifestyle`,`Decreased gas exchange`,
@@ -10,7 +10,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1,4,6,8,9],
-        ansText:`Rationale: Unsuccessful airway clearance: Persons with CF have increased mucus production. Excessive mucus and retained secretions are difficult to clear from the airway and are a chronic complication associated with this disorder.,
+        ansText:`<strong>Rationale:</strong> Unsuccessful airway clearance: Persons with CF have increased mucus production. Excessive mucus and retained secretions are difficult to clear from the airway and are a chronic complication associated with this disorder.,
         Nutrition: intake less than body requirements: CF impairs the digestive process and absorption of nutrients. Without adequate ingestion of pancreatic enzymes, the client is unable to digest food and absorb nutrients effectively.,
         Decreased gas exchange: This client is being admitted for a suspected lower respiratory infection which can decrease the lung's ability to exchange oxygen and carbon dioxide in the alveoli due to an accumulation of fluid and exudate.,
         Diminished comfort: The client reports a pain level of 4/10 with coughing. CF clients constantly need to clear secretions from their airway, resulting in frequent coughing. This will cause the client to perceive a lack of ease or relief from the pain.,

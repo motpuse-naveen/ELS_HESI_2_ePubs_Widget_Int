@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Think safety. An involuntary admission is based on the risk for harm to self or others; therefore, assessment of harmful behaviors is the highest priority. The other options are of lesser priority but will be conducted during the admission process and assessment.`, 
+        ansText:`<strong>Rationale:</strong> Think safety. An involuntary admission is based on the risk for harm to self or others; therefore, assessment of harmful behaviors is the highest priority. The other options are of lesser priority but will be conducted during the admission process and assessment.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

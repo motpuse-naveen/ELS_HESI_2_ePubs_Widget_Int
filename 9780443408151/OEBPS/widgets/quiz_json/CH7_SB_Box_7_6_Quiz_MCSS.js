@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The client should continue annual Pap smears (most likely in this case, the cervix was not removed), mammogram, and clinical breast examinations and monthly breast self-examination. The other recommendations are not necessary.`, 
+        ansText:`<strong>Rationale:</strong> The client should continue annual Pap smears (most likely in this case, the cervix was not removed), mammogram, and clinical breast examinations and monthly breast self-examination. The other recommendations are not necessary.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Lack of estrogen results in vaginal dryness, causing discomfort. Use of a vaginal cream or lubrication will help ease the client’s discomfort. The other nursing interventions are not necessary for this client situation.`, 
+        ansText:`<strong>Rationale:</strong> Lack of estrogen results in vaginal dryness, causing discomfort. Use of a vaginal cream or lubrication will help ease the client’s discomfort. The other nursing interventions are not necessary for this client situation.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

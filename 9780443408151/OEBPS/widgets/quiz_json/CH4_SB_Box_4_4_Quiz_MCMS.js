@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,3,0,2],
-        ansText:`Rationale: The client with partial- and full-thickness burns to the chest is at greatest risk for respiratory issues and should be assessed first to ensure airway and breathing are maintained. The client with partial-thickness burns to the lower extremities and confusion is showing signs of possible deterioration and should be assessed next. The older client should be seen next, and the younger client with superficial burns can be seen last in this group.`, 
+        ansText:`<strong>Rationale:</strong> The client with partial- and full-thickness burns to the chest is at greatest risk for respiratory issues and should be assessed first to ensure airway and breathing are maintained. The client with partial-thickness burns to the lower extremities and confusion is showing signs of possible deterioration and should be assessed next. The older client should be seen next, and the younger client with superficial burns can be seen last in this group.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`
@@ -21,7 +21,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [3],
-        ansText:`Rationale: A red tag would be assigned to the client with an open wound to the abdomen, and a deformed right femur, pulse 125, delayed capillary refill, respiratory rate 32, and who is moaning. A yellow tag would be given to the client with bruising and swelling of the right forearm, but has normal capillary refill with a respiration of 18. Green goes to the client helping others. A black flag would go to the client with agonal breathing, the last gasping breaths before dying.`, 
+        ansText:`<strong>Rationale:</strong> A red tag would be assigned to the client with an open wound to the abdomen, and a deformed right femur, pulse 125, delayed capillary refill, respiratory rate 32, and who is moaning. A yellow tag would be given to the client with bruising and swelling of the right forearm, but has normal capillary refill with a respiration of 18. Green goes to the client helping others. A black flag would go to the client with agonal breathing, the last gasping breaths before dying.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

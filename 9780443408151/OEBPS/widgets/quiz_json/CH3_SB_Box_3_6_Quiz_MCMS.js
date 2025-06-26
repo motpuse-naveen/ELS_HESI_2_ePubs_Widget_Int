@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: This client has low hemoglobin and low hematocrit, which indicate anemia due to chemotherapy. The client should eat a diet rich in iron. Steak, spinach, and grains are good sources of iron. The other foods are not the highest sources of iron.`, 
+        ansText:`<strong>Rationale:</strong> This client has low hemoglobin and low hematocrit, which indicate anemia due to chemotherapy. The client should eat a diet rich in iron. Steak, spinach, and grains are good sources of iron. The other foods are not the highest sources of iron.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -21,7 +21,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: A normal stoma is pink and moist. A dry, dark red stoma after surgery may indicate infection or other complication such as decreased blood flow. The RN should notify the HCP of the finding immediately. All other interventions do not address the complication noted with the stoma appearance.`, 
+        ansText:`<strong>Rationale:</strong> A normal stoma is pink and moist. A dry, dark red stoma after surgery may indicate infection or other complication such as decreased blood flow. The RN should notify the HCP of the finding immediately. All other interventions do not address the complication noted with the stoma appearance.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -35,21 +35,21 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: The client who is 48 hours postoperative and is complaining of nausea and vomiting would need to be assessed first. These symptoms could be an indication of a paralytic ileus which is a medical emergency and would need to be reported to the HCP immediately. All the other clients are not experiencing symptoms that could be life-threatening and would need to be assessed following this client.`, 
+        ansText:`<strong>Rationale:</strong> The client who is 48 hours postoperative and is complaining of nausea and vomiting would need to be assessed first. These symptoms could be an indication of a paralytic ileus which is a medical emergency and would need to be reported to the HCP immediately. All the other clients are not experiencing symptoms that could be life-threatening and would need to be assessed following this client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
     }, 
 
      {
-        q: `A practical nurse (PN) is assigned to care for an 82-year-old client who had a total right hip replacement with cement 2 days ago. Which observation would the PN immediately report to the RN? (Select all that apply.)`,
+        q: `A practical nurse (PN) is assigned to care for an 82-year-old client who had a total right hip replacement with cement 2 days ago. Which observation would the PN immediately report to the RN?`,
         q2: ``,
         q3: [],
         option: [`The client complains of incisional pain, rating it a 6 on a scale of 0 to 10.`, `The client has had a change in orientation to person but not to time or place.`, `Swelling and redness have developed in the client’s lower left leg.`, `The practical nurse emptied 15 mL of bloody drainage from the Jackson-Pratt drain.`, `The client’s last set of vital signs was temperature 100.2°F (37.9°C), pulse 87, respirations 12, blood pressure 108/74, and O2 saturation 93%.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2,4],
-        ansText:`Rationale: A change in mental status and swelling/redness to the client’s lower left leg could indicate serious postoperative complications and should be reported immediately to the RN. The client’s vital signs indicate a low-grade fever that needs to be reported as well. Pain is a concern but can be assessed by the PN. The amount of drainage is small and does not need to be reported to the RN.`, 
+        ansText:`<strong>Rationale:</strong> A change in mental status and swelling/redness to the client’s lower left leg could indicate serious postoperative complications and should be reported immediately to the RN. The client’s vital signs indicate a low-grade fever that needs to be reported as well. Pain is a concern but can be assessed by the PN. The amount of drainage is small and does not need to be reported to the RN.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`

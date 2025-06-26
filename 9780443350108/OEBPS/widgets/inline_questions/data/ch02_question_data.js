@@ -11,6 +11,7 @@ const questions_data = {
             id: "group1",
             type: "dropdown",
             placeholder_id: "group1_placeholder",
+            groupHeadHtml: `<strong>Scenario:</strong> A hospice nurse is admitting a new client to the company’s services. The client is a 68-year-old divorcee with three grown daughters who was diagnosed with small-cell lung carcinoma over 1 year ago. The client underwent chemotherapy and radiation, but treatment was unsuccessful. The hospice nurse is discussing end-of-life plans with the client and the family. The client wishes to make decisions for care so that the family will not have to when the time comes.`,
             commonDropdownOptions:[],
             items: [
               { 

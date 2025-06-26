@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Addison crisis leads to high potassium levels; therefore, the RN would question an order for intravenous administration of potassium. Administration of dextrose fluids and solutions can help to maintain glucose levels during Addison crisis. Hydrocortisone must be administered immediately during Addison crisis.`, 
+        ansText:`<strong>Rationale:</strong> Addison crisis leads to high potassium levels; therefore, the RN would question an order for intravenous administration of potassium. Administration of dextrose fluids and solutions can help to maintain glucose levels during Addison crisis. Hydrocortisone must be administered immediately during Addison crisis.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The client with Addison disease showing tremors and diaphoresis needs to be assessed first. These can be signs of Addisonian (adrenal) crisis, which can be a potentially fatal condition. All other findings are expected and are not life-threatening.`, 
+        ansText:`<strong>Rationale:</strong> The client with Addison disease showing tremors and diaphoresis needs to be assessed first. These can be signs of Addisonian (adrenal) crisis, which can be a potentially fatal condition. All other findings are expected and are not life-threatening.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

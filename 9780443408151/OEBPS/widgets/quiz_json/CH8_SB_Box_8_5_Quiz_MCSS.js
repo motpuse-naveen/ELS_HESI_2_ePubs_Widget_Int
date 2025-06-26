@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Decrease in cognitive status is the most concerning sign because it indicates decreased oxygenation of the brain, which occurs as the respiratory muscles are affected with ascending paralysis. The other findings do not need to be reported to the HCP immediately.`, 
+        ansText:`<strong>Rationale:</strong> Decrease in cognitive status is the most concerning sign because it indicates decreased oxygenation of the brain, which occurs as the respiratory muscles are affected with ascending paralysis. The other findings do not need to be reported to the HCP immediately.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

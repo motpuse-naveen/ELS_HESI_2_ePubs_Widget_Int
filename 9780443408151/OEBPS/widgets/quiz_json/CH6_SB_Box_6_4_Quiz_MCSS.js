@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Clay-colored stools streaked with fat in the presence of cholelithiasis is an expected finding in blockage of bile duct (stool contains bile). The finding should be documented in the client chart. The other interventions are not necessary for this client.`, 
+        ansText:`<strong>Rationale:</strong> Clay-colored stools streaked with fat in the presence of cholelithiasis is an expected finding in blockage of bile duct (stool contains bile). The finding should be documented in the client chart. The other interventions are not necessary for this client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

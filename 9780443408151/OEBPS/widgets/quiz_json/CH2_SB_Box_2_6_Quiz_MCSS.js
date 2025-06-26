@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The charge nurse should encourage the staff nurse to be accountable for their own behavior. Displacing blame on other members of the staff is not an appropriate response and should be addressed immediately by the charge nurse. The charge nurse should not confront the other staff members about the policy change. Confrontation should be avoided, and a discussion should take place instead. This could be handled in a unit meeting that discusses the reason these changes were made. However, this meeting is not the priority action at this moment. For future occurrences, a written policy for expression of complaints should be developed for the unit or facility.`, 
+        ansText:`<strong>Rationale:</strong> The charge nurse should encourage the staff nurse to be accountable for their own behavior. Displacing blame on other members of the staff is not an appropriate response and should be addressed immediately by the charge nurse. The charge nurse should not confront the other staff members about the policy change. Confrontation should be avoided, and a discussion should take place instead. This could be handled in a unit meeting that discusses the reason these changes were made. However, this meeting is not the priority action at this moment. For future occurrences, a written policy for expression of complaints should be developed for the unit or facility.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

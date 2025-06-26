@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The RN should speak at a normal pitch, being sure to enunciate words. The other interventions will not help the RN communicate effectively with this client.`, 
+        ansText:`<strong>Rationale:</strong> The RN should speak at a normal pitch, being sure to enunciate words. The other interventions will not help the RN communicate effectively with this client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

@@ -1,14 +1,14 @@
 var quiz = [
 	{
-        q: ` A client has advanced cirrhosis of the liver with an acute exacerbation of hepatic encephalopathy. Which type(s) of food would the
-		PN reinforce teaching the client to limit? (Select all that apply.)`,
+        q: `A client has advanced cirrhosis of the liver with an acute exacerbation of hepatic encephalopathy. Which type(s) of food would the
+		PN reinforce teaching the client to limit?`,
         q2: ``,
         q3: [],
-        option: [`Fruits`,`Vegetables`,`Red meat`,`Bread`,`White meat`,` Black beans `],
+        option: [`Fruits`,`Vegetables`,`Red meat`,`Bread`,`White meat`,`Black beans `],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2,4,5],
-        ansText:`Rationale: Encourage a well-balanced, moderate-protein (limit protein in hepatic encephalopathy), high-carbohydrate diet 
+        ansText:`<strong>Rationale:</strong> Encourage a well-balanced, moderate-protein (limit protein in hepatic encephalopathy), high-carbohydrate diet 
 		with adequate vitamins. This client would need to avoid red meat, white meat, and black beans. Fruits, vegetables, and grains are allowed in 
 		the client’s diet. `,
         state: `notAnswered`,

@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: Alcohol during pregnancy places the fetus at risk for fetal alcohol spectrum disorders. It is not advisable that women drink alcohol during pregnancy. The other information is not accurate.`, 
+        ansText:`<strong>Rationale:</strong> Alcohol during pregnancy places the fetus at risk for fetal alcohol spectrum disorders. It is not advisable that women drink alcohol during pregnancy. The other information is not accurate.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: To avoid airway compromise in epiglottitis, the RN should not culture the child’s throat. It is safe to culture the child’s throat in tonsillitis, streptococcal infection, and bronchiolitis.`, 
+        ansText:`<strong>Rationale:</strong> To avoid airway compromise in epiglottitis, the RN should not culture the child’s throat. It is safe to culture the child’s throat in tonsillitis, streptococcal infection, and bronchiolitis.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Restlessness is an early symptom of respiratory distress that should be immediately assessed. Fatigue, barking cough, and crying are symptoms of croup that should also be assessed but do not require immediate attention.`, 
+        ansText:`<strong>Rationale:</strong> Restlessness is an early symptom of respiratory distress that should be immediately assessed. Fatigue, barking cough, and crying are symptoms of croup that should also be assessed but do not require immediate attention.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Assessing the normal bowel pattern in a client with possible constipation provides the information to determine an appropriate response to the client’s concern. Note that two interventions (1 and 4) are similar and can be eliminated. Nursing interventions to correct the constipation should be performed before notifying the HCP and requesting medical intervention.`, 
+        ansText:`<strong>Rationale:</strong> Assessing the normal bowel pattern in a client with possible constipation provides the information to determine an appropriate response to the client’s concern. Note that two interventions (1 and 4) are similar and can be eliminated. Nursing interventions to correct the constipation should be performed before notifying the HCP and requesting medical intervention.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -21,7 +21,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Remember to address ABCs first. The objective is to assist the client in using the accessory muscles of breathing. Raising the head of the bed farther will keep the spine straight, decrease pressure on the diaphragm, relax the abdominal muscle to improve breathing, and will assist the client to breathe easier. This intervention addresses breathing, which would be the priority. Although the RN might call the HCP, obtain the pulse oximeter, and assess the client’s vital signs, these would not be done first.`, 
+        ansText:`<strong>Rationale:</strong> Remember to address ABCs first. The objective is to assist the client in using the accessory muscles of breathing. Raising the head of the bed farther will keep the spine straight, decrease pressure on the diaphragm, relax the abdominal muscle to improve breathing, and will assist the client to breathe easier. This intervention addresses breathing, which would be the priority. Although the RN might call the HCP, obtain the pulse oximeter, and assess the client’s vital signs, these would not be done <strong>first</strong>.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

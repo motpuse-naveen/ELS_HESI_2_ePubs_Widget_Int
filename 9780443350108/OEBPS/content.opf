@@ -56,8 +56,8 @@
 <item id="Ch001_1-11_B9780323934404000014" href="xhtml/Ch001_1-11_B9780323934404000014.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="Ch002_12-19_B9780323934404000026" href="xhtml/Ch002_12-19_B9780323934404000026.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="Ch003_20-34_B9780323934404000038" href="xhtml/Ch003_20-34_B9780323934404000038.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-<item id="Ch004_35-42_B978032393440400004X" href="xhtml/Ch004_35-42_B978032393440400004X.xhtml"  media-type="application/xhtml+xml"/>
-<item id="Ch005_44-63_B9780323934404000051" href="xhtml/Ch005_44-63_B9780323934404000051.xhtml"  media-type="application/xhtml+xml"/>
+<item id="Ch004_35-42_B978032393440400004X" href="xhtml/Ch004_35-42_B978032393440400004X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="Ch005_44-63_B9780323934404000051" href="xhtml/Ch005_44-63_B9780323934404000051.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="Ch006_64-76_B9780323934404000063" href="xhtml/Ch006_64-76_B9780323934404000063.xhtml"  media-type="application/xhtml+xml"/>
 <item id="Ch007_77-87_B9780323934404000075" href="xhtml/Ch007_77-87_B9780323934404000075.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="Ch008_88-104_B9780323934404000087" href="xhtml/Ch008_88-104_B9780323934404000087.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
@@ -375,7 +375,6 @@
 <item id="mcms_common_13" href="widgets/MCMS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
 <item id="mcms_common_14" href="widgets/MCMS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
 <item id="mcms_common_15" href="widgets/MCMS/images/x.png" media-type="image/png"/>
-<item id="mcms_common_16" href="widgets/MCMS/js/QUIZMCMS.js" media-type="text/javascript"/>
 <item id="mcms_common_17" href="widgets/MCMS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
 <item id="mcms_common_18" href="widgets/MCMS/script/main.js" media-type="text/javascript"/>
 
@@ -397,7 +396,6 @@
 <item id="mcss_common_15" href="widgets/MCSS/images/x.png" media-type="image/png"/>
 <item id="mcss_common_16" href="widgets/MCSS/script/main.js" media-type="text/javascript"/>
 <item id="mcss_common_17" href="widgets/MCSS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
-<item id="mcss_common_18" href="widgets/MCSS/js/ch02_ass.js" media-type="application/javascript"/>
 
 <!--Inline Question Data Files-->
 <item id="iqdata1" href="widgets/inline_questions/data/ch01_question_data.js" media-type="text/javascript"/>
@@ -409,6 +407,9 @@
 <item id="iqdata7" href="widgets/inline_questions/data/ch10_question_data.js" media-type="text/javascript"/>
 <item id="iqdata8" href="widgets/inline_questions/data/Appendix_A_question_data.js" media-type="text/javascript"/>
 <item id="iqdata9" href="widgets/inline_questions/data/Appendix_E_question_data.js" media-type="text/javascript"/>
+<item id="iqdata10" href="widgets/inline_questions/data/ch04_question_data.js" media-type="text/javascript"/>
+<item id="iqdata11" href="widgets/inline_questions/data/ch05_question_data.js" media-type="text/javascript"/>
+
 
 <!--Quiz(MCSS/MCMS) Data Files-->
 <item id="CH01_PQ_MCMS" href="widgets/quiz_json/CH01_PQ_MCMS.js" media-type="text/javascript"/>
@@ -472,11 +473,11 @@
 <item id="CH08_SB_Box_8_4_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_4_Quiz_MCSS.js" media-type="text/javascript"/>
 <item id="CH08_SB_Box_8_5_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_5_Quiz_MCSS.js" media-type="text/javascript"/>
 <item id="CH08_SB_Box_8_6_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_6_Quiz_MCSS.js" media-type="text/javascript"/>
-<item id="CH08_SB_Box_8_7_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_7_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH08_SB_Box_8_7_Quiz_MCMS" href="widgets/quiz_json/CH08_SB_Box_8_7_Quiz_MCMS.js" media-type="text/javascript"/>
 <item id="CH08_SB_Box_8_8_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_8_Quiz_MCSS.js" media-type="text/javascript"/>
 <item id="CH08_SB_Box_8_9_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_9_Quiz_MCSS.js" media-type="text/javascript"/>
 <item id="CH08_SB_Box_8_10_Quiz_MCSS" href="widgets/quiz_json/CH08_SB_Box_8_10_Quiz_MCSS.js" media-type="text/javascript"/>
-<item id="CH09_SB_Box_9_1_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_1_Quiz_MCSS.js" media-type="text/javascript"/>
+<item id="CH09_SB_Box_9_1_Quiz_MCMS" href="widgets/quiz_json/CH09_SB_Box_9_1_Quiz_MCMS.js" media-type="text/javascript"/>
 <item id="CH09_SB_Box_9_2_Quiz_MCMS" href="widgets/quiz_json/CH09_SB_Box_9_2_Quiz_MCMS.js" media-type="text/javascript"/>
 <item id="CH09_SB_Box_9_3_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_3_Quiz_MCSS.js" media-type="text/javascript"/>
 <item id="CH09_SB_Box_9_4_Quiz_MCSS" href="widgets/quiz_json/CH09_SB_Box_9_4_Quiz_MCSS.js" media-type="text/javascript"/>
@@ -574,11 +575,11 @@
 <item id="MCSS34" href="widgets/MCSS/xhtml/CH08_SB_Box_8_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS35" href="widgets/MCSS/xhtml/CH08_SB_Box_8_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS36" href="widgets/MCSS/xhtml/CH08_SB_Box_8_6_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-<item id="MCSS37" href="widgets/MCSS/xhtml/CH08_SB_Box_8_7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS37" href="widgets/MCMS/xhtml/CH08_SB_Box_8_7_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS38" href="widgets/MCSS/xhtml/CH08_SB_Box_8_8_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS39" href="widgets/MCSS/xhtml/CH08_SB_Box_8_9_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS40" href="widgets/MCSS/xhtml/CH08_SB_Box_8_10_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-<item id="MCSS41" href="widgets/MCSS/xhtml/CH09_SB_Box_9_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="MCSS41" href="widgets/MCMS/xhtml/CH09_SB_Box_9_1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS42" href="widgets/MCSS/xhtml/CH09_SB_Box_9_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS43" href="widgets/MCSS/xhtml/CH09_SB_Box_9_4_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="MCSS44" href="widgets/MCSS/xhtml/CH09_SB_Box_9_5_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>

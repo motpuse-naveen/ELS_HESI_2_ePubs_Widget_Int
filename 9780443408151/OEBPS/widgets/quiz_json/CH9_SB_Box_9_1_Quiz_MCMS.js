@@ -1,13 +1,13 @@
 var quiz = [
 {
-        q: `The RN directs the unlicensed assistive personnel (UAP) to play with a 4-year-old child on bed rest. Which activities would the RN recommend? (Select all that apply.)`,
+        q: `The RN directs the unlicensed assistive personnel (UAP) to play with a 4-year-old child on bed rest. Which activities would the RN recommend?`,
         q2: ``,
         q3: [],
         option: [`Monopoly board game`, `Building blocks`, `A 100-piece puzzle`, `Hand puppets`, `Coloring book`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,3,4],
-        ansText:`Rationale: Building blocks, hand puppets, and a coloring book are appropriate activities for this age group. Board games and a 100-piece puzzle are too advanced for preschoolers and are more appropriate for school-age children.`, 
+        ansText:`<strong>Rationale:</strong> Building blocks, hand puppets, and a coloring book are appropriate activities for this age group. Board games and a 100-piece puzzle are too advanced for preschoolers and are more appropriate for school-age children.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: Alterations in an infant’s behavior, such as a 2-month-old crying inconsolably, may signify pain related to IV infiltration. The infant’s behavior is not related to allergies, separation anxiety, or hunger and thirst.`, 
+        ansText:`<strong>Rationale:</strong> Alterations in an infant’s behavior, such as a 2-month-old crying inconsolably, may signify pain related to IV infiltration. The infant’s behavior is not related to allergies, separation anxiety, or hunger and thirst.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

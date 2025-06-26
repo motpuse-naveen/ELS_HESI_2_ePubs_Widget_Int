@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Increased BP is a sign of increased ICP, so this should be assessed first. The other findings are of lesser priority.`, 
+        ansText:`<strong>Rationale:</strong> Increased BP is a sign of increased ICP, so this should be assessed first. The other findings are of lesser priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

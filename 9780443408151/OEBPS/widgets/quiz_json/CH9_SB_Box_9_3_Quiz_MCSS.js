@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Postoperative hemorrhage may occur after a tonsillectomy, and it is prudent to inspect the throat directly for evidence of bleeding. Other signs are frequent swallowing and vomiting of bright red blood. The other symptoms are not indicative of postoperative hemorrhage due to tonsillectomy.`, 
+        ansText:`<strong>Rationale:</strong> Postoperative hemorrhage may occur after a tonsillectomy, and it is prudent to inspect the throat directly for evidence of bleeding. Other signs are frequent swallowing and vomiting of bright red blood. The other symptoms are not indicative of postoperative hemorrhage due to tonsillectomy.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

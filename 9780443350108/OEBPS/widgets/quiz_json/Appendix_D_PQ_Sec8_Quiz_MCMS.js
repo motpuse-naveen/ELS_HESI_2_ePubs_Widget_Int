@@ -3,16 +3,16 @@ var quiz = [
     //8 Leadership and Delegation
     
     {
-        q: ` A charge PN is planning the client assignments for the night shift. The nursing team includes a PN and two UAPs. Which duties would be delegated to the UAPs? (Select all that apply.)`,
+        q: `A charge PN is planning the client assignments for the night shift. The nursing team includes a PN and two UAPs. Which duties would be delegated to the UAPs?`,
         q2: ``,
         q3: [],
         option: [`Transport a client to the radiology department for a CT scan.`,`Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.`,
-        `Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.`,` Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L).`,
+        `Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.`,`Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L).`,
         `Feed a female client her first meal after she experienced a stroke.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1,2],
-        ansText:`Rationale: <p> <strong>Transport a client to the radiology department for a CT scan.</strong>transport a stable client.</p>
+        ansText:`<strong>Rationale:</strong> <p> <strong>Transport a client to the radiology department for a CT scan.</strong>transport a stable client.</p>
         <p><strong>Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.</strong>
          Bathing clients is a hygiene task that can be dele­gated to the UAP.</p>
         <p><strong> Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.</strong>
@@ -26,15 +26,15 @@ var quiz = [
 
     
      {
-        q: `. A hospitalized client has been newly diagnosed with type 2 diabetes. Which task can the PN delegate to the UAP? (Select all that apply.)`,
+        q: `A hospitalized client has been newly diagnosed with type 2 diabetes. Which task can the PN delegate to the UAP?`,
         q2: ``,
         q3: [],
-        option: [`  Contacting the dietitian for a prescribed consult.`,` Reviewing the client’s insulin injection technique.`,` Reviewing the client’s insulin injection technique.`,
+        option: [`  Contacting the dietitian for a prescribed consult.`,`Reviewing the client’s insulin injection technique.`,`Reviewing the client’s insulin injection technique.`,
         `Obtaining the fingerstick blood glucose level before each meal and at bedtime.`,`Reminding the client to dry their toes carefully after a shower.`,`Talking to the client about foods that raise the blood glucose level.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,2,3],
-        ansText:`Rationale: The UAP can collect and report data such as vital signs, height and weight, and capillary blood sugar results (3); perform hygiene tasks (4); and carry out clerical duties (1). Clients who need education or reinforcement of education require intervention by the PN. `, 
+        ansText:`<strong>Rationale:</strong> The UAP can collect and report data such as vital signs, height and weight, and capillary blood sugar results (3); perform hygiene tasks (4); and carry out clerical duties (1). Clients who need education or reinforcement of education require intervention by the PN. `, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`
@@ -55,7 +55,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: Glargine and lispro must not be mixed with any other insulin.`, 
+        ansText:`<strong>Rationale:</strong> Glargine and lispro must not be mixed with any other insulin.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -68,7 +68,7 @@ var quiz = [
         q3: [],
         option: [`The 89-year-old with chronic obstructive pulmonary disease who is resting quietly on 2 L of oxygen and who needs assistance with a bath.`,
         `The client who returned from surgery and needs their second set of every-15-minute vital signs taken.`,
-        ` The client newly diagnosed with type 2 diabetes who had a fingerstick blood glucose level of 90 mg/dL (5 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L) and who needs help with breakfast.`,
+        `The client newly diagnosed with type 2 diabetes who had a fingerstick blood glucose level of 90 mg/dL (5 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L) and who needs help with breakfast.`,
         `The newly admitted client with rheumatoid arthritis who needs to have hand splints reapplied to both hands.`],
         optionFeedback: [`This client is stable.`,
             `This client has a set of time-sensitive vital signs, so this is a priority.`,
@@ -77,7 +77,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: `, 
+        ansText:`<strong>Rationale:</strong> `, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -88,12 +88,12 @@ var quiz = [
          client in order of priority from first to last.`,
         q2: ``,
         q3: [],
-        option: [` Call the rapid response team.`,`Assess pulse and blood pressure.`,`Assess pulse and blood pressure.`,`Give oxygen via nasal cannula`,
+        option: [`Call the rapid response team.`,`Assess pulse and blood pressure.`,`Assess pulse and blood pressure.`,`Give oxygen via nasal cannula`,
        `Bring defibrillator/crash cart to bedside.`,`Document the incident.` ],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [ 1,0,2,3,4],
-        ansText:`Rationale: The PN needs to first assess the client before calling the rapid response team. Also, if the client is truly in ventricular tachycardia, it needs to be determined if it is pulseless v-tach or if the client has a pulse and blood pressure. If there is a pulse, the second action would be to call the rapid response team so that additional help is available. Then, the client needs to have oxygen to maximize oxygenation of the circulating blood. The defibrillator needs to be brought to the bedside to be used for cardioversion. The final activity is to document the findings.`, 
+        ansText:`<strong>Rationale:</strong> The PN needs to first assess the client before calling the rapid response team. Also, if the client is truly in ventricular tachycardia, it needs to be determined if it is pulseless v-tach or if the client has a pulse and blood pressure. If there is a pulse, the second action would be to call the rapid response team so that additional help is available. Then, the client needs to have oxygen to maximize oxygenation of the circulating blood. The defibrillator needs to be brought to the bedside to be used for cardioversion. The final activity is to document the findings.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCMS`
@@ -104,8 +104,8 @@ var quiz = [
         q: `The PN is reviewing the laboratory values for their assigned clients. Which client has an abnormal laboratory report that the PN would immediately call to the HCP?`,
         q2: ``,
         q3: [],
-        option: [` The client who is postsplenectomy after a motor vehicle accident and has a hemoglobin of 10.9 (6.2 mmol/L) (Ref. range: 14–18 g/dL or 8.7–11.2 mmol/L). `,
-        `The client receiving warfarin (Coumadin) who has an INR of 2.3 (Ref. range: 0.8–1.1).`,` The 38-year-old client who is 24 hours postthyroidectomy and has a total calcium of 9.4 mg/dL (2.3 mmol/L) (Ref. range: 9–10.5 mg/dL or 2.25–2.75 mmol/L).`,
+        option: [`The client who is postsplenectomy after a motor vehicle accident and has a hemoglobin of 10.9 (6.2 mmol/L) (Ref. range: 14–18 g/dL or 8.7–11.2 mmol/L). `,
+        `The client receiving warfarin (Coumadin) who has an INR of 2.3 (Ref. range: 0.8–1.1).`,`The 38-year-old client who is 24 hours postthyroidectomy and has a total calcium of 9.4 mg/dL (2.3 mmol/L) (Ref. range: 9–10.5 mg/dL or 2.25–2.75 mmol/L).`,
         `The newly admitted client with bipolar disorder with a lithium level of 2.5 mEq/L (2.5 mmol/L) (Ref. range: 0.8–1.2 mEq/L).` ],
         optionFeedback: [`This hemoglobin level is low but not at a critical level. This is not the priority.`,
             `This lab value is therapeutic and expected.`,
@@ -114,7 +114,7 @@ var quiz = [
          ],
         optionStyleType: `st-decimal`,
         answer: [3],
-        ansText:`Rationale: Severe lithium toxicity occurs at 2.0 mEq/L; the PN should notify the HCP immediately.`,
+        ansText:`<strong>Rationale:</strong> Severe lithium toxicity occurs at 2.0 mEq/L; the PN should notify the HCP immediately.`,
          
         state: `notAnswered`,
         userAnswered: [],
@@ -128,7 +128,7 @@ var quiz = [
         option: [`  Administer an antiemetic to a postoperative client who has been nauseated and is now vomiting.`,
             `Notify a family member of a client’s impending transfer to the intensive care unit for angina and ST-segment changes.`,
             `Inform the HCP of a potassium level of 5.2 mEq/L (5.2 mmol/L) (Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L) in the client with end-stage renal disease.`,
-            ` Begin assessment rounds, starting with the palliative care client having a diagnosis of congestive failure.`
+            `Begin assessment rounds, starting with the palliative care client having a diagnosis of congestive failure.`
         ],
         optionFeedback: [`Postoperative nausea and vomiting (PONV) are among the most common reactions after surgery. PONV can stress and irritate abdominal and GI wounds,
              increase intracranial pressure in clients who had head and neck surgery, elevate intraocular pressure in clients who had eye surgery, and increase the risk of
@@ -139,7 +139,7 @@ var quiz = [
     ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: Postoperative nausea and vomiting (PONV) are among the most common reactions after surgery. PONV can stress and irritate abdominal and GI 
+        ansText:`<strong>Rationale:</strong> Postoperative nausea and vomiting (PONV) are among the most common reactions after surgery. PONV can stress and irritate abdominal and GI 
         wounds, increase intracranial pressure in clients who had head and neck surgery, elevate intraocular pressure in clients who had eye surgery, and increase the
          risk of aspiration. Obtaining a prescription for relieving PONV will decrease these risks.`, 
         state: `notAnswered`,
@@ -163,7 +163,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [3],
-        ansText:`Rationale: Drooling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`, 
+        ansText:`<strong>Rationale:</strong> Drooling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -185,21 +185,21 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: A sign of a potential complication of eclampsia is epigastric pain, which may be indicative of liver damage and HELLP (hemolysis, elevated liver enzymes, low platelet count) syndrome, a medical emergency.`, 
+        ansText:`<strong>Rationale:</strong> A sign of a potential complication of eclampsia is epigastric pain, which may be indicative of liver damage and HELLP (hemolysis, elevated liver enzymes, low platelet count) syndrome, a medical emergency.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
     },
 
      {
-        q: `The clinic PN suspects that a 2-year-old child is being abused. Which assessment finding(s) would support this? (Select all that apply.)`,
+        q: `The clinic PN suspects that a 2-year-old child is being abused. Which assessment finding(s) would support this?`,
         q2: ``,
         q3: [],
         option: [`Petechiae in a straight line on the chest.`,
             `Gray-blue pigmented areas on the sacral region.`,
             `Bald patches on the scalp.`,
             `Ear tugging and crying.`,
-            ` Symmetrical burns on the hands.`
+            `Symmetrical burns on the hands.`
          ],
         optionFeedback: [`Petechiae on the chest may be the result of the coining procedure, a cultural practice among Southeast Asian populations.`,
             `These are Mongolian spots, blue areas commonly located on the sacral region that are consistent in shape and color.`,
@@ -209,7 +209,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [2],
-        ansText:`Rationale: Bald patches typically are symmetrical and are indicative of physical abuse.`, 
+        ansText:`<strong>Rationale:</strong> Bald patches typically are symmetrical and are indicative of physical abuse.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -219,8 +219,8 @@ var quiz = [
         q: `The PN is caring for a client who had a thoracotomy 48 hours earlier and now has left lower lobe chest tubes. The PN notes that a chest tube is not tidaling. Which action would the PN take first?`,
         q2: ``,
         q3: [],
-        option: [` Check for kinks in the chest drainage system. `,
-            ` Assess the heart rate and blood pressure.`,
+        option: [`Check for kinks in the chest drainage system. `,
+            `Assess the heart rate and blood pressure.`,
             `Notify the rapid response team immediately.`,
             `Reconnect the chest tube to wall suction.`
          ],
@@ -234,7 +234,7 @@ var quiz = [
         `When a chest tube is connected to wall suction, tidaling may stop. The PN should disconnect the tube, not reconnect it, to observe for tidaling.`],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: Normal fluctuation of the water, called tidaling, reflects the intrapleural pressure during inspiration and expiration. If no tidaling is observed (rising with inspiration and falling with expiration in a spontaneously breathing client), the drainage system may be blocked. An absence of fluctuation may mean that the lung has fully healed (which is unlikely at 48 hours), or it can mean that there is an obstruction in the chest tube. A simple step is to ensure that there are no kinks that would occlude the chest tube and prevent lung drainage and expansion.`, 
+        ansText:`<strong>Rationale:</strong> Normal fluctuation of the water, called tidaling, reflects the intrapleural pressure during inspiration and expiration. If no tidaling is observed (rising with inspiration and falling with expiration in a spontaneously breathing client), the drainage system may be blocked. An absence of fluctuation may mean that the lung has fully healed (which is unlikely at 48 hours), or it can mean that there is an obstruction in the chest tube. A simple step is to ensure that there are no kinks that would occlude the chest tube and prevent lung drainage and expansion.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -247,7 +247,7 @@ var quiz = [
         option: [`Notify the HCP.`,
             `Increase oxygen concentration.`,
             `Assess the client.`,
-            ` Prepare to defibrillate the client.`,
+            `Prepare to defibrillate the client.`,
          ],
         optionFeedback: [`This may be an appropriate action after assessment of the client’s clinical status.`,
             `This may be an appropriate action after assessment of the client’s clinical status.`,
@@ -256,7 +256,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [2],
-        ansText:`Rationale: If a monitor alarm sounds, the PN should first assess the client’s clinical status to see whether the problem is an actual dysrhythmia or a monitoring system malfunction.
+        ansText:`<strong>Rationale:</strong> If a monitor alarm sounds, the PN should first assess the client’s clinical status to see whether the problem is an actual dysrhythmia or a monitoring system malfunction.
 `, 
         state: `notAnswered`,
         userAnswered: [],
@@ -268,15 +268,15 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Carefully remove the bio-occlusive dressing.`,
-            ` Place the client in the Trendelenburg position.`,
+            `Place the client in the Trendelenburg position.`,
             `Send the catheter tip to the lab for culture and sensitivity.`,
-            ` Have the client hold a deep breath during removal.`,
-            ` Apply pressure for 20 minutes after removal of the catheter.`
+            `Have the client hold a deep breath during removal.`,
+            `Apply pressure for 20 minutes after removal of the catheter.`
          ],
         optionFeedback: [ ],
         optionStyleType: `st-decimal`,
         answer: [1,3],
-        ansText:`Rationale: <P><strong>Carefully remove the bio-occlusive dressing.</strong>Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
+        ansText:`<strong>Rationale:</strong> <P><strong>Carefully remove the bio-occlusive dressing.</strong>Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
         <p><strong>Place the client in the Trendelenburg position.</strong>The procedure for removing the catheter safely is (1) place the client in the Trendelenburg position, (2) have the client take a deep breath and hold it, and (3) gently withdraw the catheter while applying direct pressure with sterile gauze. Holding the breath creates positive pressure in the intrathoracic space, and the Trendelenburg position minimizes the risk of air entering the catheter.</p>
         <p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong>The catheter tip may or may not be sent to the lab, depending on the protocol of the facility.</p>
         <p><strong>Have the client hold a deep breath during removal.</strong>See the explanation for 2.</p>
@@ -287,13 +287,13 @@ var quiz = [
     },
 
      {
-        q: ` The PN who usually works on the orthopedic surgery unit is floating to a cardiovascular unit. Which client would be best to assign to the float PN?`,
+        q: `The PN who usually works on the orthopedic surgery unit is floating to a cardiovascular unit. Which client would be best to assign to the float PN?`,
         q2: ``,
         q3: [],
-        option: [` Client scheduled for a heart catheterization this morning.`,
+        option: [`Client scheduled for a heart catheterization this morning.`,
             `Client admitted last night for chest pain.`,
-            ` Client who is 1 day postoperative for popliteal bypass surgery.`,
-            ` Client who has heart failure and is scheduled for a stress test today.`
+            `Client who is 1 day postoperative for popliteal bypass surgery.`,
+            `Client who has heart failure and is scheduled for a stress test today.`
          ],
         optionFeedback: [`Preparing the client for cardiac catheterization requires specialized information, and it would be best to assign to the PN who usually works on the cardiovascular unit.`,
             `This client requires close monitoring by the PN who has additional education about cardiac issues.`,
@@ -302,18 +302,18 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [2],
-        ansText:`Rationale: This would require similar care to a client who had just had lower extremity orthopedic surgery and would be the safest assignment for this PN.s `, 
+        ansText:`<strong>Rationale:</strong> This would require similar care to a client who had just had lower extremity orthopedic surgery and would be the safest assignment for this PN.s `, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
     },
 
      {
-        q: `The charge PN is admitting a client who is a paraplegic and has a nonhealing pressure injury with a possible methicillin-resistant Staphylococcus aureus infection. A PN and UAP are assigned to the PN’s team. Which task(s) would be delegated to the PN? (Select all that apply.)`,
+        q: `The charge PN is admitting a client who is a paraplegic and has a nonhealing pressure injury with a possible methicillin-resistant Staphylococcus aureus infection. A PN and UAP are assigned to the PN’s team. Which task(s) would be delegated to the PN?`,
         q2: ``,
         q3: [],
-        option: [` Place the client in isolation.`,
-            ` Complete a dressing change.`,
+        option: [`Place the client in isolation.`,
+            `Complete a dressing change.`,
             `Assess and document the wound.`,
             `Insert a urinary catheter.`,
             `Administer oral pain medications.`
@@ -336,19 +336,19 @@ var quiz = [
          the PN anticipate to be transferred to the medical unit to receive this unstable client?`,
         q2: ``,
         q3: [],
-        option: [` A client admitted for a STEMI who just returned from having a cardiac catheterization performed.`,
-           ` A client diagnosed with congestive heart failure who is receiving IV infusion of furosemide.`,
-            ` A client with possible Guillain-Barré syndrome who may need an exchange transfusion.`,
+        option: [`A client admitted for a STEMI who just returned from having a cardiac catheterization performed.`,
+           `A client diagnosed with congestive heart failure who is receiving IV infusion of furosemide.`,
+            `A client with possible Guillain-Barré syndrome who may need an exchange transfusion.`,
             `A client in hypertensive crisis who is on a sodium nitroprusside drip.` ],
 
-        optionFeedback: [` This client needs close monitoring for the first 24 hours and should remain in the step-down unit.`,
+        optionFeedback: [`This client needs close monitoring for the first 24 hours and should remain in the step-down unit.`,
             `This client could be safely taken care of in a medical-surgical unit.`,
             `This client needs close monitoring and should remain in the step-down unit.`,
             `Clients on a nitroprusside drip need frequent vital signs and close monitoring. This client should remain in the step-down unit.`
         ],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale:  This client could be safely taken care of in a medical-surgical unit.`, 
+        ansText:`<strong>Rationale:</strong>  This client could be safely taken care of in a medical-surgical unit.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -356,16 +356,16 @@ var quiz = [
 
      {
         q: `When accessing the medication dispensing system (Pyxis), the PN finds chlorpropamide in the drawer instead of the expected chlorpromazine. Which action(s)
-         would the PN take? (Select all that apply.)`,
+         would the PN take?`,
         q2: ``,
         q3: [],
-        option: [` Remove the tablets of chlorpropamide.`,` Notify the pharmacy about the mistake.`,
-            ` Complete an incident or occurrence report.`,` Be extra vigilant because the pharmacy is making mistakes.`,` Place a warning note on the Pyxis machine.`
+        option: [`Remove the tablets of chlorpropamide.`,`Notify the pharmacy about the mistake.`,
+            `Complete an incident or occurrence report.`,`Be extra vigilant because the pharmacy is making mistakes.`,`Place a warning note on the Pyxis machine.`
          ],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1,2],
-        ansText:`Rationale: The PN needs to ensure that others do not give the wrong medication, so the tablets of chlorpropamide need to be removed and returned to the
+        ansText:`<strong>Rationale:</strong> The PN needs to ensure that others do not give the wrong medication, so the tablets of chlorpropamide need to be removed and returned to the
          pharmacy (1). The pharmacy needs to be made aware of the error (2) and an incident (also called an occurrence) report completed (3) to help prevent the error
          in the future. The other options (4 and 5) are not needed at this time.`, 
         state: `notAnswered`,
@@ -377,8 +377,8 @@ var quiz = [
         q: `The PN is calling the HCP about a client’s current needs. Which is the best way to communicate?`,
         q2: ``,
         q3: [],
-        option: [` Call the HCP with the request and a recommendation. `,
-            ` Use the SBAR (situation, background, assessment, recommendation) tool for communication.`,
+        option: [`Call the HCP with the request and a recommendation. `,
+            `Use the SBAR (situation, background, assessment, recommendation) tool for communication.`,
             `Send a text message or page with the needed order.`,
             `Ask the HCP to come back to the unit to discuss the client’s needs.`
          ],
@@ -389,7 +389,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: Using the SBAR format ensures that all key information is given and is the best way to communicate.`, 
+        ansText:`<strong>Rationale:</strong> Using the SBAR format ensures that all key information is given and is the best way to communicate.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -399,12 +399,12 @@ var quiz = [
         q: `The HCP plans to do a paracentesis on a client with cirrhosis in 1 hour. In which order would the PN perform the following activities?`,
         q2: ``,
         q3: [],
-        option: [` Ensure that the informed consent has been obtained.`,` Measure the client’s abdominal girth.`,
-            ` Have the client empty his or her bladder.`,` Assemble needed equipment.`,` Administer oral pain medication.` ],
+        option: [`Ensure that the informed consent has been obtained.`,`Measure the client’s abdominal girth.`,
+            `Have the client empty his or her bladder.`,`Assemble needed equipment.`,`Administer oral pain medication.` ],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0, 4, 2, 1, 3],
-        ansText:`Rationale: <p>Before a procedure can be completed, it is essential to have an informed consent (1).</p>
+        ansText:`<strong>Rationale:</strong> <p>Before a procedure can be completed, it is essential to have an informed consent (1).</p>
          <p>Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5).</p>
        <p> The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3).</p>
         <p>After the bladder is empty, a baseline abdominal girth is obtained (2).</p>
@@ -418,7 +418,7 @@ var quiz = [
         q: `The PN receives a report on a client from the emergency department with a diagnosis of pneumonia. Which intervention has the highest priority?`,
         q2: ``,
         q3: [],
-        option: [` Obtain blood cultures.`,`Initiate prescribed antibiotics.`,` Place the client in isolation.`,`Obtain an accurate weight.` ],
+        option: [`Obtain blood cultures.`,`Initiate prescribed antibiotics.`,`Place the client in isolation.`,`Obtain an accurate weight.` ],
         optionFeedback: [`Blood cultures are not needed unless the client is suspected of being septic.`,
             `Studies have shown that the sooner antibiotics are started, the better the outcomes. Current requirements include antibiotic administration within 2 hours of diagnosis. This is the priority.`,
             `The question does not state which organism is causing the pneumonia, so this may not be needed.`,
@@ -426,7 +426,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: Studies have shown that the sooner antibiotics are started, the better the outcomes. Current requirements include antibiotic administration within 2 hours of diagnosis. This is the priority.`, 
+        ansText:`<strong>Rationale:</strong> Studies have shown that the sooner antibiotics are started, the better the outcomes. Current requirements include antibiotic administration within 2 hours of diagnosis. This is the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -436,7 +436,7 @@ var quiz = [
         q: `The PN is part of the triage team at a disaster. Which client would be treated first?`,
         q2: ``,
         q3: [],
-        option: [` A 90-year-old woman with a crushed pelvis and head injuries.`,
+        option: [`A 90-year-old woman with a crushed pelvis and head injuries.`,
             `A 21-year-old male screaming in pain from a broken leg.`,
             `A 30-year-old woman with a flail chest secondary to a puncture wound to the chest.`,
             `A 12-year-old crying with multiple lacerations to the legs.`
@@ -448,7 +448,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [2],
-        ansText:`Rationale: The flail chest causes the heart to become unstable and is life-threatening. This client needs to be seen immediately.`, 
+        ansText:`<strong>Rationale:</strong> The flail chest causes the heart to become unstable and is life-threatening. This client needs to be seen immediately.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -460,8 +460,8 @@ var quiz = [
         q3: [],
         option: [`  The client who arrived via ambulance with numbness and tingling of his left arm and face.`,
             `The adult client who had a seizure at home who is sleeping on his left side.`,
-            ` The 60-year-old client who complains of frequent urination and has a blood sugar of 300 mg/dL (16.7 mmol/L) (Ref. range: 74–106 mg/dL or 4.1–5.9 mmol/L).`,
-            ` The middle-aged client who presents with severe unilateral back pain and previous history of kidney stones.`
+            `The 60-year-old client who complains of frequent urination and has a blood sugar of 300 mg/dL (16.7 mmol/L) (Ref. range: 74–106 mg/dL or 4.1–5.9 mmol/L).`,
+            `The middle-aged client who presents with severe unilateral back pain and previous history of kidney stones.`
          ],
 
         optionFeedback: [`The client may be experiencing a stroke and requires immediate assessment and interventions. If interventions are initiated quickly, the complications may be mitigated.`,
@@ -472,18 +472,18 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale:  The client may be experiencing a stroke and requires immediate assessment and interventions. If interventions are initiated quickly, the complications may be mitigated.`, 
+        ansText:`<strong>Rationale:</strong>  The client may be experiencing a stroke and requires immediate assessment and interventions. If interventions are initiated quickly, the complications may be mitigated.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
     },
 
      {
-        q: ` After the change-of-shift report on an orthopedic floor, which client would the PN assess first?`,
+        q: `After the change-of-shift report on an orthopedic floor, which client would the PN assess first?`,
         q2: ``,
         q3: [],
-        option: [` A client who had surgery yesterday and has a temperature of 99.7 °F (37.6 °C)`,
-            ` A client who is complaining of numbness and tingling distal to the fracture site`,
+        option: [`A client who had surgery yesterday and has a temperature of 99.7 °F (37.6 °C)`,
+            `A client who is complaining of numbness and tingling distal to the fracture site`,
             `A client who had a left leg amputation and states he is experiencing pain in the left foot.`,
             `A client who is extremely upset with their care and is requesting to speak with the manager. ` ],
         optionFeedback: [`A slight increase in temperature is expected postoperatively.`,
@@ -494,27 +494,27 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: This is a sign of compartment syndrome. This client needs to be assessed first.`, 
+        ansText:`<strong>Rationale:</strong> This is a sign of compartment syndrome. This client needs to be assessed first.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
     },
 
      {
-        q: ` The PN is administering medications to a client admitted for an overdose and a history of substance abuse. Which intervention(s) is/are a priority to
-         include in this client’s plan of care? (Select all that apply.)`,
+        q: `The PN is administering medications to a client admitted for an overdose and a history of substance abuse. Which intervention(s) is/are a priority to
+         include in this client’s plan of care?`,
         q2: ``,
         q3: [],
         option: [`Allow the client to take medications independently ` ,
             `Ensure that all medications have been swallowed before leaving the client’s room.`,
             `Request that oral pain medications be changed from tablet to oral suspension.`,
             `Administer flumazenil every 6 hours around the clock.`,
-            ` Administer all medications to the client via the intravenous route.`
+            `Administer all medications to the client via the intravenous route.`
         ],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2],
-        ansText:`Rationale: <P><strong> Allow the client to take medications independently.</strong>With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
+        ansText:`<strong>Rationale:</strong> <P><strong> Allow the client to take medications independently.</strong>With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
             <p><strong>Ensure that all medications have been swallowed before leaving the client’s room.</strong> To ensure that medications are not being hoarded or kept to be taken at a later time, the PN needs to watch the client swallow his or her medications.</p>
             <p><strong> Request that oral pain medications be changed from tablet to oral suspension.</strong> Liquid forms of medications are harder to save to be taken later so are often used for clients with a history of substance abuse.</p>
             <p><strong> Administer flumazenil every 6 hours around the clock.</strong> Flumazenil is used to reverse benzodiazepine overdose and is given as needed, not around the clock.</p>
@@ -540,19 +540,19 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: This client is at risk of hurting herself or her children. She needs to be seen first.`, 
+        ansText:`<strong>Rationale:</strong> This client is at risk of hurting herself or her children. She needs to be seen first.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
     },
 
      {
-        q: ` An 18-year-old female is being discharged after delivering a healthy baby. She has a cousin whose baby died from sudden infant death syndrome (SIDS). 
+        q: `An 18-year-old female is being discharged after delivering a healthy baby. She has a cousin whose baby died from sudden infant death syndrome (SIDS). 
         The client seems to know many of the precautions to take. Which information does the PN need to correct?`,
         q2: ``,
         q3: [],
-        option: [` Always place infants on their backs to sleep. `,`Room sharing has been shown to decrease SIDS.`,
-            `Keep the crib free of stuffed animals and crib pads.`,` Sleeping with the baby can alert the mother to changes.`
+        option: [`Always place infants on their backs to sleep. `,`Room sharing has been shown to decrease SIDS.`,
+            `Keep the crib free of stuffed animals and crib pads.`,`Sleeping with the baby can alert the mother to changes.`
          ],
         optionFeedback: [`This is correct. Babies should be placed on their backs.`,
             `This is correct. Studies show that room sharing does decrease SIDS.`,
@@ -561,7 +561,7 @@ var quiz = [
         ],
         optionStyleType: `st-decimal`,
         answer: [3],
-        ansText:`Rationale: Sleeping with the baby increases the risk for injury and SIDS for infants and needs to be corrected by the PN.`, 
+        ansText:`<strong>Rationale:</strong> Sleeping with the baby increases the risk for injury and SIDS for infants and needs to be corrected by the PN.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -569,17 +569,17 @@ var quiz = [
 
 
      {
-        q: ` An 8-year-old child needs to have an IV started. Which intervention(s) would the PN anticipate the RN will do to complete this order? (Select all that apply.)`,
+        q: `An 8-year-old child needs to have an IV started. Which intervention(s) would the PN anticipate the RN will do to complete this order?`,
         q2: ``,
         q3: [],
         option: [`Start the IV in the treatment room, not the child’s room. `,`Apply a lidocaine-based cream for a few minutes before starting the IV.`,
             `Ask the parents to leave the room while performing the procedure.`,`Encourage the child to use guided imagery to cope.`,
-            ` Offer the child a reward if they cooperate during the procedure.`
+            `Offer the child a reward if they cooperate during the procedure.`
          ],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,3],
-        ansText:`Rationale: <P> <strong>Start the IV in the treatment room, not the child’s room.<strong>The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
+        ansText:`<strong>Rationale:</strong> <P> <strong>Start the IV in the treatment room, not the child’s room.<strong>The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
             <p><strong>Apply a lidocaine-based cream for a few minutes before starting the IV.</strong>To be effective, the cream needs to be applied for about 1 hour before the IV is started.</p>
             <p><strong> Ask the parents to leave the room while performing the procedure.</strong> Having parents present can help the child cope with this procedure.</p>
              <p><strong> Encourage the child to use guided imagery to cope.</strong> Children at this age can understand and participate in guided imagery.</p>

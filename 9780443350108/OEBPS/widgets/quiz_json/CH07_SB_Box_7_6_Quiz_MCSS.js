@@ -5,12 +5,12 @@ var quiz = [
 		the night. What is the PN’s priority action?`,
         q2: ``,
         q3: [],
-        option: [`Provide iron-rich foods on each dietary tray.`,`Monitor the client’s vital signs every hour.`,` Encourage fluids every 2 hours.`,
-		` Encourage postoperative leg exercises. `],
+        option: [`Provide iron-rich foods on each dietary tray.`,`Monitor the client’s vital signs every hour.`,`Encourage fluids every 2 hours.`,
+		`Encourage postoperative leg exercises. `],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The client has experienced excessive bleeding, and the PN should monitor the client’s vital signs more closely 
+        ansText:`<strong>Rationale:</strong> The client has experienced excessive bleeding, and the PN should monitor the client’s vital signs more closely 
 		(every hour). If signs of shock are present, the nurse would notify the charge nurse or HCP immediately. The other nursing interventions 
 		are not the priority and can be performed later.`, 
         state: `notAnswered`,

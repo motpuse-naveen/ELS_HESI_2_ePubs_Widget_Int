@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Change is difficult for clients diagnosed with Alzheimer’s disease. A structured schedule may help the individual maintain their abilities. The other nursing interventions are not the priority.`, 
+        ansText:`<strong>Rationale:</strong> Change is difficult for clients diagnosed with Alzheimer’s disease. A structured schedule may help the individual maintain their abilities. The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

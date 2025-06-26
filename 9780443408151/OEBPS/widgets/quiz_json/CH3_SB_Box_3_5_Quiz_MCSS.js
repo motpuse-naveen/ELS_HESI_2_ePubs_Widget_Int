@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The client receiving intracavity radiation must be placed in a private room due to the chance of radiation contamination. All other clients have little to no chance of transmitting radioactive material to other clients.`, 
+        ansText:`<strong>Rationale:</strong> The client receiving intracavity radiation must be placed in a private room due to the chance of radiation contamination. All other clients have little to no chance of transmitting radioactive material to other clients.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

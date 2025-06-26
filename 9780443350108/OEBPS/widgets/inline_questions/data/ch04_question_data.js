@@ -11,6 +11,7 @@ const questions_data = {
       id: "group1",
       type: "dropdown",
       placeholder_id: "group1_placeholder",
+      groupHeadHtml: `The PN finds an adult client slumped in a chair. Place the PN&#8217;s actions in order of priority from first to last for this client.`,
       commonDropdownOptions: ["1", "2", "3", "4", "5", "6", "7"],
       items: [
         {
@@ -20,7 +21,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"2",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -33,7 +34,7 @@ const questions_data = {
               dropdown1: {
                 values: [],
                 correctValue: "4",
-                dropdownlabel: "Select the Procedures",
+                dropdownlabel: "Select an Order",
                 useCommonOptions: "true",
               },
             },
@@ -46,7 +47,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue: "1",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -59,7 +60,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"6",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -72,7 +73,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"7",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -85,7 +86,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"5",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -98,7 +99,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"3",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -117,6 +118,7 @@ const questions_data = {
       id: "group2",
       type: "dropdown",
       placeholder_id: "group2_placeholder",
+      groupHeadHtml: `Four clients arrive in the emergency department after an explosion. In which order would they be assessed? All options must be used.`,
       commonDropdownOptions: ["1", "2", "3", "4"],
       items: [
         {
@@ -126,7 +128,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"2",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -139,7 +141,7 @@ const questions_data = {
               dropdown1: {
                 values: [],
                 correctValue: "4",
-                dropdownlabel: "Select the Procedures",
+                dropdownlabel: "Select an Order",
                 useCommonOptions: "true",
               },
             },
@@ -152,7 +154,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue: "1",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },
@@ -165,7 +167,7 @@ const questions_data = {
             dropdown1: {
               values: [],
               correctValue:"3",
-              dropdownlabel: "Select the Procedures",
+              dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
           },

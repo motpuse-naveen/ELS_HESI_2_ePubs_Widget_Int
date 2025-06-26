@@ -22,7 +22,7 @@ const questions_data = {
               },
             ],
             correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale</strong></p>
-            <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn><mo>&#xA0;</mo><mi>mg</mi></mrow><mrow><mn>4</mn><mo>&#xA0;</mo><mi>mg</mi><mo>&#x00D7;</mo><mn>1</mn></mrow></mfrac><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>0.25</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p>`,
+            <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi></mrow><mrow><mn>4</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>&#x00D7;</mo><mn>1</mn></mrow></mfrac><mo>&#xA0;</mo><mi>m</mi><mi>L</mi><mo>=</mo><mn>0.25</mn><mo>&#xA0;</mo><mi>m</mi><mi>L</mi></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
             optionStyleType: "",
@@ -38,7 +38,7 @@ const questions_data = {
                 clozeHtml:`<p>The health care provider (HCP) prescribes 3000 mL of 5% dextrose (D5W) to run over a 24-hour period. The drop factor is 10 gtt/mL. There are 300 mL remaining at 09:00. What time would the PN anticipate the next bag of D5W solution to be hung? Round to the nearest half hour. (Fill in the blank.)</p>
                 <p>The next bag of D5W solution will be hung at #cloze1#.</p>`,
                 clozes:{
-                  cloze1:{correctValue: "The next bag of D5W solution will be hung at 11:30", clozelabel:"fill in the blank"},
+                  cloze1:{correctValue: "11:30", clozelabel:"fill in the blank"},
                 },
                 clozePlacement:"inline",//newline
               },
@@ -54,6 +54,8 @@ const questions_data = {
             id: "group3",
             type: "dropdown",
             placeholder_id: "group3_placeholder",
+            alignment: "left",
+            groupHeadHtml: ``,
             commonDropdownOptions:["Normal", "Acidic", "Alkalotic"],
             items: [
                 {
@@ -91,11 +93,12 @@ const questions_data = {
             id: "group4",
             type: "dropdown",
             placeholder_id: "group4_placeholder",
+            alignment: "left",
             commonDropdownOptions:["Hypoventilating: retaining CO2", "Hyperventilating: blowing off CO2", "Normal ventilation"],
             items: [
                 {
                     headerImage:{},
-                    dropdownHtml:`<span>pCO2 = 42 #dropdown1#</span>`,
+                    dropdownHtml:`<span>pCO<sub>2</sub> = 42 #dropdown1#</span>`,
                     dropdowns:{
                       dropdown1:{values:[],correctValue: "Normal ventilation",dropdownlabel:"Select ventilation status", useCommonOptions:"true"},
                     },
@@ -103,7 +106,7 @@ const questions_data = {
                   },
                   {
                     headerImage:{},
-                    dropdownHtml:`<span>pCO2 = 33 #dropdown1#</span>`,
+                    dropdownHtml:`<span>pCO<sub>2</sub> = 33 #dropdown1#</span>`,
                     dropdowns:{
                       dropdown1:{values:[],correctValue: "Hyperventilating: blowing off CO2",dropdownlabel:"Select ventilation status", useCommonOptions:"true"},
                     },
@@ -111,7 +114,7 @@ const questions_data = {
                   },
                   {
                     headerImage:{},
-                    dropdownHtml:`<span>pCO2 = 55 #dropdown1#</span>`,
+                    dropdownHtml:`<span>pCO<sub>2</sub> = 55 #dropdown1#</span>`,
                     dropdowns:{
                       dropdown1:{values:[],correctValue: "Hypoventilating: retaining CO2",dropdownlabel:"Select ventilation status", useCommonOptions:"true"},
                     },
@@ -128,11 +131,12 @@ const questions_data = {
             id: "group5",
             type: "dropdown",
             placeholder_id: "group5_placeholder",
+            alignment: "left",
             commonDropdownOptions:["Normal", "Acidosis", "Alkalosis"],
             items: [
                 {
                     headerImage:{},
-                    dropdownHtml:`<span>HCO3 = 20 #dropdown1#</span>`,
+                    dropdownHtml:`<span>HCO<sub>3</sub> = 20 #dropdown1#</span>`,
                     dropdowns:{
                       dropdown1:{values:[],correctValue: "Acidosis",dropdownlabel:"Select Acid-base status from reading", useCommonOptions:"true"},
                     },
@@ -140,7 +144,7 @@ const questions_data = {
                   },
                   {
                     headerImage:{},
-                    dropdownHtml:`<span>HCO3 = 33 #dropdown1#</span>`,
+                    dropdownHtml:`<span>HCO<sub>3</sub> = 33 #dropdown1#</span>`,
                     dropdowns:{
                       dropdown1:{values:[],correctValue: "Alkalosis",dropdownlabel:"Select Acid-base status from reading", useCommonOptions:"true"},
                     },
@@ -148,7 +152,7 @@ const questions_data = {
                   },
                   {
                     headerImage:{},
-                    dropdownHtml:`<span>HCO3 = 21 #dropdown1#</span>`,
+                    dropdownHtml:`<span>HCO<sub>3</sub> = 21 #dropdown1#</span>`,
                     dropdowns:{
                       dropdown1:{values:[],correctValue: "Normal",dropdownlabel:"Select Acid-base status from reading", useCommonOptions:"true"},
                     },
@@ -164,6 +168,7 @@ const questions_data = {
         group6: {
             id: "group6",
             type: "dropdown",
+            alignment: "left",
             placeholder_id: "group6_placeholder",
             commonDropdownOptions:["a normal ABG reading", "uncompensated metabolic alkalosis", "uncompensated metabolic acidosis", "uncompensated respiratory acidosis", "partially compensated respiratory acidosis"],
             items: [
@@ -174,7 +179,7 @@ const questions_data = {
                   dropdown1:{values:[],correctValue: "uncompensated respiratory acidosis",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = acidosis, pCO2 = acidic, HCO3 = normal.</p>`,
+                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = acidosis, pCO<sub>2</sub> = acidic, HCO<sub>3</sub> = normal.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
                 incorrectFeedback: `Your answer is incorrect.`
               },
@@ -185,7 +190,7 @@ const questions_data = {
                   dropdown1:{values:[],correctValue: "uncompensated metabolic acidosis",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = acidosis, pCO2 = normal, HCO3 = acidic.</p>`,
+                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = acidosis, pCO<sub>2</sub> = normal, HCO<sub>3</sub> = acidic.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
                 incorrectFeedback: `Your answer is incorrect.`
               },
@@ -196,7 +201,7 @@ const questions_data = {
                   dropdown1:{values:[],correctValue: "a normal ABG reading",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = normal, pCO2 = normal, HCO3 = normal.</p>`,
+                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = normal, pCO<sub>2</sub> = normal, HCO<sub>3</sub> = normal.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
                 incorrectFeedback: `Your answer is incorrect.`
               },
@@ -207,7 +212,7 @@ const questions_data = {
                   dropdown1:{values:[],correctValue: "uncompensated metabolic alkalosis",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = alkalosis, pCO2 = normal, HCO3 = alkalotic.</p>`,
+                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = alkalosis, pCO<sub>2</sub> = normal, HCO<sub>3</sub> = alkalotic.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
                 incorrectFeedback: `Your answer is incorrect.`
               },
@@ -218,7 +223,7 @@ const questions_data = {
                   dropdown1:{values:[],correctValue: "partially compensated respiratory acidosis",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = acidosis, pCO2 = acidic, HCO3= alkalotic.</p>`,
+                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = acidosis, pCO<sub>2</sub> = acidic, HCO<sub>3</sub> = alkalotic.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
                 incorrectFeedback: `Your answer is incorrect.`
               }

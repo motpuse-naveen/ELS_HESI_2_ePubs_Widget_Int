@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: These symptoms are commonly seen in the last part of the active phase (formerly called the transition phase) of the first stage, and could indicate progression of labor. The RN should perform a vaginal examination to determine phase of labor, cervical dilation, and station of fetus. Women become irritable and emotional and may reject their partners as the stress of labor progresses quickly during the transition phase. Laboring mothers can often experience gastrointestinal (GI) upset in preparation for delivery of the infant. The other options are not appropriate statements to make to the partner at this time.`, 
+        ansText:`<strong>Rationale:</strong> These symptoms are commonly seen in the last part of the active phase (formerly called the transition phase) of the first stage, and could indicate progression of labor. The RN should perform a vaginal examination to determine phase of labor, cervical dilation, and station of fetus. Women become irritable and emotional and may reject their partners as the stress of labor progresses quickly during the transition phase. Laboring mothers can often experience gastrointestinal (GI) upset in preparation for delivery of the infant. The other options are not appropriate statements to make to the partner at this time.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

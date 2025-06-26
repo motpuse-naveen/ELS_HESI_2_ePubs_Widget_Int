@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Supine hypotension occurs when the gravid uterus compresses the vena cava. Turning the client to a lateral position will displace the uterus, which allows adequate blood return to the heart, increases cardiac output, and subsequently improves placental and renal perfusion. The other nursing interventions are not the priority.`, 
+        ansText:`<strong>Rationale:</strong> Supine hypotension occurs when the gravid uterus compresses the vena cava. Turning the client to a lateral position will displace the uterus, which allows adequate blood return to the heart, increases cardiac output, and subsequently improves placental and renal perfusion. The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: GTPAL for this client would be recorded as 4-1-2-0-4. This occurrence will be her fourth pregnancy, with one full-term delivery, two preterm deliveries (the pregnancy with twins is counted as only one delivery), zero abortions, and four living children. The other notations are incorrect.`, 
+        ansText:`<strong>Rationale:</strong> GTPAL for this client would be recorded as 4-1-2-0-4. This occurrence will be her fourth pregnancy, with one full-term delivery, two preterm deliveries (the pregnancy with twins is counted as only one delivery), zero abortions, and four living children. The other notations are incorrect.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

@@ -10,7 +10,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The licensed practical nurse should encourage the UAP to be accountable for their behavior. Displacing blame on other staff is not
+        ansText:`<strong>Rationale:</strong> The licensed practical nurse should encourage the UAP to be accountable for their behavior. Displacing blame on other staff is not
 		an appropriate response and should be addressed immediately by the licensed practical nurse.`, 
         state: `notAnswered`,
         userAnswered: [],

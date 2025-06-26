@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: To delegate tasks to unlicensed assistive personnel (UAP), the registered nurse (RN) must be knowledgeable regarding the parameters of the state’s nurse practice acts. Delegation of an assessment that requires nursing judgment to a UAP is inappropriate. The other answer options do not apply to this scenario.`, 
+        ansText:`<strong>Rationale:</strong> To delegate tasks to unlicensed assistive personnel (UAP), the registered nurse (RN) must be knowledgeable regarding the parameters of the state’s nurse practice acts. Delegation of an assessment that requires nursing judgment to a UAP is inappropriate. The other answer options do not apply to this scenario.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -21,7 +21,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Nurses should not discuss client information in public settings, as it is a violation of Health Insurance Portability and Accountability Act of 1996 (HIPAA). This is a violation of client privacy and confidentiality and should be stopped immediately. All other options should be completed but advising them to cease their communication should occur first.`, 
+        ansText:`<strong>Rationale:</strong> Nurses should not discuss client information in public settings, as it is a violation of Health Insurance Portability and Accountability Act of 1996 (HIPAA). This is a violation of client privacy and confidentiality and should be stopped immediately. All other options should be completed but advising them to cease their communication should occur <strong>first</strong>.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

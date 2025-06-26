@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [`The RN should help the significant other identify support systems and resources that are helpful in coping with a crisis situation, such as the sudden death of a spouse.`, `The significant other may be unable to process information during the crisis, and the RN should focus on immediate needs for coping and support.`, `Educating the significant other about grief and loss is not an immediate priority in a crisis and should be provided after they begin to cope with the situation.`, `Although the RN should assess the significant other for anxiety, the immediate intervention should include a directive approach to assist the spouse in dealing with the stressful event.`],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The RN should help the significant other identify support systems and resources that are helpful in coping with a crisis situation, such as the sudden death of a spouse.`, 
+        ansText:`<strong>Rationale:</strong> The RN should help the significant other identify support systems and resources that are helpful in coping with a crisis situation, such as the sudden death of a spouse.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [`Violence against women occurs in all ethnic groups and at all income levels.`, `It is important to assess women without their partners present; it is also important that verbal children not be present because they may repeat what is heard. Infants may be present.`, `Many women do not reveal violence the first time they are asked. As trust develops between the RN and the client, the woman may be more comfortable sharing her story. Also, violence may start later in the pregnancy.`, `More than one face-to-face interview elicits the highest reports of violence during pregnancy.`],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: More than one face-to-face interview elicits the highest reports of violence during pregnancy.`, 
+        ansText:`<strong>Rationale:</strong> More than one face-to-face interview elicits the highest reports of violence during pregnancy.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -33,7 +33,7 @@ var quiz = [
         optionFeedback: [`Milieu therapy uses resources and activities in the environment to assist with improving social functioning and activities of daily living.`, `Behavior modification involves changing behaviors using positive and negative reinforcements to allow desired activities or remove privileges.`, `Peer therapy is not a single therapeutic modality; it involves the interaction of peers who are responsible for supporting, sharing, and compromising within their peer group and milieu.`, `Problem-solving is used in crisis intervention; it focuses on problem identification and ways to return to previous levels of functioning.`],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Milieu therapy uses resources and activities in the environment to assist with improving social functioning and activities of daily living.`, 
+        ansText:`<strong>Rationale:</strong> Milieu therapy uses resources and activities in the environment to assist with improving social functioning and activities of daily living.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -46,7 +46,7 @@ var quiz = [
         optionFeedback: [`One more staff member will not be able to mobilize the client to ride the elevator. The client must first recognize his feelings about the phobia and accept the need to change his behavior. Additional individuals in the elevator may actually increase the client’s anxiety.`, `Offering an antianxiety medication may be needed to proceed with desensitization, but it not the first action.`, `Desensitizing the client may be implemented, but first the client should identify his fears and recognize his anxiety.`, `The RN should first validate and allow the client to affirm his anxiety and fears about riding the elevator. Then options to initiate desensitization may be considered.`],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The RN should first validate and allow the client to affirm his anxiety and fears about riding the elevator. Then options to initiate desensitization may be considered.`, 
+        ansText:`<strong>Rationale:</strong> The RN should first validate and allow the client to affirm his anxiety and fears about riding the elevator. Then options to initiate desensitization may be considered.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -59,7 +59,7 @@ var quiz = [
         optionFeedback: [`While this may help the client with anxiety, safety is the priority.`, `An antipsychotic medication is indicated if the client is psychotic and agitated; however, the RN should ensure the safety of both clients first.`, `The RN should implement safety precautions immediately and place a sitter with the client.`, `Although both clients should talk about the incident, this is not an opportune time, and the clients should be separated to provide a safe environment.`],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The RN should implement safety precautions immediately and place a sitter with the client.`, 
+        ansText:`<strong>Rationale:</strong> The RN should implement safety precautions immediately and place a sitter with the client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -72,7 +72,7 @@ var quiz = [
         optionFeedback: [`The best intervention is to provide consistency and avoid splitting the staff by assigning the client to only one RN.`, `The RN should assist the client to recognize manipulative behavior and set limits on manipulative behaviors as necessary.`, `Socialization should be encouraged to improve the client’s social skills.`, `Firm limits with clear expectations and consequences are needed for manipulative clients.`],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The best intervention is to provide consistency and avoid splitting the staff by assigning the client to only one RN.`, 
+        ansText:`<strong>Rationale:</strong> The best intervention is to provide consistency and avoid splitting the staff by assigning the client to only one RN.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -85,7 +85,7 @@ var quiz = [
         optionFeedback: [`Self-expression of feelings is important, but reestablishing normal eating habits and physiological integrity is the priority intervention.`, `The RN should monitor and supervise the client’s activities to prevent binging, purging, or avoiding meals.`, `The client should be included in daily groups, but the priority is physiological needs and monitoring meals.`, `The client should be given opportunities to socialize, but monitoring activities during the day, especially meals, is the priority.`],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The RN should monitor and supervise the client’s activities to prevent binging, purging, or avoiding meals.`, 
+        ansText:`<strong>Rationale:</strong> The RN should monitor and supervise the client’s activities to prevent binging, purging, or avoiding meals.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -98,7 +98,7 @@ var quiz = [
         optionFeedback: [`The client should avoid any potentially competitive physical activity, especially contact sports, that can stimulate aggressive acting out.`, `Jogging is the best activity for this client because it is a noncompetitive physical activity, and it requires the use of large muscle groups that expend energy associated with mania.`, `The client should not be assigned to any competitive activities that can frustrate him and stimulate mood swings.`, `A manic client may become disruptive and distracted in an art group; physical activity using large muscle groups is more effective in expending energy.`],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Jogging is the best activity for this client because it is a noncompetitive physical activity, and it requires the use of large muscle groups that expend energy associated with mania.`, 
+        ansText:`<strong>Rationale:</strong> Jogging is the best activity for this client because it is a noncompetitive physical activity, and it requires the use of large muscle groups that expend energy associated with mania.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

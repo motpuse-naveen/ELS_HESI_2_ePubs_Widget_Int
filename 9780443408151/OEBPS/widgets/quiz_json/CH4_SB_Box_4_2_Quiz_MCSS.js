@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: This respiratory rate is high, especially for a client on oxygen. The RN should take action on this finding. The other findings do not require immediate nursing attention.`, 
+        ansText:`<strong>Rationale:</strong> This respiratory rate is high, especially for a client on oxygen. The RN should take action on this finding. The other findings do not require immediate nursing attention.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -21,7 +21,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The top priority would be to draw two sets of blood cultures for this client with suspected sepsis. The pathogen needs to be identified to initiate treatment. The other nursing interventions are not the priority.`, 
+        ansText:`<strong>Rationale:</strong> The top priority would be to draw two sets of blood cultures for this client with suspected sepsis. The pathogen needs to be identified to initiate treatment. The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -35,7 +35,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The client is in shock and showing signs of disseminated intravascular coagulation (DIC). The client requires immediate attention from the health care provider (HCP). The other nursing interventions are not the priority.`, 
+        ansText:`<strong>Rationale:</strong> The client is in shock and showing signs of disseminated intravascular coagulation (DIC). The client requires immediate attention from the health care provider (HCP). The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The 38-year-old client who is increasingly stuporous after an aneurysm repair is of highest priority and needs to be assessed first. Changes in LOC may be the earliest sign of increasing ICP. The other clients are not as high of a priority.`, 
+        ansText:`<strong>Rationale:</strong> The 38-year-old client who is increasingly stuporous after an aneurysm repair is of highest priority and needs to be assessed first. Changes in LOC may be the earliest sign of increasing ICP. The other clients are not as high of a priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -16,11 +16,11 @@ var quiz = [
         q: `Which change in the status of a client being treated for increased ICP warrants immediate action by the RN?`,
         q2: ``,
         q3: [],
-        option: [`Urinary output changes from 20 to 50 mL/hr`, `Arterial PCO2 changes from 40 to 30 mm Hg`, `Glasgow coma scale score changes from 5 to 7`, `Pulse decreases from 88 to 68 beats/min`],
+        option: [`Urinary output changes from 20 to 50 mL/hr`, `Arterial PCO<sub>2</sub> changes from 40 to 30 mm Hg`, `Glasgow coma scale score changes from 5 to 7`, `Pulse decreases from 88 to 68 beats/min`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: A client’s pulse that drops from 88 to 68 beats/min is a component of Cushing triad, which indicates increased ICP. The other findings are positive or expected changes in the patient’s condition.`, 
+        ansText:`<strong>Rationale:</strong> A client’s pulse that drops from 88 to 68 beats/min is a component of Cushing triad, which indicates increased ICP. The other findings are positive or expected changes in the patient’s condition.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

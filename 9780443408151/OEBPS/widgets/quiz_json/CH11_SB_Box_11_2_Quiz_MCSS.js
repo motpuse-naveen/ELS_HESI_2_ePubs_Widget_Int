@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The RN can provide the client with a safe place to share her concerns and obtain support until she is ready to abandon denial as a defense mechanism. The other recommendations do not address the client’s concerns.`, 
+        ansText:`<strong>Rationale:</strong> The RN can provide the client with a safe place to share her concerns and obtain support until she is ready to abandon denial as a defense mechanism. The other recommendations do not address the client’s concerns.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

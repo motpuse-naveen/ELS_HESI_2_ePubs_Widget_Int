@@ -11,7 +11,7 @@ var quiz = [
         optionStyleType: `st-decimal`,
         answer: 2,
         state: `notAnswered`,
-        ansText:`Rationale: These symptoms are commonly seen as labor progresses toward the end of the active phase (formerly called transition). The PN should notify the RN of the symptoms so the RN can perform a vaginal examination to determine the phase of labor, cervical dilation, and station of the fetus.`,
+        ansText:`<strong>Rationale:</strong> These symptoms are commonly seen as labor progresses toward the end of the active phase (formerly called transition). The PN should notify the RN of the symptoms so the RN can perform a vaginal examination to determine the phase of labor, cervical dilation, and station of the fetus.`,
         userAnswered: [],
         type:`MCSS`
     } 

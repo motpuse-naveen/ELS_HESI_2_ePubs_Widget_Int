@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: This client is awake and alert and is capable of making decisions regarding health care procedures at this time. Therefore, the living will has not been activated, and all plans for care should be discussed with the client before intubation takes place. A living will does not remove the client’s ability to make medical decisions and all lifesaving procedures should still be explained to the client. The client should be asked if he or she has a durable power of attorney for health care to make medical decisions. After the client has been intubated and possibly sedated, they cannot communicate health care decisions.`, 
+        ansText:`<strong>Rationale:</strong> This client is awake and alert and is capable of making decisions regarding health care procedures at this time. Therefore, the living will has not been activated, and all plans for care should be discussed with the client before intubation takes place. A living will does not remove the client’s ability to make medical decisions and all lifesaving procedures should still be explained to the client. The client should be asked if he or she has a durable power of attorney for health care to make medical decisions. After the client has been intubated and possibly sedated, they cannot communicate health care decisions.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

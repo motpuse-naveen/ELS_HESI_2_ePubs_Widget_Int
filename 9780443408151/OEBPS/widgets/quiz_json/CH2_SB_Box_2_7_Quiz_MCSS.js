@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Measuring vital signs on the uninjured arm of an elder client does not require the expertise of the RN to be performed. The other actions are beyond the scope of practice for a UAP and should be completed by the RN. Furthermore, medications should never be left at a patient’s bedside as stated in option 2.`, 
+        ansText:`<strong>Rationale:</strong> Measuring vital signs on the uninjured arm of an elder client does not require the expertise of the RN to be performed. The other actions are beyond the scope of practice for a UAP and should be completed by the RN. Furthermore, medications should never be left at a patient’s bedside as stated in option 2.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Performing a sterile wound irrigation is within the scope of practice for the licensed practical nurse (PN) and is an appropriate assignment for the charge nurse to make. Maintaining a 24-hour urine collection can be performed by one of the UAPs and the other can gather the scheduled vital signs. A RN should be responsible for weaning a client from a mechanical ventilator.`, 
+        ansText:`<strong>Rationale:</strong> Performing a sterile wound irrigation is within the scope of practice for the licensed practical nurse (PN) and is an appropriate assignment for the charge nurse to make. Maintaining a 24-hour urine collection can be performed by one of the UAPs and the other can gather the scheduled vital signs. A RN should be responsible for weaning a client from a mechanical ventilator.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -33,7 +33,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: Variance or incident reports are used for unusual circumstances that require investigation by the facility to prevent further occurrences. A client who receives medication that was prescribed to another client is an example of a medication variance and requires reporting using the facility’s incident reporting procedure. This incident should be recorded and investigated to ensure that the occurrence does not reoccur with another client. An incident where a client refuses to take their medications or has status improvement does not require documentation via an incident report but should be documented in the chart. Although an allergic reaction is a concerning incident, this type of reporting is not appropriate. The HCP should be notified of the allergic reaction and the allergy should be noted on the client’s chart.`, 
+        ansText:`<strong>Rationale:</strong> Variance or incident reports are used for unusual circumstances that require investigation by the facility to prevent further occurrences. A client who receives medication that was prescribed to another client is an example of a medication variance and requires reporting using the facility’s incident reporting procedure. This incident should be recorded and investigated to ensure that the occurrence does not reoccur with another client. An incident where a client refuses to take their medications or has status improvement does not require documentation via an incident report but should be documented in the chart. Although an allergic reaction is a concerning incident, this type of reporting is not appropriate. The HCP should be notified of the allergic reaction and the allergy should be noted on the client’s chart.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

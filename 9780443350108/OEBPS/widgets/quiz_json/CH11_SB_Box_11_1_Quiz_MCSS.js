@@ -9,7 +9,7 @@ var quiz = [
         optionStyleType: `st-decimal`,
         answer: 3,
         state: `notAnswered`,
-        ansText:`Rationale: Explain in a matter-of-fact and supportive manner that the nurse-client relationship gives the licensed practical nurse (PN) information
+        ansText:`<strong>Rationale:</strong> Explain in a matter-of-fact and supportive manner that the nurse-client relationship gives the licensed practical nurse (PN) information
         about the client that creates an uneven balance in a friendly relationship. For example, the client may begin to rely on the PN for emotional support or the PN may inadvertently use information gained during the client’s admission in an inappropriate way. The other PN statements are not therapeutic.`,
         userAnswered: [],
         type:`MCSS`

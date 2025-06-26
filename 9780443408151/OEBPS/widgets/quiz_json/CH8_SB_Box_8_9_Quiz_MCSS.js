@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Immediate feedback and reteaching by reviewing the correct steps of the procedure are the best nursing action at this time. Teach the technique of punctal occlusion (placing pressure on the corner of the eye near the nose) immediately after eye drop instillation to prevent systemic absorption of the drug. The other answer choices do not allow for the teach-back method.`, 
+        ansText:`<strong>Rationale:</strong> Immediate feedback and reteaching by reviewing the correct steps of the procedure are the best nursing action at this time. Teach the technique of punctal occlusion (placing pressure on the corner of the eye near the nose) immediately after eye drop instillation to prevent systemic absorption of the drug. The other answer choices do not allow for the teach-back method.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

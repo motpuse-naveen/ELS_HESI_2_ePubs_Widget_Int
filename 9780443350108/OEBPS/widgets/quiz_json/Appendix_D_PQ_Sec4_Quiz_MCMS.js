@@ -1,17 +1,17 @@
 var quiz = [
     //4 Advanced Clinical Concepts
     {
-        q: ` Which client is at the highest risk for respiratory complications?`,
+        q: `Which client is at the highest risk for respiratory complications?`,
         q2: ``,
         q3: [],
         option: [`A 21-year-old client with dehydration and cerebral palsy who is dependent in daily activities. `,`A 60-year-old client who has had type 2 diabetes for 20 years and was admitted with cellulitis.`,
-        `An obese 30-year-old client with hypertension who is noncompliant with the medication regimen.`,` A 40-year-old client who takes a loop diuretic, has a serum K+ of 3.4 mEq/L (3.4 mmol/L) Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L), and complains of fatigue.` ],
+        `An obese 30-year-old client with hypertension who is noncompliant with the medication regimen.`,`A 40-year-old client who takes a loop diuretic, has a serum K+ of 3.4 mEq/L (3.4 mmol/L) Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L), and complains of fatigue.` ],
         optionFeedback: [`A client with dehydration and cerebral palsy, characterized by uncoordinated, spastic muscle movements, is at increased risk for respiratory problems because of impaired mobility and impaired swallowing.`,
         `This older client is more at risk for renal, cardiac, and vascular complications.`,`An obese adult who is noncompliant with antihypertensive medications is more at risk for cardiac or cerebral events than for respiratory problems.`,
         `This middle-aged adult is hypokalemic and fatigued but is not at high risk for respiratory problems.` ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: A client with dehydration and cerebral palsy, characterized by uncoordinated, spastic muscle movements, is at increased risk for respiratory problems because of impaired mobility and impaired swallowing.`, 
+        ansText:`<strong>Rationale:</strong> A client with dehydration and cerebral palsy, characterized by uncoordinated, spastic muscle movements, is at increased risk for respiratory problems because of impaired mobility and impaired swallowing.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -22,12 +22,12 @@ var quiz = [
         q: `A PN working at a clinic finds a client in one of the examination rooms slumped over and apneic. The PN notes an empty syringe and needle still in the client’s arm. Which action has the highest priority?`,
         q2: ``,
         q3: [],
-        option: [`Call 911. `,`Remove the syringe and needle.`,` Assess for a pulse.`,`Obtain the AED.`],
+        option: [`Call 911. `,`Remove the syringe and needle.`,`Assess for a pulse.`,`Obtain the AED.`],
         optionFeedback: [`Calling for assistance is a high priority but not the highest.`,`The syringe and needle should be removed and possibly sent to a laboratory for analysis of the contents, but this is not a priority.`,
         `Assessing for a pulse is the highest priority to determine whether cardiopulmonary resuscitation (CPR) needs to be initiated.`,`This action is needed only if there is no pulse detected.`],
         optionStyleType: `st-decimal`,
         answer: [2],
-        ansText:`Rationale: Assessing for a pulse is the highest priority to determine whether cardiopulmonary resuscitation (CPR) needs to be initiated.`, 
+        ansText:`<strong>Rationale:</strong> Assessing for a pulse is the highest priority to determine whether cardiopulmonary resuscitation (CPR) needs to be initiated.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -39,12 +39,12 @@ var quiz = [
          dark yellow urine. The hourly output for the past 3 hours was 30 mL, 18 mL, and 10 mL. Which action would the PN take?`,
         q2: ``,
         q3: [],
-        option: [` Administer a bolus D5 ½ normal saline at 200 mL/hr.`,`Contact the HCP.`,`Monitor output for another 2 hours.`,`Draw blood samples for BUN and creatinine levels.`],
+        option: [`Administer a bolus D5 ½ normal saline at 200 mL/hr.`,`Contact the HCP.`,`Monitor output for another 2 hours.`,`Draw blood samples for BUN and creatinine levels.`],
         optionFeedback: [`The decreasing urine output may be a sign of acute renal failure, a complication of aortic aneurysm repair. Giving more fluids may cause the client’s condition to deteriorate.`,`Acute renal failure can result from interruption of blood flow during an aortic aneurysm repair. Low urinary output may indicate acute renal failure and requires more immediate intervention from the HCP.`,
         `Urine output has been monitored, and further intervention is needed.`,`The BUN and creatinine should be evaluated, but these tests are not the immediate priority.` ],
         optionStyleType: `st-decimal`,
         answer: [1],
-        ansText:`Rationale: Acute renal failure can result from interruption of blood flow during an aortic aneurysm repair. Low urinary output may indicate acute renal failure and requires more immediate intervention from the HCP.`, 
+        ansText:`<strong>Rationale:</strong> Acute renal failure can result from interruption of blood flow during an aortic aneurysm repair. Low urinary output may indicate acute renal failure and requires more immediate intervention from the HCP.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -52,7 +52,7 @@ var quiz = [
 
     
     {
-        q: ` The PN is evaluating the effects of the administration of fresh frozen plasma (FFP) on a client diagnosed with cirrhosis. Which finding(s) would indicate a positive outcome? (Select all that apply.)`,
+        q: `The PN is evaluating the effects of the administration of fresh frozen plasma (FFP) on a client diagnosed with cirrhosis. Which finding(s) would indicate a positive outcome?`,
         q2: ``,
         q3: [],
         option: [`BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol). `,
@@ -60,7 +60,7 @@ var quiz = [
         optionFeedback: [ ],
         optionStyleType: `st-decimal`,
         answer: [3,4],
-        ansText:`Rationale: <p><strong>BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol).</strong>These values are not affected by administration of FFP. They assess renal function.</p>
+        ansText:`<strong>Rationale:</strong> <p><strong>BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol).</strong>These values are not affected by administration of FFP. They assess renal function.</p>
          <p><strong>Hemoglobin level of 10 gm/dL (6.2 mmol/L) (Ref. range: 14–18 gm/dL or 8.7–11.2 mmol/L).</strong> FFP does not affect hemoglobin levels.</p>
          <p><strong> Return of temperature to normal.</strong> Although monitoring the client’s temperature is important, FFP does not have a direct effect on this parameter.</p>
          <p><strong> Decreased bleeding from the gums.</strong> FFP replaces clotting factors; therefore, a decrease in bleeding is an expected, positive outcome.</p>
@@ -72,18 +72,18 @@ var quiz = [
 
     
     {
-        q: ` A client’s arterial blood gas (ABG) results are as follows: pH 7.29, PCO2 55 mm Hg, and HCO3 26 mEq/L (26 mmol/L). Which compensatory response would the PN expect to see?`,
+        q: `A client’s arterial blood gas (ABG) results are as follows: pH 7.29, PCO<sub>2</sub> 55 mm Hg, and HCO<sub>3</sub> 26 mEq/L (26 mmol/L). Which compensatory response would the PN expect to see?`,
         q2: ``,
         q3: [],
         option: [`  Respiratory rate of 30 breaths/min.`,`Apical rate of 120 beat/min.`,`Potassium level of 3.8 mEq/L (3.8 mmol/L) (Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L).`,
-        ` Complaints of a pounding headache`    ],
+        `Complaints of a pounding headache`    ],
         optionFeedback: [`The client is experiencing respiratory acidosis. In addition to the metabolic system compensating, the respiratory system may also compensate.`,
         `Acid-base imbalances are compensated primarily by the lungs and the renal system. Plasma proteins and ionic shifts (intracellular) also serve as buffering systems. Tachycardia does not serve as a compensatory mechanism.`,
         `To compensate for the acidosis created by increased CO2, K+ ions are released from cellular proteins and H+ ions take their place, bound to the proteins. The result is frequently serum hyperkalemia.`,
         `Headache may be a manifestation of CO2 retention, but it is not a compensatory mechanism for respiratory acidosis.` ],
         optionStyleType: `st-decimal`,
         answer: [0],
-        ansText:`Rationale: The client is experiencing respiratory acidosis. In addition to the metabolic system compensating, the respiratory system may also compensate.`, 
+        ansText:`<strong>Rationale:</strong> The client is experiencing respiratory acidosis. In addition to the metabolic system compensating, the respiratory system may also compensate.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -102,7 +102,7 @@ var quiz = [
         ``],
         optionStyleType: `st-decimal`,
         answer: [2],
-        ansText:`Rationale: This action supports self-care without the high level of adverse effects associated with additional medication. It is the least invasive measure, and it promotes the active participation (self-care) of the client.`, 
+        ansText:`<strong>Rationale:</strong> This action supports self-care without the high level of adverse effects associated with additional medication. It is the least invasive measure, and it promotes the active participation (self-care) of the client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

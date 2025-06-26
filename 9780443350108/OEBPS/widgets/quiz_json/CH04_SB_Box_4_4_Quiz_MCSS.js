@@ -10,7 +10,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,0,2],
-        ansText:`Rationale: The client with partial- and full-thickness burns to the chest is at greatest risk for respiratory issues and should be assessed first to ensure airway and breathing are maintained. The client with partial-thickness burns to the lower extremities and is confused shows signs of possible deterioration and should be assessed next. The older client should be seen next, and the younger client with superficial burns can be seen last in this group.`, 
+        ansText:`<strong>Rationale:</strong> The client with partial- and full-thickness burns to the chest is at greatest risk for respiratory issues and should be assessed first to ensure airway and breathing are maintained. The client with partial-thickness burns to the lower extremities and is confused shows signs of possible deterioration and should be assessed next. The older client should be seen next, and the younger client with superficial burns can be seen last in this group.`, 
         state: `notAnswered`,
         userAnswered: []
     },*/
@@ -26,7 +26,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: A red tag would be assigned to the client with an open wound to the abdomen, a deformed right femur, pulse 125, delayed 
+        ansText:`<strong>Rationale:</strong> A red tag would be assigned to the client with an open wound to the abdomen, a deformed right femur, pulse 125, delayed 
 		capillary refill, respiratory rate 32, and who is moaning. The other clients are not the priority in a disaster situation.`, 
         state: `notAnswered`,
         userAnswered: [],

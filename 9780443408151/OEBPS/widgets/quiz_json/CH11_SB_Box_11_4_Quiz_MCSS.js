@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The best time for learning occurs at the end of the compulsive behavior when the client’s anxiety is lowest. Learning is impaired during compulsive acts that are used to alleviate anxiety, and interrupting the handwashing will only heighten the anxiety, which interferes with learning. Compulsions are uncontrollable acts used to deal with anxiety with a subjective feeling of unknown origin. This will not help the RN initiate a teaching plan.`, 
+        ansText:`<strong>Rationale:</strong> The best time for learning occurs at the end of the compulsive behavior when the client’s anxiety is lowest. Learning is impaired during compulsive acts that are used to alleviate anxiety, and interrupting the handwashing will only heighten the anxiety, which interferes with learning. Compulsions are uncontrollable acts used to deal with anxiety with a subjective feeling of unknown origin. This will not help the RN initiate a teaching plan.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The RN should take an anxious client to an area where there is reduced environmental stimuli away from the crowd. The client may be experiencing a medical or mental health issue; however, either situation is best assessed in a quiet area away from others. The other interventions are not the priority.`, 
+        ansText:`<strong>Rationale:</strong> The RN should take an anxious client to an area where there is reduced environmental stimuli away from the crowd. The client may be experiencing a medical or mental health issue; however, either situation is best assessed in a quiet area away from others. The other interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

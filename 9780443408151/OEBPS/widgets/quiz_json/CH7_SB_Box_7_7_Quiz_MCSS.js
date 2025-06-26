@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The client has experienced excessive bleeding, and the RN would monitor the client’s vital signs more closely (every hour). If signs of shock are present, the nurse would notify the HCP immediately. The other nursing interventions are not the priority.`, 
+        ansText:`<strong>Rationale:</strong> The client has experienced excessive bleeding, and the RN would monitor the client’s vital signs more closely (every hour). If signs of shock are present, the nurse would notify the HCP immediately. The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The 49-year-old client 1-day post-vaginal hysterectomy who is saturating pads every 3 hours needs to be assessed first. The amount of bleeding the client is experiencing is too high and could indicate postoperative hemorrhage. The other clients are not a priority at this time.`, 
+        ansText:`<strong>Rationale:</strong> The 49-year-old client 1-day post-vaginal hysterectomy who is saturating pads every 3 hours needs to be assessed first. The amount of bleeding the client is experiencing is too high and could indicate postoperative hemorrhage. The other clients are not a priority at this time.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

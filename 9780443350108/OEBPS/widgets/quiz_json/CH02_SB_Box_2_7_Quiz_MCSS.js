@@ -8,7 +8,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Measuring vital signs on the uninjured arm of an elder client does not require the expertise of the PN to be performed. The other 
+        ansText:`<strong>Rationale:</strong> Measuring vital signs on the uninjured arm of an elder client does not require the expertise of the PN to be performed. The other 
 		actions are beyond the scope of practice for a UAP and should be completed by the PN. Furthermore, medications should never be left at a client’s bedside
 		as stated in option 2.`, 
         state: `notAnswered`,
@@ -20,11 +20,11 @@ var quiz = [
         q: `The charge nurse is making assignments for each of four staff members, including an RN, a PN, and two UAPs. Which task is best to assign to the PN?`,
         q2: ``,
         q3: [],
-        option: [`Maintain a 24-hour urine collection.`, ` Wean a client from a mechanical ventilator.`, ` Perform sterile wound irrigation.`, ` Obtain scheduled vital signs.`],
+        option: [`Maintain a 24-hour urine collection.`, `Wean a client from a mechanical ventilator.`, `Perform sterile wound irrigation.`, `Obtain scheduled vital signs.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Performing a sterile wound irrigation is within the scope of practice for the PN and is an appropriate assignment for the charge
+        ansText:`<strong>Rationale:</strong> Performing a sterile wound irrigation is within the scope of practice for the PN and is an appropriate assignment for the charge
 		nurse to make. Maintaining a 24-hour urine collection can be performed by one of the UAPs, and the other can gather the scheduled vital signs. 
 		A registered nurse (RN) should be responsible for weaning a client from a mechanical ventilator.`, 
         state: `notAnswered`,
@@ -40,7 +40,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: Variance or incident reports are used for unusual circumstances that require investigation by the facility to prevent 
+        ansText:`<strong>Rationale:</strong> Variance or incident reports are used for unusual circumstances that require investigation by the facility to prevent 
 		further occurrences. A client who receives medication that was prescribed to another client is an example of a medication variance and 
 		requires reporting using the facility’s incident reporting procedure. This incident should be recorded and investigated to ensure that the 
 		occurrence does not reoccur to another client. An incident where a client refuses to take their medications or has status improvement does 

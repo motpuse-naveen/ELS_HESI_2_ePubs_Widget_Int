@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The serum potassium level is severely low. Normal potassium level is between 3.5 and 5 mEq/L (3.5–5 mmol/L). This electrolyte imbalance can lead to deadly dysrhythmias and must be resolved prior to starting an operative procedure. This requires immediate contact of the health care provider (HCP). The other labs are within normal limits and do not require contact of the HCP.`, 
+        ansText:`<strong>Rationale:</strong> The serum potassium level is severely low. Normal potassium level is between 3.5 and 5 mEq/L (3.5–5 mmol/L). This electrolyte imbalance can lead to deadly dysrhythmias and must be resolved prior to starting an operative procedure. This requires immediate contact of the health care provider (HCP). The other labs are within normal limits and do not require contact of the HCP.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

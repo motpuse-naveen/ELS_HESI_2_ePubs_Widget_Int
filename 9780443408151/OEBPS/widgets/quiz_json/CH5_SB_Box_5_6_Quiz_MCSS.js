@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The RN would immediately start a new IV at another site and resume the transfusion at the new site. This is not a sign of a transfusion reaction but rather phlebitis. If the client remains free of S/S of a transfusion reaction, the transfusion should be continued. However, the previous site should be monitored for signs of infection and reported per facility policy. The other interventions should be completed if a transfusion reaction is suspected.`, 
+        ansText:`<strong>Rationale:</strong> The RN would immediately start a new IV at another site and resume the transfusion at the new site. This is not a sign of a transfusion reaction but rather phlebitis. If the client remains free of S/S of a transfusion reaction, the transfusion should be continued. However, the previous site should be monitored for signs of infection and reported per facility policy. The other interventions should be completed if a transfusion reaction is suspected.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

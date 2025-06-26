@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The highest priority is assessing for a history of BCG vaccine because administering a PPD to a client who has received the vaccine will be positive and result in a large reaction at the site. Those clients will need to have a chest x-ray (CXR) and avoid PPD screening for at least 10 years after administration. The other options are appropriate but not the highest priority.`, 
+        ansText:`<strong>Rationale:</strong> The highest priority is assessing for a history of BCG vaccine because administering a PPD to a client who has received the vaccine will be positive and result in a large reaction at the site. Those clients will need to have a chest x-ray (CXR) and avoid PPD screening for at least 10 years after administration. The other options are appropriate but not the highest priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

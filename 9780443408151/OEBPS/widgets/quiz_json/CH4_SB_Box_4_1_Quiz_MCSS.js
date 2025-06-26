@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: Nursing interventions to correct shock are focused on correcting decreased tissue perfusion and restoring cardiac output. Increasing the intravenous fluid rate will help to expand blood volume, which will increase tissue perfusion and cardiac output.`, 
+        ansText:`<strong>Rationale:</strong> Nursing interventions to correct shock are focused on correcting decreased tissue perfusion and restoring cardiac output. Increasing the intravenous fluid rate will help to expand blood volume, which will increase tissue perfusion and cardiac output.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -21,7 +21,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: This is a client with a known cardiac history whose symptoms align with cardiac problems. The client has increased work of breathing with respiratory rate of 24. The priority in this client is to maximize perfusion to the myocardium. The registered nurse (RN) should ensure adequate oxygenation before implementing other interventions.`, 
+        ansText:`<strong>Rationale:</strong> This is a client with a known cardiac history whose symptoms align with cardiac problems. The client has increased work of breathing with respiratory rate of 24. The priority in this client is to maximize perfusion to the myocardium. The registered nurse (RN) should ensure adequate oxygenation before implementing other interventions.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

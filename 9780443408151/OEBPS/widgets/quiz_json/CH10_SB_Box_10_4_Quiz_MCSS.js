@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: The RN should provide teaching and reassurance to the woman during the assessment. The RN should also encourage questions. The other responses are not therapeutic.`, 
+        ansText:`<strong>Rationale:</strong> The RN should provide teaching and reassurance to the woman during the assessment. The RN should also encourage questions. The other responses are not therapeutic.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

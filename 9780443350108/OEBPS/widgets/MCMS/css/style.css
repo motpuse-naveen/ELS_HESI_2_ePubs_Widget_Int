@@ -10,6 +10,9 @@ body {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
+body {
+    background-color: #FFF;
+}
 .main-document-area.mcq {
     height: 100vh;
     overflow: hidden;
@@ -75,6 +78,9 @@ body {
     margin-bottom: 20px;
     margin-top: 0px;
 }
+#questionName {
+    font-weight: bold;
+}
 .content-heading h5, .content-heading #subheading2, .content-heading #subheading3 {
     /*font-size: 14px;*/
     line-height: 20px;
@@ -119,7 +125,8 @@ body {
     font-weight: 500;
     cursor: pointer;
     color: var(--primary-text);
-    text-align: justify;
+    /*text-align: justify;*/
+    text-align: left;
 }
 .focus-input.active {
     outline: 2px solid var(--blue);
@@ -538,8 +545,4 @@ a.step.active:hover {
 }
 .mar-left{
     margin-left: 1.5em;
-}
-
-.mcq .mcq_inner, .mcq .tab-content {
-background-color: #FFF;
 }

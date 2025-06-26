@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Clients prescribed prednisone need to be aware that using aspirin with steroids can cause bleeding. Clients are expected to gain 1 to 2 pounds (0.45-0.9 kg), but if a client were to gain 5 pounds (2.27 kg) in a week, the health care provider (HCP) should be notified. The other client statements do not require further teaching.`, 
+        ansText:`<strong>Rationale:</strong> Clients prescribed prednisone need to be aware that using aspirin with steroids can cause bleeding. Clients are expected to gain 1 to 2 pounds (0.45-0.9 kg), but if a client were to gain 5 pounds (2.27 kg) in a week, the health care provider (HCP) should be notified. The other client statements do not require further teaching.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

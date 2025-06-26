@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The RN would first verify the infant’s current cardiac function by assessing the apical heart rate. The other nursing interventions are not a priority for this situation.`, 
+        ansText:`<strong>Rationale:</strong> The RN would first verify the infant’s current cardiac function by assessing the apical heart rate. The other nursing interventions are not a priority for this situation.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

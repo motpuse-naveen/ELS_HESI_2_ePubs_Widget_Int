@@ -9,7 +9,7 @@ var quiz = [
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The powder should be mixed with fruit juice or applesauce; avoid mixing with protein foods.
+        ansText:`<strong>Rationale:</strong> The powder should be mixed with fruit juice or applesauce; avoid mixing with protein foods.
 		Enzymes should be taken with each meal, which will decrease the number and frequency of stools and lessen abdominal pain.`,
         userAnswered: [],
         type:`MCSS`

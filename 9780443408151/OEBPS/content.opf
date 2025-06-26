@@ -375,7 +375,6 @@
     <item id="mcms_common_13" href="widgets/MCMS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
     <item id="mcms_common_14" href="widgets/MCMS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
     <item id="mcms_common_15" href="widgets/MCMS/images/x.png" media-type="image/png"/>
-    <item id="mcms_common_16" href="widgets/MCMS/js/QUIZMCMS.js" media-type="text/javascript"/>
     <item id="mcms_common_17" href="widgets/MCMS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
     <item id="mcms_common_18" href="widgets/MCMS/script/main.js" media-type="text/javascript"/>
 
@@ -397,7 +396,6 @@
     <item id="mcss_common_15" href="widgets/MCSS/images/x.png" media-type="image/png"/>
     <item id="mcss_common_16" href="widgets/MCSS/script/main.js" media-type="text/javascript"/>
     <item id="mcss_common_17" href="widgets/MCSS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
-    <item id="mcss_common_18" href="widgets/MCSS/js/ch02_ass.js" media-type="application/javascript"/>
 
     <!--Inline Question Data Files-->
     <item id="iqdata1" href="widgets/inline_questions/data/ch01_question_data.js" media-type="text/javascript"/>

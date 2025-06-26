@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: Cold stress is a major cause of metabolic problems in the newborn, including hypoglycemia. The neonatal resuscitation protocol is T-A-B-C (temperature, airway, breathing, circulation). If cold stress occurs, other resuscitative efforts are less successful.`, 
+        ansText:`<strong>Rationale:</strong> Cold stress is a major cause of metabolic problems in the newborn, including hypoglycemia. The neonatal resuscitation protocol is T-A-B-C (temperature, airway, breathing, circulation). If cold stress occurs, other resuscitative efforts are less successful.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

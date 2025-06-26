@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: Clients with Down syndrome are at risk for hearing loss; monitoring for this would reduce the client’s anxiety by improving communication. A suitable, well-established, predictable schedule will help reduce anxiety, but communication would be a higher priority for this client. The other answer choices are not factors that should be included in the client’s care plan.`, 
+        ansText:`<strong>Rationale:</strong> Clients with Down syndrome are at risk for hearing loss; monitoring for this would reduce the client’s anxiety by improving communication. A suitable, well-established, predictable schedule will help reduce anxiety, but communication would be a higher priority for this client. The other answer choices are not factors that should be included in the client’s care plan.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

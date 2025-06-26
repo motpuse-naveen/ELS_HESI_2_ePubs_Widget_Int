@@ -5,11 +5,11 @@ var quiz = [
 	   the PN immediately report to the RN?`,
         q2: ``,
         q3: [],
-        option: [` HR of 83 beats/min`,`BP of 104/64 mm Hg`,`Respiratory rate of 27 breaths/min`,`SpO2 92% of 2 L/min O2 via nasal cannula`],
+        option: [`HR of 83 beats/min`,`BP of 104/64 mm Hg`,`Respiratory rate of 27 breaths/min`,`SpO2 92% of 2 L/min O2 via nasal cannula`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: This respiratory rate is high, especially for a client on oxygen, and requires thorough assessment. This finding 
+        ansText:`<strong>Rationale:</strong> This respiratory rate is high, especially for a client on oxygen, and requires thorough assessment. This finding 
 		should be reported to the registered nurse (RN). The other findings do not require immediate nursing attention.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -21,11 +21,11 @@ var quiz = [
 	   and SpO2 92% on 2 L oxygen via nasal cannula. Which order has the highest priority in this client’s care?`,
         q2: ``,
         q3: [],
-        option: [` Administer acetaminophen 1000 mg.`,` Draw two sets of blood cultures.`,`Administer the ordered IV antibiotics.`,`Draw serum lactate and glucose levels.`],
+        option: [`Administer acetaminophen 1000 mg.`,`Draw two sets of blood cultures.`,`Administer the ordered IV antibiotics.`,`Draw serum lactate and glucose levels.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The highest priority would be to draw two sets of blood cultures for this client with suspected sepsis. The pathogen 
+        ansText:`<strong>Rationale:</strong> The highest priority would be to draw two sets of blood cultures for this client with suspected sepsis. The pathogen 
 		needs to be identified to initiate treatment. The other nursing interventions are not the priority.`, 
         state: `notAnswered`,
         userAnswered: [],
@@ -37,12 +37,12 @@ var quiz = [
 		presentation, which nursing action has the highest priority?`,
         q2: ``,
         q3: [],
-        option: [` Assess the client’s temperature.`,`Notify the charge nurse and HCP.`,` Clean the blood from the incision site.`,`Draw labs for PT,
+        option: [`Assess the client’s temperature.`,`Notify the charge nurse and HCP.`,`Clean the blood from the incision site.`,`Draw labs for PT,
 		PTT, CBC, and fibrinogen.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: The client is in shock and showing signs of disseminated intravascular coagulation (DIC). The client requires immediate
+        ansText:`<strong>Rationale:</strong> The client is in shock and showing signs of disseminated intravascular coagulation (DIC). The client requires immediate
 		attention from the health care provider (HCP). The other nursing interventions are not the priority. `, 
         state: `notAnswered`,
         userAnswered: [],

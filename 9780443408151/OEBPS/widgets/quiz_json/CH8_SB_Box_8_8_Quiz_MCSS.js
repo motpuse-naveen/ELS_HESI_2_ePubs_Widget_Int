@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Sunlight may trigger lupus and should be avoided. The RN needs to instruct both the client and the UAP. The other clients do not require immediate follow-up.`, 
+        ansText:`<strong>Rationale:</strong> Sunlight may trigger lupus and should be avoided. The RN needs to instruct both the client and the UAP. The other clients do not require immediate follow-up.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

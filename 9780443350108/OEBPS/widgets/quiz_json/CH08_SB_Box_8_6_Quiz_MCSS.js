@@ -1,36 +1,17 @@
 var quiz = [
 {
-        q: `The unlicensed assistive personnel (UAP) reports to the licensed practical nurse (PN) that a client who had surgery 4 hours ago has had a decrease
-		in blood pressure from 150/80 to 110/70 in the past hour. The PN advises the UAP to check the client’s dressing for excess drainage and report the findings
-		to the PN. Which factor is most important to consider when assessing the legal ramifications of this situation?`,
+        q: `An adult client with a fracture of the femur is being discharged from the fast-track clinic after application of a plaster cast. The PN would reinforce with the client the need to use which method to dry the cast over the next 24 hours?`,
         q2: ``,
         q3: [],
-        option: [`The parameters of the state’s or province’s nurse practice act`, `The need to complete the hospital’s adverse occurrence report`, 
-		` Hospital protocol regarding the frequency of vital sign assessment every hour postoperatively`, ` The HCP’s order for changing the postoperative dressing`],
+        option: [
+        `Place plastic wrap on the bottom of the cast.`, 
+        `Support the cast on a firm surface during the night.`, 
+		`Keep the cast’s surfaces exposed to circulating air.`, 
+        `Use a blow dryer set at low for 10 minutes every hour for 4 hours.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 0,
-        ansText:`Rationale: To delegate tasks to unlicensed assistive personnel (UAP), the licensed practical nurse (PN) must be knowledgeable regarding the
-		parameters of the state’s nurse practice acts. Delegation of an assessment that requires nursing judgment to a UAP is inappropriate. The other answer
-		options do not apply to this scenario.`, 
-        state: `notAnswered`,
-        userAnswered: [],
-        type:`MCSS`
-    } , 
-	
-	{
-        q: `The newly licensed PN overhears two nurses talking in the elevator about a client who will lose her leg because of negligence of the staff. 
-		Which action by the newly licensed PN would be implemented first?`,
-        q2: ``,
-        q3: [],
-        option: [`Monitor the nurses closely for further occurrences.`, `Advise them to cease their communication.`, `Inform the nurse manager of the conversation.`, 
-		  ` Submit an occurrence or variance report.`],
-        //optionFeedback: [``],
-        optionStyleType: `st-decimal`,
-        answer: 1,
-        ansText:`Rationale: Nurses should not discuss client information in public settings, as it violates the Health Insurance Portability and Accountability
-		Act of 1996 (HIPAA). This violates client privacy and confidentiality and should be stopped immediately. All other options should be completed, but
-		advising them to cease their communication should occur first.`, 
+        answer: 2,
+        ansText:`<strong>Rationale:</strong> Exposing the cast surface to circulating air as much as possible aids in drying. The other answer options do not result in fast drying of the cast.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

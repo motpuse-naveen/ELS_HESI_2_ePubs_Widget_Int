@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: If the woman is Rh negative and Coombs negative, she should receive RhoGAM within the first 72 hours after placental separation to prevent isoimmunization, which could harm future fetuses. The other nursing interventions are not the highest priority.`, 
+        ansText:`<strong>Rationale:</strong> If the woman is Rh negative and Coombs negative, she should receive RhoGAM within the first 72 hours after placental separation to prevent isoimmunization, which could harm future fetuses. The other nursing interventions are not the highest priority.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

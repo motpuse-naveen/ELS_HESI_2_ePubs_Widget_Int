@@ -72,12 +72,10 @@ body {
 }
 
 body {
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
+  /*width: 100%;*/
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: Arial, Helvetica, sans-serif, FiraSans-Regular;
+  /*font-family: Arial, Helvetica, sans-serif, FiraSans-Regular;*/
 }
 hr.seperator {
   border: 0;
@@ -136,14 +134,22 @@ button.disabled {
 .align-center {
   margin: 0 auto;
 }
+.force-align-center {
+  margin: 0 auto !important;
+}
 .align-left {
   margin: auto 0;
+}
+.force-align-left{
+  margin: auto 0 !important;
 }
 .floatright {
   float: right;
 }
 .question-group {
   margin-bottom: 3rem;
+  background-color: #FFFFFF;
+  padding: 0.5rem 1rem;
 }
 .question-main .groupWrapper {
   padding: 0px 30px;
@@ -153,6 +159,10 @@ button.disabled {
   border: 1px solid var(--gray-light);
   border-radius: 0.5rem;
   padding: 20px;
+}
+
+.group-head-html{
+  padding: 10px 0px;
 }
 
 button,
@@ -1170,4 +1180,11 @@ transform-origin: center;
   top: 8%;
   left: -12%;
 }
+
+mfrac{
+  font-size: 1.5em;
+}
+
+
+/* ePUB specific css*/
 

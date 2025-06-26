@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: Children with CF are at an increased risk of developing infection. Handwashing is the number one prevention against transmission of microbes. This parent statement indicates an understanding of the teaching. The other parent statements do not reflect an understanding of the teaching.`, 
+        ansText:`<strong>Rationale:</strong> Children with CF are at an increased risk of developing infection. Handwashing is the number one prevention against transmission of microbes. This parent statement indicates an understanding of the teaching. The other parent statements do not reflect an understanding of the teaching.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

@@ -1,7 +1,7 @@
 var quiz = [
 {
         q: `<p><strong>Scenario:</strong> The RN is caring for a client who has a new prescription for warfarin 2 mg PO daily. The RN is providing medication education for the client and is discussing dietary instructions including foods to avoid while taking this medication.</p>
-        <p>Which vegetable would the RN instruct this client to avoid while taking warfarin? (Select all that apply.)</p>`,
+        <p>Which vegetable would the RN instruct this client to avoid while taking warfarin?</p>`,
         q2: ``,
         q3: [],
         option: [`Collard greens`, `Iceberg lettuce`, `Broccoli`, `Brussels sprouts`, `Green beans`, `Spinach`, `Zucchini squash`,`Kale`],

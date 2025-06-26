@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [`This requires assessment of the client’s ability to ambulate safely, which is beyond the scope of practice of a UAP.`, `These directions are not sufficiently clear and detailed for the UAP to perform the task.`, `This requires assessment of the client’s clinical status, which is beyond the scope of the UAP.`, `This task encompasses basic care, elimination, and intake and output; it does not require judgment or the expertise of the RN and can be performed by the UAP.`],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: This task encompasses basic care, elimination, and intake and output; it does not require judgment or the expertise of the RN and can be performed by the UAP.`, 
+        ansText:`<strong>Rationale:</strong> This task encompasses basic care, elimination, and intake and output; it does not require judgment or the expertise of the RN and can be performed by the UAP.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -20,7 +20,7 @@ var quiz = [
         optionFeedback: [`A UAP can be delegated to provide a box of masks or to direct the client back to the room.`, `A UAP can be directed to provide specific types and amounts of fluids, but orange juice is high in potassium, which is contraindicated for clients in end-stage renal disease.`, `A UAP can assist a client to get dressed. Fatigue is an expected finding with anemia.`, `A UAP can ask the client to not leave the unit to smoke.`],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: A UAP can be directed to provide specific types and amounts of fluids, but orange juice is high in potassium, which is contraindicated for clients in end-stage renal disease.`, 
+        ansText:`<strong>Rationale:</strong> A UAP can be directed to provide specific types and amounts of fluids, but orange juice is high in potassium, which is contraindicated for clients in end-stage renal disease.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -33,7 +33,7 @@ var quiz = [
         optionFeedback: [`The charge nurse should plan ahead for staffing, but the immediate focus should be the client’s safety now.`, `Because the client is at risk for self-harm, the charge nurse should assign a staff member to stay with the client.`, `This will not ensure the client’s safety; also, a staff member, not another client, must always be present with the client.`, `Although the client may be anxious, this is not a priority intervention that would ensure her safety.`],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Because the client is at risk for self-harm, the charge nurse should assign a staff member to stay with the client.`, 
+        ansText:`<strong>Rationale:</strong> Because the client is at risk for self-harm, the charge nurse should assign a staff member to stay with the client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
@@ -46,7 +46,7 @@ var quiz = [
         optionFeedback: [`Assessment is a responsibility of the RN.`, `This is a high-risk client who needs to be evaluated by an RN.`, `Teaching is the responsibility of the RN.`, `This is the most appropriate assignment for the UAP. The RN should delegate daily care activities to the UAP based on the RN’s assessments of each client’s needs.`],
         optionStyleType: `st-decimal`,
         answer: 3,
-        ansText:`Rationale: This is the most appropriate assignment for the UAP. The RN should delegate daily care activities to the UAP based on the RN’s assessments of each client’s needs.`, 
+        ansText:`<strong>Rationale:</strong> This is the most appropriate assignment for the UAP. The RN should delegate daily care activities to the UAP based on the RN’s assessments of each client’s needs.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

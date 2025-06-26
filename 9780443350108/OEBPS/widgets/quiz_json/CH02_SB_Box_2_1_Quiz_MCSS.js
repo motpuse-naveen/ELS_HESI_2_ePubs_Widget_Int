@@ -6,11 +6,11 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`The parameters of the state’s or province’s nurse practice act`, `The need to complete the hospital’s adverse occurrence report`, 
-		` Hospital protocol regarding the frequency of vital sign assessment every hour postoperatively`, ` The HCP’s order for changing the postoperative dressing`],
+		`Hospital protocol regarding the frequency of vital sign assessment every hour postoperatively`, `The HCP’s order for changing the postoperative dressing`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: To delegate tasks to unlicensed assistive personnel (UAP), the licensed practical nurse (PN) must be knowledgeable regarding the
+        ansText:`<strong>Rationale:</strong> To delegate tasks to unlicensed assistive personnel (UAP), the licensed practical nurse (PN) must be knowledgeable regarding the
 		parameters of the state’s nurse practice acts. Delegation of an assessment that requires nursing judgment to a UAP is inappropriate. The other answer
 		options do not apply to this scenario.`, 
         state: `notAnswered`,
@@ -24,13 +24,13 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Monitor the nurses closely for further occurrences.`, `Advise them to cease their communication.`, `Inform the nurse manager of the conversation.`, 
-		  ` Submit an occurrence or variance report.`],
+		  `Submit an occurrence or variance report.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Nurses should not discuss client information in public settings, as it violates the Health Insurance Portability and Accountability
+        ansText:`<strong>Rationale:</strong> Nurses should not discuss client information in public settings, as it violates the Health Insurance Portability and Accountability
 		Act of 1996 (HIPAA). This violates client privacy and confidentiality and should be stopped immediately. All other options should be completed, but
-		advising them to cease their communication should occur first.`, 
+		advising them to cease their communication should occur <strong>first</strong>.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

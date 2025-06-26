@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,
-        ansText:`Rationale: The child with sickle cell should remain well hydrated to promote hemodilution, which will decrease symptoms of pain. Warm soaks on joints would be better to ease the pain. Aspirin is not strong enough to control the pain of a vaso-occlusive crisis. Resting joints is recommended.`, 
+        ansText:`<strong>Rationale:</strong> The child with sickle cell should remain well hydrated to promote hemodilution, which will decrease symptoms of pain. Warm soaks on joints would be better to ease the pain. Aspirin is not strong enough to control the pain of a vaso-occlusive crisis. Resting joints is recommended.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

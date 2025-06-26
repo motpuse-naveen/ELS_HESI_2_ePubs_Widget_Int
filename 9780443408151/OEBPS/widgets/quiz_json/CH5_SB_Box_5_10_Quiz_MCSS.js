@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`Rationale: The HCP should be notified if chest tube drainage is >70 mL/hr. The first client does not require the RN’s immediate attention. The client receiving IV aminoglycosides should be assessed, but this is not the priority client. The client receiving chemotherapy should be assessed, but this is not the priority client.`, 
+        ansText:`<strong>Rationale:</strong> The HCP should be notified if chest tube drainage is >70 mL/hr. The first client does not require the RN’s immediate attention. The client receiving IV aminoglycosides should be assessed, but this is not the priority client. The client receiving chemotherapy should be assessed, but this is not the priority client.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

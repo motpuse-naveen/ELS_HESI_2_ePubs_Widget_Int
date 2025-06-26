@@ -7,7 +7,7 @@ var quiz = [
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,
-        ansText:`Rationale: Maternal glucose crosses the placenta, but insulin (either the mother’s own or synthetic) does not. As the fetus gets too much glucose, fetal insulin secretion follows and acts as a growth hormone, thus causing the macrosomia. The other explanations are not correct.`, 
+        ansText:`<strong>Rationale:</strong> Maternal glucose crosses the placenta, but insulin (either the mother’s own or synthetic) does not. As the fetus gets too much glucose, fetal insulin secretion follows and acts as a growth hormone, thus causing the macrosomia. The other explanations are not correct.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`
