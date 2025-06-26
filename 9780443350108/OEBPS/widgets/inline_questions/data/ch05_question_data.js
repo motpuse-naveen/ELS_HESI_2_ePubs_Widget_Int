@@ -20,7 +20,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue:"2",
+              correctValue:"3",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -33,7 +33,7 @@ const questions_data = {
             dropdowns: {
               dropdown1: {
                 values: [],
-                correctValue: "4",
+                correctValue: "5",
                 dropdownlabel: "Select an Order",
                 useCommonOptions: "true",
               },
@@ -46,7 +46,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue: "1",
+              correctValue: "2",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -59,7 +59,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue:"0",
+              correctValue:"1",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -72,7 +72,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue:"3",
+              correctValue:"4",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -103,7 +103,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue:"1",
+              correctValue:"2",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -116,7 +116,7 @@ const questions_data = {
             dropdowns: {
               dropdown1: {
                 values: [],
-                correctValue: "0",
+                correctValue: "1",
                 dropdownlabel: "Select an Order",
                 useCommonOptions: "true",
               },
@@ -129,7 +129,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue: "2",
+              correctValue: "3",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -142,7 +142,7 @@ const questions_data = {
           dropdowns: {
             dropdown1: {
               values: [],
-              correctValue:"3",
+              correctValue:"4",
               dropdownlabel: "Select an Order",
               useCommonOptions: "true",
             },
@@ -153,7 +153,7 @@ const questions_data = {
       /*itemsInstruction: `<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
                       <p>† A squamous cell is a type of epithelial cell.</p>`,*/
       correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale: </strong>
-      The PN should assist the client into supine position for repositioning and full lung expansion. After turning the client supine, elevate the HOB to help with breathing. Then the nurse should measure the client’s O2 saturation. Finally, the PN should administer IM morphine PRN.</p>`,
+      For emergency care of the client with chest pain, it is important to quickly gather vital signs, provide O2, administer nitroglycerin, notify the rapid response team, and finally, document: 3, 5, 2, 1, 4.</p>`,
       partialFeedback: `You have one or more incorrect answers.`,
       incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",

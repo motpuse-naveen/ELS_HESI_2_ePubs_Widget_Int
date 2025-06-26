@@ -6,7 +6,7 @@ var quiz = [
         option: [`Sunken fontanel`, `Increased urine output`, `High serum hematocrit level`, `Cracked lips`, `Thirst`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: [1,2,3,4],
+        answer: [0,2,3,4],
         ansText:`<strong>Rationale:</strong> Signs and symptoms of dehydration in an infant include sunken fontanels, high hematocrit levels, cracked lips, and thirst. Increased urine output is not a symptom of dehydration.`, 
         state: `notAnswered`,
         userAnswered: [],

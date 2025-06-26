@@ -42,7 +42,7 @@ var quiz = [
 		`Symptomatic of a urinary tract infection`,`Normal pregnancy changes in carbohydrate metabolism`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 3,
+        answer: [3],
         ansText:`<strong>Rationale:</strong> A missed meal often causes presence of ketones in the urine. It indicates inadequate carbohydrate intake. The ketones do not indicate
 		gestational diabetes, preeclampsia, or urinary tract infection.`,
         userAnswered: [],
@@ -57,7 +57,7 @@ var quiz = [
 		`Psychological addiction to heroin`,`Probability of meconium aspiration`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
-        answer: 3,
+        answer: [3],
         ansText:`<strong>Rationale:</strong> There is a very high probability of meconium aspiration in the infant of a mother addicted to heroin. Efforts to preserve airway 
 		and breathing are the highest priority. The other answer options are lower priority.`,
         userAnswered: [],
@@ -127,9 +127,5 @@ var quiz = [
 		decrease the risk of SIDS.`,
         userAnswered: [],
         type:`MCSS`
-    } 			
-		
-	
-	
-
+    }
 ];

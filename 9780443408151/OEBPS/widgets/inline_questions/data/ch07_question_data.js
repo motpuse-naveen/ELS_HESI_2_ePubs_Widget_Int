@@ -25,7 +25,7 @@ const questions_data = {
                   </table>`,
                   dropdowns:{
                     dropdown1:{values:["Abdominal x-ray", "MRI of abdomen", "CT of abdomen", "Pelvic ULS"],correctValue: "CT of abdomen",dropdownlabel:"Select anticipated order", useCommonOptions:"false"},
-                    dropdown2:{values:["BNP", "Midstream U/A", "Blood cultures x2", "Urea breath test"],correctValue: "Midstream U/A",dropdownlabel:"Select anticipated order", useCommonOptions:"false"},
+                    dropdown2:{values:["BNP", "Midstream U/A", "Blood cultures x 2", "Urea breath test"],correctValue: "Midstream U/A",dropdownlabel:"Select anticipated order", useCommonOptions:"false"},
                     dropdown3:{values:["Ketorolac", "Ceftriaxone", "Desmopressin", "Nitrofurantoin"],correctValue: "Ketorolac",dropdownlabel:"Select anticipated order", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline

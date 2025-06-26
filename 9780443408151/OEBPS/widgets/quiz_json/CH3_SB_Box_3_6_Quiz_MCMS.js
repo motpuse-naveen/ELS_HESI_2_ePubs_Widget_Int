@@ -1,6 +1,6 @@
 var quiz = [
 {
-        q: `The complete blood count (CBC) results for a client receiving chemotherapy are hemoglobin 8.5 mg/dL (5.28 mmol/L); hematocrit 32%; WBC count 6500 cells/mm3 (6.5 X 109/L). Which meal choice is best for this client?`,
+        q: `The complete blood count (CBC) results for a client receiving chemotherapy are hemoglobin 8.5 mg/dL (5.28 mmol/L); hematocrit 32%; WBC count 6500 cells/mm<sup>3</sup> (6.5 X 10<sup>9</sup>/L). Which meal choice is best for this client?`,
         q2: ``,
         q3: [],
         option: [`Grilled chicken, rice, fresh fruit salad, milk`, `Broiled steak, whole wheat rolls, spinach salad, and water`, `Smoked ham, mashed potatoes, applesauce, and iced tea`, `Tuna noodle casserole, garden salad, and lemonade`],
@@ -45,7 +45,7 @@ var quiz = [
         q: `A practical nurse (PN) is assigned to care for an 82-year-old client who had a total right hip replacement with cement 2 days ago. Which observation would the PN immediately report to the RN?`,
         q2: ``,
         q3: [],
-        option: [`The client complains of incisional pain, rating it a 6 on a scale of 0 to 10.`, `The client has had a change in orientation to person but not to time or place.`, `Swelling and redness have developed in the client’s lower left leg.`, `The practical nurse emptied 15 mL of bloody drainage from the Jackson-Pratt drain.`, `The client’s last set of vital signs was temperature 100.2°F (37.9°C), pulse 87, respirations 12, blood pressure 108/74, and O2 saturation 93%.`],
+        option: [`The client complains of incisional pain, rating it a 6 on a scale of 0 to 10.`, `The client has had a change in orientation to person but not to time or place.`, `Swelling and redness have developed in the client’s lower left leg.`, `The practical nurse emptied 15 mL of bloody drainage from the Jackson-Pratt drain.`, `The client’s last set of vital signs was temperature 100.2°F (37.9°C), pulse 87, respirations 12, blood pressure 108/74, and O<sup>2</sup> saturation 93%.`],
         optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2,4],

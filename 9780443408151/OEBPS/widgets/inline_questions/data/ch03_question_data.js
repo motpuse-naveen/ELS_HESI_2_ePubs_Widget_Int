@@ -14,7 +14,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A client has an order for hydromorphone intravenous (IV) push 1 mg every 3 hours. The drug is available as 4 mg/mL per vial. The RN administers #cloze1# mL of hydromorphone for one dose. (Fill in the blank.)</p>`,
+                clozeHtml:`<p>A client is receiving an infusion of dobutamine hydrochloride. The order reads: Infuse dobutamine IV at 5 mcg/kg/min available in 500 mg in 250 mL D5W. The client weighs 65 kg. Calculate the flow rate in mL/hr.</p><p>#cloze1# mL/hr</p>`,
                 clozes:{
                   cloze1:{correctValue: "0.25", clozelabel:"fill in the blank"},
                 },
@@ -54,6 +54,7 @@ const questions_data = {
             id: "group3",
             type: "dropdown",
             placeholder_id: "group3_placeholder",
+            alignment: "left",
             commonDropdownOptions:["Normal", "Acidic", "Alkalotic"],
             items: [
                 {
@@ -91,6 +92,7 @@ const questions_data = {
             id: "group4",
             type: "dropdown",
             placeholder_id: "group4_placeholder",
+            alignment: "left",
             commonDropdownOptions:["Hypoventilating: retaining CO2", "Hyperventilating: blowing off CO2", "Normal ventilation"],
             items: [
                 {
@@ -128,6 +130,7 @@ const questions_data = {
             id: "group5",
             type: "dropdown",
             placeholder_id: "group5_placeholder",
+            alignment: "left",
             commonDropdownOptions:["Normal", "Acidosis", "Alkalosis"],
             items: [
                 {
@@ -165,6 +168,7 @@ const questions_data = {
             id: "group6",
             type: "dropdown",
             placeholder_id: "group6_placeholder",
+            alignment: "left",
             commonDropdownOptions:["normal ABG reading", "uncompensated metabolic alkalosis", "uncompensated metabolic acidosis", "uncompensated respiratory acidosis", "partially compensated respiratory acidosis"],
             items: [
               { 
@@ -193,7 +197,7 @@ const questions_data = {
                 headerImage:{},
                 dropdownHtml:`<ul class="bullets"><li><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>pH</mi><mo>=</mo><mn>7.43</mn></mrow></math></li><li><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mi>pCO</mi><mn>2</mn></msub><mo>=</mo><mn>40</mn></mrow></math></li><li><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mi>HCO</mi><mn>3</mn></msub><mo>=</mo><mn>24</mn></mrow></math></li></ul><p>This client has #dropdown1#.</p>`,
                 dropdowns:{
-                  dropdown1:{values:[],correctValue: "a normal ABG reading",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
+                  dropdown1:{values:[],correctValue: "normal ABG reading",dropdownlabel:"Select Arterial Blood Gas Interpretation", useCommonOptions:"true"},
                 },
                 dropdownPlacement:"inline",//newline
                 correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> pH = normal, pCO<sub>2</sub> = normal, HCO<sub>3</sub> = normal. This client has normal ABG reading.</p>`,

@@ -2,7 +2,7 @@ var quiz = [
 	
 	{
         q: `A client who is receiving chemotherapy has these complete blood count (CBC) results: hemoglobin 8.5 mg/dL (5.28 mmol/L); hematocrit 32%;
-		WBC count 6500 cells/mm3 (6.5 × 109/L) Which meal is the best choice for this client?`,
+		WBC count 6500 cells/mm<sup>3</sup> (6.5 × 10<sup>9</sup>/L) Which meal is the best choice for this client?`,
         q2: ``,
         q3: [],
         option: [`Grilled chicken, rice, fresh fruit salad, and milk`,`Broiled steak, whole wheat rolls, spinach salad, and water`,`Smoked ham, mashed potatoes, applesauce, and iced tea`,

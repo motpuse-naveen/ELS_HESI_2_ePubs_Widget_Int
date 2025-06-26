@@ -134,8 +134,14 @@ button.disabled {
 .align-center {
   margin: 0 auto;
 }
+.force-align-center {
+  margin: 0 auto !important;
+}
 .align-left {
   margin: auto 0;
+}
+.force-align-left{
+  margin: auto 0 !important;
 }
 .floatright {
   float: right;
@@ -153,6 +159,10 @@ button.disabled {
   border: 1px solid var(--gray-light);
   border-radius: 0.5rem;
   padding: 20px;
+}
+
+.group-head-html{
+  padding: 10px 0px;
 }
 
 button,
@@ -1170,3 +1180,11 @@ transform-origin: center;
   top: 8%;
   left: -12%;
 }
+
+mfrac{
+  font-size: 1.5em;
+}
+
+
+/* ePUB specific css*/
+

@@ -24,7 +24,10 @@ class QuestionRenderer {
       if (quesGroupHandler) {
         const groupElement = quesGroupHandler.render(this.questionGroups[key]);
         const placeholderId = this.questionGroups[key].placeholder_id;
-  
+        const groupAlignment = this.questionGroups[key].alignment;
+        if(groupAlignment!=undefined && groupAlignment != ""){
+          groupElement.addClass(`force-align-${groupAlignment}`);
+        }
         if (placeholderId.startsWith("#")) {
           $(placeholderId).append(groupElement);
         } else {

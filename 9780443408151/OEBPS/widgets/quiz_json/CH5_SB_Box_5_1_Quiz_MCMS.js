@@ -1,6 +1,6 @@
 var quiz = [
 {
-        q: `The RN is precepting an RN orientee who is caring for a client with a chest tube. The client is 12 hours postoperative from a left partial pneumonectomy. Which assessment finding will the RN advise the orientee to immediately report to the health care provider (HCP)?`,
+        q: `The <u>RN</u> is precepting an RN orientee who is caring for a client with a chest tube. The client is 12 hours postoperative from a left partial pneumonectomy. Which assessment finding will the RN advise the orientee to immediately report to the health care provider (HCP)?`,
         q2: ``,
         q3: [],
         option: [`Pain level of 6 out of 10 on the left side`, `Tracheal deviation toward the right side`, `Drainage from the chest tube of 50 mL in the last hour`, `Oxygen saturation of 90% on 2 L/min`, `Vigorous bubbling in the water-seal chamber`],

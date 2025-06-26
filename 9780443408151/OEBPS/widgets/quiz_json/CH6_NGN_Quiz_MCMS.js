@@ -1,7 +1,6 @@
 var quiz = [
 {
-        q: `<p><strong>Scenario:</strong> The RN is admitting a client to the medical unit. The client is a 77-year-old with a 3-day history of nonlocalized abdominal discomfort. Assessment findings: Most current vital signs: BP: 116/64; P: 85; R: 21; temperature: 99.4 °F; pain: 4/10. A&amp;O to person only. Incontinence, new-onset mental confusion, and loose stools. The postvoid catheterization yielded 150 mL of dark, cloudy urine that had a strong odor. Lungs are clear to auscultation, no cough present. No peripheral edema. Pulses palpable. Skin is pink, dry.</p>
-        <p>Select four assessment findings that require immediate follow-up.</p>`,
+        q: `<p>Select four assessment findings that require immediate follow-up.</p>`,
         q2: ``,
         q3: [],
         option: [`Vital signs`, `Lung sounds`, `Mental status`, `Skin temperature and moisture`, `Urine character`, `Loose stools`,`Pain`],
