@@ -152,8 +152,7 @@ const questions_data = {
       ],
       /*itemsInstruction: `<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
                       <p>† A squamous cell is a type of epithelial cell.</p>`,*/
-      correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale: </strong>
-      For emergency care of the client with chest pain, it is important to quickly gather vital signs, provide O2, administer nitroglycerin, notify the rapid response team, and finally, document: 3, 5, 2, 1, 4.</p>`,
+      correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale: </strong>The PN should assist the client into supine position for repositioning and full lung expansion. After turning the client supine, elevate the HOB to help with breathing. Then the nurse should measure the client’s O<sub>2</sub> saturation. Finally, the PN should administer IM morphine PRN.</p>`,
       partialFeedback: `You have one or more incorrect answers.`,
       incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
