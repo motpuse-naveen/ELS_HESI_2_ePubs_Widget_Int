@@ -43,7 +43,7 @@ const questions_data = {
               },
             ],
             correctFeedback: `<p>Your answers is correct.</p><p><strong>Rationale</strong></p>
-            <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>500</mn><mo>&#xA0;</mo><mi>mg</mi><mo>=</mo><mn>500000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>250</mn><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>2000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>1</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p> 
+            <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>500</mn><mo>&#xA0;</mo><mi>mg</mi><mo>=</mo><mn>500,000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>250</mn><mo>&#xA0;</mo><mi>mL</mi><mo>=</mo><mn>2000</mn><mo>&#xA0;</mo><mi>mcg</mi><mo>/</mo><mn>1</mn><mo>&#xA0;</mo><mi>mL</mi></mrow></math></p> 
             <p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>5</mn><mo>&#xA0;</mo><mtext>mcg</mtext><mo>&#xD7;</mo><mn>65</mn><mo>&#xA0;</mo><mtext>kg</mtext><mo>&#xD7;</mo><mn>60</mn><mo>&#xA0;</mo><mtext>min</mtext></mrow><mrow><mn>2000</mn><mo>&#xA0;</mo><mtext>mcg / 1 mL</mtext></mrow></mfrac><mo>=</mo><mn>9.75</mn><mo>&#xA0;</mo><mtext>mL/hr</mtext></mrow></math></p>`,
             partialFeedback: `You have one or more incorrect answers.`,
             incorrectFeedback: `Your answers are incorrect.`,
