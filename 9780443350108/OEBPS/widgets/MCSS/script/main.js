@@ -241,7 +241,7 @@ function getNewQuestion(question) {
         optionsIndex++;
         option.className = "focus-input";
 
-        if (typeof currentQuestion.optionFeedback != 'undefined') {
+        if (typeof currentQuestion.optionFeedback != 'undefined' && currentQuestion.optionFeedback.length>0) {
             option.setAttribute('data-feedback', currentQuestion.optionFeedback[j]);
         }
         if(optionStyleType !=undefined && optionStyleType.length>0){
@@ -270,7 +270,7 @@ function getNewQuestion(question) {
         $('.focus-input').each(function () {
             if ($(this).attr('data-id') == currentQuestion.userAnswered) {
                 $(this).addClass('wrong').attr("aria-describedby", "ariaIncorrect");
-                if (typeof currentQuestion.optionFeedback != 'undefined') {
+                if (typeof currentQuestion.optionFeedback != 'undefined' && currentQuestion.optionFeedback.length>0) {
                     optFeedback = $(this).attr('data-feedback')
                 }
             }

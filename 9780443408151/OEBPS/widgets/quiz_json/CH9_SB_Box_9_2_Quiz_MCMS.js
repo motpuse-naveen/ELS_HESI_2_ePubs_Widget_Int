@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`<u>DTaP</u>`, `Hep B`, `Hep C`, `HIB`, `IPV`, `PCV`, `RV`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [0,1,3,4,5,6],
         ansText:`<strong>Rationale:</strong> The immunizations required for a 2-month-old are DTaP, hepatitis B, HIB, IPV, PCV, and RV. There is no vaccine for Hepatitis C. CDC guidelines for immunizations: http://www.cdc.gov/vaccines/schedules/hcp/imz/catchup.html`, 

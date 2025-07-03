@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Disinterested`, `Concerned`, `Matter of fact`, `Empathetic`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`<strong>Rationale:</strong> If the RN acts as matter of fact as possible, there is less likelihood that the client will use splitting to idealize or devalue the RN. The nurse should not present the information in a disinterested, concerned, or empathetic manner.`, 

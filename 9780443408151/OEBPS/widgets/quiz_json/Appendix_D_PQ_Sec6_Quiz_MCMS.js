@@ -17,7 +17,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Photosensitivity.`, `Dyspepsia.`, `Diarrhea.`, `Urinary frequency.`, `Anemia.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [0,1],
         ansText:`<strong>Rationale:</strong> <p><strong>Photosensitivity.</strong> This is a side effect of ciprofloxacin; exposure to sunlight or tanning beds should be avoided. The client should be instructed to use sunscreen and protective clothing.</p>
@@ -34,7 +34,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Sit quietly with the client and listen to his concerns.`, `Provide the client with privacy.`, `Give the client an antianxiety medication.`, `Contact the client’s spiritual counselor or pastor.`, `Assess the client for signs of impending death.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [0,3],
         ansText:`<strong>Rationale:</strong> <p><strong>Sit quietly with the client and listen to his concerns.</strong> Silence, or offering one’s presence, is an effective technique that lets the client share as he desires and also indicates that the RN cares.</p>
@@ -116,7 +116,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Have protamine sulfate available.`, `Notify the HCP of any unusual bleeding.`, `Eat a diet high in green leafy vegetables.`, `Keep the medication in a dark, dry container.`, `Avoid aspirin or aspirin-containing medications.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [1,4],
         ansText:`<strong>Rationale:</strong> <p><strong>Have protamine sulfate available.</strong> Protamine sulfate is the antidote for heparin, not argatroban</p>

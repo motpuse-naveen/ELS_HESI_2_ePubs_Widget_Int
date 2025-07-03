@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Establish a daily routine and schedule.`, `Encourage involvement in structured activities.`, `Discuss strategies to coordinate care.`, `Stress the importance of self-nurturing.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`<strong>Rationale:</strong> Change is difficult for clients diagnosed with Alzheimer’s disease. A structured schedule may help the individual maintain their abilities. The other nursing interventions are not the priority.`, 

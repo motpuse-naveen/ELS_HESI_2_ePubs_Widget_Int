@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Decreased BP`, `Steady gait`, `Increased salivation`, `Increased attention span`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`<strong>Rationale:</strong> Carbidopa-levodopa has a dramatic effect on controlling the symptoms of unsteady or ataxic gait. The other findings do not indicate effective medication therapy with carbidopa-levodopa.`, 

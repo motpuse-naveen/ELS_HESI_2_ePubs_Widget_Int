@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Assess the current apical pulse rate`, `Assess for the onset of diarrhea`, `Complete an adverse occurrence report`, `Determine the serum potassium level`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`<strong>Rationale:</strong> The RN would first verify the infant’s current cardiac function by assessing the apical heart rate. The other nursing interventions are not a priority for this situation.`, 

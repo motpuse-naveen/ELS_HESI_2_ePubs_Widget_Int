@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Tell the client’s family to consult the health care provider.`, `Ask the client to restate what the health care provider told her.`, `Encourage the client to inform her family about the results.`, `Suggest that the client talk to the RN about her fears.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`<strong>Rationale:</strong> The RN can provide the client with a safe place to share her concerns and obtain support until she is ready to abandon denial as a defense mechanism. The other recommendations do not address the client’s concerns.`, 

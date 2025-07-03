@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Reiterate the purpose of the support group sessions.`, `Ask the group to identify various stressful problems.`, `Ask members to share stress-reducing strategies.`, `Terminate the meeting and evaluate the situation.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`<strong>Rationale:</strong> The group is in the initial phase, so the RN should restate the purpose and goal of the support group. During the middle phase, the RN should solicit problems from the group after trust has been established. During the working middle phase, problem solving is initiated. The RN should not avoid the comments but clarify the focus for group interaction.`, 

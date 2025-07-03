@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Ask the client whether another family member is available to administer the drops`, `Review the correct steps of the procedure with the client`, `Administer the eye drops correctly in the other eye to demonstrate the technique`, `Discuss the importance of correct eye drop administration for persons with glaucoma`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 1,
         ansText:`<strong>Rationale:</strong> Immediate feedback and reteaching by reviewing the correct steps of the procedure are the best nursing action at this time. Teach the technique of punctal occlusion (placing pressure on the corner of the eye near the nose) immediately after eye drop instillation to prevent systemic absorption of the drug. The other answer choices do not allow for the teach-back method.`, 

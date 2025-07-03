@@ -5,7 +5,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`“Swelling and redness in my right leg is to be expected and I should elevate it when this occurs.”`, `“My pain meds may cause me to be constipated so I should eat oatmeal every day for breakfast.”`, `“I should use an electric razor as long as I am taking the blood thinners.”`, `“I will be able to drive myself to the rehab center.”`, `“My wife will need to go fill my prescriptions at the pharmacy and take them to the rehab center, or I will not have any medicines to take.”`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2],
         ansText:`<strong>Rationale:</strong> <p><strong>“Swelling and redness in my right leg is to be expected and I should elevate it when this occurs.”</strong> This is not an appropriate action. This finding could indicate a deep vein thrombosis is present. The client should notify the nurse immediately.</p>

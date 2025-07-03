@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Fruits`, `Vegetables`, `Red meat`, `Bread`, `White meat`, `Black beans`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [2,4,5],
         ansText:`<strong>Rationale:</strong> Encourage a well-balanced, moderate-protein (limit protein in hepatic encephalopathy), high-carbohydrate diet with adequate vitamins. This client would need to avoid red meat, white meat, and black beans. Fruits, vegetables, and grains are allowed in the client’s diet.`, 

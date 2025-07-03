@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Increased BP`, `Increased temperature`, `Increased serum glucose`, `Increased hematocrit`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`<strong>Rationale:</strong> Increased BP is a sign of increased ICP, so this should be assessed first. The other findings are of lesser priority.`, 

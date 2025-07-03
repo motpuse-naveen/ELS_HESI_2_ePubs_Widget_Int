@@ -43,7 +43,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol).`, `Hemoglobin level of 10 gm/dL (6.2 mmol/L) (Ref. range: 14–18 gm/dL or 8.7–11.2 mmol/L).`, `Return of temperature to normal.`, `Decreased bleeding from the gums.`, `Negative guaiac for occult bleeding.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [3,4],
         ansText:`<strong>Rationale:</strong> <p><strong>BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol).</strong> These values are not affected by administration of FFP. They assess renal function.</p>

@@ -17,7 +17,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Teach about the procedure and effects of the epidural.`, `Place the client in a chair next to the bed.`, `Administer a bolus of 500 mL of normal saline solution.`, `Monitor the fetal heart rate and contractions continuously.`,`Assist the client to empty her bladder every 2 hours.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [2,4],
         ansText:`<strong>Rationale:</strong> <p><strong>Teach the client about the procedure and the effects of the epidural.</strong> Teaching is an important nursing intervention to alleviate anxiety, but it does not prevent any of the possible side effects.</p>
@@ -47,7 +47,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Increase fiber in the diet.`, `Anticipate the need for rest breaks after activity.`, `Notify the HCP if her rings do not fit.`, `Maintain bed rest with bathroom privileges.`, `Start a low-impact aerobic exercise program.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [0,1,2],
         ansText:`<strong>Rationale:</strong> <p><strong>Increase fiber in the diet.</strong> Restrictions in activities of daily living for clients with NYHA Class II cardiac disease create a risk factor for constipation.</p>

@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Ecchymosis around the fracture site`, `Crepitus at the fracture site`, `Paresthesia distal to the fracture site`, `Diminished ROM of the right arm`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 2,
         ansText:`<strong>Rationale:</strong> Paresthesia distal to the fracture site could be an early sign of compartment syndrome, which is a medical emergency that could result in loss of the limb if not treated immediately. All other findings are expected with this type of injury.`, 

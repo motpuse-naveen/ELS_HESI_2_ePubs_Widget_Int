@@ -5,7 +5,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Collard greens`, `Iceberg lettuce`, `Broccoli`, `Brussels sprouts`, `Green beans`, `Spinach`, `Zucchini squash`,`Kale`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [0,2,3,5,7],
         ansText:`<p><strong>Rationale:</strong> Collard greens, broccoli, Brussels sprouts, spinach, and kale are foods that are vitamin K–rich and should be avoided while taking warfarin and other anticoagulants. Iceberg lettuce, green beans, and zucchini squash are lower in vitamin K and are good substitutes for these vegetables for a well-balanced diet.</p>`, 

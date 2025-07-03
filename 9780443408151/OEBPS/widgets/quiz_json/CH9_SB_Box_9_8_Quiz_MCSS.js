@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Monitoring for hearing loss`, `Monitoring I&amp;O`, `Providing a dependable routine`, `Providing small puzzles`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 0,
         ansText:`<strong>Rationale:</strong> Clients with Down syndrome are at risk for hearing loss; monitoring for this would reduce the client’s anxiety by improving communication. A suitable, well-established, predictable schedule will help reduce anxiety, but communication would be a higher priority for this client. The other answer choices are not factors that should be included in the client’s care plan.`, 

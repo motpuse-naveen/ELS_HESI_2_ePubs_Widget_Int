@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Activate the code team and obtain defibrillator.`, `Assess for responsiveness.`, `Assess the cardiac rhythm using the “quick-look” paddles.`, `Assess for a carotid pulse.`, `Open airway and give two rescue breaths by bag-valve mask.`, `Move the client to a flat position in bed or on the floor.`, `Begin compressions.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [1,3,0,5,6,4,2],
         ansText:`The order in which actions would be performed according to BCLS guidelines is 2, 4, 1, 6, 7, 5, 3. First, determine the client’s level of responsiveness, breathing adequacy and if there is a pulse present. Then, initiate a call for help by activating code team. Then. move the client to the floor so you can begin high quality chest compressions. You deliver 30 compressions followed by 2 breaths. Once the defibrillator arrives, you will check the rhythm using the quick-look paddles.`, 

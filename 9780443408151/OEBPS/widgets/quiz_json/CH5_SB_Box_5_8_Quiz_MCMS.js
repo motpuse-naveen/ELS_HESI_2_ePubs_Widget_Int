@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Respiratory rate of 25 breaths/min`, `Orthopnea`, `S3 heart sound`, `Dry, nonproductive cough`, `Heart rate of 69 and irregular`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: [0,1,2],
         ansText:`<strong>Rationale:</strong> Pulmonary edema or ADHF is caused by an abnormal accumulation of fluid in the lung, in both the interstitial and alveolar spaces. It is a severe impairment in the ability of the left side of the heart to maintain cardiac output, thereby causing an engorgement of the pulmonary vascular bed, leading to dyspnea, tachypnea, orthopnea, tachycardia (S3, S4 gallop), and severe coughing productive of frothy and blood-tinged sputum with noisy, wet breath sounds that do not clear with coughing. A dry, nonproductive cough and heart rate of 69 beats/min and irregular are not characteristics of ADHF.`, 

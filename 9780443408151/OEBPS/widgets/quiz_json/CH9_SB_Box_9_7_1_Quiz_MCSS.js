@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Hypocalcemia`, `Hypernatremia`, `Low hemoglobin`, `Hypokalemia`],
-        optionFeedback: [``],
+        //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
         answer: 3,
         ansText:`<strong>Rationale:</strong> Furosemide and digoxin in combination can deplete potassium stores and place the client at risk for digoxin toxicity. This combination does not cause hypocalcemia, hypernatremia, or low hemoglobin.`, 

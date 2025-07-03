@@ -4,7 +4,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Transport a client to the radiology department for a computed tomography (CT) scan.`, `Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.`, `Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.`, `Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 mg/dL or 4.1–5.9 mmol/L).`, `Feed a female client her first meal after she experienced a stroke.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,1,2],
         ansText:`<strong>Rationale:</strong> <p><strong>Transport a client to the radiology department for a CT scan.</strong> The UAP can safely transport a stable client.</p>
@@ -21,7 +21,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Contacting the dietitian for a prescribed consult.`, `Reviewing the client’s insulin injection technique.`, `Obtaining the fingerstick blood glucose level before each meal and at bedtime.`, `Reminding the client to dry the toes carefully after a shower.`, `Talking to the client about foods that raise the blood glucose level.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,2,3],
         ansText:`<strong>Rationale:</strong> <p><strong>Contacting the dietitian for a prescribed consult.</strong> The UAP can perform clerical duties.</p>
@@ -64,7 +64,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Call the rapid response team.`, `Assess for a pulse and blood pressure.`, `Give oxygen via nasal cannula.`, `Bring defibrillator/crash car to the bedside.`, `Document the incident.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,0,2,3,4],
         ansText:`<strong>Rationale:</strong> The RN needs to first assess the client before calling the rapid response team. Also, if the client is truly in ventricular tachycardia, it needs to be determined if it is pulseless v-tach or if the client has a pulse and blood pressure. If there is a pulse, the second action would be to call the rapid response team so that additional help is available. Then, the client needs to have oxygen to maximize oxygenation of the circulating blood. The defibrillator needs to be brought to the bedside to be used for cardioversion. The final activity is to document the findings.`, 
@@ -129,7 +129,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Petechiae in a straight line on the chest.`, `Gray-blue pigmented areas on the sacral region.`, `Bald patches on the scalp.`, `Ear tugging and crying.`, `Symmetrical burns on the hands.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [2,4],
         ansText:`<strong>Rationale:</strong> <p><strong>Petechiae in a straight line on the chest.</strong> Petechiae on the chest may be the result of the coining procedure, a cultural practice among Southeast Asian populations.</p>
@@ -172,7 +172,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Carefully remove the bio-occlusive dressing.`, `Place the client in the Trendelenburg position.`, `Send the catheter tip to the laboratory for a culture and sensitivity.`, `Have the client hold a deep breath during removal.`, `Apply pressure for 20 minutes after removal of the catheter.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,3],
         ansText:`<strong>Rationale:</strong> <p><strong>Carefully remove the bio-occlusive dressing.</strong> Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
@@ -202,7 +202,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Place the client in isolation.`, `Complete a dressing change.`, `Assess and document the wound.`, `Insert a urinary catheter.`, `Administer oral pain medications.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,3,4],
         ansText:`<strong>Rationale:</strong> <p><strong>Place the client in isolation.</strong> This task can be safely assigned to the UAP.</p>
@@ -232,7 +232,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Remove the tablets of chlorpropamide.`, `Notify the pharmacy about the mistake.`, `Complete an incident occurrence report.`, `Be extra vigilant because pharmacy is making mistakes.`, `Place a warning note on the Pyxis machine.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2,3],
         ansText:`<strong>Rationale:</strong> <p><strong>Remove the tablets of chlorpropamide.</strong> The RN needs to ensure that others do not administer the wrong medication, so the tablets of chlorpropamide need to be removed and returned to the pharmacy.</p>
@@ -262,7 +262,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Ensure that the informed consent has been obtained.`, `Measure the client’s abdominal girth.`, `Have the client empty his or her bladder.`, `Assemble needed equipment.`, `Administer oral pain medication.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,5,3,2,4],
         ansText:`<strong>Rationale:</strong> Before a procedure can be completed, it is essential to have an informed consent (1). Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5). The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3). After the bladder is empty, a baseline abdominal girth is obtained (2). Finally, the RN needs to assemble the correct equipment for the procedure (4).`, 
@@ -327,7 +327,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Allow the client to take medications independently.`, `Ensure that all medications have been swallowed before leaving the client’s room.`, `Request that oral pain medications be changed from tablet to oral suspension.`, `Administer flumazenil as prescribed every 6 hours around the clock.`, `Administer all medications to the client via the intravenous route.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [1,2],
         ansText:`<strong>Rationale:</strong> <p><strong>Allow the client to take medications indepen-dently.</strong> With a history of substance abuse, the RN needs to observe the client as medications are taken.</p>
@@ -373,7 +373,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`Start the IV in the treatment room, not the child’s room.`, `Apply a lidocaine-based cream for a few minutes before starting the IV.`, `Ask the parents to leave the room while performing the procedure.`, `Encourage the child to use guided imagery to cope.`, `Offer the child a reward if they cooperate during the procedure.`],
-        optionFeedback: [``],
+        //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: [0,3],
         ansText:`<strong>Rationale:</strong> <p><strong>Start the IV in the treatment room, not the child’s room.</strong> The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
