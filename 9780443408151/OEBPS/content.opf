@@ -411,12 +411,15 @@
     <item id="iqdata11" href="widgets/inline_questions/data/Appendix_E_question_data.js" media-type="text/javascript"/>
 
     <!--Quiz(MCSS/MCMS) Data Files-->
+    <item id="quiz_json_3" href="widgets/quiz_json/Appendix_D_PQ_Quiz_MCMS.js" media-type="text/javascript"/>
+    <!--
     <item id="quiz_json_1" href="widgets/quiz_json/Appendix_D_PQ_Sec7_Quiz_MCSS.js" media-type="text/javascript"/>
     <item id="quiz_json_2" href="widgets/quiz_json/Appendix_D_PQ_Sec3_Quiz_MCSS.js" media-type="text/javascript"/>
     <item id="quiz_json_3" href="widgets/quiz_json/Appendix_D_PQ_Sec4_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_4" href="widgets/quiz_json/Appendix_D_PQ_Sec5_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_5" href="widgets/quiz_json/Appendix_D_PQ_Sec6_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_6" href="widgets/quiz_json/Appendix_D_PQ_Sec8_Quiz_MCMS.js" media-type="text/javascript"/>
+    -->
     <item id="quiz_json_7" href="widgets/quiz_json/Appendix_E_PQ_Sec1_1_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_8" href="widgets/quiz_json/Appendix_E_PQ_Sec1_2_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_9" href="widgets/quiz_json/Appendix_E_PQ_Sec1_3_Quiz_MCMS.js" media-type="text/javascript"/>
@@ -511,8 +514,10 @@
 
     <!--Quiz(/MCSS) XHTML Files-->
     <item id="MCSS1" href="widgets/MCSS/xhtml/CH9_SB_Box_9_7_3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    <!--
     <item id="MCSS2" href="widgets/MCSS/xhtml/Appendix_D_PQ_Sec3_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCSS3" href="widgets/MCSS/xhtml/Appendix_D_PQ_Sec7_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    -->
     <item id="MCSS4" href="widgets/MCSS/xhtml/CH1_SB_Box_1_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCSS5" href="widgets/MCSS/xhtml/CH1_SB_Box_1_2_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCSS6" href="widgets/MCSS/xhtml/CH2_SB_Box_2_1_Quiz_MCSS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
@@ -581,9 +586,12 @@
     <!--Quiz(/MCMS) XHTML Files-->
     <item id="MCMS1" href="widgets/MCMS/xhtml/CH4_NGN_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS2" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec4_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    <!--
+    <item id="MCMS2" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec4_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS3" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS4" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec6_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS5" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec8_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    -->
     <item id="MCMS6" href="widgets/MCMS/xhtml/Appendix_E_PQ_Sec1_1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS7" href="widgets/MCMS/xhtml/Appendix_E_PQ_Sec1_2_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS8" href="widgets/MCMS/xhtml/Appendix_E_PQ_Sec1_3_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>

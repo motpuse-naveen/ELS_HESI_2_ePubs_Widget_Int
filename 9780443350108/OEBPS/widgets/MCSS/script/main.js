@@ -174,13 +174,26 @@ function setAvailableQuestion() {
 // goto question and new question of array
 function getNewQuestion(question) {
     $('#mcq_button').show();
-    QuestionNumber.innerText = "Question " + (question);
-    //QuestionNumber.setAttribute('role', "heading");
-    QuestionNumber.setAttribute('tabindex', '0');
+    
     optionsIndex++;
     // get random question
     var questionIndex = quiz[question - 1];
     currentQuestion = questionIndex;
+    var qNumHeading = "Question " + (question);
+    if(currentQuestion.quesHeading != undefined && currentQuestion.quesHeading!=''){
+        qNumHeading = currentQuestion.quesHeading + qNumHeading
+        if(currentQuestion.quesNumber!=undefined && currentQuestion.quesNumber!= ''){
+            qNumHeading = currentQuestion.quesHeading + currentQuestion.quesNumber;
+        }
+    }
+    else if(currentQuestion.quesNumber!=undefined && currentQuestion.quesNumber!= ''){
+        qNumHeading = currentQuestion.quesNumber
+    }
+
+    QuestionNumber.innerHTML = qNumHeading;
+    //QuestionNumber.setAttribute('role', "heading");
+    QuestionNumber.setAttribute('aria-label', qNumHeading);
+    QuestionNumber.setAttribute('tabindex', '0');
     QuestionName.innerHTML = currentQuestion.q;
     //QuestionName.setAttribute('tabindex', '0');
     optionsIndex++

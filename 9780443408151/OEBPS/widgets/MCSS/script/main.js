@@ -174,13 +174,26 @@ function setAvailableQuestion() {
 // goto question and new question of array
 function getNewQuestion(question) {
     $('#mcq_button').show();
-    QuestionNumber.innerText = "Question " + (question);
-    //QuestionNumber.setAttribute('role', "heading");
-    QuestionNumber.setAttribute('tabindex', '0');
+    
     optionsIndex++;
     // get random question
     var questionIndex = quiz[question - 1];
     currentQuestion = questionIndex;
+    var qNumHeading = "Question " + (question);
+    if(currentQuestion.quesHeading != undefined && currentQuestion.quesHeading!=''){
+        qNumHeading = currentQuestion.quesHeading + qNumHeading
+        if(currentQuestion.quesNumber!=undefined && currentQuestion.quesNumber!= ''){
+            qNumHeading = currentQuestion.quesHeading + currentQuestion.quesNumber;
+        }
+    }
+    else if(currentQuestion.quesNumber!=undefined && currentQuestion.quesNumber!= ''){
+        qNumHeading = currentQuestion.quesNumber
+    }
+
+    QuestionNumber.innerHTML = qNumHeading;
+    //QuestionNumber.setAttribute('role', "heading");
+    QuestionNumber.setAttribute('aria-label', qNumHeading);
+    QuestionNumber.setAttribute('tabindex', '0');
     QuestionName.innerHTML = currentQuestion.q;
     //QuestionName.setAttribute('tabindex', '0');
     optionsIndex++
@@ -241,7 +254,7 @@ function getNewQuestion(question) {
         optionsIndex++;
         option.className = "focus-input";
 
-        if (typeof currentQuestion.optionFeedback != 'undefined') {
+        if (typeof currentQuestion.optionFeedback != 'undefined' && currentQuestion.optionFeedback.length>0) {
             option.setAttribute('data-feedback', currentQuestion.optionFeedback[j]);
         }
         if(optionStyleType !=undefined && optionStyleType.length>0){
@@ -270,7 +283,7 @@ function getNewQuestion(question) {
         $('.focus-input').each(function () {
             if ($(this).attr('data-id') == currentQuestion.userAnswered) {
                 $(this).addClass('wrong').attr("aria-describedby", "ariaIncorrect");
-                if (typeof currentQuestion.optionFeedback != 'undefined') {
+                if (typeof currentQuestion.optionFeedback != 'undefined' && currentQuestion.optionFeedback.length>0) {
                     optFeedback = $(this).attr('data-feedback')
                 }
             }

@@ -148,39 +148,51 @@ function setAvailableQuestion() {
 function getNewQuestion(question) {
     $('#mcq_button').show();
     selectOption = [];
-    QuestionNumber.innerText = "Question " + (question);
-    //  &lt;!-- QuestionNumber.innerText = "Question " + (question) + " of " + (quiz.length); 
-    QuestionNumber.setAttribute('aria-label', "Question " + (question));
-    //QuestionNumber.setAttribute('role', "heading");
-    QuestionNumber.setAttribute('tabindex', '0');
-    optionsIndex++;
+    //optionsIndex++;
     // get random question
     var questionIndex = quiz[question - 1];
     currentQuestion = questionIndex;
+    var qNumHeading = "Question " + (question);
+    if(currentQuestion.quesHeading != undefined && currentQuestion.quesHeading!=''){
+        qNumHeading = currentQuestion.quesHeading + qNumHeading
+        if(currentQuestion.quesNumber!=undefined && currentQuestion.quesNumber!= ''){
+            qNumHeading = currentQuestion.quesHeading + currentQuestion.quesNumber;
+        }
+    }
+    else if(currentQuestion.quesNumber!=undefined && currentQuestion.quesNumber!= ''){
+        qNumHeading = currentQuestion.quesNumber
+    }
+
+    QuestionNumber.innerHTML = qNumHeading;
+    //  &lt;!-- QuestionNumber.innerText = "Question " + (question) + " of " + (quiz.length); 
+    QuestionNumber.setAttribute('aria-label', qNumHeading);
+    //QuestionNumber.setAttribute('role', "heading");
+    QuestionNumber.setAttribute('tabindex', '0');
+
     QuestionName.innerHTML = currentQuestion.q;
     //QuestionName.setAttribute('tabindex', '0');
-    optionsIndex++
+    //optionsIndex++
     if (currentQuestion.q2) {
         $('#subheading2').html(currentQuestion.q2);
         $('#subheading2').attr('tabindex', '0');
         $('#subheading2').show().removeAttr("aria-hidden");
-        optionsIndex++
+        //optionsIndex++
     } else {
         $('#subheading2').removeAttr('aria-label');
         $('#subheading2').removeAttr('tabindex');
         $('#subheading2').hide().attr("aria-hidden", true);
-        optionsIndex++
+        //optionsIndex++
     }
     if (currentQuestion.q3.length) {
         $('#subheading3').html(currentQuestion.q3[0]);
         $('#subheading3').attr('tabindex', '0');
         $('#subheading3').show().removeAttr("aria-hidden");
-        optionsIndex++
+        //optionsIndex++
     } else {
         $('#subheading3').removeAttr('aria-label');
         $('#subheading3').removeAttr('tabindex');
         $('#subheading3').hide().attr("aria-hidden", true);
-        optionsIndex++
+        //optionsIndex++
     }
     if (currentQuestion.type != undefined && currentQuestion.type != null && currentQuestion.type != ""
         && currentQuestion.type == "MCSS" || currentQuestion.type == "TF") {
@@ -220,7 +232,7 @@ function getNewQuestion(question) {
         }
         
         option.setAttribute('aria-checked', 'false');
-        optionsIndex++;
+        //optionsIndex++;
         option.className = "focus-input";
         if (typeof currentQuestion.optionFeedback != 'undefined' && currentQuestion.optionFeedback.length>0) {
             option.setAttribute('data-feedback', currentQuestion.optionFeedback[j]);

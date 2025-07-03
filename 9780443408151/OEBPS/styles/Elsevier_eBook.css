@@ -770,6 +770,9 @@ margin-bottom: 0.25em;
 color: #535C05;
 page-break-inside: avoid;
 }
+.h1hd{
+	color: #535C05;
+}
 h3.h2hd
 {
 font-size: 110%;
