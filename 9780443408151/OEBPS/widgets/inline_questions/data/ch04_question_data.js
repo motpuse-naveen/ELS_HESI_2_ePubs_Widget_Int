@@ -114,5 +114,75 @@ const questions_data = {
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
+
+    group2: {
+      id: "group1",
+      type: "dropdown",
+      placeholder_id: "group1_placeholder",
+      groupHeadHtml: `Four clients arrive in the emergency department (ED) after an explosion. In which order should they be assessed? All options must be used.`,
+      commonDropdownOptions: ["1", "2", "3", "4"],
+      items: [
+        {
+          headerImage: {},
+          dropdownHtml: `<span>A 70-year-old who is complaining of a pain level of 8/10 from a hand burn #dropdown1#</span>`,
+          dropdowns: {
+            dropdown1: {
+              values: [],
+              correctValue: "2",
+              dropdownlabel: "Select an Order",
+              useCommonOptions: "true",
+            },
+          },
+          dropdownPlacement: "inline", //inline
+        },
+        {
+          headerImage: {},
+          dropdownHtml: `<span>A 35-year-old with partial and full-thickness burns to the anterior and posterior chest #dropdown1#</span>`,
+          dropdowns: {
+            dropdown1: {
+              values: [],
+              correctValue: "4",
+              dropdownlabel: "Select an Order",
+              useCommonOptions: "true",
+            },
+          },
+          dropdownPlacement: "inline", //inline
+        },
+        {
+          headerImage: {},
+          dropdownHtml: `<span>A 25-year-old with a superficial burn to the right anterior arm and lateral chest #dropdown1#</span>`,
+          dropdowns: {
+            dropdown1: {
+              values: [],
+              correctValue: "1",
+              dropdownlabel: "Select an Order",
+              useCommonOptions: "true",
+            },
+          },
+          dropdownPlacement: "inline", //inline
+        },
+        {
+          headerImage: {},
+          dropdownHtml: `<span>A 42-year-old with a partial-thickness burn to the anterior lower extremity and confusion #dropdown1#</span>`,
+          dropdowns: {
+            dropdown1: {
+              values: [],
+              correctValue: "3",
+              dropdownlabel: "Select an Order",
+              useCommonOptions: "true",
+            },
+          },
+          dropdownPlacement: "inline", //inline
+        },
+        
+      ],
+      /*itemsInstruction: `<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
+                        <p>† A squamous cell is a type of epithelial cell.</p>`,*/
+      correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale: </strong>The client with partial- and full-thickness burns to the chest is at greatest risk for respiratory issues and should be assessed first to ensure airway and breathing are maintained. The client with partial-thickness burns to the lower extremities and confusion is showing signs of possible deterioration and should be assessed next. The older client should be seen next, and the younger client with superficial burns can be seen last in this group.</p>`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
+      optionStyleType: "st-decimal",
+      itemSeperator: "false",
+    },
   },
 };
