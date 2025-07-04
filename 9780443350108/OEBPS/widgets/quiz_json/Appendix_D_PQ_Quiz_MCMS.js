@@ -920,7 +920,6 @@ var quiz = [
     option: [
       `Call the rapid response team.`,
       `Assess pulse and blood pressure.`,
-      `Assess pulse and blood pressure.`,
       `Give oxygen via nasal cannula`,
       `Bring defibrillator/crash cart to bedside.`,
       `Document the incident.`,
