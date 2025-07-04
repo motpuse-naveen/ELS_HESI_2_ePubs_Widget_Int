@@ -5,6 +5,7 @@ var quiz = [
         q: `For which dysrhythmia(s) would the PN expect defibrillation to occur?`,
         q2: ``,
         q3: [],
+        quesNumber: `Question 2`,
         option: [`Asystole`,`Pulseless electrical activity`,`Ventricular fibrillation`,`Pulseless ventricular tachycardia`,`Ventricular tachycardia`,
 		`Atrial fibrillation`],
         //optionFeedback: [``],

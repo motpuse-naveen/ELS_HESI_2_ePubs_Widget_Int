@@ -1,7 +1,7 @@
 var quiz = [
 
 	{
-        q: `Question: Which vegetable(s) would the PN instruct this client to avoid while taking warfarin?`,
+        q: `Which vegetable(s) would the PN instruct this client to avoid while taking warfarin?`,
         q2: ``,
         q3: [],
         option: [`Collard greens`,`Iceberg lettuce`,`Broccoli`,
