@@ -645,9 +645,9 @@
 <itemref idref="MCMS3" linear="no"/>
 <itemref idref="MCMS4" linear="no"/>
 <itemref idref="MCMS5" linear="no"/>
-<itemref idref="MCMS6" linear="no"/>
+<!--<itemref idref="MCMS6" linear="no"/>
 <itemref idref="MCMS7" linear="no"/>
-<itemref idref="MCMS8" linear="no"/>
+<itemref idref="MCMS8" linear="no"/>-->
 <itemref idref="MCMS9" linear="no"/>
 <itemref idref="MCMS10" linear="no"/>
 <itemref idref="MCMS11" linear="no"/>
@@ -668,8 +668,10 @@
 <itemref idref="MCMS26" linear="no"/>
 <itemref idref="MCMS27" linear="no"/>
 <itemref idref="MCSS1" linear="no"/>
+<!--
 <itemref idref="MCSS2" linear="no"/>
 <itemref idref="MCSS3" linear="no"/>
+-->
 <itemref idref="MCSS4" linear="no"/>
 <itemref idref="MCSS5" linear="no"/>
 <itemref idref="MCSS6" linear="no"/>

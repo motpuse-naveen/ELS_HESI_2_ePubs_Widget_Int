@@ -5,6 +5,7 @@ var quiz = [
         q: `Which of the following nursing diagnoses would the PN anticipate will be included in the client’s plan of care?`,
         q2: ``,
         q3: [],
+        quesNumber:`Question 3`,
         option: [`Unsuccessful airway clearance`,`Nutrition: intake less than body requirements`,`Inappropriate family coping`,`Sedentary lifestyle`,`Decreased gas exchange`,
         `Risk for injury`,`Diminished comfort`,`Risk for infection`,`Powerlessness`,`Constipation`],
         //optionFeedback: [``],

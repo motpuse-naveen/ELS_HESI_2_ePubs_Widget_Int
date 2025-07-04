@@ -11,7 +11,7 @@ const questions_data = {
       id: "group1",
       type: "dropdown",
       placeholder_id: "group1_placeholder",
-      groupHeadHtml: `A client with a history of coronary heart disease was admitted to the acute care unit 2 days ago for management of angina. While the PN is conducting an admission history, the client states, “I feel like I have indigestion.” In which order would the PN implement care? (Arrange from first action to last.)`,
+      groupHeadHtml: `<h2 class="quesNum">Question 1</h2><p>A client with a history of coronary heart disease was admitted to the acute care unit 2 days ago for management of angina. While the PN is conducting an admission history, the client states, “I feel like I have indigestion.” In which order would the PN implement care? (Arrange from first action to last.)</p>`,
       commonDropdownOptions: ["1", "2", "3", "4", "5"],
       items: [
         {
@@ -94,7 +94,7 @@ const questions_data = {
       id: "group2",
       type: "dropdown",
       placeholder_id: "group2_placeholder",
-      groupHeadHtml: `A client who is 1 day postoperative after a left pneumonectomy is lying on his right side with HOB elevated 10 degrees. The PN assesses his respiratory rate at 32 breaths/min. In what order should the PN perform the following actions?`,
+      groupHeadHtml: `<h2 class="quesNum">Question 1</h2><p>A client who is 1 day postoperative after a left pneumonectomy is lying on his right side with HOB elevated 10 degrees. The PN assesses his respiratory rate at 32 breaths/min. In what order should the PN perform the following actions?</p>`,
       commonDropdownOptions: ["1", "2", "3", "4"],
       items: [
         {

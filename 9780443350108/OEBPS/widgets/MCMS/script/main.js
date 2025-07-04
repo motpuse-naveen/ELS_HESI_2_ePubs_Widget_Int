@@ -54,9 +54,10 @@ function getQuestionByEvent(e) {
                 $('.arrow-right').removeClass('disabled').removeAttr("aria-disabled");
                 $('.arrow-left').removeClass('disabled').removeAttr("aria-disabled");
             }
-            if(quiz.length == 1){
+            if(quiz.length <= 1){
                 $('.arrow-left').addClass('disabled').attr("aria-disabled",true);
                 $('.arrow-right').addClass('disabled').attr("aria-disabled",true);
+                //$(".footer.short_nav").closest("footer").attr("aria-hidden",true).hide();
             }
         }
     }
@@ -614,6 +615,7 @@ window.onload = function () {
     if(quiz.length<=1){
         $('.arrow-left').addClass('disabled').attr("aria-disabled",true);
         $('.arrow-right').addClass('disabled').attr("aria-disabled",true);
+        //$(".footer.short_nav").closest("footer").attr("aria-hidden",true).hide();
     }
     bind_annotLinkEvents();
 };

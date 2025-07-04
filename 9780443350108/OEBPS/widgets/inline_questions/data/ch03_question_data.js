@@ -14,7 +14,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A client has an order for hydromorphone IV push 1 mg every 3 hours. The drug is available as 4 mg/mL per vial. The nurse administers #cloze1# mL of hydromorphone for one dose. (Fill in the blank.)</p>`,
+                clozeHtml:`<h2 class="quesNum">Question 1</h2><p>A client has an order for hydromorphone IV push 1 mg every 3 hours. The drug is available as 4 mg/mL per vial. The nurse administers #cloze1# mL of hydromorphone for one dose. (Fill in the blank.)</p>`,
                 clozes:{
                   cloze1:{correctValue: "0.25", clozelabel:"fill in the blank"},
                 },
@@ -35,7 +35,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>The health care provider (HCP) prescribes 3000 mL of 5% dextrose (D5W) to run over a 24-hour period. The drop factor is 10 gtt/mL. There are 300 mL remaining at 09:00. What time would the PN anticipate the next bag of D5W solution to be hung? Round to the nearest half hour. (Fill in the blank.)</p>
+                clozeHtml:`<h2 class="quesNum">Question 2</h2><p>The health care provider (HCP) prescribes 3000 mL of 5% dextrose (D5W) to run over a 24-hour period. The drop factor is 10 gtt/mL. There are 300 mL remaining at 09:00. What time would the PN anticipate the next bag of D5W solution to be hung? Round to the nearest half hour. (Fill in the blank.)</p>
                 <p>The next bag of D5W solution will be hung at #cloze1#.</p>`,
                 clozes:{
                   cloze1:{correctValue: "11:30", clozelabel:"fill in the blank"},

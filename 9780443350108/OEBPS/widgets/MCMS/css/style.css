@@ -36,6 +36,9 @@ body {
     box-sizing: border-box;
 	position:relative;
 }
+.mcq_inner .tab-pane-main.nofooter{
+    height: calc(100% - 25px);
+}
 .mcq_inner .tab-pane-main .tab-pane {
     width: 100%;
     max-width: 740px;
@@ -546,3 +549,14 @@ a.step.active:hover {
 .mar-left{
     margin-left: 1.5em;
 }
+ul.numbers{
+    list-style-type: decimal;
+    font-weight: normal;
+  }
+  ul.numbers li{
+    margin-bottom: 0.4rem;
+  }
+
+mfrac{
+    font-size: 1.5em;
+  }

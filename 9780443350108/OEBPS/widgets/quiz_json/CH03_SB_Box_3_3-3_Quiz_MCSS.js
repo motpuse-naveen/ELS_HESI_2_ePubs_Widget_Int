@@ -4,7 +4,7 @@ var quiz = [
       q: `  Which laboratory result for a preoperative client would prompt the PN to contact the HCP?`,
         q2: ``,
         q3: [],
-        quesNumber:` `,
+        quesNumber:`Question 3`,
         option: [`Platelet count: 151,000/mm<sup>3</sup> (151 × 10<sup>9</sup>/L).`, `WBC (white blood cell) count: 8500/mm<sup>3</sup> (8.5 × 10<sup>9</sup>/L).`,
 		`Serum potassium level:2.8 mmol/L (2.8 mEq/L).` ,`Hematocrit: 45%.`],
         //optionFeedback: [``],
