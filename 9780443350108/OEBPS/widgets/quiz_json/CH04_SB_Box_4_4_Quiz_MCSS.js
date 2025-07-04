@@ -20,6 +20,7 @@ var quiz = [
 		with a red code?`,
         q2: ``,
         q3: [],
+        quesNumber: ` `,
         option: [`A client with a large, bleeding head injury; an open chest wound; cyanotic skin; no capillary refill; and agonal respirations`,
 		`A client with bruising and swelling of the right forearm, assorted facial and neck lacerations, dry skin, normal capillary refill, and a respiratory rate of 18`,
 		`A client with scratches and scrapes to the head and face who is limping and helping other clients at the scene`,`A client with an open abdominal wound, and a deformed right femur, pulse 125, delayed capillary refill, respiratory rate 32, who is moaning`],

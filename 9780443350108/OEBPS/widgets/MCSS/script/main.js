@@ -71,6 +71,10 @@ function getQuestionByEvent(e) {
                 $('.arrow-left').removeClass('disabled').removeAttr('aria-disabled');
                 $('.arrow-left').attr('tabindex', 0);
             }
+            if(quiz.length == 1){
+                $('.arrow-left').addClass('disabled').attr("aria-disabled",true);
+                $('.arrow-right').addClass('disabled').attr("aria-disabled",true);
+            }
         }
     }
 }
@@ -579,6 +583,10 @@ window.onload = function () {
     $('#Add_solution').hide();
     $('#Add_solution').children().html(quiz[0].ansText);
     $('.arrow-left').addClass('disabled').attr("aria-disabled",true)
+    if(quiz.length<=1){
+        $('.arrow-left').addClass('disabled').attr("aria-disabled",true);
+        $('.arrow-right').addClass('disabled').attr("aria-disabled",true);
+    }
     bind_annotLinkEvents();
 };
 $('#show_ans').on('click keydown', (function (e) {
