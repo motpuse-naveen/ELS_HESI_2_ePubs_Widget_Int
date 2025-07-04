@@ -69,7 +69,7 @@
 <item id="AppendixB_177-177_B978032393440400018X" href="xhtml/AppendixB_177-177_B978032393440400018X.xhtml" media-type="application/xhtml+xml"/>
 <item id="AppendixC_178-178_B9780323934404000191" href="xhtml/AppendixC_178-178_B9780323934404000191.xhtml" media-type="application/xhtml+xml"/>
 <item id="AppendixD_179-204_B9780323934404000208" href="xhtml/AppendixD_179-204_B9780323934404000208.xhtml" properties="mathml" media-type="application/xhtml+xml"/>
-<item id="AppendixE_205-216_B978032393440400021X" href="xhtml/AppendixE_205-216_B978032393440400021X.xhtml" properties="mathml scripted" media-type="application/xhtml+xml"/>
+<item id="AppendixE_205-216_B978032393440400021X" href="xhtml/AppendixE_205-216_B978032393440400021X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="cssel" href="styles/Elsevier_eBook.css" media-type="text/css"/>
 <item id="cssme" href="styles/media.css" media-type="text/css"/>
 <item id="cssma" href="styles/math.css" media-type="text/css"/>
