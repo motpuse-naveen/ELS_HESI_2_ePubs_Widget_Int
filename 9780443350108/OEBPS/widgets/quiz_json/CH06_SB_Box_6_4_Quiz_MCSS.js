@@ -5,7 +5,7 @@ var quiz = [
 		streaks of fat. Which action would the PN take?`,
         q2: ``,
         q3: [],
-        option: [`  Auscultate for diminished bowel sounds.`,`2. Send a stool specimen to the laboratory.`,`Document the assessment in the chart.`,
+        option: [`Auscultate for diminished bowel sounds.`,`Send a stool specimen to the laboratory.`,`Document the assessment in the chart.`,
 		`Notify the HCP.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,

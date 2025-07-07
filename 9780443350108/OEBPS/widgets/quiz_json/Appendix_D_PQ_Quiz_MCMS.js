@@ -18,7 +18,7 @@ var quiz = [
       `This task encompasses basic care, elimination, and intake and output; it does not require judgment or the expertise of the PN and can be performed by the UAP.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 3,
+    answer: [3],
     ansText: `<strong>Rationale:</strong> This task encompasses basic care, elimination, and intake and output; it does not require judgment or the expertise of the PN and can be performed by the UAP. `,
     state: `notAnswered`,
     userAnswered: [],
@@ -26,12 +26,12 @@ var quiz = [
   },
 
   {
-    q: `The PN is assigning tasks to the UAP. Which client situation requires the PN to intervene? A client with:`,
+    q: `Which client situation requires the PN to intervene? A client with:`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">3 Management/Leadership: </span>`,
     option: [
-      `  Active TB who is leaving the room without a mask.`,
+      `Active TB who is leaving the room without a mask.`,
       `End-stage renal disease requesting orange juice to drink.`,
       `Anemia who is complaining of fatigue and asking for help getting dressed to go home.`,
       `Chronic obstructive pulmonary disorder removes his oxygen and is leaving the unit to smoke.`,
@@ -43,7 +43,7 @@ var quiz = [
       `A UAP can ask the client to not leave the unit to smoke.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 1,
+    answer: [1],
     ansText: `<strong>Rationale:</strong> A UAP can be directed to provide specific types and amounts of fluids, but orange juice is high in potassium, which is contraindicated for
          clients in end-stage renal disease.`,
     state: `notAnswered`,
@@ -69,7 +69,7 @@ var quiz = [
       `Administer an as-needed (PPN) dose of lorazepam as prescribed.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 1,
+    answer: [1],
     ansText: `<strong>Rationale:</strong> Because the client is at risk for self-harm, the charge nurse should assign a staff member to stay with the client.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -94,7 +94,7 @@ var quiz = [
       `This is the most appropriate assignment for the UAP. The PN should delegate daily care activities to the UAP based on the PN’s assessments of each client’s needs.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 3,
+    answer: [3],
     ansText: `<strong>Rationale:</strong> This is the most appropriate assignment for the UAP. The PN should delegate daily care activities to the UAP based on the PN’s assessments of each client’s needs.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -111,7 +111,7 @@ var quiz = [
       `A 21-year-old client with dehydration and cerebral palsy who is dependent in daily activities. `,
       `A 60-year-old client who has had type 2 diabetes for 20 years and was admitted with cellulitis.`,
       `An obese 30-year-old client with hypertension who is noncompliant with the medication regimen.`,
-      `A 40-year-old client who takes a loop diuretic, has a serum K+ of 3.4 mEq/L (3.4 mmol/L) Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L), and complains of fatigue.`,
+      `A 40-year-old client who takes a loop diuretic, has a serum K<sup>+</sup> of 3.4 mEq/L (3.4 mmol/L) Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L), and complains of fatigue.`,
     ],
     optionFeedback: [
       `A client with dehydration and cerebral palsy, characterized by uncoordinated, spastic muscle movements, is at increased risk for respiratory problems because of impaired mobility and impaired swallowing.`,
@@ -135,7 +135,7 @@ var quiz = [
       `Call 911. `,
       `Remove the syringe and needle.`,
       `Assess for a pulse.`,
-      `Obtain the AED.`,
+      `Obtain the automated external defibrillator (AED).`,
     ],
     optionFeedback: [
       `Calling for assistance is a high priority but not the highest.`,
@@ -159,7 +159,7 @@ var quiz = [
     quesHeading: `<span class="h1hd">4 Advanced Clinical Concepts: </span>`,
     option: [
       `Administer a bolus D5 ½ normal saline at 200 mL/hr.`,
-      `Contact the HCP.`,
+      `Contact the health care provider (HCP).`,
       `Monitor output for another 2 hours.`,
       `Draw blood samples for BUN and creatinine levels.`,
     ],
@@ -192,11 +192,13 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [3, 4],
-    ansText: `<strong>Rationale:</strong> <p><strong>BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol).</strong>These values are not affected by administration of FFP. They assess renal function.</p>
-         <p><strong>Hemoglobin level of 10 gm/dL (6.2 mmol/L) (Ref. range: 14–18 gm/dL or 8.7–11.2 mmol/L).</strong> FFP does not affect hemoglobin levels.</p>
-         <p><strong> Return of temperature to normal.</strong> Although monitoring the client’s temperature is important, FFP does not have a direct effect on this parameter.</p>
-         <p><strong> Decreased bleeding from the gums.</strong> FFP replaces clotting factors; therefore, a decrease in bleeding is an expected, positive outcome.</p>
-         <p><strong>Negative guaiac for occult bleeding.</strong> FFP replaces clotting factors; therefore, no occult (hidden) bleeding would be an expected, positive outcome</p>.`,
+    ansText: `<strong>Rationale:</strong> 
+         <p><strong>BUN 3.9 mg/dL (3.9 mmol/L) (Ref. range: 10–20 mg/dL or 3.6–7.1 mmol/L); Creatinine 0.7 mg/dL (88 micromol) (Ref. range: 0.6–1.2 mg/dL or 53–106 μmol).</strong>
+         <span style="display:block;padding-left:30px;">These values are not affected by administration of FFP. They assess renal function.</span></p>
+         <p><strong>Hemoglobin level of 10 gm/dL (6.2 mmol/L) (Ref. range: 14–18 gm/dL or 8.7–11.2 mmol/L).</strong><span style="display:block;padding-left:30px;">FFP does not affect hemoglobin levels.</span></p>
+         <p><strong>Return of temperature to normal.</strong><span style="display:block;padding-left:30px;">Although monitoring the client’s temperature is important, FFP does not have a direct effect on this parameter.</span></p>
+         <p><strong>Decreased bleeding from the gums.</strong><span style="display:block;padding-left:30px;">FFP replaces clotting factors; therefore, a decrease in bleeding is an expected, positive outcome.</span></p>
+         <p><strong>Negative guaiac for occult bleeding.</strong><span style="display:block;padding-left:30px;">FFP replaces clotting factors; therefore, no occult (hidden) bleeding would be an expected, positive outcome.</span></p>.`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCMS`,
@@ -208,7 +210,7 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">4 Advanced Clinical Concepts: </span>`,
     option: [
-      `  Respiratory rate of 30 breaths/min.`,
+      `Respiratory rate of 30 breaths/min.`,
       `Apical rate of 120 beat/min.`,
       `Potassium level of 3.8 mEq/L (3.8 mmol/L) (Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L).`,
       `Complaints of a pounding headache`,
@@ -216,7 +218,7 @@ var quiz = [
     optionFeedback: [
       `The client is experiencing respiratory acidosis. In addition to the metabolic system compensating, the respiratory system may also compensate.`,
       `Acid-base imbalances are compensated primarily by the lungs and the renal system. Plasma proteins and ionic shifts (intracellular) also serve as buffering systems. Tachycardia does not serve as a compensatory mechanism.`,
-      `To compensate for the acidosis created by increased CO2, K+ ions are released from cellular proteins and H+ ions take their place, bound to the proteins. The result is frequently serum hyperkalemia.`,
+      `To compensate for the acidosis created by increased CO<sub">2</sub>, K<sup">+</sup> ions are released from cellular proteins and H+ ions take their place, bound to the proteins. The result is frequently serum hyperkalemia.`,
       `Headache may be a manifestation of CO2 retention, but it is not a compensatory mechanism for respiratory acidosis.`,
     ],
     optionStyleType: `st-decimal`,
@@ -261,7 +263,7 @@ var quiz = [
       `Move the presenting fetal part off the cord. `,
       `Cover the cord with sterile moist saline gauze.`,
       `Prepare for an emergency cesarean delivery.`,
-      `Start O2by face mask at 10 L/min.`,
+      `Start O<sub>2</sub> by face mask at 10 L/min.`,
     ],
     optionFeedback: [
       `This action is the most critical intervention. It is essential to prevent compression of the cord by the presenting part because that would impair fetal circulation, leading to morbidity and, possibly, death.`,
@@ -283,7 +285,7 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">5 Maternal-Newborn Nursing: </span>`,
     option: [
-      `Reinforce teaching the client about the procedure and the effects of the epidural.`,
+      `Teach about the procedure and effects of the epidural.`,
       `Place the client in a chair next to the bed.`,
       `Administer a bolus of 500 mL of normal saline solution.`,
       `Monitor the fetal heart rate and contractions continuously.`,
@@ -342,7 +344,7 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [0, 1, 2],
-    ansText: `<strong>Rationale:</strong>  <p><strong>Increase fiber in the diet.</strong>Restrictions in activities of daily living for clients with NYHA Class II cardiac disease create a risk factor for constipation.</p>
+    ansText: `<strong>Rationale:</strong>  <p><strong>Increase fiber in the diet.</strong> Restrictions in activities of daily living for clients with NYHA Class II cardiac disease create a risk factor for constipation.</p>
                <p><strong> Anticipate the need for rest breaks after activity.</strong> Individuals with NYHA Class II cardiac disease may have limitations on activity and need periods of rest throughout the day, but especially after periods of activity.</p>
               <p><strong> Notify the HCP if her rings do not fit.</strong> Tight rings may indicate weight gain, and the client is at risk for congestive heart failure.</p>
               <p><strong> Maintain bed rest with bathroom privileges.</strong> It is not necessary to maintain bed rest for a client with NYHA Class II cardiac disease.</p>
@@ -392,11 +394,12 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [0, 1],
-    ansText: `<strong>Rationale:</strong> <p><strong>Photosensitivity.</strong>This is a side effect of ciprofloxacin; exposure to sunlight or tanning beds should be avoided. The client should be instructed to use sunscreen and protective clothing.</p>
-               <p><strong> Dyspepsia.</strong> Ciprofloxacin causes gastrointestinal (GI) irritation, nausea and vomiting, and abdominal pain, which should be reported.</p>
-              <p><strong> Diarrhea.</strong> Watery, foul-smelling diarrhea is an adverse reaction to ciprofloxacin that indicates pseudomembranous colitis; this should be reported and requires immediate intervention. This is not an expected side effect.</p>
-                <p><strong> Urinary frequency.</strong>Urinary frequency may indicate that the medication is ineffective and should be reported, but it is not an expected side effect.</p>
-                <p><strong> Anemia.</strong> This is not a side effect of ciprofloxacin.<p>`,
+    ansText: `<strong>Rationale:</strong> 
+    <p><strong>Photosensitivity.</strong> This is a side effect of ciprofloxacin; exposure to sunlight or tanning beds should be avoided. The client should be instructed to use sunscreen and protective clothing.</p>
+    <p><strong>Dyspepsia.</strong> Ciprofloxacin causes gastrointestinal (GI) irritation, nausea and vomiting, and abdominal pain, which should be reported.</p>
+    <p><strong>Diarrhea.</strong> Watery, foul-smelling diarrhea is an adverse reaction to ciprofloxacin that indicates pseudomembranous colitis; this should be reported and requires immediate intervention. This is not an expected side effect.</p>
+    <p><strong>Urinary frequency.</strong> Urinary frequency may indicate that the medication is ineffective and should be reported, but it is not an expected side effect.</p>
+    <p><strong>Anemia.</strong> This is not a side effect of ciprofloxacin.</p>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCMS`,
@@ -417,8 +420,8 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [0, 3],
-    ansText: `<strong>Rationale:</strong>  <p><strong>Sit quietly with the client and listen to his or her concerns.</strong>Silence, or offering one’s presence, is an effective technique that lets the client share as he or she desires and also indicates that the PN cares.</p>
-                <p><strong>Provide the client with privacy.</strong>The client has shared that he or she is afraid. Further isolating the client from others will not address this need.</p>
+    ansText: `<strong>Rationale:</strong>  <p><strong>Sit quietly with the client and listen to his or her concerns.</strong> Silence, or offering one’s presence, is an effective technique that lets the client share as he or she desires and also indicates that the PN cares.</p>
+                <p><strong>Provide the client with privacy.</strong> The client has shared that he or she is afraid. Further isolating the client from others will not address this need.</p>
                 <p><strong>Give the client an antianxiety medication.</strong> The PN may eventually decide to give the client a medication to help with his or her anxiety, but this should not be the first action.</p>
                 <p><strong> Contact the client’s spiritual counselor or minister.</strong> Facing death is a spiritual issue. Requesting help from the client’s spiritual provider is appropriate.</p>
                <p><strong> Assess the client for signs of impending death.</strong> The client is awake and oriented. There is no indication that the client’s death is imminent.</p>`,
@@ -460,8 +463,8 @@ var quiz = [
     option: [
       `Troponin levels.`,
       `Myoglobin level.`,
-      `CK-MB level.`,
-      `LDH level.`,
+      `Creatine kinase myocardial band (CK-MB) level.`,
+      `Lactate dehydrogenase (LDH) level.`,
     ],
     optionFeedback: [
       `A rise in the troponin levels is diagnostic of myocardial injury and is considered the gold standard.`,
@@ -570,7 +573,7 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [1, 4],
-    ansText: `<strong>Rationale:</strong> <p><strong> Have protamine sulfate available.</strong>Protamine sulfate is the antidote for heparin, not argatroban.</p>
+    ansText: `<strong>Rationale:</strong> <p><strong> Have protamine sulfate available.</strong> Protamine sulfate is the antidote for heparin, not argatroban.</p>
                <p><strong> Notify the HCP of any unusual bleeding.</strong> GI bleeding or excessive bleeding is an adverse effect. The client needs to notify their HCP immediately.</p>
                <p><strong> Eat a diet high in green leafy vegetables.</strong> This is a good recommendation for clients low in vitamin K but is not an issue for clients on argatroban.</p>
                 <p><strong> Keep the medication in a dark, dry container.</strong> This is essential for nitroglycerin and some other medications but not for argatroban.</p>
@@ -607,8 +610,7 @@ var quiz = [
   },
   // 7 Psychiatric Nursing
   {
-    q: `A victim of a motor vehicle collision is dead on arrival at the emergency department. The victim’s significant other arrives and is noticeably upset.
-         Which action would the PN implement to assist the significant other?`,
+    q: `A victim of a motor vehicle collision is dead on arrival at the emergency department. The significant other arrives and is noticeably upset. Which action would the PN take to assist the significant other with this crisis?`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">7 Psychiatric Nursing: </span>`,
@@ -625,7 +627,7 @@ var quiz = [
       `Although the PN should assess the significant other for anxiety, the immediate intervention should include a directive approach to assist the spouse in dealing with the stressful event.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 0,
+    answer: [0],
     ansText: `<strong>Rationale:</strong> The PN should help the significant other identify support systems and resources that are helpful in coping with a crisis situation, such as the sudden death of a spouse. `,
     state: `notAnswered`,
     userAnswered: [],
@@ -651,7 +653,7 @@ var quiz = [
       `More than one face-to-face interview elicits the highest reports of violence during pregnancy.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 3,
+    answer: [3],
     ansText: `<strong>Rationale:</strong> More than one face-to-face interview elicits the highest reports of violence during pregnancy.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -677,7 +679,7 @@ var quiz = [
       `Problem-solving is used in crisis intervention; it focuses on problem identification and ways to return to previous levels of functioning.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 0,
+    answer: [0],
     ansText: `<strong>Rationale:</strong> Milieu therapy uses resources and activities in the environment to assist with improving social functioning and activities of daily living.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -703,7 +705,7 @@ var quiz = [
       `The PN should first validate and allow the client to affirm his anxiety and fears about riding the elevator. Then options to initiate desensitization may be considered.</p>`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 3,
+    answer: [3],
     ansText: `<strong>Rationale:</strong> The PN should first validate and allow the client to affirm his anxiety and fears about riding the elevator. Then options to initiate desensitization may be considered.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -728,7 +730,7 @@ var quiz = [
       `Although both clients should talk about the incident, this is not an opportune time, and the clients should be separated to provide a safe environment.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 2,
+    answer: [2],
     ansText: `<strong>Rationale:</strong>  The PN should implement safety precautions immediately and place a sitter with the client.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -753,7 +755,7 @@ var quiz = [
       `Firm limits with clear expectations and consequences are needed for manipulative clients.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 0,
+    answer: [0],
     ansText: `<strong>Rationale:</strong> The best intervention is to provide consistency and avoid splitting the staff by assigning the client to only one PN.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -778,7 +780,7 @@ var quiz = [
       `The client should be given opportunities to socialize, but monitoring activities during the day, especially meals, is the priority.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 1,
+    answer: [1],
     ansText: `<strong>Rationale:</strong> The PN should monitor and supervise the client’s activities to prevent binging, purging, or avoiding meals.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -803,7 +805,7 @@ var quiz = [
       `A manic client may become disruptive and distracted in an art group; physical activity using large muscle groups is more effective in expending energy.`,
     ],
     optionStyleType: `st-decimal`,
-    answer: 1,
+    answer: [1],
     ansText: `<strong>Rationale:</strong> Jogging is the best activity for this client because it is a noncompetitive physical activity, and it requires the use of large muscle groups that expend energy associated with mania.`,
     state: `notAnswered`,
     userAnswered: [],
@@ -811,43 +813,41 @@ var quiz = [
   },
   //8 Leadership and Delegation
   {
-    q: `A charge PN is planning the client assignments for the night shift. The nursing team includes a PN and two UAPs. Which duties would be delegated to the UAPs?`,
+    q: `A charge PN planning the client assignments for the night shift. The nursing team includes a PN and two UAPs. Which duty/duties would be delegated to the UAPs?`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `Transport a client to the radiology department for a CT scan.`,
+      `Transport a client to the radiology department for a computed tomography (CT) scan.`,
       `Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.`,
       `Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.`,
-      `Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L).`,
+      `Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 mg/dL or 4.1–5.9 mmol/L).`,
       `Feed a female client her first meal after she experienced a stroke.`,
     ],
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
     answer: [0, 1, 2],
-    ansText: `<strong>Rationale:</strong> <p> <strong>Transport a client to the radiology department for a CT scan.</strong>transport a stable client.</p>
-        <p><strong>Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.</strong>
-         Bathing clients is a hygiene task that can be dele­gated to the UAP.</p>
-        <p><strong> Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.</strong>
-        Turning clients is a duty that can be delegated to the UAP.</p>
-        <p><strong>Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L).</strong> Discussing the client’s lab results is a duty for the RN.</p>
-        <p><strong> Feed a female client her first meal after she experienced a stroke.</strong>This client needs further assessment of their ability to swallow following a stroke, which is beyond the scope of a UAP.</p>`,
+    ansText: `<strong>Rationale:</strong> 
+    <p><strong>Transport a client to the radiology department for a CT scan.</strong> The UAP can safely transport a stable client.</p>
+    <p><strong>Bathe a client with sickle cell disease who has multiple IV lines and a client-controlled analgesia pump.</strong> Bathing clients is a hygiene task that can be dele­gated to the UAP.</p>
+    <p><strong> Turn a 92-year-old client who has end-stage heart failure and a do-not-resuscitate order.</strong> Turning clients is a duty that can be delegated to the UAP.</p>
+    <p><strong>Report to the HCP the fingerstick blood glucose level of 49 mg/dL (2.7 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L).</strong> Discussing the client’s lab results is a duty for the RN.</p>
+    <p><strong> Feed a female client her first meal after she experienced a stroke.</strong> This client needs further assessment of their ability to swallow following a stroke, which is beyond the scope of a UAP.</p>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCMS`,
   },
 
   {
-    q: `A hospitalized client has been newly diagnosed with type 2 diabetes. Which task can the PN delegate to the UAP?`,
+    q: `A hospitalized client has been newly diagnosed with type 2 diabetes. Which task(s) can the PN delegate to the UAP?`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `  Contacting the dietitian for a prescribed consult.`,
-      `Reviewing the client’s insulin injection technique.`,
+      `Contacting the dietitian for a prescribed consult.`,
       `Reviewing the client’s insulin injection technique.`,
       `Obtaining the fingerstick blood glucose level before each meal and at bedtime.`,
-      `Reminding the client to dry their toes carefully after a shower.`,
+      `Reminding the client to dry the toes carefully after a shower.`,
       `Talking to the client about foods that raise the blood glucose level.`,
     ],
     //optionFeedback: [``],
@@ -886,15 +886,15 @@ var quiz = [
   },
 
   {
-    q: `At change of shift, the charge PN assigns the UAP four clients. The PN would direct the UAP to take vital signs on which client first?`,
+    q: `At change of shift, the charge PN assigns the UAP four clients. The PN charge nurse would direct the UAP to take vital signs on which client first?`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `The 89-year-old with chronic obstructive pulmonary disease who is resting quietly on 2 L of oxygen and who needs assistance with a bath.`,
+      `The 89-year-old with chronic obstructive pulmonary disease who is resting quietly on 2 L of ­oxygen and who needs assistance with a bath.`,
       `The client who returned from surgery and needs their second set of every-15-minute vital signs taken.`,
-      `The client newly diagnosed with type 2 diabetes who had a fingerstick blood glucose level of 90 mg/dL (5 mmol/L) (Ref. range: 74–106 or 4.1–5.9 mmol/L) and who needs help with breakfast.`,
-      `The newly admitted client with rheumatoid arthritis who needs to have hand splints reapplied to both hands.`,
+      `The client newly diagnosed with type 2 diabetes who had a fingerstick glucose level of 90 mg/dL (5 mmol/L) (Ref. Range: 74–106 mg/dL or 4.1–5.9 mmol/L) and needs help with breakfast`,
+      `The newly admitted client with rheumatoid arthritis who needs hand splints reapplied to both hands.`,
     ],
     optionFeedback: [
       `This client is stable.`,
@@ -904,7 +904,7 @@ var quiz = [
     ],
     optionStyleType: `st-decimal`,
     answer: [1],
-    ansText: `<strong>Rationale:</strong> `,
+    ansText: `<strong>Rationale:</strong> This client has a set of time-sensitive vital signs, so this is a priority.`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
@@ -945,10 +945,10 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `The client who is postsplenectomy after a motor vehicle accident and has a hemoglobin of 10.9 (6.2 mmol/L) (Ref. range: 14–18 g/dL or 8.7–11.2 mmol/L). `,
-      `The client receiving warfarin (Coumadin) who has an INR of 2.3 (Ref. range: 0.8–1.1).`,
-      `The 38-year-old client who is 24 hours postthyroidectomy and has a total calcium of 9.4 mg/dL (2.3 mmol/L) (Ref. range: 9–10.5 mg/dL or 2.25–2.75 mmol/L).`,
-      `The newly admitted client with bipolar disorder with a lithium level of 2.5 mEq/L (2.5 mmol/L) (Ref. range: 0.8–1.2 mEq/L).`,
+      `The female client who is postsplenectomy after a motor vehicle accident and has a hemoglobin of 10.9 g/dL (6.2 mmol/L) (Ref. range 14–18 g/dL or 8.7–11.2 mmol/L).`,
+      `The client receiving warfarin (Coumadin) who has an international normalized ratio (INR) of 2.3 (Ref. range: 0.8–1.1).`,
+      `The 38-year-old client who is 24 hours postthyroidectomy and has a total calcium level of 9.4 mg/dL (2.3 mmol/L) (Ref. range: 9–10 mg/dL or 2.25–2.75 mmol/L).`,
+      `The newly admitted client with bipolar disorder with a lithium level of 2.5 mEq/L (2.5 mmol/L) (Ref. range: 0.8–1.2 mEq/L or 0.8–1.2 mmol/L).`,
     ],
     optionFeedback: [
       `This hemoglobin level is low but not at a critical level. This is not the priority.`,
@@ -972,7 +972,7 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `  Administer an antiemetic to a postoperative client who has been nauseated and is now vomiting.`,
+      `Administer an antiemetic to a postoperative client who has been nauseated and is now vomiting.`,
       `Notify a family member of a client’s impending transfer to the intensive care unit for angina and ST-segment changes.`,
       `Inform the HCP of a potassium level of 5.2 mEq/L (5.2 mmol/L) (Ref. range: 3.5–5 mEq/L or 3.5–5 mmol/L) in the client with end-stage renal disease.`,
       `Begin assessment rounds, starting with the palliative care client having a diagnosis of congestive failure.`,
@@ -1142,11 +1142,11 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [1, 3],
-    ansText: `<strong>Rationale:</strong> <P><strong>Carefully remove the bio-occlusive dressing.</strong>Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
-        <p><strong>Place the client in the Trendelenburg position.</strong>The procedure for removing the catheter safely is (1) place the client in the Trendelenburg position, (2) have the client take a deep breath and hold it, and (3) gently withdraw the catheter while applying direct pressure with sterile gauze. Holding the breath creates positive pressure in the intrathoracic space, and the Trendelenburg position minimizes the risk of air entering the catheter.</p>
-        <p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong>The catheter tip may or may not be sent to the lab, depending on the protocol of the facility.</p>
-        <p><strong>Have the client hold a deep breath during removal.</strong>See the explanation for 2.</p>
-        <p><strong>Apply pressure for 20 minutes after removal of the catheter.</strong>Applying pressure for 20 minutes is a technique used in arterial line withdrawal to prevent bleeding.</p>`,
+    ansText: `<strong>Rationale:</strong> <P><strong>Carefully remove the bio-occlusive dressing.</strong> Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
+        <p><strong>Place the client in the Trendelenburg position.</strong> The procedure for removing the catheter safely is (1) place the client in the Trendelenburg position, (2) have the client take a deep breath and hold it, and (3) gently withdraw the catheter while applying direct pressure with sterile gauze. Holding the breath creates positive pressure in the intrathoracic space, and the Trendelenburg position minimizes the risk of air entering the catheter.</p>
+        <p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong> The catheter tip may or may not be sent to the lab, depending on the protocol of the facility.</p>
+        <p><strong>Have the client hold a deep breath during removal.</strong> See the explanation for 2.</p>
+        <p><strong>Apply pressure for 20 minutes after removal of the catheter.</strong> Applying pressure for 20 minutes is a technique used in arterial line withdrawal to prevent bleeding.</p>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCMS`,
@@ -1161,7 +1161,7 @@ var quiz = [
       `Client scheduled for a heart catheterization this morning.`,
       `Client admitted last night for chest pain.`,
       `Client who is 1 day postoperative for popliteal bypass surgery.`,
-      `Client who has heart failure and is scheduled for a stress test today.`,
+      `Client with heart failure and scheduled for a stress test today.`,
     ],
     optionFeedback: [
       `Preparing the client for cardiac catheterization requires specialized information, and it would be best to assign to the PN who usually works on the cardiovascular unit.`,
@@ -1171,7 +1171,7 @@ var quiz = [
     ],
     optionStyleType: `st-decimal`,
     answer: [2],
-    ansText: `<strong>Rationale:</strong> This would require similar care to a client who had just had lower extremity orthopedic surgery and would be the safest assignment for this PN.s `,
+    ansText: `<strong>Rationale:</strong> This would require similar care to a client who had just had lower extremity orthopedic surgery and would be the safest assignment for this PN.`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
@@ -1192,11 +1192,11 @@ var quiz = [
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
     answer: [1, 3, 4],
-    ansText: `Rationale:<p><strong> Place the client in isolation.</strong>This task can be safely assigned to the UAP.</p>
+    ansText: `Rationale:<p><strong> Place the client in isolation.</strong> This task can be safely assigned to the UAP.</p>
         <p><strong> Complete a dressing change.</strong> This task is within the scope of practice for the PN.</p>
-        <p><strong> Assess and document the wound.</strong>Initial assessment of a wound should be completed by the PN.</p>
+        <p><strong> Assess and document the wound.</strong> Initial assessment of a wound should be completed by the PN.</p>
         <p><strong> Insert a urinary catheter.</strong> This task is within the scope of practice for the PN.</p>
-        <p> <strong>Administer oral pain medications.</strong>This task is within the scope of practice for the PN.</p>`,
+        <p> <strong>Administer oral pain medications.</strong> This task is within the scope of practice for the PN.</p>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCMS`,
@@ -1279,25 +1279,29 @@ var quiz = [
   },
 
   {
-    q: `The HCP plans to do a paracentesis on a client with cirrhosis in 1 hour. In which order would the PN perform the following activities?`,
+    q: `The HCP plans to do a paracentesis on a client with cirrhosis in 1 hour. In which order would the PN perform the following activities?
+        <ul class="numbers">
+          <li><strong>Ensure that the informed consent has been obtained, with signature witnessed.</strong></li>
+          <li><strong>Measure the client’s abdominal girth.</strong></li>
+          <li><strong>Have the client empty his or her bladder.</strong></li>
+          <li><strong>Assemble needed equipment.</strong></li>
+          <li><strong>Administer oral pain medication.</strong></li>
+         </ul>`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `Ensure that the informed consent has been obtained.`,
-      `Measure the client’s abdominal girth.`,
-      `Have the client empty his or her bladder.`,
-      `Assemble needed equipment.`,
-      `Administer oral pain medication.`,
+      `1, 2, 3, 5, 4`,
+      `3, 2, 1, 4, 5`,
+      `1, 5, 3, 2, 4`,
+      `2, 1, 3, 4, 5`,
+      `1, 3, 2, 5, 4`,
     ],
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
-    answer: [0, 4, 2, 1, 3],
-    ansText: `<strong>Rationale:</strong> <p>Before a procedure can be completed, it is essential to have an informed consent (1).</p>
-         <p>Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5).</p>
-       <p> The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3).</p>
-        <p>After the bladder is empty, a baseline abdominal girth is obtained (2).</p>
-        <p>Finally, the PN needs to assemble the correct equipment for the procedure (4).</p>`,
+    answer: [2],
+    ansText: `<p>
+    <strong>Rationale:</strong> <strong>Correct order: 1, 5, 3, 2, 4. </strong> Before a procedure can be completed, it is essential to have an informed consent (1). Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5). The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3). After the bladder is empty, a baseline abdominal girth is obtained (2). Finally, the PN needs to assemble the correct equipment for the procedure (4).</p>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCMS`,
@@ -1359,7 +1363,7 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `  The client who arrived via ambulance with numbness and tingling of his left arm and face.`,
+      `The adult client who arrived via ambulance with numbness and tingling of his left arm and face.`,
       `The adult client who had a seizure at home who is sleeping on his left side.`,
       `The 60-year-old client who complains of frequent urination and has a blood sugar of 300 mg/dL (16.7 mmol/L) (Ref. range: 74–106 mg/dL or 4.1–5.9 mmol/L).`,
       `The middle-aged client who presents with severe unilateral back pain and previous history of kidney stones.`,
@@ -1367,7 +1371,7 @@ var quiz = [
 
     optionFeedback: [
       `The client may be experiencing a stroke and requires immediate assessment and interventions. If interventions are initiated quickly, the complications may be mitigated.`,
-      `While a seizure is highly concerning, the priority is the client who may be diagnosed with a stroke`,
+      `While a seizure is highly concerning, the priority is the client who may be diagnosed with a stroke.`,
       `An elevated blood sugar may indicate diabetes, and polyuria is an expected symptom. It is considered urgent and not emergent.`,
       `Although this is highly concerning, the client exhibiting symptoms of a stroke is a higher priority.`,
     ],
@@ -1420,7 +1424,7 @@ var quiz = [
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
     answer: [1, 2],
-    ansText: `<strong>Rationale:</strong> <P><strong> Allow the client to take medications independently.</strong>With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
+    ansText: `<strong>Rationale:</strong> <P><strong> Allow the client to take medications independently.</strong> With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
             <p><strong>Ensure that all medications have been swallowed before leaving the client’s room.</strong> To ensure that medications are not being hoarded or kept to be taken at a later time, the PN needs to watch the client swallow his or her medications.</p>
             <p><strong> Request that oral pain medications be changed from tablet to oral suspension.</strong> Liquid forms of medications are harder to save to be taken later so are often used for clients with a history of substance abuse.</p>
             <p><strong> Administer flumazenil every 6 hours around the clock.</strong> Flumazenil is used to reverse benzodiazepine overdose and is given as needed, not around the clock.</p>
@@ -1436,7 +1440,7 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `  The young mother diagnosed with schizophrenia who is hearing voices say that they are pursuing her children.`,
+      `The young mother diagnosed with schizophrenia who is hearing voices say that they are pursuing her children.`,
       `The elderly male at an assisted living facility who says he wants to end it all.`,
       `The female client diagnosed with bipolar dis­order who is manic and has not slept for 48 hours.`,
       `The teenager diagnosed with bulimia whose mother called and reported that she found her daughter purging.`,
@@ -1515,7 +1519,7 @@ var quiz = [
     optionStyleType: `st-decimal`,
     answer: [0, 3],
     ansText: `<strong>Rationale:</strong> <P> <strong>Start the IV in the treatment room, not the child’s room.<strong>The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
-            <p><strong>Apply a lidocaine-based cream for a few minutes before starting the IV.</strong>To be effective, the cream needs to be applied for about 1 hour before the IV is started.</p>
+            <p><strong>Apply a lidocaine-based cream for a few minutes before starting the IV.</strong> To be effective, the cream needs to be applied for about 1 hour before the IV is started.</p>
             <p><strong> Ask the parents to leave the room while performing the procedure.</strong> Having parents present can help the child cope with this procedure.</p>
              <p><strong> Encourage the child to use guided imagery to cope.</strong> Children at this age can understand and participate in guided imagery.</p>
             <p><strong> Offer the child a reward if they cooperate during the procedure.</strong>  Offering the child a reward does not help the child to cope with the IV insertion.</p> `,

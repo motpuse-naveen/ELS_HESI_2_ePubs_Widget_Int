@@ -21,7 +21,7 @@ var quiz = [
         q2: ``,
         q3: [],
         option: [`“I can take aspirin if I need it for pain.”`,`“I need to take medication at the same time daily.”`,`“I need to check for bruising on my skin.”`,
-		` “If I gain 5 lb. (2.27 kg) in a week, I will call the HCP.”`],
+		`“If I gain 5 lb. (2.27 kg) in a week, I will call the HCP.”`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 0,

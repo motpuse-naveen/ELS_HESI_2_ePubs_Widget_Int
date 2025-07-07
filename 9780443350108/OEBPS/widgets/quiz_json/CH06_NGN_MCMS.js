@@ -10,7 +10,7 @@ var quiz = [
         ansText:`<strong>Rationale:</strong> The client’s new onset of mental confusion is of high concern and needs immediate evaluation. This, along with the
 		urine character and pain, could be indicative of a UTI, which could be very concerning in a client of this age. Loose stools can be caused 
 		by a UTI, but it can also cause dehydration, which would exacerbate the infection and is also very concerning for a client of this age. These
-		findings indicate the need for further follow-up. The vital signs are WNL at this time, lungs are clear, and skin is dry. These are normal 
+		findings indicate the need for further follow-up. The vital signs are <u>WNL</u> at this time, lungs are clear, and skin is dry. These are normal 
 		findings and can be monitored routinely. `,
         state: `notAnswered`,
         userAnswered: [],

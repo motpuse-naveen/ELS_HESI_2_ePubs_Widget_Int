@@ -118,7 +118,7 @@ var quiz = [
 		infant death syndrome (SIDS)?`,
         q2: ``,
         q3: [],
-        option: [`Always place infants on their backs to sleep.`, `  Room sharing has been shown to decrease SIDS.`, 
+        option: [`Always place infants on their backs to sleep.`, `Room sharing has been shown to decrease SIDS.`, 
 		`Keep the crib free of stuffed animals and crib pads.`,`Sleeping with the baby can alert the mother to changes.`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,

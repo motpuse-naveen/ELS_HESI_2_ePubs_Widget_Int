@@ -18,7 +18,7 @@ var quiz = [
         q: `A client’s suspected pregnancy is confirmed. The client tells the PN that she had three previous pregnancies where she delivered 1 infant at 39 weeks, twins at 34 weeks, and another infant at 35 weeks. Using the GTPAL notation, how should the PN record the client’s gravidity and parity assuming all children are alive?`,
         q2: ``,
         q3: [],
-        option: [`  3-0-3-0-3`,` 3-1-1-1-3`,` 4-1-2-0-4`,` 4-2-1-0-3`],
+        option: [`3-0-3-0-3`,` 3-1-1-1-3`,` 4-1-2-0-4`,` 4-2-1-0-3`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 2,

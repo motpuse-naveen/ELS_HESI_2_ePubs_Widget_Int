@@ -19,8 +19,8 @@ const questions_data = {
                   <p>The PN identifies this rhythm as #dropdown1#. The nurse places the client on continuous telemetry.</p>
                   <p>The PN would recognize the priority client problem is #dropdown2# associated with this rhythm.</p>`,
                   dropdowns:{
-                    dropdown1:{values:["Atrial flutter", "Supraventricular tachycardia", "Atrial fibrillation", "Complete heart block"],correctValue: "Atrial Fibrillation",dropdownlabel:"Select an option", useCommonOptions:"false"},
-                    dropdown2:{values:["High blood pressure", "Risk for stroke", "Need for health teaching", "Decreased clotting"],correctValue: "Risk for Stroke",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                    dropdown1:{values:["Atrial flutter", "Supraventricular tachycardia", "Atrial fibrillation", "Complete heart block"],correctValue: "Atrial fibrillation",dropdownlabel:"Select an option", useCommonOptions:"false"},
+                    dropdown2:{values:["High blood pressure", "Risk for stroke", "Need for health teaching", "Decreased clotting"],correctValue: "Risk for stroke",dropdownlabel:"Select an option", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline
                   correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> Risk for stroke is the priority client problem when experiencing atrial fibrillation. Clients are more likely to develop a clot within the atria due to incomplete emptying of blood from the heart chambers. If the clot leaves the atria, it can travel through the circulatory system to the brain and cause a stroke. Treatment for atrial fibrillation is most likely to cause low blood pressure, not high. The client will require health teaching, but this is not the priority nursing problem. Atrial fibrillation causes increased risk of clotting, not decreased.</p>`,
@@ -127,7 +127,7 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "1140",dropdownlabel:"Select an heparin dosage", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 units x 76 kg = 6080 units</p><p>#1: 18 units x 76 kg = 1368 units</p><p>#1: 20 units x 76 kg = 1520 units</p><p>#1: 17 units x 76 kg = 1292 units</p><p>#1: 15 units x 76 kg = 1140 units</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 <i>units</i> x 76 kg = 6080 <i>units/h</i></p><p>#2: 18 <i>units</i> x 76 kg = 1368 <i>units/h</i></p><p>#3: 20 <i>units</i> x 76 kg = 1520 <i>units/h</i></p><p>#4: 17 <i>units</i> x 76 kg = 1292 <i>units/h</i></p><p>#5: 15 <i>units</i> x 76 kg = 1140 <i>units/h</i></p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
                   incorrectFeedback: `Your answers are incorrect.`
               }

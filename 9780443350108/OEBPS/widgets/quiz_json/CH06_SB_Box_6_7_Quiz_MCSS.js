@@ -21,7 +21,7 @@ var quiz = [
 		early symptom of renal insufficiency would the PN expect?`,
         q2: ``,
         q3: [],
-        option: [`  Dyspnea`,`Nocturia`,`Confusion`,`Stomatitis`],
+        option: [`Dyspnea`,`Nocturia`,`Confusion`,`Stomatitis`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,
         answer: 1,

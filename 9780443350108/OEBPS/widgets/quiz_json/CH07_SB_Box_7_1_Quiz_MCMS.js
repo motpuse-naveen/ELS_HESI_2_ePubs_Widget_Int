@@ -21,7 +21,7 @@ var quiz = [
         q: `The PN is assigned to a client diagnosed with diabetes. Which finding(s) would the PN immediately report to the RN?`,
         q2: ``,
         q3: [],
-        option: [`  FSBS 247 mg/dL (13.71 mmol/L) (Ref. range = 70–110 mg/dL or 3.89 mmo/L to 5.55 mmol/L)`,`Cold, clammy skin`,`Crackles at the end of inspiration`,
+        option: [`FSBS 247 mg/dL (13.71 mmol/L) (Ref. range = 70–110 mg/dL or 3.89 mmo/L to 5.55 mmol/L)`,`Cold, clammy skin`,`Crackles at the end of inspiration`,
 		`Numbness in the fingertips and toes`,`Unsteady gait, slurred speech`],
         //optionFeedback: [``],
         optionStyleType: `st-decimal`,

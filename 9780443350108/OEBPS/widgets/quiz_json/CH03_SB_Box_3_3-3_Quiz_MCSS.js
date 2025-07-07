@@ -1,7 +1,7 @@
 var quiz = [
 	
 	{
-      q: `  Which laboratory result for a preoperative client would prompt the PN to contact the HCP?`,
+      q: `Which laboratory result for a preoperative client would prompt the PN to contact the HCP?`,
         q2: ``,
         q3: [],
         quesNumber:`Question 3`,
