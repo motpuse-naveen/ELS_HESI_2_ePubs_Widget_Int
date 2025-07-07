@@ -409,8 +409,8 @@
     <item id="iqdata9" href="widgets/inline_questions/data/Appendix_B_question_data.js" media-type="text/javascript"/>
     <item id="iqdata10" href="widgets/inline_questions/data/Appendix_C_question_data.js" media-type="text/javascript"/>
     <item id="iqdata11" href="widgets/inline_questions/data/Appendix_E_question_data.js" media-type="text/javascript"/>
-    <item id="iqdata3" href="widgets/inline_questions/data/ch04_question_data.js" media-type="text/javascript"/>
-    <item id="iqdata3" href="widgets/inline_questions/data/ch05_question_data.js" media-type="text/javascript"/>
+    <item id="iqdata12" href="widgets/inline_questions/data/ch04_question_data.js" media-type="text/javascript"/>
+    <item id="iqdata13" href="widgets/inline_questions/data/ch05_question_data.js" media-type="text/javascript"/>
 
 
     <!--Quiz(MCSS/MCMS) Data Files-->
@@ -647,8 +647,9 @@
     <itemref idref="AppendixD_174-198_B9780323934398000204" linear="yes"/>
     <itemref idref="AppendixE_199-210_B9780323934398000216" linear="yes"/>
     <itemref idref="MCMS1" linear="no"/>
-    <!--
+    
     <itemref idref="MCMS2" linear="no"/>
+    <!--
     <itemref idref="MCMS3" linear="no"/>
     <itemref idref="MCMS4" linear="no"/>
     <itemref idref="MCMS5" linear="no"/>
@@ -682,8 +683,10 @@
     <itemref idref="MCMS32" linear="no"/>
 
     <itemref idref="MCSS1" linear="no"/>
+    <!--
     <itemref idref="MCSS2" linear="no"/>
     <itemref idref="MCSS3" linear="no"/>
+    -->
     <itemref idref="MCSS4" linear="no"/>
     <itemref idref="MCSS5" linear="no"/>
     <itemref idref="MCSS6" linear="no"/>
