@@ -11,7 +11,7 @@ const questions_data = {
       id: "group1",
       type: "dropdown",
       placeholder_id: "group1_placeholder",
-      groupHeadHtml: `The RN finds an adult client slumped in a chair. Place the RN’s actions in order of priority from first to last for this client.`,
+      groupHeadHtml: `<h2 class="quesNum">Question 1</h2><p>The RN finds an adult client slumped in a chair. Place the RN’s actions in order of priority from first to last for this client.</p>`,
       commonDropdownOptions: ["1", "2", "3", "4", "5", "6", "7"],
       items: [
         {
@@ -116,10 +116,10 @@ const questions_data = {
     },
 
     group2: {
-      id: "group1",
+      id: "group2",
       type: "dropdown",
-      placeholder_id: "group1_placeholder",
-      groupHeadHtml: `Four clients arrive in the emergency department (ED) after an explosion. In which order should they be assessed? All options must be used.`,
+      placeholder_id: "group2_placeholder",
+      groupHeadHtml: `<h2 class="quesNum">Question 1</h2><p>Four clients arrive in the emergency department (ED) after an explosion. In which order should they be assessed? All options must be used.</p>`,
       commonDropdownOptions: ["1", "2", "3", "4"],
       items: [
         {

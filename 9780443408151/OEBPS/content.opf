@@ -56,8 +56,8 @@
     <item id="Ch001_1-9_B9780323934398000010" href="xhtml/Ch001_1-9_B9780323934398000010.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="Ch002_10-17_B9780323934398000022" href="xhtml/Ch002_10-17_B9780323934398000022.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="Ch003_18-32_B9780323934398000034" href="xhtml/Ch003_18-32_B9780323934398000034.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-    <item id="Ch004_33-41_B9780323934398000046" href="xhtml/Ch004_33-41_B9780323934398000046.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Ch005_42-62_B9780323934398000058" href="xhtml/Ch005_42-62_B9780323934398000058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch004_33-41_B9780323934398000046" href="xhtml/Ch004_33-41_B9780323934398000046.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    <item id="Ch005_42-62_B9780323934398000058" href="xhtml/Ch005_42-62_B9780323934398000058.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="Ch006_63-76_B978032393439800006X" href="xhtml/Ch006_63-76_B978032393439800006X.xhtml" media-type="application/xhtml+xml"/>
     <item id="Ch007_77-88_B9780323934398000071" href="xhtml/Ch007_77-88_B9780323934398000071.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="Ch008_89-106_B9780323934398000083" href="xhtml/Ch008_89-106_B9780323934398000083.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
@@ -409,6 +409,9 @@
     <item id="iqdata9" href="widgets/inline_questions/data/Appendix_B_question_data.js" media-type="text/javascript"/>
     <item id="iqdata10" href="widgets/inline_questions/data/Appendix_C_question_data.js" media-type="text/javascript"/>
     <item id="iqdata11" href="widgets/inline_questions/data/Appendix_E_question_data.js" media-type="text/javascript"/>
+    <item id="iqdata3" href="widgets/inline_questions/data/ch04_question_data.js" media-type="text/javascript"/>
+    <item id="iqdata3" href="widgets/inline_questions/data/ch05_question_data.js" media-type="text/javascript"/>
+
 
     <!--Quiz(MCSS/MCMS) Data Files-->
     <item id="quiz_json_3" href="widgets/quiz_json/Appendix_D_PQ_Quiz_MCMS.js" media-type="text/javascript"/>
@@ -442,7 +445,7 @@
     <item id="quiz_json_26" href="widgets/quiz_json/CH4_NGN_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_27" href="widgets/quiz_json/CH4_SB_Box_4_1_Quiz_MCSS.js" media-type="text/javascript"/>
     <item id="quiz_json_28" href="widgets/quiz_json/CH4_SB_Box_4_2_Quiz_MCSS.js" media-type="text/javascript"/>
-    <item id="quiz_json_29" href="widgets/quiz_json/CH4_SB_Box_4_3_Quiz_MCMS.js" media-type="text/javascript"/>
+    <!--<item id="quiz_json_29" href="widgets/quiz_json/CH4_SB_Box_4_3_Quiz_MCMS.js" media-type="text/javascript"/>-->
     <item id="quiz_json_30" href="widgets/quiz_json/CH4_SB_Box_4_4_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_31" href="widgets/quiz_json/CH4_SB_Box_4_5_Quiz_MCMS.js" media-type="text/javascript"/>
     <item id="quiz_json_32" href="widgets/quiz_json/CH5_SB_Box_5_1_Quiz_MCMS.js" media-type="text/javascript"/>
@@ -585,7 +588,7 @@
 
     <!--Quiz(/MCMS) XHTML Files-->
     <item id="MCMS1" href="widgets/MCMS/xhtml/CH4_NGN_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-    <item id="MCMS2" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec4_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    <item id="MCMS2" href="widgets/MCMS/xhtml/Appendix_D_PQ_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <!--
     <item id="MCMS2" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec4_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS3" href="widgets/MCMS/xhtml/Appendix_D_PQ_Sec5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
@@ -598,7 +601,7 @@
     <item id="MCMS9" href="widgets/MCMS/xhtml/Appendix_E_PQ_Sec1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS10" href="widgets/MCMS/xhtml/CH2_SB_Box_2_9_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS11" href="widgets/MCMS/xhtml/CH3_SB_Box_3_6_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-    <item id="MCMS12" href="widgets/MCMS/xhtml/CH4_SB_Box_4_3_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+    <!--<item id="MCMS12" href="widgets/MCMS/xhtml/CH4_SB_Box_4_3_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>-->
     <item id="MCMS13" href="widgets/MCMS/xhtml/CH4_SB_Box_4_4_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS14" href="widgets/MCMS/xhtml/CH4_SB_Box_4_5_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
     <item id="MCMS15" href="widgets/MCMS/xhtml/CH5_SB_Box_5_1_Quiz_MCMS.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
@@ -644,17 +647,19 @@
     <itemref idref="AppendixD_174-198_B9780323934398000204" linear="yes"/>
     <itemref idref="AppendixE_199-210_B9780323934398000216" linear="yes"/>
     <itemref idref="MCMS1" linear="no"/>
+    <!--
     <itemref idref="MCMS2" linear="no"/>
     <itemref idref="MCMS3" linear="no"/>
     <itemref idref="MCMS4" linear="no"/>
     <itemref idref="MCMS5" linear="no"/>
+    -->
     <itemref idref="MCMS6" linear="no"/>
     <itemref idref="MCMS7" linear="no"/>
     <itemref idref="MCMS8" linear="no"/>
     <itemref idref="MCMS9" linear="no"/>
     <itemref idref="MCMS10" linear="no"/>
     <itemref idref="MCMS11" linear="no"/>
-    <itemref idref="MCMS12" linear="no"/>
+    <!--<itemref idref="MCMS12" linear="no"/>-->
     <itemref idref="MCMS13" linear="no"/>
     <itemref idref="MCMS14" linear="no"/>
     <itemref idref="MCMS15" linear="no"/>

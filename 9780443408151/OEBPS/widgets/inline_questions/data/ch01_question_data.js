@@ -22,9 +22,9 @@ const questions_data = {
                   dropdown2:{values:["Exertional fatigue","Hypotension", "Hyperglycemia", "Unusual bleeding"],correctValue: "Exertional fatigue",dropdownlabel:"Select the symptoms", useCommonOptions:"false"}
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> Pioglitazone is a medication used to treat type 2 diabetes and has been known to cause or worsen heart failure. This medication is contraindicated in clients who have heart failure and can lead to worsening symptoms such as exertional fatigue; swelling of the hands, legs, and feet; hypertension; and shortness of breath.</p>`,
+                correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> Pioglitazone is a medication used to treat type 2 diabetes and has been known to cause or worsen heart failure. This medication is contraindicated in clients who have heart failure and can lead to worsening symptoms such as exertional fatigue; swelling of the hands, legs, and feet; hypertension; and shortness of breath.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
-                incorrectFeedback: `Your answer is incorrect.`
+                incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",

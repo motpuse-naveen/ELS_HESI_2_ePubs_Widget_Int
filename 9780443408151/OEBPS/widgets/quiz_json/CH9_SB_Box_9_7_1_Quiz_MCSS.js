@@ -3,6 +3,7 @@ var quiz = [
         q: `A 2-year-old child’s bloodwork is evaluated by the RN. Considering that the child is prescribed furosemide, captopril, and digoxin for congestive heart failure, which finding is the greatest concern to the RN?`,
         q2: ``,
         q3: [],
+        quesNumber: `Question 1`,
         option: [`Hypocalcemia`, `Hypernatremia`, `Low hemoglobin`, `Hypokalemia`],
         //optionFeedback: [``],],
         optionStyleType: `st-decimal`,

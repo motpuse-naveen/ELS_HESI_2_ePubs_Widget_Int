@@ -22,9 +22,9 @@ const questions_data = {
                     dropdown2:{values:["Cushing Triad", "Narrowing Pulse Pressure", "Scalp Hematoma", "Improving GCS"],correctValue: "Cushing Triad",dropdownlabel:"Select an option", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> The evidence listed in the table chronicled from admission to 2 hours after client arrival reveal the presence of Cushing triad, which is a late indicator of increased ICP in a client with a head injury. Cushing triad includes: widening pulse pressure, slowing heart rate with full bounding pulse, and slowing and irregular respirations.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> The evidence listed in the table chronicled from admission to 2 hours after client arrival reveal the presence of Cushing triad, which is a late indicator of increased ICP in a client with a head injury. Cushing triad includes: widening pulse pressure, slowing heart rate with full bounding pulse, and slowing and irregular respirations.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",

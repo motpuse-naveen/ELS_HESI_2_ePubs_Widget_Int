@@ -24,9 +24,9 @@ const questions_data = {
                     dropdown5:{values:["FHR variability", "Amount of bleeding, clots", "Late decelerations", "Biophysical profile", "Uterine atony"],correctValue: "Late decelerations",dropdownlabel:"Select Parameters to Monitor", useCommonOptions:"false"}
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> The client in the scenario is most likely experiencing an abruptio placentae. Actions the PN should take include applying fetal monitors to evaluate fetal heart tones and preparing the client for a probable cesarean delivery. The PN would be diligent in observing the amount of bleeding and the passage of clots. The PN would also evaluate fetal heart tones observing for any signs of fetal distress such as late decelerations. These observations will help determine the degree of abruption, assess the condition of both the mother and the fetus, and determine how quickly the infant should be delivered.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> The client in the scenario is most likely experiencing an abruptio placentae. Actions the PN should take include applying fetal monitors to evaluate fetal heart tones and preparing the client for a probable cesarean delivery. The PN would be diligent in observing the amount of bleeding and the passage of clots. The PN would also evaluate fetal heart tones observing for any signs of fetal distress such as late decelerations. These observations will help determine the degree of abruption, assess the condition of both the mother and the fetus, and determine how quickly the infant should be delivered.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",

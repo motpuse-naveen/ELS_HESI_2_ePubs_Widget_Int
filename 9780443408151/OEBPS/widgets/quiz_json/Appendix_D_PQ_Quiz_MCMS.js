@@ -867,24 +867,31 @@ var quiz = [
     type: `MCSS`,
   },
   {
-    q: `The arrhythmia alarm sounds on a client on the telemetry unit, indicating that the client is in ventricular tachycardia. Place the RN’s actions for this client in order of priority from first to last.`,
+    q: `The arrhythmia alarm sounds on a client on the telemetry unit, indicating that the client is in ventricular tachycardia. Place the RN’s actions for this client in order of priority from first to last.
+    <ul class="numbers">
+          <li><strong>Call the rapid response team.</strong></li>
+          <li><strong>Assess for a pulse and blood pressure.</strong></li>
+          <li><strong>Give oxygen via nasal cannula.</strong></li>
+          <li><strong>Bring defibrillator/crash car to the bedside.</strong></li>
+          <li><strong>Document the incident.</strong></li>
+         </ul>`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `Call the rapid response team.`,
-      `Assess for a pulse and blood pressure.`,
-      `Give oxygen via nasal cannula.`,
-      `Bring defibrillator/crash car to the bedside.`,
-      `Document the incident.`,
+      `1, 2, 3, 5, 4`,
+      `3, 2, 1, 4, 5`,
+      `5, 4, 3, 2, 1`,
+      `2, 1, 3, 4, 5`,
+      `1, 3, 2, 5, 4`,
     ],
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
-    answer: [1, 0, 2, 3, 4],
+    answer: [3],
     ansText: `<strong>Rationale:</strong> The RN needs to first assess the client before calling the rapid response team. Also, if the client is truly in ventricular tachycardia, it needs to be determined if it is pulseless v-tach or if the client has a pulse and blood pressure. If there is a pulse, the second action would be to call the rapid response team so that additional help is available. Then, the client needs to have oxygen to maximize oxygenation of the circulating blood. The defibrillator needs to be brought to the bedside to be used for cardioversion. The final activity is to document the findings.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCMS`,
+    type: `MCSS`,
   },
   {
     q: `The RN is reviewing the laboratory values for their assigned clients. Which client has an abnormal laboratory report that the RN would immediately call to the HCP?`,
@@ -1385,6 +1392,24 @@ var quiz = [
     optionStyleType: `st-decimal`,
     answer: [3],
     ansText: `<strong>Rationale:</strong> Sleeping with the baby increases the risk for injury and SIDS for infants.`,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+  },
+  {
+    q: `A 4-year-old admitted with pneumonia weighs 39.6 pounds (18 kg). The HCP has prescribed vancomycin 40 mg/kg/day IV. The order states to divide the dose and give it three times daily. How many milligrams of vancomycin would the child receive in each dose? (Round the answer to the nearest whole number.)`,
+    q2: ``,
+    q3: [],
+    quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
+    option: [
+      "180 mg",
+      "240 mg",
+      "360 mg",
+      "300 mg",
+    ],
+    optionStyleType: `st-decimal`,
+    answer: [1],
+    ansText: `<p><strong>Rationale:</strong></p><div style="text-align:center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>40</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>×</mo><mn>18</mn><mo>&#xA0;</mo><mi>k</mi><mi>g</mi></mrow><mrow><mn>3 doses</mn></mrow></mfrac><mo>=</mo><mn>240</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>/</mo><mi>dose</mi></mrow></math></div>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,

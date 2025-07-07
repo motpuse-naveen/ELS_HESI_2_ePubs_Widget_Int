@@ -13,17 +13,30 @@ var quiz = [
         type:`MCSS`
     },
 	{
-        q: `A client with a history of coronary heart disease was admitted to the acute care unit 2 days ago for management of angina. During the assessment, the client states, “I feel like I have indigestion.” In which order would the RN implement care? (Arrange from first action to last.)`,
+        q: `A client with a history of coronary heart disease was admitted to the acute care unit 2 days ago for management of angina. During the assessment, the client states, “I feel like I have indigestion.” In which order would the RN implement care? (Arrange from first action to last.)
+        <ul class="numbers">
+          <li><strong>Notify the rapid response team</strong></li>
+          <li><strong>Administer PRN nitroglycerin prescription</strong></li>
+          <li><strong>Assess the pulse, respirations, BP, and oxygen saturation</strong></li>
+          <li><strong>Document assessment in the electronic medical record</strong></li>
+          <li><strong>Provide 2 L of oxygen via nasal cannula</strong></li>
+         </ul>`,
         q2: ``,
         q3: [],
-        option: [`Notify the rapid response team`, `Administer PRN nitroglycerin prescription`, `Assess the pulse, respirations, BP, and oxygen saturation`, `Document assessment in the electronic medical record`, `Provide 2 L of oxygen via nasal cannula`],
+        option: [
+        "2, 1, 4, 3, 0",
+        "2, 4, 1, 0, 3",
+        "4, 2, 0, 1, 3",
+        "1, 3, 0, 4, 2",
+        "0, 1, 3, 2, 4",
+        ],
         //optionFeedback: [``],],
         optionStyleType: `st-decimal`,
-        answer: [2,4,1,0,3],
-        ansText:`<strong>Rationale:</strong> For emergency care of the client with chest pain, it is important to quickly gather vital signs, provide O2, administer nitroglycerin, notify the rapid response team, and finally, document.`, 
+        answer: [1],
+        ansText:`<strong>Rationale: </strong><strong>Correct order: 2, 4, 1, 0, 3. </strong> For emergency care of the client with chest pain, it is important to quickly gather vital signs, provide O2, administer nitroglycerin, notify the rapid response team, and finally, document.`, 
         state: `notAnswered`,
         userAnswered: [],
-        type:`MCMS`
+        type:`MCSS`
     },
     {
         q: `For which dysrhythmia would the RN implement defibrillation?`,

@@ -23,11 +23,11 @@ const questions_data = {
                   dropdown2:{values:["Attorney-in-fact", "Power of attorney", "Health care proxy", "Estate planner"],correctValue: "Health care proxy",dropdownlabel:"Select the option", useCommonOptions:"false"}
                 },
                 dropdownPlacement:"inline",//newline
-                correctFeedback: `<p>Your answer is correct.</p>
+                correctFeedback: `<p>All of your answers are correct.</p>
                 <p><strong>Rationale 1:</strong> An advance directive is a legal document that details a client’s wishes for health care to be instated if/when said client becomes incapacitated or unable to make decisions independently. Death with dignity consent is used for physician-assisted suicides in states where this is allowed. Informed consent is required before all invasive procedures but does not pertain to this situation. A last will and testament discusses how a client’s possessions will be dispersed but does not address medical issues.</p>
                 <p><strong>Rationale 2:</strong> A health care proxy is the appropriate term for the individual whom a client appoints to make health care decisions for the client if/when the client becomes unable to make decisions for themselves. The proxy should understand the client’s wishes for end-of-life care and be willing to see that those plans are carried out accordingly. This person is only entitled to make health care decisions and is not involved in financial decisions or estate planning. An attorney-in-fact is a person who assumes responsibility for making financial, legal, and business matter decisions for the client and is another term for someone with general power of attorney. An estate planner helps designating who will handle a client’s assets and responsibilities after death.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
-                incorrectFeedback: `Your answer is incorrect.`
+                incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",

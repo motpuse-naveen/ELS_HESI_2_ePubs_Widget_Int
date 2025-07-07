@@ -3,6 +3,7 @@ var quiz = [
         q: `The RN reviews the medication record of a 2-month-old and notes that the infant was given a scheduled dose of digoxin with a documented apical pulse of 76 beats/min. Which action would the RN take first?`,
         q2: ``,
         q3: [],
+        quesNumber: `Question 3`,
         option: [`Assess the current apical pulse rate`, `Assess for the onset of diarrhea`, `Complete an adverse occurrence report`, `Determine the serum potassium level`],
         //optionFeedback: [``],],
         optionStyleType: `st-decimal`,

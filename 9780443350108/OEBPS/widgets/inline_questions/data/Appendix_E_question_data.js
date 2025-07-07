@@ -23,9 +23,9 @@ const questions_data = {
                     dropdown2:{values:["High blood pressure", "Risk for stroke", "Need for health teaching", "Decreased clotting"],correctValue: "Risk for Stroke",dropdownlabel:"Select an option", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> Risk for stroke is the priority client problem when experiencing atrial fibrillation. Clients are more likely to develop a clot within the atria due to incomplete emptying of blood from the heart chambers. If the clot leaves the atria, it can travel through the circulatory system to the brain and cause a stroke. Treatment for atrial fibrillation is most likely to cause low blood pressure, not high. The client will require health teaching, but this is not the priority nursing problem. Atrial fibrillation causes increased risk of clotting, not decreased.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> Risk for stroke is the priority client problem when experiencing atrial fibrillation. Clients are more likely to develop a clot within the atria due to incomplete emptying of blood from the heart chambers. If the clot leaves the atria, it can travel through the circulatory system to the brain and cause a stroke. Treatment for atrial fibrillation is most likely to cause low blood pressure, not high. The client will require health teaching, but this is not the priority nursing problem. Atrial fibrillation causes increased risk of clotting, not decreased.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",
@@ -48,7 +48,7 @@ const questions_data = {
                 dropdownPlacement:"inline",//newline
                 correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> Risk for stroke is the priority client problem when experiencing atrial fibrillation. Clients are more likely to develop a clot within the atria due to incomplete emptying of blood from the heart chambers. If the clot leaves the atria, it can travel through the circulatory system to the brain and cause a stroke. Treatment for atrial fibrillation is most likely to cause low blood pressure, not high. The client will require health teaching, but this is not the priority nursing problem. Atrial fibrillation causes increased risk of clotting, not decreased.</p>`,
                 partialFeedback: `You have one or more incorrect answers.`,
-                incorrectFeedback: `Your answer is incorrect.`
+                incorrectFeedback: `Your answers are incorrect.`
             }
           ],
           optionStyleType: "",
@@ -70,9 +70,9 @@ const questions_data = {
                     dropdown3:{values:["PaCO₂", "HCO₃", "PaO₂", "SaO₂"],correctValue: "PaCO₂",dropdownlabel:"Select an option", useCommonOptions:"false"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> PaCO₂ levels below 35 mmHg indicate respiratory alkalosis. Normal levels of PaCO2 are 35-45 mmHg. This ABG shows that the client is hyperventilating and blowing off too much CO2 leading to an alkalotic state. This is also evident with the previous assessment findings documenting a RR of 24 breaths per minute.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> PaCO₂ levels below 35 mmHg indicate respiratory alkalosis. Normal levels of PaCO2 are 35-45 mmHg. This ABG shows that the client is hyperventilating and blowing off too much CO2 leading to an alkalotic state. This is also evident with the previous assessment findings documenting a RR of 24 breaths per minute.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",
@@ -93,9 +93,9 @@ const questions_data = {
                     
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> The client is elderly and most likely has impaired mobility due to the surgical procedure that has taken place. Therefore, the client is most likely experiencing a thromboembolism related to decreased mobility from his prolonged bedrest. Although long bone fractures, such as those of the femur, and repairs of those fractures increase the risk for fat embolism, this is not as likely to occur two days postoperatively. There is no indication in the scenario that the client would have either of the other types of embolism or that the client is obese. Enoxaparin use should decrease the risk of thromboembolism, not increase it.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> The client is elderly and most likely has impaired mobility due to the surgical procedure that has taken place. Therefore, the client is most likely experiencing a thromboembolism related to decreased mobility from his prolonged bedrest. Although long bone fractures, such as those of the femur, and repairs of those fractures increase the risk for fat embolism, this is not as likely to occur two days postoperatively. There is no indication in the scenario that the client would have either of the other types of embolism or that the client is obese. Enoxaparin use should decrease the risk of thromboembolism, not increase it.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",
@@ -127,9 +127,9 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "1140",dropdownlabel:"Select an heparin dosage", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 units x 76 kg = 6080 units</p><p>#1: 18 units x 76 kg = 1368 units</p><p>#1: 20 units x 76 kg = 1520 units</p><p>#1: 17 units x 76 kg = 1292 units</p><p>#1: 15 units x 76 kg = 1140 units</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 units x 76 kg = 6080 units</p><p>#1: 18 units x 76 kg = 1368 units</p><p>#1: 20 units x 76 kg = 1520 units</p><p>#1: 17 units x 76 kg = 1292 units</p><p>#1: 15 units x 76 kg = 1140 units</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",
@@ -160,9 +160,9 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "Nonsteroidal anti-inflammatory agent",dropdownlabel:"Select Therapeutic Drug Classifications", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",
@@ -183,9 +183,9 @@ const questions_data = {
                     
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>Your answer is correct.</p><p><strong>Rationale:</strong> Feces from a client receiving adequate PERT will sink to the bottom of the toilet. Feces containing fat will float to the surface of the water in the toilet. Undigested fat in the stool indicates insufficient PERT in clients with CF. This is an easily observable indication of therapeutic medication dosing for clients. PERT will not affect the other body fluids mentioned.</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> Feces from a client receiving adequate PERT will sink to the bottom of the toilet. Feces containing fat will float to the surface of the water in the toilet. Undigested fat in the stool indicates insufficient PERT in clients with CF. This is an easily observable indication of therapeutic medication dosing for clients. PERT will not affect the other body fluids mentioned.</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
-                  incorrectFeedback: `Your answer is incorrect.`
+                  incorrectFeedback: `Your answers are incorrect.`
               }
             ],
             optionStyleType: "",

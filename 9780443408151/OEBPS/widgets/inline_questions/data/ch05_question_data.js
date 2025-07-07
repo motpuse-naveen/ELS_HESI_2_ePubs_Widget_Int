@@ -11,7 +11,7 @@ const questions_data = {
       id: "group1",
       type: "dropdown",
       placeholder_id: "group1_placeholder",
-      groupHeadHtml: `A client who is 1 day postoperative after a left pneumonectomy is lying on his right side with the head of the bed (HOB) elevated 10 degrees. The RN assesses his respiratory rate at 32 breaths/min. In what order would the RN perform the following actions?`,
+      groupHeadHtml: `<h2 class="quesNum">Question 1</h2><p>A client who is 1 day postoperative after a left pneumonectomy is lying on his right side with the head of the bed (HOB) elevated 10 degrees. The RN assesses his respiratory rate at 32 breaths/min. In what order would the RN perform the following actions?</p>`,
       commonDropdownOptions: ["1", "2", "3", "4"],
       items: [
         {
@@ -76,9 +76,9 @@ const questions_data = {
       itemSeperator: "false",
     },
     group2: {
-      id: "group1",
+      id: "group2",
       type: "dropdown",
-      placeholder_id: "group1_placeholder",
+      placeholder_id: "group2_placeholder",
       groupHeadHtml: `A client with a history of coronary heart disease was admitted to the acute care unit 2 days ago for management of angina. During the assessment, the client states, “I feel like I have indigestion.” In which order would the RN implement care? (Arrange from first action to last.)`,
       commonDropdownOptions: ["1", "2", "3", "4", "5"],
       items: [

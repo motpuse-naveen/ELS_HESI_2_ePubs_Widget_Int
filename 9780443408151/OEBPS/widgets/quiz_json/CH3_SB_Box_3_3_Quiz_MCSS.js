@@ -3,6 +3,7 @@ var quiz = [
         q: `Which laboratory result for a preoperative client would prompt the RN to contact the health care provider?`,
         q2: ``,
         q3: [],
+        quesNumber:`Question 2`,
         option: [`Platelet count: 151,000/mm<sup>3</sup> (151 × 10<sup>9</sup>/L)`, `White blood cell (WBC) count: 8500/mm<sup>3</sup> (8.5 × 10<sup>9</sup>/L)`, `Serum potassium level: 2.8 mmol/L (2.8 mEq/L)`, `Urine specific gravity: 1.031`],
         //optionFeedback: [``],],
         optionStyleType: `st-decimal`,

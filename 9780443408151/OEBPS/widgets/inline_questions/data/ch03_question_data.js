@@ -14,7 +14,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A client has an order for hydromorphone intravenous (IV) push 1 mg every 3 hours. The drug is available as 4 mg/mL per vial. The RN administers #cloze1# mL of hydromorphone for one dose. (Fill in the blank.)</p>`,
+                clozeHtml:`<h2 class="quesNum">Question 1</h2><p>A client has an order for hydromorphone intravenous (IV) push 1 mg every 3 hours. The drug is available as 4 mg/mL per vial. The RN administers #cloze1# mL of hydromorphone for one dose. (Fill in the blank.)</p>`,
                 clozes:{
                   cloze1:{correctValue: "0.25", clozelabel:"fill in the blank"},
                 },
@@ -35,7 +35,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A client is receiving an infusion of dobutamine hydrochloride. The order reads: Infuse dobutamine IV at 5 mcg/kg/min available in 500 mg in 250 mL D5W. The client weighs 65 kg. Calculate the flow rate in mL/hr.</p><p>#cloze1# mL/hr</p>`,
+                clozeHtml:`<h2 class="quesNum">Question 1</h2><p>A client is receiving an infusion of dobutamine hydrochloride. The order reads: Infuse dobutamine IV at 5 mcg/kg/min available in 500 mg in 250 mL D5W. The client weighs 65 kg. Calculate the flow rate in mL/hr.</p><p>#cloze1# mL/hr</p>`,
                 clozes:{
                   cloze1:{correctValue: "9.75", clozelabel:"fill in the blank"},
                 },

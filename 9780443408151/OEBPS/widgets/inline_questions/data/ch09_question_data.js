@@ -14,7 +14,7 @@ const questions_data = {
             items: [
               {
                 headerImage:{},
-                clozeHtml:`<p>A pediatric client is prescribed digoxin for a congenital heart defect. The maintenance dosage ordered is 5 mcg/kg/day. The child weighs 10 kg. The prescription requires the digoxin to be administered twice daily. The RN prepares #cloze1# mcg of digoxin at each dose.</p>`,
+                clozeHtml:`<h2 class="quesNum">Question 2</h2><p>A pediatric client is prescribed digoxin for a congenital heart defect. The maintenance dosage ordered is 5 mcg/kg/day. The child weighs 10 kg. The prescription requires the digoxin to be administered twice daily. The RN prepares #cloze1# mcg of digoxin at each dose.</p>`,
                 clozes:{
                   cloze1:{correctValue: "25", clozelabel:"fill in the blank"},
                 },
