@@ -1203,3 +1203,8 @@ ul.numbers{
 }
 /* ePUB specific css*/
 
+
+.reflective_writing .question-controls{
+  display: none;
+}
+

@@ -104,7 +104,7 @@ var quiz = [
       `A 21-year-old client with dehydration and cerebral palsy who is dependent in daily activities.`,
       `A 60-year-old client who has had type 2 diabetes for 20 years and was admitted with cellulitis.`,
       `An obese 30-year-old client with hypertension who is noncompliant with the medication regimen.`,
-      `A 40-year-old client who takes a loop diuretic, has a serum K+ of 3.5 mEq/L (3.5 mmol/L) (Ref. range: 3.5–5 mEq/L or mmol/L), and complains of fatigue.`,
+      `A 40-year-old client who takes a loop diuretic, has a serum K<sup>+</sup> of 3.5 mEq/L (3.5 mmol/L) (Ref. range: 3.5–5 mEq/L or mmol/L), and complains of fatigue.`,
     ],
     optionFeedback: [
       `A client with dehydration and cerebral palsy, characterized by uncoordinated, spastic muscle movements, is at increased risk for respiratory problems because of impaired mobility and impaired swallowing.`,
@@ -947,20 +947,20 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `A preschooler with a barking cough, an O2 saturation of 93% on room air, and occasional inspiratory stridor.`,
+      `A preschooler with a barking cough, an O<sub>2</sub> saturation of 93% on room air, and occasional inspiratory stridor.`,
       `A 10-month-old infant with a tympanic temperature of 102°F (38.9°C) and green nasal drainage who is pulling at her ears.`,
       `A crying 8-month-old with a harsh, paroxysmal cough; an audible expiratory wheeze; and mild retractions.`,
       `A clingy 3-year-old who has a sore throat and drooling and whose tongue is slightly protruding from his mouth.`,
     ],
     optionFeedback: [
-      `This is not a medical emergency. With an O2 saturation of 93%, the child is not in acute respiratory distress.`,
+      `This is not a medical emergency. With an O<sub>2</sub> saturation of 93%, the child is not in acute respiratory distress.`,
       `The child has an infection and probably needs antibiotics, but this is not a medical emergency.`,
       `These symptoms are often seen with children with croup. While the child does need humidified air, they are not in acute respiratory distress.`,
-      `ling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`,
+      `Drooling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`,
     ],
     optionStyleType: `st-decimal`,
     answer: [3],
-    ansText: `<strong>Rationale:</strong> ling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`,
+    ansText: `<strong>Rationale:</strong> Drooling, a history of sore throat, and a protruding tongue are classic manifestations of epiglottitis; this is a medical emergency. The throat can quickly occlude and cause respiratory arrest.`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
@@ -1078,7 +1078,7 @@ var quiz = [
     answer: [1, 3],
     ansText: `<strong>Rationale:</strong> <p><strong>Carefully remove the bio-occlusive dressing.</strong> Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
 <p><strong>Place the client in the Trendelenburg position.</strong> The procedure for removing the catheter safely is (1) place the client in the Trendelenburg position, (2) have the client take a deep breath and hold it, and (3) gently withdraw the catheter while applying direct pressure with sterile gauze. Holding the breath creates positive pressure in the intrathoracic space, and the Trendelenburg position minimizes the risk of air entering the catheter.</p>
-<p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong> </p>
+<p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong> The catheter tip may or may not be sent to the lab, depending on the protocol of the facility.</p>
 <p><strong>Have the client hold a deep breath during removal.</strong> See the explanation for 2.</p>
 <p><strong>Apply pressure for 20 minutes after removal of the catheter.</strong> Applying pressure for 20 minutes is a technique used in arterial line withdrawal to prevent bleeding.</p>`,
     state: `notAnswered`,
@@ -1171,7 +1171,7 @@ var quiz = [
     ],
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
-    answer: [1, 2, 3],
+    answer: [0, 1, 2],
     ansText: `<strong>Rationale:</strong> <p><strong>Remove the tablets of chlorpropamide.</strong> The RN needs to ensure that others do not administer the wrong medication, so the tablets of chlorpropamide need to be removed and returned to the pharmacy.</p>
 <p><strong>Notify the pharmacy about the mistake.</strong> The pharmacy needs to be made aware of the error.</p>
 <p><strong>Complete an incident or occurrence report.</strong> An incident (also called an occurrence) report completed to help prevent the error in the future.</p>
@@ -1417,7 +1417,7 @@ var quiz = [
     ],
     optionStyleType: `st-decimal`,
     answer: [1],
-    ansText: `<p><strong>Rationale:</strong></p><div style="text-align:center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>40</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>×</mo><mn>18</mn><mo>&#xA0;</mo><mi>k</mi><mi>g</mi></mrow><mrow><mn>3 doses</mn></mrow></mfrac><mo>=</mo><mn>240</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>/</mo><mi>dose</mi></mrow></math></div>`,
+    ansText: `<p><strong>Rationale:</strong></p><div style="text-align:center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>40</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>×</mo><mn>18</mn><mo>&#xA0;</mo><mi>k</mi><mi>g</mi></mrow><mrow><mn>3</mn><mo>&#xA0;</mo><mi>d</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>s</mi></mrow></mfrac><mo>=</mo><mn>240</mn><mo>&#xA0;</mo><mi>m</mi><mi>g</mi><mo>/</mo><mi>dose</mi></mrow></math></div>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,

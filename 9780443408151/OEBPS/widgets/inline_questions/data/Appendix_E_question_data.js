@@ -110,8 +110,8 @@ const questions_data = {
             items: [
                 {
                   headerImage:{},
-                  dropdownHtml:`<h2 class="quesNum">Question 4</h2><p>Using the heparin protocol described, complete the table with the appropriate heparin dosages for this client who weighs 76 kg using the collected client information.</p>
-                  <p>The PN calculates the following doses to be administered to the client:</p>
+                  dropdownHtml:`<h2 class="quesNum">Question 4</h2><p>Using the heparin protocol described, complete the table with the appropriate heparin dosages for this client who weighs 76 kg using the client information that is collected.</p>
+                  <p>The RN calculates the following doses to be administered to the client:</p>
                     <div class="pageavoid" id="t0065">
                     <table class="tbody" id="TABC00021Xt0065"><tbody><tr>
                     <td class="tb">Initial bolus (units)</td><td class="tb">#dropdown1#</td></tr>
@@ -128,7 +128,7 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "1140",dropdownlabel:"Select an heparin dosage", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>#1: 80 units x 76 kg = 6080 units/hr</p><p>#1: 18 units x 76 kg = 1368 units/hr</p><p>#1: 20 units x 76 kg = 1520 units/hr</p><p>#1: 17 units x 76 kg = 1292 units/hr</p><p>#1: 15 units x 76 kg = 1140 units/hr</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>1. 80 units x 76 kg = 6080 units/hr</p><p>2. 18 units x 76 kg = 1368 units/hr</p><p>3. 20 units x 76 kg = 1520 units/hr</p><p>4. 17 units x 76 kg = 1292 units/hr</p><p>5. 15 units x 76 kg = 1140 units/hr</p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
                   incorrectFeedback: `Your answers are incorrect.`
               }
