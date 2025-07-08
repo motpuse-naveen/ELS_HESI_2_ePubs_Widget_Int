@@ -128,7 +128,7 @@ const questions_data = {
                     dropdown5:{values:[],correctValue: "1140",dropdownlabel:"Select an heparin dosage", useCommonOptions:"true"},
                   },
                   dropdownPlacement:"inline",//newline
-                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>1. 80 units x 76 kg = 6080 units/hr</p><p>2. 18 units x 76 kg = 1368 units/hr</p><p>3. 20 units x 76 kg = 1520 units/hr</p><p>4. 17 units x 76 kg = 1292 units/hr</p><p>5. 15 units x 76 kg = 1140 units/hr</p>`,
+                  correctFeedback: `<p>All of your answers are correct.</p><p><strong>Rationale:</strong> </p><p>1. 80 <i>units</i> x 76 <i>kg</i> = 6080 <i>units/hr</i></p><p>2. 18 <i>units</i> x 76 <i>kg</i> = 1368 <i>units/hr</i></p><p>3. 20 <i>units</i> x 76 <i>kg</i> = 1520 <i>units/hr</i></p><p>4. 17 <i>units</i> x 76 <i>kg</i> = 1292 <i>units/hr</i></p><p>5. 15 <i>units</i> x 76 <i>kg</i> = 1140 <i>units/hr</i></p>`,
                   partialFeedback: `You have one or more incorrect answers.`,
                   incorrectFeedback: `Your answers are incorrect.`
               }
