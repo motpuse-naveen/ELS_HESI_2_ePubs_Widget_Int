@@ -1206,21 +1206,29 @@ var quiz = [
     type: `MCSS`,
   },
   {
-    q: `The HCP plans to do a paracentesis on a client with cirrhosis in 1 hour. In which order would the RN perform the following activities?`,
+    q: `The HCP plans to do a paracentesis on a client with cirrhosis in 1 hour. In which order would the RN perform the following activities?
+        <ul class="numbers">
+          <li><strong>Ensure that the informed consent has been obtained.</strong></li>
+          <li><strong>Measure the client’s abdominal girth.</strong></li>
+          <li><strong>Have the client empty his or her bladder.</strong></li>
+          <li><strong>Assemble needed equipment.</strong></li>
+          <li><strong>Administer oral pain medication.</strong></li>
+         </ul>`,
     q2: ``,
     q3: [],
     quesHeading: `<span class="h1hd">8 Leadership and Delegation: </span>`,
     option: [
-      `Ensure that the informed consent has been obtained.`,
-      `Measure the client’s abdominal girth.`,
-      `Have the client empty his or her bladder.`,
-      `Assemble needed equipment.`,
-      `Administer oral pain medication.`,
+      `1, 2, 3, 5, 4`,
+      `3, 2, 1, 4, 5`,
+      `1, 5, 3, 2, 4`,
+      `2, 1, 3, 4, 5`,
+      `1, 3, 2, 5, 4`,
     ],
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
-    answer: [1, 5, 3, 2, 4],
-    ansText: `<strong>Rationale:</strong> Before a procedure can be completed, it is essential to have an informed consent (1). Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5). The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3). After the bladder is empty, a baseline abdominal girth is obtained (2). Finally, the RN needs to assemble the correct equipment for the procedure (4).`,
+    answer: [2],
+    ansText: `<p>
+    <strong>Rationale:</strong> <strong>Correct order: 1, 5, 3, 2, 4. </strong> Before a procedure can be completed, it is essential to have an informed consent (1). Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5). The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3). After the bladder is empty, a baseline abdominal girth is obtained (2). Finally, the RN needs to assemble the correct equipment for the procedure (4).</p>`,
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,

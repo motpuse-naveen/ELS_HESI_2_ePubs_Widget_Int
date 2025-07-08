@@ -31,10 +31,10 @@ var quiz = [
     q3: [],
     quesHeading: `<span class="h1hd">3 Management/Leadership: </span>`,
     option: [
-      `Active TB who is leaving the room without a mask.`,
+      `Active tuberculosis who is leaving the room without a mask.`,
       `End-stage renal disease requesting orange juice to drink.`,
       `Anemia who is complaining of fatigue and asking for help getting dressed to go home.`,
-      `Chronic obstructive pulmonary disorder removes his oxygen and is leaving the unit to smoke.`,
+      `Chronic obstructive pulmonary disorder who removes his oxygen and is leaving the unit to smoke.`,
     ],
     optionFeedback: [
       `A UAP can be delegated to provide a box of masks or to direct the client back to the room.`,
@@ -263,7 +263,7 @@ var quiz = [
       `Move the presenting fetal part off the cord. `,
       `Cover the cord with sterile moist saline gauze.`,
       `Prepare for an emergency cesarean delivery.`,
-      `Start O<sub>2</sub> by face mask at 10 L/min.`,
+      `Administer O<sub>2</sub> by face mask at 10 L/min.`,
     ],
     optionFeedback: [
       `This action is the most critical intervention. It is essential to prevent compression of the cord by the presenting part because that would impair fetal circulation, leading to morbidity and, possibly, death.`,
@@ -1142,7 +1142,8 @@ var quiz = [
     optionFeedback: [],
     optionStyleType: `st-decimal`,
     answer: [1, 3],
-    ansText: `<strong>Rationale:</strong> <P><strong>Carefully remove the bio-occlusive dressing.</strong> Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
+    ansText: `<strong>Rationale:</strong> 
+    <p><strong>Carefully remove the bio-occlusive dressing.</strong> Removing the bio-occlusive dressing is important, but it is not a safety priority.</p>
         <p><strong>Place the client in the Trendelenburg position.</strong> The procedure for removing the catheter safely is (1) place the client in the Trendelenburg position, (2) have the client take a deep breath and hold it, and (3) gently withdraw the catheter while applying direct pressure with sterile gauze. Holding the breath creates positive pressure in the intrathoracic space, and the Trendelenburg position minimizes the risk of air entering the catheter.</p>
         <p><strong>Send the catheter tip to the lab for culture and sensitivity.</strong> The catheter tip may or may not be sent to the lab, depending on the protocol of the facility.</p>
         <p><strong>Have the client hold a deep breath during removal.</strong> See the explanation for 2.</p>
@@ -1304,7 +1305,7 @@ var quiz = [
     <strong>Rationale:</strong> <strong>Correct order: 1, 5, 3, 2, 4. </strong> Before a procedure can be completed, it is essential to have an informed consent (1). Oral pain medication can then be given (after the consent has been obtained) to help the client relax during the procedure (5). The client then needs to empty his or her bladder before the procedure to prevent accidentally puncturing the bladder (3). After the bladder is empty, a baseline abdominal girth is obtained (2). Finally, the PN needs to assemble the correct equipment for the procedure (4).</p>`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCMS`,
+    type: `MCSS`,
   },
 
   {
@@ -1424,7 +1425,7 @@ var quiz = [
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
     answer: [1, 2],
-    ansText: `<strong>Rationale:</strong> <P><strong> Allow the client to take medications independently.</strong> With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
+    ansText: `<strong>Rationale:</strong> <p><strong> Allow the client to take medications independently.</strong> With a history of substance abuse, the PN needs to observe the client as medications are taken.</p>
             <p><strong>Ensure that all medications have been swallowed before leaving the client’s room.</strong> To ensure that medications are not being hoarded or kept to be taken at a later time, the PN needs to watch the client swallow his or her medications.</p>
             <p><strong> Request that oral pain medications be changed from tablet to oral suspension.</strong> Liquid forms of medications are harder to save to be taken later so are often used for clients with a history of substance abuse.</p>
             <p><strong> Administer flumazenil every 6 hours around the clock.</strong> Flumazenil is used to reverse benzodiazepine overdose and is given as needed, not around the clock.</p>
@@ -1518,7 +1519,7 @@ var quiz = [
     //optionFeedback: [``],
     optionStyleType: `st-decimal`,
     answer: [0, 3],
-    ansText: `<strong>Rationale:</strong> <P> <strong>Start the IV in the treatment room, not the child’s room.<strong>The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
+    ansText: `<strong>Rationale:</strong> <p><strong>Start the IV in the treatment room, not the child’s room.</strong>The child’s room is a safe zone, and painful treatments should not be performed in the child’s room.</p>
             <p><strong>Apply a lidocaine-based cream for a few minutes before starting the IV.</strong> To be effective, the cream needs to be applied for about 1 hour before the IV is started.</p>
             <p><strong> Ask the parents to leave the room while performing the procedure.</strong> Having parents present can help the child cope with this procedure.</p>
              <p><strong> Encourage the child to use guided imagery to cope.</strong> Children at this age can understand and participate in guided imagery.</p>

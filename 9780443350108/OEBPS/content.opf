@@ -64,7 +64,6 @@
 <item id="Ch009_105-119_B9780323934404000099" href="xhtml/Ch009_105-119_B9780323934404000099.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="Ch010_120-134_B9780323934404000105" href="xhtml/Ch010_120-134_B9780323934404000105.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="Ch011_135-147_B9780323934404000117" href="xhtml/Ch011_135-147_B9780323934404000117.xhtml"  media-type="application/xhtml+xml"/>
-<item id="AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166" properties="mathml" href="xhtml/AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166.xhtml" media-type="application/xhtml+xml"/>
 <item id="AppendixA_175-176_B9780323934404000178" href="xhtml/AppendixA_175-176_B9780323934404000178.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="AppendixB_177-177_B978032393440400018X" href="xhtml/AppendixB_177-177_B978032393440400018X.xhtml" media-type="application/xhtml+xml"/>
 <item id="AppendixC_178-178_B9780323934404000191" href="xhtml/AppendixC_178-178_B9780323934404000191.xhtml" media-type="application/xhtml+xml"/>
@@ -634,7 +633,6 @@
 <itemref idref="Ch009_105-119_B9780323934404000099" linear="yes"/>
 <itemref idref="Ch010_120-134_B9780323934404000105" linear="yes"/>
 <itemref idref="Ch011_135-147_B9780323934404000117" linear="yes"/>
-<itemref idref="AnswerKeyStudyBreakQuestions_148-170_B9780323934404000166" linear="yes"/>
 <itemref idref="AppendixA_175-176_B9780323934404000178" linear="yes"/>
 <itemref idref="AppendixB_177-177_B978032393440400018X" linear="yes"/>
 <itemref idref="AppendixC_178-178_B9780323934404000191" linear="yes"/>

@@ -21,7 +21,7 @@ var quiz = [
         //optionFeedback: [],
         optionStyleType: `st-decimal`,
         answer: 2,
-        ansText:`<strong>Rationale:</strong> Remember to address ABCs first. The objective is to assist the client in using the accessory muscles of breathing. Raising the head of the bed farther will keep the spine straight, decrease pressure on the diaphragm, relax the abdominal muscle to improve breathing, and will assist the client to breathe easier. This intervention addresses breathing, which would be the priority. Although the RN might call the HCP, obtain the pulse oximeter, and assess the client’s vital signs, these would not be done <strong>first</strong>.`, 
+        ansText:`<strong>Rationale:</strong> Remember to address ABCs first. The objective is to assist the client in using the accessory muscles of breathing. Raising the head of the bed farther will keep the spine straight, decrease pressure on the diaphragm, relax the abdominal muscle to improve breathing, and will assist the client to breathe easier. This intervention addresses breathing, which would be the priority. Although the RN might call the HCP, obtain the pulse oximeter, and assess the client’s vital signs, these would not be done <i>first</i>.`, 
         state: `notAnswered`,
         userAnswered: [],
         type:`MCSS`

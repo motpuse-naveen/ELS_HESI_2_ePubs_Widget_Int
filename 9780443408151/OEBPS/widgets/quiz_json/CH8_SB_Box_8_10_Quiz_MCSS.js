@@ -1,7 +1,7 @@
 var quiz = [
 {
-        q: ``,
-        q2: `The RN is teaching an 86-year-old client who has glaucoma and bilateral hearing loss. Which intervention would the RN implement?`,
+        q: `The RN is teaching an 86-year-old client who has glaucoma and bilateral hearing loss. Which intervention would the RN implement?`,
+        q2: ``,
         q3: [],
         option: [`Maintain constant eye contact`, `Stand on the side unaffected by glaucoma`, `Speak in a normal pitch of voice`, `Keep the environment dimly lit`],
         //optionFeedback: [``],],
